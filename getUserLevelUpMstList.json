@@ -1,0 +1,1202 @@
+[
+ {
+  "level": 1,
+  "levelUpExp": 100,
+  "rewardGroupId": 1,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 2,
+  "levelUpExp": 260,
+  "rewardGroupId": 2,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 3,
+  "levelUpExp": 495,
+  "rewardGroupId": 3,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 4,
+  "levelUpExp": 821,
+  "rewardGroupId": 4,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 5,
+  "levelUpExp": 1255,
+  "rewardGroupId": 5,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 6,
+  "levelUpExp": 1813,
+  "rewardGroupId": 6,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 7,
+  "levelUpExp": 2510,
+  "rewardGroupId": 7,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 8,
+  "levelUpExp": 3362,
+  "rewardGroupId": 8,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 9,
+  "levelUpExp": 4386,
+  "rewardGroupId": 9,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 10,
+  "levelUpExp": 5598,
+  "rewardGroupId": 10,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 11,
+  "levelUpExp": 7013,
+  "rewardGroupId": 11,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 12,
+  "levelUpExp": 8647,
+  "rewardGroupId": 12,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 13,
+  "levelUpExp": 10517,
+  "rewardGroupId": 13,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 14,
+  "levelUpExp": 12639,
+  "rewardGroupId": 14,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 15,
+  "levelUpExp": 15028,
+  "rewardGroupId": 15,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 16,
+  "levelUpExp": 17700,
+  "rewardGroupId": 16,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 17,
+  "levelUpExp": 20672,
+  "rewardGroupId": 17,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 18,
+  "levelUpExp": 23960,
+  "rewardGroupId": 18,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 19,
+  "levelUpExp": 27579,
+  "rewardGroupId": 19,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 20,
+  "levelUpExp": 31545,
+  "rewardGroupId": 20,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 21,
+  "levelUpExp": 35875,
+  "rewardGroupId": 21,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 22,
+  "levelUpExp": 40585,
+  "rewardGroupId": 22,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 23,
+  "levelUpExp": 45690,
+  "rewardGroupId": 23,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 24,
+  "levelUpExp": 51206,
+  "rewardGroupId": 24,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 25,
+  "levelUpExp": 57150,
+  "rewardGroupId": 25,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 26,
+  "levelUpExp": 63538,
+  "rewardGroupId": 26,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 27,
+  "levelUpExp": 70385,
+  "rewardGroupId": 27,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 28,
+  "levelUpExp": 77707,
+  "rewardGroupId": 28,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 29,
+  "levelUpExp": 85521,
+  "rewardGroupId": 29,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 30,
+  "levelUpExp": 93843,
+  "rewardGroupId": 30,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 31,
+  "levelUpExp": 102688,
+  "rewardGroupId": 31,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 32,
+  "levelUpExp": 112072,
+  "rewardGroupId": 32,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 33,
+  "levelUpExp": 122012,
+  "rewardGroupId": 33,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 34,
+  "levelUpExp": 132524,
+  "rewardGroupId": 34,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 35,
+  "levelUpExp": 143623,
+  "rewardGroupId": 35,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 36,
+  "levelUpExp": 155325,
+  "rewardGroupId": 36,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 37,
+  "levelUpExp": 167647,
+  "rewardGroupId": 37,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 38,
+  "levelUpExp": 180605,
+  "rewardGroupId": 38,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 39,
+  "levelUpExp": 194214,
+  "rewardGroupId": 39,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 40,
+  "levelUpExp": 208490,
+  "rewardGroupId": 40,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 41,
+  "levelUpExp": 223450,
+  "rewardGroupId": 41,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 42,
+  "levelUpExp": 239110,
+  "rewardGroupId": 42,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 43,
+  "levelUpExp": 255485,
+  "rewardGroupId": 43,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 44,
+  "levelUpExp": 272591,
+  "rewardGroupId": 44,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 45,
+  "levelUpExp": 290445,
+  "rewardGroupId": 45,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 46,
+  "levelUpExp": 309063,
+  "rewardGroupId": 46,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 47,
+  "levelUpExp": 328460,
+  "rewardGroupId": 47,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 48,
+  "levelUpExp": 348652,
+  "rewardGroupId": 48,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 49,
+  "levelUpExp": 369656,
+  "rewardGroupId": 49,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 50,
+  "levelUpExp": 391488,
+  "rewardGroupId": 50,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 51,
+  "levelUpExp": 414163,
+  "rewardGroupId": 51,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 52,
+  "levelUpExp": 437697,
+  "rewardGroupId": 52,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 53,
+  "levelUpExp": 462107,
+  "rewardGroupId": 53,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 54,
+  "levelUpExp": 487409,
+  "rewardGroupId": 54,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 55,
+  "levelUpExp": 513618,
+  "rewardGroupId": 55,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 56,
+  "levelUpExp": 540750,
+  "rewardGroupId": 56,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 57,
+  "levelUpExp": 568822,
+  "rewardGroupId": 57,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 58,
+  "levelUpExp": 597850,
+  "rewardGroupId": 58,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 59,
+  "levelUpExp": 627849,
+  "rewardGroupId": 59,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 60,
+  "levelUpExp": 658835,
+  "rewardGroupId": 60,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 61,
+  "levelUpExp": 690825,
+  "rewardGroupId": 61,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 62,
+  "levelUpExp": 723835,
+  "rewardGroupId": 62,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 63,
+  "levelUpExp": 757880,
+  "rewardGroupId": 63,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 64,
+  "levelUpExp": 792976,
+  "rewardGroupId": 64,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 65,
+  "levelUpExp": 829140,
+  "rewardGroupId": 65,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 66,
+  "levelUpExp": 866388,
+  "rewardGroupId": 66,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 67,
+  "levelUpExp": 904735,
+  "rewardGroupId": 67,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 68,
+  "levelUpExp": 944197,
+  "rewardGroupId": 68,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 69,
+  "levelUpExp": 984791,
+  "rewardGroupId": 69,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 70,
+  "levelUpExp": 1026533,
+  "rewardGroupId": 70,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 71,
+  "levelUpExp": 1069438,
+  "rewardGroupId": 71,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 72,
+  "levelUpExp": 1113522,
+  "rewardGroupId": 72,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 73,
+  "levelUpExp": 1158802,
+  "rewardGroupId": 73,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 74,
+  "levelUpExp": 1205294,
+  "rewardGroupId": 74,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 75,
+  "levelUpExp": 1253013,
+  "rewardGroupId": 75,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 76,
+  "levelUpExp": 1301975,
+  "rewardGroupId": 76,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 77,
+  "levelUpExp": 1352197,
+  "rewardGroupId": 77,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 78,
+  "levelUpExp": 1403695,
+  "rewardGroupId": 78,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 79,
+  "levelUpExp": 1456484,
+  "rewardGroupId": 79,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 80,
+  "levelUpExp": 1510580,
+  "rewardGroupId": 80,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 81,
+  "levelUpExp": 1566000,
+  "rewardGroupId": 81,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 82,
+  "levelUpExp": 1622760,
+  "rewardGroupId": 82,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 83,
+  "levelUpExp": 1680875,
+  "rewardGroupId": 83,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 84,
+  "levelUpExp": 1740361,
+  "rewardGroupId": 84,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 85,
+  "levelUpExp": 1801235,
+  "rewardGroupId": 85,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 86,
+  "levelUpExp": 1863513,
+  "rewardGroupId": 86,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 87,
+  "levelUpExp": 1927210,
+  "rewardGroupId": 87,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 88,
+  "levelUpExp": 1992342,
+  "rewardGroupId": 88,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 89,
+  "levelUpExp": 2058926,
+  "rewardGroupId": 89,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 90,
+  "levelUpExp": 2126978,
+  "rewardGroupId": 90,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 91,
+  "levelUpExp": 2196513,
+  "rewardGroupId": 91,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 92,
+  "levelUpExp": 2267547,
+  "rewardGroupId": 92,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 93,
+  "levelUpExp": 2340097,
+  "rewardGroupId": 93,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 94,
+  "levelUpExp": 2414179,
+  "rewardGroupId": 94,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 95,
+  "levelUpExp": 2489808,
+  "rewardGroupId": 95,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 96,
+  "levelUpExp": 2567000,
+  "rewardGroupId": 96,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 97,
+  "levelUpExp": 2645772,
+  "rewardGroupId": 97,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 98,
+  "levelUpExp": 2726140,
+  "rewardGroupId": 98,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 99,
+  "levelUpExp": 2808119,
+  "rewardGroupId": 99,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 100,
+  "levelUpExp": 2891725,
+  "rewardGroupId": 100,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 101,
+  "levelUpExp": 2976975,
+  "rewardGroupId": 101,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 102,
+  "levelUpExp": 3063885,
+  "rewardGroupId": 102,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 103,
+  "levelUpExp": 3152470,
+  "rewardGroupId": 103,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 104,
+  "levelUpExp": 3242746,
+  "rewardGroupId": 104,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 105,
+  "levelUpExp": 3334730,
+  "rewardGroupId": 105,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 106,
+  "levelUpExp": 3428438,
+  "rewardGroupId": 106,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 107,
+  "levelUpExp": 3523885,
+  "rewardGroupId": 107,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 108,
+  "levelUpExp": 3621087,
+  "rewardGroupId": 108,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 109,
+  "levelUpExp": 3720061,
+  "rewardGroupId": 109,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 110,
+  "levelUpExp": 3820823,
+  "rewardGroupId": 110,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 111,
+  "levelUpExp": 3923388,
+  "rewardGroupId": 111,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 112,
+  "levelUpExp": 4027772,
+  "rewardGroupId": 112,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 113,
+  "levelUpExp": 4133992,
+  "rewardGroupId": 113,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 114,
+  "levelUpExp": 4242064,
+  "rewardGroupId": 114,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 115,
+  "levelUpExp": 4352003,
+  "rewardGroupId": 115,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 116,
+  "levelUpExp": 4463825,
+  "rewardGroupId": 116,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 117,
+  "levelUpExp": 4577547,
+  "rewardGroupId": 117,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 118,
+  "levelUpExp": 4693185,
+  "rewardGroupId": 118,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 119,
+  "levelUpExp": 4810754,
+  "rewardGroupId": 119,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 120,
+  "levelUpExp": 4930270,
+  "rewardGroupId": 120,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 121,
+  "levelUpExp": 5051750,
+  "rewardGroupId": 121,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 122,
+  "levelUpExp": 5175210,
+  "rewardGroupId": 122,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 123,
+  "levelUpExp": 5300665,
+  "rewardGroupId": 123,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 124,
+  "levelUpExp": 5428131,
+  "rewardGroupId": 124,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 125,
+  "levelUpExp": 5557625,
+  "rewardGroupId": 125,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 126,
+  "levelUpExp": 5689163,
+  "rewardGroupId": 126,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 127,
+  "levelUpExp": 5822760,
+  "rewardGroupId": 127,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 128,
+  "levelUpExp": 5958432,
+  "rewardGroupId": 128,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 129,
+  "levelUpExp": 6096196,
+  "rewardGroupId": 129,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 130,
+  "levelUpExp": 6236068,
+  "rewardGroupId": 130,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 131,
+  "levelUpExp": 6378063,
+  "rewardGroupId": 131,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 132,
+  "levelUpExp": 6522197,
+  "rewardGroupId": 132,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 133,
+  "levelUpExp": 6668487,
+  "rewardGroupId": 133,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 134,
+  "levelUpExp": 6816949,
+  "rewardGroupId": 134,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 135,
+  "levelUpExp": 6967598,
+  "rewardGroupId": 135,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 136,
+  "levelUpExp": 7120450,
+  "rewardGroupId": 136,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 137,
+  "levelUpExp": 7275522,
+  "rewardGroupId": 137,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 138,
+  "levelUpExp": 7432830,
+  "rewardGroupId": 138,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 139,
+  "levelUpExp": 7592389,
+  "rewardGroupId": 139,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 140,
+  "levelUpExp": 7754215,
+  "rewardGroupId": 140,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 141,
+  "levelUpExp": 7918325,
+  "rewardGroupId": 141,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 142,
+  "levelUpExp": 8084735,
+  "rewardGroupId": 142,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 143,
+  "levelUpExp": 8253460,
+  "rewardGroupId": 143,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 144,
+  "levelUpExp": 8424516,
+  "rewardGroupId": 144,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 145,
+  "levelUpExp": 8597920,
+  "rewardGroupId": 145,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 146,
+  "levelUpExp": 8773688,
+  "rewardGroupId": 146,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 147,
+  "levelUpExp": 8951835,
+  "rewardGroupId": 147,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 148,
+  "levelUpExp": 9132377,
+  "rewardGroupId": 148,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 149,
+  "levelUpExp": 9315331,
+  "rewardGroupId": 149,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 150,
+  "levelUpExp": 9500713,
+  "rewardGroupId": 150,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 151,
+  "levelUpExp": 9688538,
+  "rewardGroupId": 151,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 152,
+  "levelUpExp": 9878822,
+  "rewardGroupId": 152,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 153,
+  "levelUpExp": 10071582,
+  "rewardGroupId": 153,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 154,
+  "levelUpExp": 10266834,
+  "rewardGroupId": 154,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 155,
+  "levelUpExp": 10464593,
+  "rewardGroupId": 155,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 156,
+  "levelUpExp": 10664875,
+  "rewardGroupId": 156,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 157,
+  "levelUpExp": 10867697,
+  "rewardGroupId": 157,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 158,
+  "levelUpExp": 11073075,
+  "rewardGroupId": 158,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 159,
+  "levelUpExp": 11281024,
+  "rewardGroupId": 159,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 160,
+  "levelUpExp": 11491560,
+  "rewardGroupId": 160,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 161,
+  "levelUpExp": 11704700,
+  "rewardGroupId": 161,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 162,
+  "levelUpExp": 11920460,
+  "rewardGroupId": 162,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 163,
+  "levelUpExp": 12138855,
+  "rewardGroupId": 163,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 164,
+  "levelUpExp": 12359901,
+  "rewardGroupId": 164,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 165,
+  "levelUpExp": 12583615,
+  "rewardGroupId": 165,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 166,
+  "levelUpExp": 12810013,
+  "rewardGroupId": 166,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 167,
+  "levelUpExp": 13039110,
+  "rewardGroupId": 167,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 168,
+  "levelUpExp": 13270922,
+  "rewardGroupId": 168,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 169,
+  "levelUpExp": 13505466,
+  "rewardGroupId": 169,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 170,
+  "levelUpExp": 13742758,
+  "rewardGroupId": 170,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 171,
+  "levelUpExp": 13982813,
+  "rewardGroupId": 171,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 172,
+  "levelUpExp": 14225647,
+  "rewardGroupId": 172,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 173,
+  "levelUpExp": 14471277,
+  "rewardGroupId": 173,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 174,
+  "levelUpExp": 14719719,
+  "rewardGroupId": 174,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 175,
+  "levelUpExp": 14970988,
+  "rewardGroupId": 175,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 176,
+  "levelUpExp": 15225100,
+  "rewardGroupId": 176,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 177,
+  "levelUpExp": 15482072,
+  "rewardGroupId": 177,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 178,
+  "levelUpExp": 15741920,
+  "rewardGroupId": 178,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 179,
+  "levelUpExp": 16004659,
+  "rewardGroupId": 179,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 180,
+  "levelUpExp": 16270305,
+  "rewardGroupId": 180,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 181,
+  "levelUpExp": 16538875,
+  "rewardGroupId": 181,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 182,
+  "levelUpExp": 16810385,
+  "rewardGroupId": 182,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 183,
+  "levelUpExp": 17084850,
+  "rewardGroupId": 183,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 184,
+  "levelUpExp": 17362286,
+  "rewardGroupId": 184,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 185,
+  "levelUpExp": 17642710,
+  "rewardGroupId": 185,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 186,
+  "levelUpExp": 17926138,
+  "rewardGroupId": 186,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 187,
+  "levelUpExp": 18212585,
+  "rewardGroupId": 187,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 188,
+  "levelUpExp": 18502067,
+  "rewardGroupId": 188,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 189,
+  "levelUpExp": 18794601,
+  "rewardGroupId": 189,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 190,
+  "levelUpExp": 19090203,
+  "rewardGroupId": 190,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 191,
+  "levelUpExp": 19388888,
+  "rewardGroupId": 191,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 192,
+  "levelUpExp": 19690672,
+  "rewardGroupId": 192,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 193,
+  "levelUpExp": 19995572,
+  "rewardGroupId": 193,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 194,
+  "levelUpExp": 20303604,
+  "rewardGroupId": 194,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 195,
+  "levelUpExp": 20614783,
+  "rewardGroupId": 195,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 196,
+  "levelUpExp": 20929125,
+  "rewardGroupId": 196,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 197,
+  "levelUpExp": 21246647,
+  "rewardGroupId": 197,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 198,
+  "levelUpExp": 21567365,
+  "rewardGroupId": 198,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 199,
+  "levelUpExp": 21891294,
+  "rewardGroupId": 199,
+  "levelSharedNum": 0
+ },
+ {
+  "level": 200,
+  "levelUpExp": 0,
+  "rewardGroupId": 0,
+  "levelSharedNum": 0
+ }
+]

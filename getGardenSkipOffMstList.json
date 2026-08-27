@@ -1,0 +1,506 @@
+[
+ {
+  "gardenSkipOffMstId": 1,
+  "characterUniqueMstId": 10103,
+  "relationType": 0,
+  "shortStoryMstId": 1
+ },
+ {
+  "gardenSkipOffMstId": 2,
+  "characterUniqueMstId": 10103,
+  "relationType": 1,
+  "shortStoryMstId": 2
+ },
+ {
+  "gardenSkipOffMstId": 3,
+  "characterUniqueMstId": 10201,
+  "relationType": 0,
+  "shortStoryMstId": 3
+ },
+ {
+  "gardenSkipOffMstId": 4,
+  "characterUniqueMstId": 10201,
+  "relationType": 1,
+  "shortStoryMstId": 4
+ },
+ {
+  "gardenSkipOffMstId": 5,
+  "characterUniqueMstId": 10202,
+  "relationType": 0,
+  "shortStoryMstId": 5
+ },
+ {
+  "gardenSkipOffMstId": 6,
+  "characterUniqueMstId": 10202,
+  "relationType": 1,
+  "shortStoryMstId": 6
+ },
+ {
+  "gardenSkipOffMstId": 7,
+  "characterUniqueMstId": 10203,
+  "relationType": 0,
+  "shortStoryMstId": 7
+ },
+ {
+  "gardenSkipOffMstId": 8,
+  "characterUniqueMstId": 10203,
+  "relationType": 1,
+  "shortStoryMstId": 8
+ },
+ {
+  "gardenSkipOffMstId": 9,
+  "characterUniqueMstId": 10204,
+  "relationType": 0,
+  "shortStoryMstId": 9
+ },
+ {
+  "gardenSkipOffMstId": 10,
+  "characterUniqueMstId": 10204,
+  "relationType": 1,
+  "shortStoryMstId": 10
+ },
+ {
+  "gardenSkipOffMstId": 11,
+  "characterUniqueMstId": 10301,
+  "relationType": 0,
+  "shortStoryMstId": 11
+ },
+ {
+  "gardenSkipOffMstId": 12,
+  "characterUniqueMstId": 10301,
+  "relationType": 1,
+  "shortStoryMstId": 12
+ },
+ {
+  "gardenSkipOffMstId": 13,
+  "characterUniqueMstId": 10302,
+  "relationType": 0,
+  "shortStoryMstId": 13
+ },
+ {
+  "gardenSkipOffMstId": 14,
+  "characterUniqueMstId": 10302,
+  "relationType": 1,
+  "shortStoryMstId": 14
+ },
+ {
+  "gardenSkipOffMstId": 15,
+  "characterUniqueMstId": 10303,
+  "relationType": 0,
+  "shortStoryMstId": 15
+ },
+ {
+  "gardenSkipOffMstId": 16,
+  "characterUniqueMstId": 10303,
+  "relationType": 1,
+  "shortStoryMstId": 16
+ },
+ {
+  "gardenSkipOffMstId": 17,
+  "characterUniqueMstId": 10304,
+  "relationType": 0,
+  "shortStoryMstId": 17
+ },
+ {
+  "gardenSkipOffMstId": 18,
+  "characterUniqueMstId": 10304,
+  "relationType": 1,
+  "shortStoryMstId": 18
+ },
+ {
+  "gardenSkipOffMstId": 19,
+  "characterUniqueMstId": 10401,
+  "relationType": 0,
+  "shortStoryMstId": 19
+ },
+ {
+  "gardenSkipOffMstId": 20,
+  "characterUniqueMstId": 10401,
+  "relationType": 1,
+  "shortStoryMstId": 20
+ },
+ {
+  "gardenSkipOffMstId": 21,
+  "characterUniqueMstId": 10402,
+  "relationType": 0,
+  "shortStoryMstId": 21
+ },
+ {
+  "gardenSkipOffMstId": 22,
+  "characterUniqueMstId": 10402,
+  "relationType": 1,
+  "shortStoryMstId": 22
+ },
+ {
+  "gardenSkipOffMstId": 23,
+  "characterUniqueMstId": 10403,
+  "relationType": 0,
+  "shortStoryMstId": 23
+ },
+ {
+  "gardenSkipOffMstId": 24,
+  "characterUniqueMstId": 10403,
+  "relationType": 1,
+  "shortStoryMstId": 24
+ },
+ {
+  "gardenSkipOffMstId": 25,
+  "characterUniqueMstId": 10404,
+  "relationType": 0,
+  "shortStoryMstId": 25
+ },
+ {
+  "gardenSkipOffMstId": 26,
+  "characterUniqueMstId": 10404,
+  "relationType": 1,
+  "shortStoryMstId": 26
+ },
+ {
+  "gardenSkipOffMstId": 27,
+  "characterUniqueMstId": 10501,
+  "relationType": 0,
+  "shortStoryMstId": 27
+ },
+ {
+  "gardenSkipOffMstId": 28,
+  "characterUniqueMstId": 10501,
+  "relationType": 1,
+  "shortStoryMstId": 28
+ },
+ {
+  "gardenSkipOffMstId": 29,
+  "characterUniqueMstId": 10502,
+  "relationType": 0,
+  "shortStoryMstId": 29
+ },
+ {
+  "gardenSkipOffMstId": 30,
+  "characterUniqueMstId": 10502,
+  "relationType": 1,
+  "shortStoryMstId": 30
+ },
+ {
+  "gardenSkipOffMstId": 31,
+  "characterUniqueMstId": 10503,
+  "relationType": 0,
+  "shortStoryMstId": 31
+ },
+ {
+  "gardenSkipOffMstId": 32,
+  "characterUniqueMstId": 10503,
+  "relationType": 1,
+  "shortStoryMstId": 32
+ },
+ {
+  "gardenSkipOffMstId": 33,
+  "characterUniqueMstId": 10504,
+  "relationType": 0,
+  "shortStoryMstId": 33
+ },
+ {
+  "gardenSkipOffMstId": 34,
+  "characterUniqueMstId": 10504,
+  "relationType": 1,
+  "shortStoryMstId": 34
+ },
+ {
+  "gardenSkipOffMstId": 35,
+  "characterUniqueMstId": 10601,
+  "relationType": 0,
+  "shortStoryMstId": 35
+ },
+ {
+  "gardenSkipOffMstId": 36,
+  "characterUniqueMstId": 10601,
+  "relationType": 1,
+  "shortStoryMstId": 36
+ },
+ {
+  "gardenSkipOffMstId": 37,
+  "characterUniqueMstId": 10602,
+  "relationType": 0,
+  "shortStoryMstId": 37
+ },
+ {
+  "gardenSkipOffMstId": 38,
+  "characterUniqueMstId": 10602,
+  "relationType": 1,
+  "shortStoryMstId": 38
+ },
+ {
+  "gardenSkipOffMstId": 39,
+  "characterUniqueMstId": 10603,
+  "relationType": 0,
+  "shortStoryMstId": 39
+ },
+ {
+  "gardenSkipOffMstId": 40,
+  "characterUniqueMstId": 10603,
+  "relationType": 1,
+  "shortStoryMstId": 40
+ },
+ {
+  "gardenSkipOffMstId": 41,
+  "characterUniqueMstId": 10604,
+  "relationType": 0,
+  "shortStoryMstId": 41
+ },
+ {
+  "gardenSkipOffMstId": 42,
+  "characterUniqueMstId": 10604,
+  "relationType": 1,
+  "shortStoryMstId": 42
+ },
+ {
+  "gardenSkipOffMstId": 43,
+  "characterUniqueMstId": 19901,
+  "relationType": 0,
+  "shortStoryMstId": 43
+ },
+ {
+  "gardenSkipOffMstId": 44,
+  "characterUniqueMstId": 19901,
+  "relationType": 1,
+  "shortStoryMstId": 44
+ },
+ {
+  "gardenSkipOffMstId": 45,
+  "characterUniqueMstId": 19902,
+  "relationType": 0,
+  "shortStoryMstId": 45
+ },
+ {
+  "gardenSkipOffMstId": 46,
+  "characterUniqueMstId": 19902,
+  "relationType": 1,
+  "shortStoryMstId": 46
+ },
+ {
+  "gardenSkipOffMstId": 47,
+  "characterUniqueMstId": 19903,
+  "relationType": 0,
+  "shortStoryMstId": 47
+ },
+ {
+  "gardenSkipOffMstId": 48,
+  "characterUniqueMstId": 19903,
+  "relationType": 1,
+  "shortStoryMstId": 48
+ },
+ {
+  "gardenSkipOffMstId": 49,
+  "characterUniqueMstId": 19904,
+  "relationType": 0,
+  "shortStoryMstId": 49
+ },
+ {
+  "gardenSkipOffMstId": 50,
+  "characterUniqueMstId": 19904,
+  "relationType": 1,
+  "shortStoryMstId": 50
+ },
+ {
+  "gardenSkipOffMstId": 51,
+  "characterUniqueMstId": 19905,
+  "relationType": 0,
+  "shortStoryMstId": 51
+ },
+ {
+  "gardenSkipOffMstId": 52,
+  "characterUniqueMstId": 19905,
+  "relationType": 1,
+  "shortStoryMstId": 52
+ },
+ {
+  "gardenSkipOffMstId": 53,
+  "characterUniqueMstId": 19906,
+  "relationType": 0,
+  "shortStoryMstId": 53
+ },
+ {
+  "gardenSkipOffMstId": 54,
+  "characterUniqueMstId": 19906,
+  "relationType": 1,
+  "shortStoryMstId": 54
+ },
+ {
+  "gardenSkipOffMstId": 55,
+  "characterUniqueMstId": 19907,
+  "relationType": 0,
+  "shortStoryMstId": 55
+ },
+ {
+  "gardenSkipOffMstId": 56,
+  "characterUniqueMstId": 19907,
+  "relationType": 1,
+  "shortStoryMstId": 56
+ },
+ {
+  "gardenSkipOffMstId": 57,
+  "characterUniqueMstId": 19908,
+  "relationType": 0,
+  "shortStoryMstId": 57
+ },
+ {
+  "gardenSkipOffMstId": 58,
+  "characterUniqueMstId": 19908,
+  "relationType": 1,
+  "shortStoryMstId": 58
+ },
+ {
+  "gardenSkipOffMstId": 59,
+  "characterUniqueMstId": 19909,
+  "relationType": 0,
+  "shortStoryMstId": 59
+ },
+ {
+  "gardenSkipOffMstId": 60,
+  "characterUniqueMstId": 19909,
+  "relationType": 1,
+  "shortStoryMstId": 60
+ },
+ {
+  "gardenSkipOffMstId": 61,
+  "characterUniqueMstId": 19910,
+  "relationType": 0,
+  "shortStoryMstId": 61
+ },
+ {
+  "gardenSkipOffMstId": 62,
+  "characterUniqueMstId": 19910,
+  "relationType": 1,
+  "shortStoryMstId": 62
+ },
+ {
+  "gardenSkipOffMstId": 63,
+  "characterUniqueMstId": 19911,
+  "relationType": 0,
+  "shortStoryMstId": 63
+ },
+ {
+  "gardenSkipOffMstId": 64,
+  "characterUniqueMstId": 19911,
+  "relationType": 1,
+  "shortStoryMstId": 64
+ },
+ {
+  "gardenSkipOffMstId": 65,
+  "characterUniqueMstId": 19912,
+  "relationType": 0,
+  "shortStoryMstId": 65
+ },
+ {
+  "gardenSkipOffMstId": 66,
+  "characterUniqueMstId": 19912,
+  "relationType": 1,
+  "shortStoryMstId": 66
+ },
+ {
+  "gardenSkipOffMstId": 67,
+  "characterUniqueMstId": 10205,
+  "relationType": 0,
+  "shortStoryMstId": 70
+ },
+ {
+  "gardenSkipOffMstId": 68,
+  "characterUniqueMstId": 10205,
+  "relationType": 1,
+  "shortStoryMstId": 71
+ },
+ {
+  "gardenSkipOffMstId": 69,
+  "characterUniqueMstId": 10605,
+  "relationType": 0,
+  "shortStoryMstId": 72
+ },
+ {
+  "gardenSkipOffMstId": 70,
+  "characterUniqueMstId": 10605,
+  "relationType": 1,
+  "shortStoryMstId": 73
+ },
+ {
+  "gardenSkipOffMstId": 71,
+  "characterUniqueMstId": 10206,
+  "relationType": 0,
+  "shortStoryMstId": 74
+ },
+ {
+  "gardenSkipOffMstId": 72,
+  "characterUniqueMstId": 10206,
+  "relationType": 1,
+  "shortStoryMstId": 75
+ },
+ {
+  "gardenSkipOffMstId": 73,
+  "characterUniqueMstId": 10405,
+  "relationType": 0,
+  "shortStoryMstId": 76
+ },
+ {
+  "gardenSkipOffMstId": 74,
+  "characterUniqueMstId": 10405,
+  "relationType": 1,
+  "shortStoryMstId": 77
+ },
+ {
+  "gardenSkipOffMstId": 75,
+  "characterUniqueMstId": 10207,
+  "relationType": 0,
+  "shortStoryMstId": 78
+ },
+ {
+  "gardenSkipOffMstId": 76,
+  "characterUniqueMstId": 10207,
+  "relationType": 1,
+  "shortStoryMstId": 79
+ },
+ {
+  "gardenSkipOffMstId": 77,
+  "characterUniqueMstId": 10210,
+  "relationType": 0,
+  "shortStoryMstId": 80
+ },
+ {
+  "gardenSkipOffMstId": 78,
+  "characterUniqueMstId": 10210,
+  "relationType": 1,
+  "shortStoryMstId": 81
+ },
+ {
+  "gardenSkipOffMstId": 79,
+  "characterUniqueMstId": 10209,
+  "relationType": 0,
+  "shortStoryMstId": 82
+ },
+ {
+  "gardenSkipOffMstId": 80,
+  "characterUniqueMstId": 10209,
+  "relationType": 1,
+  "shortStoryMstId": 83
+ },
+ {
+  "gardenSkipOffMstId": 81,
+  "characterUniqueMstId": 10212,
+  "relationType": 0,
+  "shortStoryMstId": 84
+ },
+ {
+  "gardenSkipOffMstId": 82,
+  "characterUniqueMstId": 10212,
+  "relationType": 1,
+  "shortStoryMstId": 85
+ },
+ {
+  "gardenSkipOffMstId": 83,
+  "characterUniqueMstId": 10208,
+  "relationType": 0,
+  "shortStoryMstId": 86
+ },
+ {
+  "gardenSkipOffMstId": 84,
+  "characterUniqueMstId": 10208,
+  "relationType": 1,
+  "shortStoryMstId": 87
+ }
+]

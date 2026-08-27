@@ -1,0 +1,86 @@
+[
+ {
+  "rhythmGameRewardItemGroupMstId": 1000101,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 10000
+ },
+ {
+  "rhythmGameRewardItemGroupMstId": 1000101,
+  "objectReceiveType": 6,
+  "objectId": 5010005,
+  "num": 20
+ },
+ {
+  "rhythmGameRewardItemGroupMstId": 1000102,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 10
+ },
+ {
+  "rhythmGameRewardItemGroupMstId": 1000102,
+  "objectReceiveType": 6,
+  "objectId": 5010005,
+  "num": 1
+ },
+ {
+  "rhythmGameRewardItemGroupMstId": 1000103,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 7500
+ },
+ {
+  "rhythmGameRewardItemGroupMstId": 1000103,
+  "objectReceiveType": 6,
+  "objectId": 5010005,
+  "num": 10
+ },
+ {
+  "rhythmGameRewardItemGroupMstId": 1000104,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 10
+ },
+ {
+  "rhythmGameRewardItemGroupMstId": 1000104,
+  "objectReceiveType": 6,
+  "objectId": 2000002,
+  "num": 1
+ },
+ {
+  "rhythmGameRewardItemGroupMstId": 1000105,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 5000
+ },
+ {
+  "rhythmGameRewardItemGroupMstId": 1000105,
+  "objectReceiveType": 6,
+  "objectId": 5010005,
+  "num": 5
+ },
+ {
+  "rhythmGameRewardItemGroupMstId": 1000106,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 10
+ },
+ {
+  "rhythmGameRewardItemGroupMstId": 1000106,
+  "objectReceiveType": 6,
+  "objectId": 5010005,
+  "num": 1
+ },
+ {
+  "rhythmGameRewardItemGroupMstId": 1000107,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 2500
+ },
+ {
+  "rhythmGameRewardItemGroupMstId": 1000107,
+  "objectReceiveType": 6,
+  "objectId": 5010005,
+  "num": 1
+ }
+]

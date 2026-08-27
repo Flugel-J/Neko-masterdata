@@ -1,0 +1,590 @@
+[
+ {
+  "worldRankingRankMstId": 101,
+  "worldRankingGroupId": 100001,
+  "minRanking": 1,
+  "rewardGroupId": 100001001,
+  "presentTitle": "Rank 1 Reward"
+ },
+ {
+  "worldRankingRankMstId": 102,
+  "worldRankingGroupId": 100001,
+  "minRanking": 2,
+  "rewardGroupId": 100001002,
+  "presentTitle": "Rank 2 Reward"
+ },
+ {
+  "worldRankingRankMstId": 103,
+  "worldRankingGroupId": 100001,
+  "minRanking": 3,
+  "rewardGroupId": 100001003,
+  "presentTitle": "Rank 3 Reward"
+ },
+ {
+  "worldRankingRankMstId": 104,
+  "worldRankingGroupId": 100001,
+  "minRanking": 4,
+  "rewardGroupId": 100001004,
+  "presentTitle": "Rank 4 Reward"
+ },
+ {
+  "worldRankingRankMstId": 105,
+  "worldRankingGroupId": 100001,
+  "minRanking": 5,
+  "rewardGroupId": 100001005,
+  "presentTitle": "Rank 5 Reward"
+ },
+ {
+  "worldRankingRankMstId": 106,
+  "worldRankingGroupId": 100001,
+  "minRanking": 10,
+  "rewardGroupId": 100001006,
+  "presentTitle": "Rank 6–10 Reward"
+ },
+ {
+  "worldRankingRankMstId": 107,
+  "worldRankingGroupId": 100001,
+  "minRanking": 20,
+  "rewardGroupId": 100001007,
+  "presentTitle": "Rank 11–20 Reward"
+ },
+ {
+  "worldRankingRankMstId": 108,
+  "worldRankingGroupId": 100001,
+  "minRanking": 50,
+  "rewardGroupId": 100001008,
+  "presentTitle": "Rank 21–50 Reward"
+ },
+ {
+  "worldRankingRankMstId": 109,
+  "worldRankingGroupId": 100001,
+  "minRanking": 100,
+  "rewardGroupId": 100001009,
+  "presentTitle": "Rank 51–100 Reward"
+ },
+ {
+  "worldRankingRankMstId": 110,
+  "worldRankingGroupId": 100001,
+  "minRanking": 200,
+  "rewardGroupId": 100001010,
+  "presentTitle": "Rank 101–200 Reward"
+ },
+ {
+  "worldRankingRankMstId": 111,
+  "worldRankingGroupId": 100001,
+  "minRanking": 500,
+  "rewardGroupId": 100001011,
+  "presentTitle": "Rank 201–500 Reward"
+ },
+ {
+  "worldRankingRankMstId": 112,
+  "worldRankingGroupId": 100001,
+  "minRanking": 1000,
+  "rewardGroupId": 100001012,
+  "presentTitle": "Rank 501–1000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 113,
+  "worldRankingGroupId": 100001,
+  "minRanking": 5000,
+  "rewardGroupId": 100001013,
+  "presentTitle": "Rank 1001–5000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 114,
+  "worldRankingGroupId": 100001,
+  "minRanking": 9999,
+  "rewardGroupId": 100001014,
+  "presentTitle": "Rank 5001–9999 Reward"
+ },
+ {
+  "worldRankingRankMstId": 115,
+  "worldRankingGroupId": 100002,
+  "minRanking": 1,
+  "rewardGroupId": 100001029,
+  "presentTitle": "Rank 1 Reward"
+ },
+ {
+  "worldRankingRankMstId": 116,
+  "worldRankingGroupId": 100002,
+  "minRanking": 2,
+  "rewardGroupId": 100001030,
+  "presentTitle": "Rank 2 Reward"
+ },
+ {
+  "worldRankingRankMstId": 117,
+  "worldRankingGroupId": 100002,
+  "minRanking": 3,
+  "rewardGroupId": 100001031,
+  "presentTitle": "Rank 3 Reward"
+ },
+ {
+  "worldRankingRankMstId": 118,
+  "worldRankingGroupId": 100002,
+  "minRanking": 4,
+  "rewardGroupId": 100001032,
+  "presentTitle": "Rank 4 Reward"
+ },
+ {
+  "worldRankingRankMstId": 119,
+  "worldRankingGroupId": 100002,
+  "minRanking": 5,
+  "rewardGroupId": 100001033,
+  "presentTitle": "Rank 5 Reward"
+ },
+ {
+  "worldRankingRankMstId": 120,
+  "worldRankingGroupId": 100002,
+  "minRanking": 10,
+  "rewardGroupId": 100001034,
+  "presentTitle": "Rank 6–10 Reward"
+ },
+ {
+  "worldRankingRankMstId": 121,
+  "worldRankingGroupId": 100002,
+  "minRanking": 20,
+  "rewardGroupId": 100001035,
+  "presentTitle": "Rank 11–20 Reward"
+ },
+ {
+  "worldRankingRankMstId": 122,
+  "worldRankingGroupId": 100002,
+  "minRanking": 50,
+  "rewardGroupId": 100001036,
+  "presentTitle": "Rank 21–50 Reward"
+ },
+ {
+  "worldRankingRankMstId": 123,
+  "worldRankingGroupId": 100002,
+  "minRanking": 100,
+  "rewardGroupId": 100001037,
+  "presentTitle": "Rank 51–100 Reward"
+ },
+ {
+  "worldRankingRankMstId": 124,
+  "worldRankingGroupId": 100002,
+  "minRanking": 200,
+  "rewardGroupId": 100001038,
+  "presentTitle": "Rank 101–200 Reward"
+ },
+ {
+  "worldRankingRankMstId": 125,
+  "worldRankingGroupId": 100002,
+  "minRanking": 500,
+  "rewardGroupId": 100001039,
+  "presentTitle": "Rank 201–500 Reward"
+ },
+ {
+  "worldRankingRankMstId": 126,
+  "worldRankingGroupId": 100002,
+  "minRanking": 1000,
+  "rewardGroupId": 100001040,
+  "presentTitle": "Rank 501–1000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 127,
+  "worldRankingGroupId": 100002,
+  "minRanking": 5000,
+  "rewardGroupId": 100001041,
+  "presentTitle": "Rank 1001–5000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 128,
+  "worldRankingGroupId": 100002,
+  "minRanking": 9999,
+  "rewardGroupId": 100001042,
+  "presentTitle": "Rank 5001–9999 Reward"
+ },
+ {
+  "worldRankingRankMstId": 129,
+  "worldRankingGroupId": 100003,
+  "minRanking": 1,
+  "rewardGroupId": 100001015,
+  "presentTitle": "Rank 1 Reward"
+ },
+ {
+  "worldRankingRankMstId": 130,
+  "worldRankingGroupId": 100003,
+  "minRanking": 2,
+  "rewardGroupId": 100001016,
+  "presentTitle": "Rank 2 Reward"
+ },
+ {
+  "worldRankingRankMstId": 131,
+  "worldRankingGroupId": 100003,
+  "minRanking": 3,
+  "rewardGroupId": 100001017,
+  "presentTitle": "Rank 3 Reward"
+ },
+ {
+  "worldRankingRankMstId": 132,
+  "worldRankingGroupId": 100003,
+  "minRanking": 4,
+  "rewardGroupId": 100001018,
+  "presentTitle": "Rank 4 Reward"
+ },
+ {
+  "worldRankingRankMstId": 133,
+  "worldRankingGroupId": 100003,
+  "minRanking": 5,
+  "rewardGroupId": 100001019,
+  "presentTitle": "Rank 5 Reward"
+ },
+ {
+  "worldRankingRankMstId": 134,
+  "worldRankingGroupId": 100003,
+  "minRanking": 10,
+  "rewardGroupId": 100001020,
+  "presentTitle": "Rank 6–10 Reward"
+ },
+ {
+  "worldRankingRankMstId": 135,
+  "worldRankingGroupId": 100003,
+  "minRanking": 20,
+  "rewardGroupId": 100001021,
+  "presentTitle": "Rank 11–20 Reward"
+ },
+ {
+  "worldRankingRankMstId": 136,
+  "worldRankingGroupId": 100003,
+  "minRanking": 50,
+  "rewardGroupId": 100001022,
+  "presentTitle": "Rank 21–50 Reward"
+ },
+ {
+  "worldRankingRankMstId": 137,
+  "worldRankingGroupId": 100003,
+  "minRanking": 100,
+  "rewardGroupId": 100001023,
+  "presentTitle": "Rank 51–100 Reward"
+ },
+ {
+  "worldRankingRankMstId": 138,
+  "worldRankingGroupId": 100003,
+  "minRanking": 200,
+  "rewardGroupId": 100001024,
+  "presentTitle": "Rank 101–200 Reward"
+ },
+ {
+  "worldRankingRankMstId": 139,
+  "worldRankingGroupId": 100003,
+  "minRanking": 500,
+  "rewardGroupId": 100001025,
+  "presentTitle": "Rank 201–500 Reward"
+ },
+ {
+  "worldRankingRankMstId": 140,
+  "worldRankingGroupId": 100003,
+  "minRanking": 1000,
+  "rewardGroupId": 100001026,
+  "presentTitle": "Rank 501–1000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 141,
+  "worldRankingGroupId": 100003,
+  "minRanking": 5000,
+  "rewardGroupId": 100001027,
+  "presentTitle": "Rank 1001–5000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 142,
+  "worldRankingGroupId": 100003,
+  "minRanking": 9999,
+  "rewardGroupId": 100001028,
+  "presentTitle": "Rank 5001–9999 Reward"
+ },
+ {
+  "worldRankingRankMstId": 143,
+  "worldRankingGroupId": 100004,
+  "minRanking": 1,
+  "rewardGroupId": 100001043,
+  "presentTitle": "Rank 1 Reward"
+ },
+ {
+  "worldRankingRankMstId": 144,
+  "worldRankingGroupId": 100004,
+  "minRanking": 2,
+  "rewardGroupId": 100001044,
+  "presentTitle": "Rank 2 Reward"
+ },
+ {
+  "worldRankingRankMstId": 145,
+  "worldRankingGroupId": 100004,
+  "minRanking": 3,
+  "rewardGroupId": 100001045,
+  "presentTitle": "Rank 3 Reward"
+ },
+ {
+  "worldRankingRankMstId": 146,
+  "worldRankingGroupId": 100004,
+  "minRanking": 4,
+  "rewardGroupId": 100001046,
+  "presentTitle": "Rank 4 Reward"
+ },
+ {
+  "worldRankingRankMstId": 147,
+  "worldRankingGroupId": 100004,
+  "minRanking": 5,
+  "rewardGroupId": 100001047,
+  "presentTitle": "Rank 5 Reward"
+ },
+ {
+  "worldRankingRankMstId": 148,
+  "worldRankingGroupId": 100004,
+  "minRanking": 10,
+  "rewardGroupId": 100001048,
+  "presentTitle": "Rank 6–10 Reward"
+ },
+ {
+  "worldRankingRankMstId": 149,
+  "worldRankingGroupId": 100004,
+  "minRanking": 20,
+  "rewardGroupId": 100001049,
+  "presentTitle": "Rank 11–20 Reward"
+ },
+ {
+  "worldRankingRankMstId": 150,
+  "worldRankingGroupId": 100004,
+  "minRanking": 50,
+  "rewardGroupId": 100001050,
+  "presentTitle": "Rank 21–50 Reward"
+ },
+ {
+  "worldRankingRankMstId": 151,
+  "worldRankingGroupId": 100004,
+  "minRanking": 100,
+  "rewardGroupId": 100001051,
+  "presentTitle": "Rank 51–100 Reward"
+ },
+ {
+  "worldRankingRankMstId": 152,
+  "worldRankingGroupId": 100004,
+  "minRanking": 200,
+  "rewardGroupId": 100001052,
+  "presentTitle": "Rank 101–200 Reward"
+ },
+ {
+  "worldRankingRankMstId": 153,
+  "worldRankingGroupId": 100004,
+  "minRanking": 500,
+  "rewardGroupId": 100001053,
+  "presentTitle": "Rank 201–500 Reward"
+ },
+ {
+  "worldRankingRankMstId": 154,
+  "worldRankingGroupId": 100004,
+  "minRanking": 1000,
+  "rewardGroupId": 100001054,
+  "presentTitle": "Rank 501–1000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 155,
+  "worldRankingGroupId": 100004,
+  "minRanking": 5000,
+  "rewardGroupId": 100001055,
+  "presentTitle": "Rank 1001–5000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 156,
+  "worldRankingGroupId": 100004,
+  "minRanking": 9999,
+  "rewardGroupId": 100001056,
+  "presentTitle": "Rank 5001–9999 Reward"
+ },
+ {
+  "worldRankingRankMstId": 157,
+  "worldRankingGroupId": 100005,
+  "minRanking": 1,
+  "rewardGroupId": 100001057,
+  "presentTitle": "Rank 1 Reward"
+ },
+ {
+  "worldRankingRankMstId": 158,
+  "worldRankingGroupId": 100005,
+  "minRanking": 2,
+  "rewardGroupId": 100001058,
+  "presentTitle": "Rank 2 Reward"
+ },
+ {
+  "worldRankingRankMstId": 159,
+  "worldRankingGroupId": 100005,
+  "minRanking": 3,
+  "rewardGroupId": 100001059,
+  "presentTitle": "Rank 3 Reward"
+ },
+ {
+  "worldRankingRankMstId": 160,
+  "worldRankingGroupId": 100005,
+  "minRanking": 4,
+  "rewardGroupId": 100001060,
+  "presentTitle": "Rank 4 Reward"
+ },
+ {
+  "worldRankingRankMstId": 161,
+  "worldRankingGroupId": 100005,
+  "minRanking": 5,
+  "rewardGroupId": 100001061,
+  "presentTitle": "Rank 5 Reward"
+ },
+ {
+  "worldRankingRankMstId": 162,
+  "worldRankingGroupId": 100005,
+  "minRanking": 10,
+  "rewardGroupId": 100001062,
+  "presentTitle": "Rank 6–10 Reward"
+ },
+ {
+  "worldRankingRankMstId": 163,
+  "worldRankingGroupId": 100005,
+  "minRanking": 20,
+  "rewardGroupId": 100001063,
+  "presentTitle": "Rank 11–20 Reward"
+ },
+ {
+  "worldRankingRankMstId": 164,
+  "worldRankingGroupId": 100005,
+  "minRanking": 50,
+  "rewardGroupId": 100001064,
+  "presentTitle": "Rank 21–50 Reward"
+ },
+ {
+  "worldRankingRankMstId": 165,
+  "worldRankingGroupId": 100005,
+  "minRanking": 100,
+  "rewardGroupId": 100001065,
+  "presentTitle": "Rank 51–100 Reward"
+ },
+ {
+  "worldRankingRankMstId": 166,
+  "worldRankingGroupId": 100005,
+  "minRanking": 200,
+  "rewardGroupId": 100001066,
+  "presentTitle": "Rank 101–200 Reward"
+ },
+ {
+  "worldRankingRankMstId": 167,
+  "worldRankingGroupId": 100005,
+  "minRanking": 500,
+  "rewardGroupId": 100001067,
+  "presentTitle": "Rank 201–500 Reward"
+ },
+ {
+  "worldRankingRankMstId": 168,
+  "worldRankingGroupId": 100005,
+  "minRanking": 1000,
+  "rewardGroupId": 100001068,
+  "presentTitle": "Rank 501–1000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 169,
+  "worldRankingGroupId": 100005,
+  "minRanking": 5000,
+  "rewardGroupId": 100001069,
+  "presentTitle": "Rank 1001–5000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 170,
+  "worldRankingGroupId": 100005,
+  "minRanking": 9999,
+  "rewardGroupId": 100001070,
+  "presentTitle": "Rank 5001–9999 Reward"
+ },
+ {
+  "worldRankingRankMstId": 171,
+  "worldRankingGroupId": 100006,
+  "minRanking": 1,
+  "rewardGroupId": 100001071,
+  "presentTitle": "Rank 1 Reward"
+ },
+ {
+  "worldRankingRankMstId": 172,
+  "worldRankingGroupId": 100006,
+  "minRanking": 2,
+  "rewardGroupId": 100001072,
+  "presentTitle": "Rank 2 Reward"
+ },
+ {
+  "worldRankingRankMstId": 173,
+  "worldRankingGroupId": 100006,
+  "minRanking": 3,
+  "rewardGroupId": 100001073,
+  "presentTitle": "Rank 3 Reward"
+ },
+ {
+  "worldRankingRankMstId": 174,
+  "worldRankingGroupId": 100006,
+  "minRanking": 4,
+  "rewardGroupId": 100001074,
+  "presentTitle": "Rank 4 Reward"
+ },
+ {
+  "worldRankingRankMstId": 175,
+  "worldRankingGroupId": 100006,
+  "minRanking": 5,
+  "rewardGroupId": 100001075,
+  "presentTitle": "Rank 5 Reward"
+ },
+ {
+  "worldRankingRankMstId": 176,
+  "worldRankingGroupId": 100006,
+  "minRanking": 10,
+  "rewardGroupId": 100001076,
+  "presentTitle": "Rank 6–10 Reward"
+ },
+ {
+  "worldRankingRankMstId": 177,
+  "worldRankingGroupId": 100006,
+  "minRanking": 20,
+  "rewardGroupId": 100001077,
+  "presentTitle": "Rank 11–20 Reward"
+ },
+ {
+  "worldRankingRankMstId": 178,
+  "worldRankingGroupId": 100006,
+  "minRanking": 50,
+  "rewardGroupId": 100001078,
+  "presentTitle": "Rank 21–50 Reward"
+ },
+ {
+  "worldRankingRankMstId": 179,
+  "worldRankingGroupId": 100006,
+  "minRanking": 100,
+  "rewardGroupId": 100001079,
+  "presentTitle": "Rank 51–100 Reward"
+ },
+ {
+  "worldRankingRankMstId": 180,
+  "worldRankingGroupId": 100006,
+  "minRanking": 200,
+  "rewardGroupId": 100001080,
+  "presentTitle": "Rank 101–200 Reward"
+ },
+ {
+  "worldRankingRankMstId": 181,
+  "worldRankingGroupId": 100006,
+  "minRanking": 500,
+  "rewardGroupId": 100001081,
+  "presentTitle": "Rank 201–500 Reward"
+ },
+ {
+  "worldRankingRankMstId": 182,
+  "worldRankingGroupId": 100006,
+  "minRanking": 1000,
+  "rewardGroupId": 100001082,
+  "presentTitle": "Rank 501–1000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 183,
+  "worldRankingGroupId": 100006,
+  "minRanking": 5000,
+  "rewardGroupId": 100001083,
+  "presentTitle": "Rank 1001–5000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 184,
+  "worldRankingGroupId": 100006,
+  "minRanking": 9999,
+  "rewardGroupId": 100001084,
+  "presentTitle": "Rank 5001–9999 Reward"
+ }
+]

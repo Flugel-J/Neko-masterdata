@@ -1,0 +1,22 @@
+[
+ {
+  "messageCategory": 1,
+  "name": "Greeting"
+ },
+ {
+  "messageCategory": 2,
+  "name": "coming soon..."
+ },
+ {
+  "messageCategory": 3,
+  "name": "coming soon..."
+ },
+ {
+  "messageCategory": 4,
+  "name": "coming soon..."
+ },
+ {
+  "messageCategory": 5,
+  "name": "coming soon..."
+ }
+]

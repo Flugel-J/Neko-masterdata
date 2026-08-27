@@ -1,0 +1,290 @@
+[
+ {
+  "gardenProductDevConditionMstId": 1,
+  "gardenProductMstId": 1011002,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 50
+ },
+ {
+  "gardenProductDevConditionMstId": 2,
+  "gardenProductMstId": 1012001,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenProductDevConditionMstId": 3,
+  "gardenProductMstId": 1012002,
+  "targetType": 2,
+  "conditionType": 6,
+  "conditionValue": 1,
+  "conditionNum": 25
+ },
+ {
+  "gardenProductDevConditionMstId": 4,
+  "gardenProductMstId": 1012003,
+  "targetType": 2,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 90
+ },
+ {
+  "gardenProductDevConditionMstId": 5,
+  "gardenProductMstId": 1012004,
+  "targetType": 2,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 150
+ },
+ {
+  "gardenProductDevConditionMstId": 6,
+  "gardenProductMstId": 1013001,
+  "targetType": 2,
+  "conditionType": 8,
+  "conditionValue": 110102050,
+  "conditionNum": 1
+ },
+ {
+  "gardenProductDevConditionMstId": 7,
+  "gardenProductMstId": 1013002,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenProductDevConditionMstId": 8,
+  "gardenProductMstId": 1013003,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 200
+ },
+ {
+  "gardenProductDevConditionMstId": 9,
+  "gardenProductMstId": 1013004,
+  "targetType": 2,
+  "conditionType": 6,
+  "conditionValue": 1,
+  "conditionNum": 100
+ },
+ {
+  "gardenProductDevConditionMstId": 10,
+  "gardenProductMstId": 1013005,
+  "targetType": 2,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 400
+ },
+ {
+  "gardenProductDevConditionMstId": 11,
+  "gardenProductMstId": 1013006,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 500
+ },
+ {
+  "gardenProductDevConditionMstId": 12,
+  "gardenProductMstId": 1013007,
+  "targetType": 2,
+  "conditionType": 8,
+  "conditionValue": 110102600,
+  "conditionNum": 1
+ },
+ {
+  "gardenProductDevConditionMstId": 13,
+  "gardenProductMstId": 2011002,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 50
+ },
+ {
+  "gardenProductDevConditionMstId": 14,
+  "gardenProductMstId": 2012001,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenProductDevConditionMstId": 15,
+  "gardenProductMstId": 2012002,
+  "targetType": 2,
+  "conditionType": 6,
+  "conditionValue": 2,
+  "conditionNum": 25
+ },
+ {
+  "gardenProductDevConditionMstId": 16,
+  "gardenProductMstId": 2012003,
+  "targetType": 2,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 90
+ },
+ {
+  "gardenProductDevConditionMstId": 17,
+  "gardenProductMstId": 2012004,
+  "targetType": 2,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 150
+ },
+ {
+  "gardenProductDevConditionMstId": 18,
+  "gardenProductMstId": 2013001,
+  "targetType": 2,
+  "conditionType": 8,
+  "conditionValue": 110102050,
+  "conditionNum": 1
+ },
+ {
+  "gardenProductDevConditionMstId": 19,
+  "gardenProductMstId": 2013002,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenProductDevConditionMstId": 20,
+  "gardenProductMstId": 2013003,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 200
+ },
+ {
+  "gardenProductDevConditionMstId": 21,
+  "gardenProductMstId": 2013004,
+  "targetType": 2,
+  "conditionType": 6,
+  "conditionValue": 2,
+  "conditionNum": 100
+ },
+ {
+  "gardenProductDevConditionMstId": 22,
+  "gardenProductMstId": 2013005,
+  "targetType": 2,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 400
+ },
+ {
+  "gardenProductDevConditionMstId": 23,
+  "gardenProductMstId": 2013006,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 500
+ },
+ {
+  "gardenProductDevConditionMstId": 24,
+  "gardenProductMstId": 2013007,
+  "targetType": 2,
+  "conditionType": 8,
+  "conditionValue": 110102600,
+  "conditionNum": 1
+ },
+ {
+  "gardenProductDevConditionMstId": 25,
+  "gardenProductMstId": 3011002,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 50
+ },
+ {
+  "gardenProductDevConditionMstId": 26,
+  "gardenProductMstId": 3012001,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenProductDevConditionMstId": 27,
+  "gardenProductMstId": 3012002,
+  "targetType": 2,
+  "conditionType": 6,
+  "conditionValue": 3,
+  "conditionNum": 25
+ },
+ {
+  "gardenProductDevConditionMstId": 28,
+  "gardenProductMstId": 3012003,
+  "targetType": 2,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 90
+ },
+ {
+  "gardenProductDevConditionMstId": 29,
+  "gardenProductMstId": 3012004,
+  "targetType": 2,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 150
+ },
+ {
+  "gardenProductDevConditionMstId": 30,
+  "gardenProductMstId": 3013001,
+  "targetType": 2,
+  "conditionType": 8,
+  "conditionValue": 110102050,
+  "conditionNum": 1
+ },
+ {
+  "gardenProductDevConditionMstId": 31,
+  "gardenProductMstId": 3013002,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenProductDevConditionMstId": 32,
+  "gardenProductMstId": 3013003,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 200
+ },
+ {
+  "gardenProductDevConditionMstId": 33,
+  "gardenProductMstId": 3013004,
+  "targetType": 2,
+  "conditionType": 6,
+  "conditionValue": 3,
+  "conditionNum": 100
+ },
+ {
+  "gardenProductDevConditionMstId": 34,
+  "gardenProductMstId": 3013005,
+  "targetType": 2,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 400
+ },
+ {
+  "gardenProductDevConditionMstId": 35,
+  "gardenProductMstId": 3013006,
+  "targetType": 2,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 500
+ },
+ {
+  "gardenProductDevConditionMstId": 36,
+  "gardenProductMstId": 3013007,
+  "targetType": 2,
+  "conditionType": 8,
+  "conditionValue": 110102600,
+  "conditionNum": 1
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "maxDeliveryCount": 5,
+  "probability": 20
+ },
+ {
+  "maxDeliveryCount": 10,
+  "probability": 40
+ },
+ {
+  "maxDeliveryCount": 15,
+  "probability": 60
+ },
+ {
+  "maxDeliveryCount": 999,
+  "probability": 100
+ }
+]

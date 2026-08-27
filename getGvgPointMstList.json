@@ -1,0 +1,222 @@
+[
+ {
+  "baseRank": 1,
+  "easyWinPoint": 300,
+  "easyLosePoint": 10,
+  "normalWinPoint": 750,
+  "normalLosePoint": 10,
+  "hardWinPoint": 1350,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 2,
+  "easyWinPoint": 280,
+  "easyLosePoint": 10,
+  "normalWinPoint": 700,
+  "normalLosePoint": 10,
+  "hardWinPoint": 1260,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 3,
+  "easyWinPoint": 260,
+  "easyLosePoint": 10,
+  "normalWinPoint": 650,
+  "normalLosePoint": 10,
+  "hardWinPoint": 1170,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 4,
+  "easyWinPoint": 240,
+  "easyLosePoint": 10,
+  "normalWinPoint": 600,
+  "normalLosePoint": 10,
+  "hardWinPoint": 1080,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 5,
+  "easyWinPoint": 220,
+  "easyLosePoint": 10,
+  "normalWinPoint": 550,
+  "normalLosePoint": 10,
+  "hardWinPoint": 990,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 6,
+  "easyWinPoint": 200,
+  "easyLosePoint": 10,
+  "normalWinPoint": 500,
+  "normalLosePoint": 10,
+  "hardWinPoint": 900,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 7,
+  "easyWinPoint": 190,
+  "easyLosePoint": 10,
+  "normalWinPoint": 475,
+  "normalLosePoint": 10,
+  "hardWinPoint": 855,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 8,
+  "easyWinPoint": 180,
+  "easyLosePoint": 10,
+  "normalWinPoint": 450,
+  "normalLosePoint": 10,
+  "hardWinPoint": 810,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 9,
+  "easyWinPoint": 170,
+  "easyLosePoint": 10,
+  "normalWinPoint": 425,
+  "normalLosePoint": 10,
+  "hardWinPoint": 765,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 10,
+  "easyWinPoint": 160,
+  "easyLosePoint": 10,
+  "normalWinPoint": 400,
+  "normalLosePoint": 10,
+  "hardWinPoint": 720,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 11,
+  "easyWinPoint": 150,
+  "easyLosePoint": 10,
+  "normalWinPoint": 375,
+  "normalLosePoint": 10,
+  "hardWinPoint": 675,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 12,
+  "easyWinPoint": 140,
+  "easyLosePoint": 10,
+  "normalWinPoint": 350,
+  "normalLosePoint": 10,
+  "hardWinPoint": 630,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 13,
+  "easyWinPoint": 130,
+  "easyLosePoint": 10,
+  "normalWinPoint": 325,
+  "normalLosePoint": 10,
+  "hardWinPoint": 585,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 14,
+  "easyWinPoint": 120,
+  "easyLosePoint": 10,
+  "normalWinPoint": 300,
+  "normalLosePoint": 10,
+  "hardWinPoint": 540,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 15,
+  "easyWinPoint": 110,
+  "easyLosePoint": 10,
+  "normalWinPoint": 275,
+  "normalLosePoint": 10,
+  "hardWinPoint": 495,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 16,
+  "easyWinPoint": 100,
+  "easyLosePoint": 10,
+  "normalWinPoint": 250,
+  "normalLosePoint": 10,
+  "hardWinPoint": 450,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 17,
+  "easyWinPoint": 90,
+  "easyLosePoint": 10,
+  "normalWinPoint": 225,
+  "normalLosePoint": 10,
+  "hardWinPoint": 405,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 18,
+  "easyWinPoint": 80,
+  "easyLosePoint": 10,
+  "normalWinPoint": 200,
+  "normalLosePoint": 10,
+  "hardWinPoint": 360,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 19,
+  "easyWinPoint": 70,
+  "easyLosePoint": 10,
+  "normalWinPoint": 175,
+  "normalLosePoint": 10,
+  "hardWinPoint": 315,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ },
+ {
+  "baseRank": 20,
+  "easyWinPoint": 60,
+  "easyLosePoint": 10,
+  "normalWinPoint": 150,
+  "normalLosePoint": 10,
+  "hardWinPoint": 270,
+  "hardLosePoint": 10,
+  "chaseWinPoint": 10,
+  "chaseLosePoint": 10
+ }
+]

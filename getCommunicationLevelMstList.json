@@ -1,0 +1,1602 @@
+[
+ {
+  "level": 1,
+  "needExp": 0,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 2,
+  "needExp": 75,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 3,
+  "needExp": 80,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 4,
+  "needExp": 90,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 5,
+  "needExp": 100,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 6,
+  "needExp": 110,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 7,
+  "needExp": 120,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 8,
+  "needExp": 130,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 9,
+  "needExp": 140,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 10,
+  "needExp": 141,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 11,
+  "needExp": 142,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 12,
+  "needExp": 143,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 13,
+  "needExp": 144,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 14,
+  "needExp": 145,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 15,
+  "needExp": 146,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 16,
+  "needExp": 147,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 17,
+  "needExp": 148,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 18,
+  "needExp": 149,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 19,
+  "needExp": 150,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 20,
+  "needExp": 151,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 21,
+  "needExp": 152,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 22,
+  "needExp": 153,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 23,
+  "needExp": 154,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 24,
+  "needExp": 155,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 25,
+  "needExp": 156,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 26,
+  "needExp": 157,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 27,
+  "needExp": 158,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 28,
+  "needExp": 159,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 29,
+  "needExp": 160,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 30,
+  "needExp": 161,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 31,
+  "needExp": 162,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 32,
+  "needExp": 163,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 33,
+  "needExp": 164,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 34,
+  "needExp": 165,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 35,
+  "needExp": 166,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 36,
+  "needExp": 167,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 37,
+  "needExp": 168,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 38,
+  "needExp": 169,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 39,
+  "needExp": 170,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 40,
+  "needExp": 171,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 41,
+  "needExp": 172,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 42,
+  "needExp": 173,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 43,
+  "needExp": 174,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 44,
+  "needExp": 175,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 45,
+  "needExp": 176,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 46,
+  "needExp": 177,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 47,
+  "needExp": 178,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 48,
+  "needExp": 179,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 49,
+  "needExp": 180,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 50,
+  "needExp": 181,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 51,
+  "needExp": 182,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 52,
+  "needExp": 183,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 53,
+  "needExp": 184,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 54,
+  "needExp": 185,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 55,
+  "needExp": 186,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 56,
+  "needExp": 187,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 57,
+  "needExp": 188,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 58,
+  "needExp": 189,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 59,
+  "needExp": 190,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 60,
+  "needExp": 191,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 61,
+  "needExp": 192,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 62,
+  "needExp": 193,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 63,
+  "needExp": 194,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 64,
+  "needExp": 195,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 65,
+  "needExp": 196,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 66,
+  "needExp": 197,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 67,
+  "needExp": 198,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 68,
+  "needExp": 199,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 69,
+  "needExp": 200,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 70,
+  "needExp": 201,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 71,
+  "needExp": 202,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 72,
+  "needExp": 203,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 73,
+  "needExp": 204,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 74,
+  "needExp": 205,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 75,
+  "needExp": 206,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 76,
+  "needExp": 207,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 77,
+  "needExp": 208,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 78,
+  "needExp": 209,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 79,
+  "needExp": 210,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 80,
+  "needExp": 211,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 81,
+  "needExp": 212,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 82,
+  "needExp": 213,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 83,
+  "needExp": 214,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 84,
+  "needExp": 215,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 85,
+  "needExp": 216,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 86,
+  "needExp": 217,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 87,
+  "needExp": 218,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 88,
+  "needExp": 219,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 89,
+  "needExp": 220,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 90,
+  "needExp": 221,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 91,
+  "needExp": 222,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 92,
+  "needExp": 223,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 93,
+  "needExp": 224,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 94,
+  "needExp": 225,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 95,
+  "needExp": 226,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 96,
+  "needExp": 227,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 97,
+  "needExp": 228,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 98,
+  "needExp": 229,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 99,
+  "needExp": 230,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 100,
+  "needExp": 231,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 101,
+  "needExp": 232,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 102,
+  "needExp": 233,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 103,
+  "needExp": 234,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 104,
+  "needExp": 235,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 105,
+  "needExp": 236,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 106,
+  "needExp": 237,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 107,
+  "needExp": 238,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 108,
+  "needExp": 239,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 109,
+  "needExp": 240,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 110,
+  "needExp": 241,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 111,
+  "needExp": 242,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 112,
+  "needExp": 243,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 113,
+  "needExp": 244,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 114,
+  "needExp": 245,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 115,
+  "needExp": 246,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 116,
+  "needExp": 247,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 117,
+  "needExp": 248,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 118,
+  "needExp": 249,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 119,
+  "needExp": 250,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 120,
+  "needExp": 251,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 121,
+  "needExp": 252,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 122,
+  "needExp": 253,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 123,
+  "needExp": 254,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 124,
+  "needExp": 255,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 125,
+  "needExp": 256,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 126,
+  "needExp": 257,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 127,
+  "needExp": 258,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 128,
+  "needExp": 259,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 129,
+  "needExp": 260,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 130,
+  "needExp": 261,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 131,
+  "needExp": 262,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 132,
+  "needExp": 263,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 133,
+  "needExp": 264,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 134,
+  "needExp": 265,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 135,
+  "needExp": 266,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 136,
+  "needExp": 267,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 137,
+  "needExp": 268,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 138,
+  "needExp": 269,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 139,
+  "needExp": 270,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 140,
+  "needExp": 271,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 141,
+  "needExp": 272,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 142,
+  "needExp": 273,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 143,
+  "needExp": 274,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 144,
+  "needExp": 275,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 145,
+  "needExp": 276,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 146,
+  "needExp": 277,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 147,
+  "needExp": 278,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 148,
+  "needExp": 279,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 149,
+  "needExp": 280,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 150,
+  "needExp": 281,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 151,
+  "needExp": 282,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 152,
+  "needExp": 283,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 153,
+  "needExp": 284,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 154,
+  "needExp": 285,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 155,
+  "needExp": 286,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 156,
+  "needExp": 287,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 157,
+  "needExp": 288,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 158,
+  "needExp": 289,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 159,
+  "needExp": 290,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 160,
+  "needExp": 291,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 161,
+  "needExp": 292,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 162,
+  "needExp": 293,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 163,
+  "needExp": 294,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 164,
+  "needExp": 295,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 165,
+  "needExp": 296,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 166,
+  "needExp": 297,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 167,
+  "needExp": 298,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 168,
+  "needExp": 299,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 169,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 170,
+  "needExp": 300,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 171,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 172,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 173,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 174,
+  "needExp": 300,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 175,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 176,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 177,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 178,
+  "needExp": 300,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 179,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 180,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 181,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 182,
+  "needExp": 300,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 183,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 184,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 185,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 186,
+  "needExp": 300,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 187,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 188,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 189,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 190,
+  "needExp": 300,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 191,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 192,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 193,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 194,
+  "needExp": 300,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 195,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 196,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "level": 197,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "level": 198,
+  "needExp": 300,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 199,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "level": 200,
+  "needExp": 300,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "shopPaymentConditionSaleCategoryMstId": 1,
+  "backgroundId": 1
+ },
+ {
+  "shopPaymentConditionSaleCategoryMstId": 2,
+  "backgroundId": 2
+ },
+ {
+  "shopPaymentConditionSaleCategoryMstId": 3,
+  "backgroundId": 3
+ },
+ {
+  "shopPaymentConditionSaleCategoryMstId": 4,
+  "backgroundId": 9
+ }
+]

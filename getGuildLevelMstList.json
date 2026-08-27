@@ -1,0 +1,142 @@
+[
+ {
+  "guildLevel": 1,
+  "levelUpGuildContribution": 0,
+  "maxMembers": 10,
+  "subMastersCount": 1,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 2,
+  "levelUpGuildContribution": 1000,
+  "maxMembers": 11,
+  "subMastersCount": 1,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 3,
+  "levelUpGuildContribution": 5000,
+  "maxMembers": 11,
+  "subMastersCount": 1,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 4,
+  "levelUpGuildContribution": 10000,
+  "maxMembers": 12,
+  "subMastersCount": 1,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 5,
+  "levelUpGuildContribution": 30000,
+  "maxMembers": 12,
+  "subMastersCount": 1,
+  "rewardGuildEmblemMstId": 2010101
+ },
+ {
+  "guildLevel": 6,
+  "levelUpGuildContribution": 60000,
+  "maxMembers": 13,
+  "subMastersCount": 1,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 7,
+  "levelUpGuildContribution": 120000,
+  "maxMembers": 13,
+  "subMastersCount": 1,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 8,
+  "levelUpGuildContribution": 240000,
+  "maxMembers": 14,
+  "subMastersCount": 1,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 9,
+  "levelUpGuildContribution": 480000,
+  "maxMembers": 14,
+  "subMastersCount": 1,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 10,
+  "levelUpGuildContribution": 720000,
+  "maxMembers": 15,
+  "subMastersCount": 2,
+  "rewardGuildEmblemMstId": 7990101
+ },
+ {
+  "guildLevel": 11,
+  "levelUpGuildContribution": 1080000,
+  "maxMembers": 15,
+  "subMastersCount": 2,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 12,
+  "levelUpGuildContribution": 1290000,
+  "maxMembers": 16,
+  "subMastersCount": 2,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 13,
+  "levelUpGuildContribution": 1540000,
+  "maxMembers": 16,
+  "subMastersCount": 2,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 14,
+  "levelUpGuildContribution": 1840000,
+  "maxMembers": 17,
+  "subMastersCount": 2,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 15,
+  "levelUpGuildContribution": 2200000,
+  "maxMembers": 17,
+  "subMastersCount": 2,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 16,
+  "levelUpGuildContribution": 2640000,
+  "maxMembers": 18,
+  "subMastersCount": 2,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 17,
+  "levelUpGuildContribution": 3160000,
+  "maxMembers": 18,
+  "subMastersCount": 2,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 18,
+  "levelUpGuildContribution": 3790000,
+  "maxMembers": 19,
+  "subMastersCount": 2,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 19,
+  "levelUpGuildContribution": 4540000,
+  "maxMembers": 19,
+  "subMastersCount": 2,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "guildLevel": 20,
+  "levelUpGuildContribution": 5440000,
+  "maxMembers": 20,
+  "subMastersCount": 2,
+  "rewardGuildEmblemMstId": 0
+ }
+]

@@ -1,0 +1,177 @@
+[
+ {
+  "gardenLandscapingLevelCapMstId": 1,
+  "gardenLandscapingMstId": 1,
+  "stageId": 1,
+  "levelCap": 15,
+  "symbolId": 1
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 2,
+  "gardenLandscapingMstId": 1,
+  "stageId": 2,
+  "levelCap": 30,
+  "symbolId": 2
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 3,
+  "gardenLandscapingMstId": 1,
+  "stageId": 3,
+  "levelCap": 50,
+  "symbolId": 3
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 4,
+  "gardenLandscapingMstId": 1,
+  "stageId": 4,
+  "levelCap": 70,
+  "symbolId": 4
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 5,
+  "gardenLandscapingMstId": 1,
+  "stageId": 5,
+  "levelCap": 100,
+  "symbolId": 5
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 6,
+  "gardenLandscapingMstId": 2,
+  "stageId": 1,
+  "levelCap": 15,
+  "symbolId": 1
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 7,
+  "gardenLandscapingMstId": 2,
+  "stageId": 2,
+  "levelCap": 30,
+  "symbolId": 2
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 8,
+  "gardenLandscapingMstId": 2,
+  "stageId": 3,
+  "levelCap": 50,
+  "symbolId": 3
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 9,
+  "gardenLandscapingMstId": 2,
+  "stageId": 4,
+  "levelCap": 70,
+  "symbolId": 4
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 10,
+  "gardenLandscapingMstId": 2,
+  "stageId": 5,
+  "levelCap": 100,
+  "symbolId": 5
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 11,
+  "gardenLandscapingMstId": 3,
+  "stageId": 1,
+  "levelCap": 15,
+  "symbolId": 1
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 12,
+  "gardenLandscapingMstId": 3,
+  "stageId": 2,
+  "levelCap": 30,
+  "symbolId": 2
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 13,
+  "gardenLandscapingMstId": 3,
+  "stageId": 3,
+  "levelCap": 50,
+  "symbolId": 3
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 14,
+  "gardenLandscapingMstId": 3,
+  "stageId": 4,
+  "levelCap": 70,
+  "symbolId": 4
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 15,
+  "gardenLandscapingMstId": 3,
+  "stageId": 5,
+  "levelCap": 100,
+  "symbolId": 5
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 16,
+  "gardenLandscapingMstId": 4,
+  "stageId": 1,
+  "levelCap": 15,
+  "symbolId": 1
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 17,
+  "gardenLandscapingMstId": 4,
+  "stageId": 2,
+  "levelCap": 30,
+  "symbolId": 2
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 18,
+  "gardenLandscapingMstId": 4,
+  "stageId": 3,
+  "levelCap": 50,
+  "symbolId": 3
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 19,
+  "gardenLandscapingMstId": 4,
+  "stageId": 4,
+  "levelCap": 70,
+  "symbolId": 4
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 20,
+  "gardenLandscapingMstId": 4,
+  "stageId": 5,
+  "levelCap": 100,
+  "symbolId": 5
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 21,
+  "gardenLandscapingMstId": 5,
+  "stageId": 1,
+  "levelCap": 15,
+  "symbolId": 1
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 22,
+  "gardenLandscapingMstId": 5,
+  "stageId": 2,
+  "levelCap": 30,
+  "symbolId": 2
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 23,
+  "gardenLandscapingMstId": 5,
+  "stageId": 3,
+  "levelCap": 50,
+  "symbolId": 3
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 24,
+  "gardenLandscapingMstId": 5,
+  "stageId": 4,
+  "levelCap": 70,
+  "symbolId": 4
+ },
+ {
+  "gardenLandscapingLevelCapMstId": 25,
+  "gardenLandscapingMstId": 5,
+  "stageId": 5,
+  "levelCap": 100,
+  "symbolId": 5
+ }
+]

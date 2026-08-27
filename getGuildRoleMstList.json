@@ -1,0 +1,17 @@
+[
+ {
+  "guildRoleMstId": 1,
+  "guildRoleName": "Leader",
+  "guildRoleDetail": "-"
+ },
+ {
+  "guildRoleMstId": 2,
+  "guildRoleName": "Sub Leader",
+  "guildRoleDetail": "-"
+ },
+ {
+  "guildRoleMstId": 3,
+  "guildRoleName": "Member",
+  "guildRoleDetail": "-"
+ }
+]

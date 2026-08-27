@@ -1,0 +1,30 @@
+[
+ {
+  "gardenLandscapingOpenConditionMstId": 1,
+  "contentsType": 4,
+  "conditionType": 8,
+  "conditionValue": 110101050,
+  "conditionNum": 1
+ },
+ {
+  "gardenLandscapingOpenConditionMstId": 2,
+  "contentsType": 2,
+  "conditionType": 8,
+  "conditionValue": 110101060,
+  "conditionNum": 1
+ },
+ {
+  "gardenLandscapingOpenConditionMstId": 3,
+  "contentsType": 1,
+  "conditionType": 8,
+  "conditionValue": 110101100,
+  "conditionNum": 1
+ },
+ {
+  "gardenLandscapingOpenConditionMstId": 4,
+  "contentsType": 3,
+  "conditionType": 8,
+  "conditionValue": 110101150,
+  "conditionNum": 1
+ }
+]

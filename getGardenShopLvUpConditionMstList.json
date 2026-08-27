@@ -1,0 +1,940 @@
+[
+ {
+  "gardenShopLvUpConditionMstId": 1,
+  "level": 2,
+  "conditionType": 8,
+  "conditionValue": 110101015,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 2,
+  "level": 3,
+  "conditionType": 8,
+  "conditionValue": 110101030,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 3,
+  "level": 4,
+  "conditionType": 8,
+  "conditionValue": 110101045,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 4,
+  "level": 5,
+  "conditionType": 8,
+  "conditionValue": 110101060,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 5,
+  "level": 6,
+  "conditionType": 8,
+  "conditionValue": 110101075,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 6,
+  "level": 7,
+  "conditionType": 8,
+  "conditionValue": 110101090,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 7,
+  "level": 8,
+  "conditionType": 8,
+  "conditionValue": 110101100,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 8,
+  "level": 9,
+  "conditionType": 8,
+  "conditionValue": 110101110,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 9,
+  "level": 10,
+  "conditionType": 8,
+  "conditionValue": 110101120,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 30,
+  "level": 11,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 125
+ },
+ {
+  "gardenShopLvUpConditionMstId": 31,
+  "level": 11,
+  "conditionType": 5,
+  "conditionValue": 205001,
+  "conditionNum": 4
+ },
+ {
+  "gardenShopLvUpConditionMstId": 32,
+  "level": 11,
+  "conditionType": 6,
+  "conditionValue": 3,
+  "conditionNum": 22
+ },
+ {
+  "gardenShopLvUpConditionMstId": 33,
+  "level": 11,
+  "conditionType": 8,
+  "conditionValue": 110101180,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 34,
+  "level": 11,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenShopLvUpConditionMstId": 35,
+  "level": 12,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 140
+ },
+ {
+  "gardenShopLvUpConditionMstId": 36,
+  "level": 12,
+  "conditionType": 5,
+  "conditionValue": 205002,
+  "conditionNum": 5
+ },
+ {
+  "gardenShopLvUpConditionMstId": 37,
+  "level": 12,
+  "conditionType": 6,
+  "conditionValue": 1,
+  "conditionNum": 24
+ },
+ {
+  "gardenShopLvUpConditionMstId": 38,
+  "level": 12,
+  "conditionType": 8,
+  "conditionValue": 110101190,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 39,
+  "level": 12,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 71
+ },
+ {
+  "gardenShopLvUpConditionMstId": 40,
+  "level": 13,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 155
+ },
+ {
+  "gardenShopLvUpConditionMstId": 41,
+  "level": 13,
+  "conditionType": 5,
+  "conditionValue": 208001,
+  "conditionNum": 5
+ },
+ {
+  "gardenShopLvUpConditionMstId": 42,
+  "level": 13,
+  "conditionType": 6,
+  "conditionValue": 2,
+  "conditionNum": 26
+ },
+ {
+  "gardenShopLvUpConditionMstId": 43,
+  "level": 13,
+  "conditionType": 8,
+  "conditionValue": 110101200,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 44,
+  "level": 13,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 77
+ },
+ {
+  "gardenShopLvUpConditionMstId": 45,
+  "level": 14,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 170
+ },
+ {
+  "gardenShopLvUpConditionMstId": 46,
+  "level": 14,
+  "conditionType": 5,
+  "conditionValue": 208002,
+  "conditionNum": 6
+ },
+ {
+  "gardenShopLvUpConditionMstId": 47,
+  "level": 14,
+  "conditionType": 6,
+  "conditionValue": 3,
+  "conditionNum": 28
+ },
+ {
+  "gardenShopLvUpConditionMstId": 48,
+  "level": 14,
+  "conditionType": 8,
+  "conditionValue": 110101210,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 49,
+  "level": 14,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 83
+ },
+ {
+  "gardenShopLvUpConditionMstId": 50,
+  "level": 15,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 185
+ },
+ {
+  "gardenShopLvUpConditionMstId": 51,
+  "level": 15,
+  "conditionType": 5,
+  "conditionValue": 208003,
+  "conditionNum": 6
+ },
+ {
+  "gardenShopLvUpConditionMstId": 52,
+  "level": 15,
+  "conditionType": 6,
+  "conditionValue": 1,
+  "conditionNum": 30
+ },
+ {
+  "gardenShopLvUpConditionMstId": 53,
+  "level": 15,
+  "conditionType": 8,
+  "conditionValue": 110101220,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 54,
+  "level": 15,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 89
+ },
+ {
+  "gardenShopLvUpConditionMstId": 55,
+  "level": 16,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 200
+ },
+ {
+  "gardenShopLvUpConditionMstId": 56,
+  "level": 16,
+  "conditionType": 5,
+  "conditionValue": 208004,
+  "conditionNum": 7
+ },
+ {
+  "gardenShopLvUpConditionMstId": 57,
+  "level": 16,
+  "conditionType": 6,
+  "conditionValue": 2,
+  "conditionNum": 32
+ },
+ {
+  "gardenShopLvUpConditionMstId": 58,
+  "level": 16,
+  "conditionType": 8,
+  "conditionValue": 110101230,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 59,
+  "level": 16,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 95
+ },
+ {
+  "gardenShopLvUpConditionMstId": 60,
+  "level": 17,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 215
+ },
+ {
+  "gardenShopLvUpConditionMstId": 61,
+  "level": 17,
+  "conditionType": 5,
+  "conditionValue": 209001,
+  "conditionNum": 7
+ },
+ {
+  "gardenShopLvUpConditionMstId": 62,
+  "level": 17,
+  "conditionType": 6,
+  "conditionValue": 3,
+  "conditionNum": 34
+ },
+ {
+  "gardenShopLvUpConditionMstId": 63,
+  "level": 17,
+  "conditionType": 8,
+  "conditionValue": 110101240,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 64,
+  "level": 17,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 101
+ },
+ {
+  "gardenShopLvUpConditionMstId": 65,
+  "level": 18,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 230
+ },
+ {
+  "gardenShopLvUpConditionMstId": 66,
+  "level": 18,
+  "conditionType": 5,
+  "conditionValue": 208005,
+  "conditionNum": 8
+ },
+ {
+  "gardenShopLvUpConditionMstId": 67,
+  "level": 18,
+  "conditionType": 6,
+  "conditionValue": 1,
+  "conditionNum": 36
+ },
+ {
+  "gardenShopLvUpConditionMstId": 68,
+  "level": 18,
+  "conditionType": 8,
+  "conditionValue": 110101250,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 69,
+  "level": 18,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 107
+ },
+ {
+  "gardenShopLvUpConditionMstId": 70,
+  "level": 19,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 245
+ },
+ {
+  "gardenShopLvUpConditionMstId": 71,
+  "level": 19,
+  "conditionType": 5,
+  "conditionValue": 210001,
+  "conditionNum": 8
+ },
+ {
+  "gardenShopLvUpConditionMstId": 72,
+  "level": 19,
+  "conditionType": 6,
+  "conditionValue": 2,
+  "conditionNum": 38
+ },
+ {
+  "gardenShopLvUpConditionMstId": 73,
+  "level": 19,
+  "conditionType": 8,
+  "conditionValue": 110101260,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 74,
+  "level": 19,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 113
+ },
+ {
+  "gardenShopLvUpConditionMstId": 75,
+  "level": 20,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 260
+ },
+ {
+  "gardenShopLvUpConditionMstId": 76,
+  "level": 20,
+  "conditionType": 5,
+  "conditionValue": 210002,
+  "conditionNum": 9
+ },
+ {
+  "gardenShopLvUpConditionMstId": 77,
+  "level": 20,
+  "conditionType": 6,
+  "conditionValue": 3,
+  "conditionNum": 40
+ },
+ {
+  "gardenShopLvUpConditionMstId": 78,
+  "level": 20,
+  "conditionType": 8,
+  "conditionValue": 110101270,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 79,
+  "level": 20,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 119
+ },
+ {
+  "gardenShopLvUpConditionMstId": 80,
+  "level": 21,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 275
+ },
+ {
+  "gardenShopLvUpConditionMstId": 81,
+  "level": 21,
+  "conditionType": 5,
+  "conditionValue": 210003,
+  "conditionNum": 9
+ },
+ {
+  "gardenShopLvUpConditionMstId": 82,
+  "level": 21,
+  "conditionType": 6,
+  "conditionValue": 1,
+  "conditionNum": 42
+ },
+ {
+  "gardenShopLvUpConditionMstId": 83,
+  "level": 21,
+  "conditionType": 8,
+  "conditionValue": 110101280,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 84,
+  "level": 21,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 125
+ },
+ {
+  "gardenShopLvUpConditionMstId": 85,
+  "level": 22,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 290
+ },
+ {
+  "gardenShopLvUpConditionMstId": 86,
+  "level": 22,
+  "conditionType": 5,
+  "conditionValue": 202001,
+  "conditionNum": 10
+ },
+ {
+  "gardenShopLvUpConditionMstId": 87,
+  "level": 22,
+  "conditionType": 6,
+  "conditionValue": 2,
+  "conditionNum": 44
+ },
+ {
+  "gardenShopLvUpConditionMstId": 88,
+  "level": 22,
+  "conditionType": 8,
+  "conditionValue": 110101290,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 89,
+  "level": 22,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 131
+ },
+ {
+  "gardenShopLvUpConditionMstId": 90,
+  "level": 23,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 305
+ },
+ {
+  "gardenShopLvUpConditionMstId": 91,
+  "level": 23,
+  "conditionType": 5,
+  "conditionValue": 205003,
+  "conditionNum": 10
+ },
+ {
+  "gardenShopLvUpConditionMstId": 92,
+  "level": 23,
+  "conditionType": 6,
+  "conditionValue": 3,
+  "conditionNum": 46
+ },
+ {
+  "gardenShopLvUpConditionMstId": 93,
+  "level": 23,
+  "conditionType": 8,
+  "conditionValue": 110101300,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 94,
+  "level": 23,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 137
+ },
+ {
+  "gardenShopLvUpConditionMstId": 95,
+  "level": 24,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 320
+ },
+ {
+  "gardenShopLvUpConditionMstId": 96,
+  "level": 24,
+  "conditionType": 5,
+  "conditionValue": 203001,
+  "conditionNum": 11
+ },
+ {
+  "gardenShopLvUpConditionMstId": 97,
+  "level": 24,
+  "conditionType": 6,
+  "conditionValue": 1,
+  "conditionNum": 48
+ },
+ {
+  "gardenShopLvUpConditionMstId": 98,
+  "level": 24,
+  "conditionType": 8,
+  "conditionValue": 110201010,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 99,
+  "level": 24,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 143
+ },
+ {
+  "gardenShopLvUpConditionMstId": 100,
+  "level": 25,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 335
+ },
+ {
+  "gardenShopLvUpConditionMstId": 101,
+  "level": 25,
+  "conditionType": 5,
+  "conditionValue": 203002,
+  "conditionNum": 11
+ },
+ {
+  "gardenShopLvUpConditionMstId": 102,
+  "level": 25,
+  "conditionType": 6,
+  "conditionValue": 2,
+  "conditionNum": 50
+ },
+ {
+  "gardenShopLvUpConditionMstId": 103,
+  "level": 25,
+  "conditionType": 8,
+  "conditionValue": 110201015,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 104,
+  "level": 25,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 149
+ },
+ {
+  "gardenShopLvUpConditionMstId": 105,
+  "level": 26,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 350
+ },
+ {
+  "gardenShopLvUpConditionMstId": 106,
+  "level": 26,
+  "conditionType": 5,
+  "conditionValue": 207001,
+  "conditionNum": 12
+ },
+ {
+  "gardenShopLvUpConditionMstId": 107,
+  "level": 26,
+  "conditionType": 6,
+  "conditionValue": 3,
+  "conditionNum": 52
+ },
+ {
+  "gardenShopLvUpConditionMstId": 108,
+  "level": 26,
+  "conditionType": 8,
+  "conditionValue": 110201020,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 109,
+  "level": 26,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 155
+ },
+ {
+  "gardenShopLvUpConditionMstId": 110,
+  "level": 27,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 365
+ },
+ {
+  "gardenShopLvUpConditionMstId": 111,
+  "level": 27,
+  "conditionType": 5,
+  "conditionValue": 204001,
+  "conditionNum": 12
+ },
+ {
+  "gardenShopLvUpConditionMstId": 112,
+  "level": 27,
+  "conditionType": 6,
+  "conditionValue": 1,
+  "conditionNum": 54
+ },
+ {
+  "gardenShopLvUpConditionMstId": 113,
+  "level": 27,
+  "conditionType": 8,
+  "conditionValue": 110201025,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 114,
+  "level": 27,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 161
+ },
+ {
+  "gardenShopLvUpConditionMstId": 115,
+  "level": 28,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 380
+ },
+ {
+  "gardenShopLvUpConditionMstId": 116,
+  "level": 28,
+  "conditionType": 5,
+  "conditionValue": 204002,
+  "conditionNum": 13
+ },
+ {
+  "gardenShopLvUpConditionMstId": 117,
+  "level": 28,
+  "conditionType": 6,
+  "conditionValue": 2,
+  "conditionNum": 56
+ },
+ {
+  "gardenShopLvUpConditionMstId": 118,
+  "level": 28,
+  "conditionType": 8,
+  "conditionValue": 110201030,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 119,
+  "level": 28,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 167
+ },
+ {
+  "gardenShopLvUpConditionMstId": 120,
+  "level": 29,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 395
+ },
+ {
+  "gardenShopLvUpConditionMstId": 121,
+  "level": 29,
+  "conditionType": 5,
+  "conditionValue": 207002,
+  "conditionNum": 13
+ },
+ {
+  "gardenShopLvUpConditionMstId": 122,
+  "level": 29,
+  "conditionType": 6,
+  "conditionValue": 3,
+  "conditionNum": 58
+ },
+ {
+  "gardenShopLvUpConditionMstId": 123,
+  "level": 29,
+  "conditionType": 8,
+  "conditionValue": 110201035,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 124,
+  "level": 29,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 173
+ },
+ {
+  "gardenShopLvUpConditionMstId": 125,
+  "level": 30,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 410
+ },
+ {
+  "gardenShopLvUpConditionMstId": 126,
+  "level": 30,
+  "conditionType": 5,
+  "conditionValue": 207003,
+  "conditionNum": 14
+ },
+ {
+  "gardenShopLvUpConditionMstId": 127,
+  "level": 30,
+  "conditionType": 6,
+  "conditionValue": 1,
+  "conditionNum": 60
+ },
+ {
+  "gardenShopLvUpConditionMstId": 128,
+  "level": 30,
+  "conditionType": 8,
+  "conditionValue": 110201038,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 129,
+  "level": 30,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 179
+ },
+ {
+  "gardenShopLvUpConditionMstId": 130,
+  "level": 31,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 425
+ },
+ {
+  "gardenShopLvUpConditionMstId": 131,
+  "level": 31,
+  "conditionType": 5,
+  "conditionValue": 207004,
+  "conditionNum": 15
+ },
+ {
+  "gardenShopLvUpConditionMstId": 132,
+  "level": 31,
+  "conditionType": 6,
+  "conditionValue": 2,
+  "conditionNum": 63
+ },
+ {
+  "gardenShopLvUpConditionMstId": 133,
+  "level": 31,
+  "conditionType": 8,
+  "conditionValue": 110201041,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 134,
+  "level": 31,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 190
+ },
+ {
+  "gardenShopLvUpConditionMstId": 135,
+  "level": 32,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 440
+ },
+ {
+  "gardenShopLvUpConditionMstId": 136,
+  "level": 32,
+  "conditionType": 5,
+  "conditionValue": 207005,
+  "conditionNum": 16
+ },
+ {
+  "gardenShopLvUpConditionMstId": 137,
+  "level": 32,
+  "conditionType": 6,
+  "conditionValue": 3,
+  "conditionNum": 67
+ },
+ {
+  "gardenShopLvUpConditionMstId": 138,
+  "level": 32,
+  "conditionType": 8,
+  "conditionValue": 110201044,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 139,
+  "level": 32,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 200
+ },
+ {
+  "gardenShopLvUpConditionMstId": 140,
+  "level": 33,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 455
+ },
+ {
+  "gardenShopLvUpConditionMstId": 141,
+  "level": 33,
+  "conditionType": 5,
+  "conditionValue": 208006,
+  "conditionNum": 17
+ },
+ {
+  "gardenShopLvUpConditionMstId": 142,
+  "level": 33,
+  "conditionType": 6,
+  "conditionValue": 1,
+  "conditionNum": 70
+ },
+ {
+  "gardenShopLvUpConditionMstId": 143,
+  "level": 33,
+  "conditionType": 8,
+  "conditionValue": 110201047,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 144,
+  "level": 33,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 210
+ },
+ {
+  "gardenShopLvUpConditionMstId": 145,
+  "level": 34,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 470
+ },
+ {
+  "gardenShopLvUpConditionMstId": 146,
+  "level": 34,
+  "conditionType": 5,
+  "conditionValue": 208007,
+  "conditionNum": 18
+ },
+ {
+  "gardenShopLvUpConditionMstId": 147,
+  "level": 34,
+  "conditionType": 6,
+  "conditionValue": 2,
+  "conditionNum": 73
+ },
+ {
+  "gardenShopLvUpConditionMstId": 148,
+  "level": 34,
+  "conditionType": 8,
+  "conditionValue": 110201048,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 149,
+  "level": 34,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 220
+ },
+ {
+  "gardenShopLvUpConditionMstId": 150,
+  "level": 35,
+  "conditionType": 3,
+  "conditionValue": 0,
+  "conditionNum": 485
+ },
+ {
+  "gardenShopLvUpConditionMstId": 151,
+  "level": 35,
+  "conditionType": 5,
+  "conditionValue": 208008,
+  "conditionNum": 19
+ },
+ {
+  "gardenShopLvUpConditionMstId": 152,
+  "level": 35,
+  "conditionType": 6,
+  "conditionValue": 3,
+  "conditionNum": 77
+ },
+ {
+  "gardenShopLvUpConditionMstId": 153,
+  "level": 35,
+  "conditionType": 8,
+  "conditionValue": 110201050,
+  "conditionNum": 1
+ },
+ {
+  "gardenShopLvUpConditionMstId": 154,
+  "level": 35,
+  "conditionType": 10,
+  "conditionValue": 0,
+  "conditionNum": 230
+ }
+]

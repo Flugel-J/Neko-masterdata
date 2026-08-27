@@ -1,0 +1,212 @@
+[
+ {
+  "objectReceiveType": 1,
+  "objectType": 1,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveGemFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 2,
+  "objectType": 1,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveGemFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 3,
+  "objectType": 2,
+  "expireDate": 90,
+  "receiveFunction": "ReceiveCardFunctionLogic",
+  "comment": "装備(受取期限あり)"
+ },
+ {
+  "objectReceiveType": 4,
+  "objectType": 2,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveCardFunctionLogic",
+  "comment": "装備(受取期限なし)"
+ },
+ {
+  "objectReceiveType": 5,
+  "objectType": 3,
+  "expireDate": 90,
+  "receiveFunction": "ReceiveItemFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 6,
+  "objectType": 3,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveItemFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 7,
+  "objectType": 4,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveCharacterFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 8,
+  "objectType": 5,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveGoldFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 9,
+  "objectType": 6,
+  "expireDate": 0,
+  "receiveFunction": "ReceivePlayerExpFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 10,
+  "objectType": 7,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveOrbFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 11,
+  "objectType": 8,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveMissionPointFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 12,
+  "objectType": 9,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveMemoryFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 13,
+  "objectType": 12,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveKitchenCarFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 14,
+  "objectType": 13,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveKitchenCarPartsFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 15,
+  "objectType": 15,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveCharacterPieceFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 16,
+  "objectType": 16,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveFrameFunctionLogic",
+  "comment": "Frame"
+ },
+ {
+  "objectReceiveType": 17,
+  "objectType": 17,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveEmblemFunctionLogic",
+  "comment": "Titles"
+ },
+ {
+  "objectReceiveType": 18,
+  "objectType": 18,
+  "expireDate": 0,
+  "receiveFunction": "",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 19,
+  "objectType": 19,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveRhythmGameFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 20,
+  "objectType": 20,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveCharacterSkinFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 21,
+  "objectType": 21,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveGuildWeeklyPointFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 22,
+  "objectType": 22,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveChatStampFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 23,
+  "objectType": 23,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveGuildContributionFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 24,
+  "objectType": 24,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveGuildUserMedalFunctionLogic",
+  "comment": "Club Medal"
+ },
+ {
+  "objectReceiveType": 25,
+  "objectType": 25,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveVipPointFunctionLogic",
+  "comment": "VIP Points"
+ },
+ {
+  "objectReceiveType": 26,
+  "objectType": 26,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveEventPointFunctionLogic",
+  "comment": "Event Point"
+ },
+ {
+  "objectReceiveType": 27,
+  "objectType": 14,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveGardenFurnitureFunctionLogic",
+  "comment": "coming soon..."
+ },
+ {
+  "objectReceiveType": 28,
+  "objectType": 27,
+  "expireDate": 0,
+  "receiveFunction": "",
+  "comment": "Sweet Share"
+ },
+ {
+  "objectReceiveType": 29,
+  "objectType": 28,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveHomeBackgroundFunctionLogic",
+  "comment": "ホーム背景"
+ },
+ {
+  "objectReceiveType": 30,
+  "objectType": 29,
+  "expireDate": 0,
+  "receiveFunction": "ReceiveHomeIllustrationFunctionLogic",
+  "comment": "Home Special Illustration"
+ }
+]

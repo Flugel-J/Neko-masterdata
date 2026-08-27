@@ -1,0 +1,32 @@
+[
+ {
+  "gardenFurnitureCoordinateMstId": 1,
+  "combinationsNum": 1,
+  "bonusRate": 0
+ },
+ {
+  "gardenFurnitureCoordinateMstId": 2,
+  "combinationsNum": 1,
+  "bonusRate": 0
+ },
+ {
+  "gardenFurnitureCoordinateMstId": 4,
+  "combinationsNum": 1,
+  "bonusRate": 0
+ },
+ {
+  "gardenFurnitureCoordinateMstId": 11,
+  "combinationsNum": 1,
+  "bonusRate": 0
+ },
+ {
+  "gardenFurnitureCoordinateMstId": 12,
+  "combinationsNum": 1,
+  "bonusRate": 0
+ },
+ {
+  "gardenFurnitureCoordinateMstId": 99,
+  "combinationsNum": 1,
+  "bonusRate": 0
+ }
+]

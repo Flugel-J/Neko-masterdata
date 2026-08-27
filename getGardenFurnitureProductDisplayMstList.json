@@ -1,0 +1,38 @@
+[
+ {
+  "gardenFurnitureProductDisplayMstId": 1,
+  "gardenFurnitureMstId": 301001,
+  "displayNum": 12,
+  "furnitureLevel": 1
+ },
+ {
+  "gardenFurnitureProductDisplayMstId": 2,
+  "gardenFurnitureMstId": 6,
+  "displayNum": 2,
+  "furnitureLevel": 0
+ },
+ {
+  "gardenFurnitureProductDisplayMstId": 3,
+  "gardenFurnitureMstId": 7,
+  "displayNum": 3,
+  "furnitureLevel": 0
+ },
+ {
+  "gardenFurnitureProductDisplayMstId": 4,
+  "gardenFurnitureMstId": 8,
+  "displayNum": 2,
+  "furnitureLevel": 0
+ },
+ {
+  "gardenFurnitureProductDisplayMstId": 5,
+  "gardenFurnitureMstId": 9,
+  "displayNum": 3,
+  "furnitureLevel": 0
+ },
+ {
+  "gardenFurnitureProductDisplayMstId": 6,
+  "gardenFurnitureMstId": 10,
+  "displayNum": 2,
+  "furnitureLevel": 0
+ }
+]

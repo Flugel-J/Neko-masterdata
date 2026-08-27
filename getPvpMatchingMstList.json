@@ -1,0 +1,46 @@
+[
+ {
+  "pvpMatchingMstId": 1,
+  "targetType": 0,
+  "priority": 1,
+  "conditionType": 1,
+  "conditionValue1": 51.0,
+  "conditionValue2": 200.0,
+  "conditionValue3": 50.0,
+  "startTime": "2026-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "pvpMatchingMstId": 2,
+  "targetType": 1,
+  "priority": 2,
+  "conditionType": 1,
+  "conditionValue1": -50.0,
+  "conditionValue2": 50.0,
+  "conditionValue3": 50.0,
+  "startTime": "2026-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "pvpMatchingMstId": 3,
+  "targetType": 2,
+  "priority": 1,
+  "conditionType": 2,
+  "conditionValue1": -10.0,
+  "conditionValue2": 0.0,
+  "conditionValue3": 0.0,
+  "startTime": "2026-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "pvpMatchingMstId": 4,
+  "targetType": 2,
+  "priority": 2,
+  "conditionType": 2,
+  "conditionValue1": -10000.0,
+  "conditionValue2": 0.0,
+  "conditionValue3": 0.0,
+  "startTime": "2026-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ }
+]

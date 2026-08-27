@@ -1,0 +1,38 @@
+[
+ {
+  "guildResourceAcquireMstId": 1,
+  "resourceType": 2,
+  "resourceAcquireType": 1,
+  "resourceAcquireValue": 10
+ },
+ {
+  "guildResourceAcquireMstId": 2,
+  "resourceType": 3,
+  "resourceAcquireType": 1,
+  "resourceAcquireValue": 10
+ },
+ {
+  "guildResourceAcquireMstId": 3,
+  "resourceType": 3,
+  "resourceAcquireType": 2,
+  "resourceAcquireValue": 10
+ },
+ {
+  "guildResourceAcquireMstId": 4,
+  "resourceType": 3,
+  "resourceAcquireType": 3,
+  "resourceAcquireValue": 10
+ },
+ {
+  "guildResourceAcquireMstId": 6,
+  "resourceType": 4,
+  "resourceAcquireType": 5,
+  "resourceAcquireValue": 10
+ },
+ {
+  "guildResourceAcquireMstId": 7,
+  "resourceType": 3,
+  "resourceAcquireType": 7,
+  "resourceAcquireValue": 10
+ }
+]

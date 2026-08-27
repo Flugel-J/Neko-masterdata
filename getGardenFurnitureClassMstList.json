@@ -1,0 +1,912 @@
+[
+ {
+  "gardenFurnitureClassMstId": 0,
+  "classType": 0,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.9486841194,
+  "charaMotionPositionY": 0.3162253019,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 100,
+  "classType": 100,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1000100,
+  "classType": 10100,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1000101,
+  "classType": 10101,
+  "parentClassMstId": 1000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "Body_Order_01",
+  "charaMotionPositionX": 0.5,
+  "charaMotionPositionY": -0.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1000102,
+  "classType": 10102,
+  "parentClassMstId": 1000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "Body_Talk_01",
+  "charaMotionPositionX": 0.5,
+  "charaMotionPositionY": -0.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1000103,
+  "classType": 10103,
+  "parentClassMstId": 1000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "Body_Tidyup_01",
+  "charaMotionPositionX": 0.5,
+  "charaMotionPositionY": -0.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1000200,
+  "classType": 10110,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.2,
+  "charaMotionPositionY": 0.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1000201,
+  "classType": 10111,
+  "parentClassMstId": 1000200,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.5,
+  "charaMotionPositionY": -0.5,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1000300,
+  "classType": 10110,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.5,
+  "charaMotionPositionY": 0.2,
+  "classParameter": 4
+ },
+ {
+  "gardenFurnitureClassMstId": 1000301,
+  "classType": 10111,
+  "parentClassMstId": 1000300,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -0.5,
+  "charaMotionPositionY": 0.5,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1000400,
+  "classType": 10100,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1000401,
+  "classType": 10101,
+  "parentClassMstId": 1000400,
+  "furnitureMotionName": "",
+  "characterMotionName": "Body_Order_01",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1000402,
+  "classType": 10102,
+  "parentClassMstId": 1000400,
+  "furnitureMotionName": "",
+  "characterMotionName": "Body_Talk_01",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1000403,
+  "classType": 10103,
+  "parentClassMstId": 1000400,
+  "furnitureMotionName": "",
+  "characterMotionName": "Body_Tidyup_01",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1000500,
+  "classType": 10110,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.2,
+  "charaMotionPositionY": 0.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1000501,
+  "classType": 10111,
+  "parentClassMstId": 1000500,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.5,
+  "charaMotionPositionY": -0.5,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1000600,
+  "classType": 10110,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.2,
+  "charaMotionPositionY": 0.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1000601,
+  "classType": 10111,
+  "parentClassMstId": 1000600,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.5,
+  "charaMotionPositionY": -0.5,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1001000,
+  "classType": 10200,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1001001,
+  "classType": 10201,
+  "parentClassMstId": 1001000,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.5,
+  "charaMotionPositionY": 1.5,
+  "classParameter": 4
+ },
+ {
+  "gardenFurnitureClassMstId": 1001100,
+  "classType": 10200,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1001101,
+  "classType": 10201,
+  "parentClassMstId": 1001100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 1.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1001200,
+  "classType": 10200,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1001201,
+  "classType": 10201,
+  "parentClassMstId": 1001200,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -0.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 3
+ },
+ {
+  "gardenFurnitureClassMstId": 1001202,
+  "classType": 10201,
+  "parentClassMstId": 1001200,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 2.5,
+  "charaMotionPositionY": 1.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1001300,
+  "classType": 10200,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1001301,
+  "classType": 10201,
+  "parentClassMstId": 1001300,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -0.5,
+  "charaMotionPositionY": 1.5,
+  "classParameter": 3
+ },
+ {
+  "gardenFurnitureClassMstId": 1010100,
+  "classType": 11000,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1010101,
+  "classType": 11001,
+  "parentClassMstId": 1010100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -0.5,
+  "charaMotionPositionY": 1.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1010102,
+  "classType": 11001,
+  "parentClassMstId": 1010100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -0.5,
+  "charaMotionPositionY": 3.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1010103,
+  "classType": 11001,
+  "parentClassMstId": 1010100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 2.5,
+  "charaMotionPositionY": 0.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1010104,
+  "classType": 11001,
+  "parentClassMstId": 1010100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 2.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1010200,
+  "classType": 11000,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 2
+ },
+ {
+  "gardenFurnitureClassMstId": 1010201,
+  "classType": 11001,
+  "parentClassMstId": 1010200,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 0.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1010300,
+  "classType": 11000,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 3
+ },
+ {
+  "gardenFurnitureClassMstId": 1010301,
+  "classType": 11001,
+  "parentClassMstId": 1010300,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -0.5,
+  "charaMotionPositionY": 1.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1010302,
+  "classType": 11001,
+  "parentClassMstId": 1010300,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -0.5,
+  "charaMotionPositionY": -0.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1010303,
+  "classType": 11001,
+  "parentClassMstId": 1010300,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -0.5,
+  "charaMotionPositionY": -1.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1010400,
+  "classType": 11100,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1010401,
+  "classType": 11101,
+  "parentClassMstId": 1010400,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.5,
+  "charaMotionPositionY": 1.5,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1010402,
+  "classType": 11101,
+  "parentClassMstId": 1010400,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1010403,
+  "classType": 11101,
+  "parentClassMstId": 1010400,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.5,
+  "charaMotionPositionY": 3.5,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 1010404,
+  "classType": 11102,
+  "parentClassMstId": 1010400,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 1.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1010405,
+  "classType": 11102,
+  "parentClassMstId": 1010400,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1010406,
+  "classType": 11102,
+  "parentClassMstId": 1010400,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 3.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 1010411,
+  "classType": 11103,
+  "parentClassMstId": 1010400,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -0.5,
+  "charaMotionPositionY": 1.5,
+  "classParameter": 3
+ },
+ {
+  "gardenFurnitureClassMstId": 3000100,
+  "classType": 30100,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3000101,
+  "classType": 30101,
+  "parentClassMstId": 3000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 14.5,
+  "charaMotionPositionY": 6.5,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3000102,
+  "classType": 30101,
+  "parentClassMstId": 3000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 10.5,
+  "charaMotionPositionY": 11.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 3000103,
+  "classType": 30101,
+  "parentClassMstId": 3000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 12.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 2
+ },
+ {
+  "gardenFurnitureClassMstId": 3000104,
+  "classType": 30101,
+  "parentClassMstId": 3000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 3.5,
+  "charaMotionPositionY": 12.5,
+  "classParameter": 3
+ },
+ {
+  "gardenFurnitureClassMstId": 3000105,
+  "classType": 30101,
+  "parentClassMstId": 3000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 4
+ },
+ {
+  "gardenFurnitureClassMstId": 3000106,
+  "classType": 30101,
+  "parentClassMstId": 3000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 1.5,
+  "classParameter": 5
+ },
+ {
+  "gardenFurnitureClassMstId": 3000107,
+  "classType": 30101,
+  "parentClassMstId": 3000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 1.5,
+  "classParameter": 6
+ },
+ {
+  "gardenFurnitureClassMstId": 3000200,
+  "classType": 30100,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3000201,
+  "classType": 30101,
+  "parentClassMstId": 3000200,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 6.5,
+  "charaMotionPositionY": 1.5,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3000202,
+  "classType": 30101,
+  "parentClassMstId": 3000200,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 5.5,
+  "charaMotionPositionY": 13.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 3000203,
+  "classType": 30101,
+  "parentClassMstId": 3000200,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 2.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 2
+ },
+ {
+  "gardenFurnitureClassMstId": 3000204,
+  "classType": 30101,
+  "parentClassMstId": 3000200,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 13.5,
+  "classParameter": 3
+ },
+ {
+  "gardenFurnitureClassMstId": 3000205,
+  "classType": 30101,
+  "parentClassMstId": 3000200,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 5.5,
+  "charaMotionPositionY": 4.5,
+  "classParameter": 4
+ },
+ {
+  "gardenFurnitureClassMstId": 3000206,
+  "classType": 30101,
+  "parentClassMstId": 3000200,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 6.5,
+  "classParameter": 5
+ },
+ {
+  "gardenFurnitureClassMstId": 3000207,
+  "classType": 30101,
+  "parentClassMstId": 3000200,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 4.5,
+  "charaMotionPositionY": 7.5,
+  "classParameter": 6
+ },
+ {
+  "gardenFurnitureClassMstId": 3000300,
+  "classType": 30100,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3000301,
+  "classType": 30101,
+  "parentClassMstId": 3000300,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 2.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3000302,
+  "classType": 30101,
+  "parentClassMstId": 3000300,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 2.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 3000303,
+  "classType": 30101,
+  "parentClassMstId": 3000300,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 2.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 2
+ },
+ {
+  "gardenFurnitureClassMstId": 3000304,
+  "classType": 30101,
+  "parentClassMstId": 3000300,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 2.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 3
+ },
+ {
+  "gardenFurnitureClassMstId": 3000305,
+  "classType": 30101,
+  "parentClassMstId": 3000300,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 2.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 4
+ },
+ {
+  "gardenFurnitureClassMstId": 3000306,
+  "classType": 30101,
+  "parentClassMstId": 3000300,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 2.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 5
+ },
+ {
+  "gardenFurnitureClassMstId": 3000307,
+  "classType": 30101,
+  "parentClassMstId": 3000300,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 2.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 6
+ },
+ {
+  "gardenFurnitureClassMstId": 3000400,
+  "classType": 30100,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3000407,
+  "classType": 30101,
+  "parentClassMstId": 3000400,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 2.5,
+  "charaMotionPositionY": 2.5,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3020100,
+  "classType": 30200,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 3.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3020200,
+  "classType": 30200,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 3.0,
+  "charaMotionPositionY": 3.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3020300,
+  "classType": 30200,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 3.0,
+  "charaMotionPositionY": 3.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3020400,
+  "classType": 30200,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 3.0,
+  "charaMotionPositionY": 3.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3020500,
+  "classType": 30200,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3020600,
+  "classType": 30200,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 3.0,
+  "charaMotionPositionY": 3.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3020700,
+  "classType": 30200,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 9000100,
+  "classType": 90100,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 9000101,
+  "classType": 90101,
+  "parentClassMstId": 9000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -0.5,
+  "charaMotionPositionY": 0.5,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 9000102,
+  "classType": 90101,
+  "parentClassMstId": 9000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -1.5,
+  "charaMotionPositionY": 0.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 9000103,
+  "classType": 90101,
+  "parentClassMstId": 9000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -2.5,
+  "charaMotionPositionY": 0.5,
+  "classParameter": 2
+ },
+ {
+  "gardenFurnitureClassMstId": 9000104,
+  "classType": 90101,
+  "parentClassMstId": 9000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -3.5,
+  "charaMotionPositionY": 0.5,
+  "classParameter": 3
+ },
+ {
+  "gardenFurnitureClassMstId": 9000105,
+  "classType": 90101,
+  "parentClassMstId": 9000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": -4.5,
+  "charaMotionPositionY": 0.5,
+  "classParameter": 4
+ },
+ {
+  "gardenFurnitureClassMstId": 9000106,
+  "classType": 90102,
+  "parentClassMstId": 9000100,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 1.5,
+  "charaMotionPositionY": 1.5,
+  "classParameter": 1
+ },
+ {
+  "gardenFurnitureClassMstId": 9000200,
+  "classType": 90200,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 9000300,
+  "classType": 90300,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 9000400,
+  "classType": 90400,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 9000500,
+  "classType": 90500,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 9000600,
+  "classType": 90600,
+  "parentClassMstId": 0,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 0.0,
+  "charaMotionPositionY": 0.0,
+  "classParameter": 0
+ }
+]

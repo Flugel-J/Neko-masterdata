@@ -1,0 +1,4457 @@
+[
+ {
+  "gardenLandscapingLevelUpMstId": 1,
+  "contentsType": 99,
+  "level": 2,
+  "requiredTime": 300,
+  "itemMstId": 3090001,
+  "num": 1000,
+  "quickFinishRequiredGem": 300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 2,
+  "contentsType": 99,
+  "level": 3,
+  "requiredTime": 600,
+  "itemMstId": 3090001,
+  "num": 1680,
+  "quickFinishRequiredGem": 600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 3,
+  "contentsType": 99,
+  "level": 4,
+  "requiredTime": 900,
+  "itemMstId": 3090001,
+  "num": 2406,
+  "quickFinishRequiredGem": 900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 4,
+  "contentsType": 99,
+  "level": 5,
+  "requiredTime": 1200,
+  "itemMstId": 3090001,
+  "num": 3155,
+  "quickFinishRequiredGem": 1200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 5,
+  "contentsType": 99,
+  "level": 6,
+  "requiredTime": 1500,
+  "itemMstId": 3090001,
+  "num": 3914,
+  "quickFinishRequiredGem": 1500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 6,
+  "contentsType": 99,
+  "level": 7,
+  "requiredTime": 1800,
+  "itemMstId": 3090001,
+  "num": 4679,
+  "quickFinishRequiredGem": 1800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 7,
+  "contentsType": 99,
+  "level": 8,
+  "requiredTime": 2100,
+  "itemMstId": 3090001,
+  "num": 5446,
+  "quickFinishRequiredGem": 2100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 8,
+  "contentsType": 99,
+  "level": 9,
+  "requiredTime": 2400,
+  "itemMstId": 3090001,
+  "num": 6214,
+  "quickFinishRequiredGem": 2400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 9,
+  "contentsType": 99,
+  "level": 10,
+  "requiredTime": 2700,
+  "itemMstId": 3090001,
+  "num": 6983,
+  "quickFinishRequiredGem": 2700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 10,
+  "contentsType": 99,
+  "level": 11,
+  "requiredTime": 3000,
+  "itemMstId": 3090001,
+  "num": 7752,
+  "quickFinishRequiredGem": 3000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 11,
+  "contentsType": 99,
+  "level": 12,
+  "requiredTime": 3600,
+  "itemMstId": 3090001,
+  "num": 8521,
+  "quickFinishRequiredGem": 3300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 12,
+  "contentsType": 99,
+  "level": 13,
+  "requiredTime": 4200,
+  "itemMstId": 3090001,
+  "num": 9290,
+  "quickFinishRequiredGem": 3600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 13,
+  "contentsType": 99,
+  "level": 14,
+  "requiredTime": 4800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 3900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 14,
+  "contentsType": 99,
+  "level": 15,
+  "requiredTime": 5400,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 4200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 15,
+  "contentsType": 99,
+  "level": 16,
+  "requiredTime": 6000,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 4500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 16,
+  "contentsType": 99,
+  "level": 17,
+  "requiredTime": 6600,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 4800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 17,
+  "contentsType": 99,
+  "level": 18,
+  "requiredTime": 7200,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 5100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 18,
+  "contentsType": 99,
+  "level": 19,
+  "requiredTime": 7800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 5400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 19,
+  "contentsType": 99,
+  "level": 20,
+  "requiredTime": 8400,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 5700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 20,
+  "contentsType": 99,
+  "level": 21,
+  "requiredTime": 9300,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 6000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 21,
+  "contentsType": 99,
+  "level": 22,
+  "requiredTime": 10200,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 6300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 22,
+  "contentsType": 99,
+  "level": 23,
+  "requiredTime": 11100,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 6600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 23,
+  "contentsType": 99,
+  "level": 24,
+  "requiredTime": 12000,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 6900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 24,
+  "contentsType": 99,
+  "level": 25,
+  "requiredTime": 12900,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 7200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 25,
+  "contentsType": 99,
+  "level": 26,
+  "requiredTime": 13800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 7500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 26,
+  "contentsType": 99,
+  "level": 27,
+  "requiredTime": 14700,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 7800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 27,
+  "contentsType": 99,
+  "level": 28,
+  "requiredTime": 15600,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 8100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 28,
+  "contentsType": 99,
+  "level": 29,
+  "requiredTime": 16500,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 8400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 29,
+  "contentsType": 99,
+  "level": 30,
+  "requiredTime": 17400,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 8700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 30,
+  "contentsType": 99,
+  "level": 31,
+  "requiredTime": 18300,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 9000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 31,
+  "contentsType": 99,
+  "level": 32,
+  "requiredTime": 19800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 9300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 32,
+  "contentsType": 99,
+  "level": 33,
+  "requiredTime": 21300,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 9600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 33,
+  "contentsType": 99,
+  "level": 34,
+  "requiredTime": 22800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 9900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 34,
+  "contentsType": 99,
+  "level": 35,
+  "requiredTime": 24300,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 10200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 35,
+  "contentsType": 99,
+  "level": 36,
+  "requiredTime": 25800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 10500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 36,
+  "contentsType": 99,
+  "level": 37,
+  "requiredTime": 27300,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 10800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 37,
+  "contentsType": 99,
+  "level": 38,
+  "requiredTime": 28800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 11100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 38,
+  "contentsType": 99,
+  "level": 39,
+  "requiredTime": 30300,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 11400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 39,
+  "contentsType": 99,
+  "level": 40,
+  "requiredTime": 31800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 11700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 40,
+  "contentsType": 99,
+  "level": 41,
+  "requiredTime": 33900,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 12000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 41,
+  "contentsType": 99,
+  "level": 42,
+  "requiredTime": 36000,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 12300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 42,
+  "contentsType": 99,
+  "level": 43,
+  "requiredTime": 38100,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 12600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 43,
+  "contentsType": 99,
+  "level": 44,
+  "requiredTime": 40200,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 12900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 44,
+  "contentsType": 99,
+  "level": 45,
+  "requiredTime": 42300,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 13200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 45,
+  "contentsType": 99,
+  "level": 46,
+  "requiredTime": 44400,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 13500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 46,
+  "contentsType": 99,
+  "level": 47,
+  "requiredTime": 46500,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 13800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 47,
+  "contentsType": 99,
+  "level": 48,
+  "requiredTime": 48600,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 14100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 48,
+  "contentsType": 99,
+  "level": 49,
+  "requiredTime": 50700,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 14400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 49,
+  "contentsType": 99,
+  "level": 50,
+  "requiredTime": 52800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 14700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 50,
+  "contentsType": 99,
+  "level": 51,
+  "requiredTime": 54900,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 15000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 51,
+  "contentsType": 99,
+  "level": 52,
+  "requiredTime": 57000,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 15300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 52,
+  "contentsType": 99,
+  "level": 53,
+  "requiredTime": 59100,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 15600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 53,
+  "contentsType": 99,
+  "level": 54,
+  "requiredTime": 61200,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 15900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 54,
+  "contentsType": 99,
+  "level": 55,
+  "requiredTime": 63300,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 16200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 55,
+  "contentsType": 99,
+  "level": 56,
+  "requiredTime": 65400,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 16500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 56,
+  "contentsType": 99,
+  "level": 57,
+  "requiredTime": 67500,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 16800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 57,
+  "contentsType": 99,
+  "level": 58,
+  "requiredTime": 69600,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 17100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 58,
+  "contentsType": 99,
+  "level": 59,
+  "requiredTime": 71700,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 17400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 59,
+  "contentsType": 99,
+  "level": 60,
+  "requiredTime": 73800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 17700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 60,
+  "contentsType": 99,
+  "level": 61,
+  "requiredTime": 75900,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 18000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 61,
+  "contentsType": 99,
+  "level": 62,
+  "requiredTime": 78000,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 18300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 62,
+  "contentsType": 99,
+  "level": 63,
+  "requiredTime": 80100,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 18600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 63,
+  "contentsType": 99,
+  "level": 64,
+  "requiredTime": 82200,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 18900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 64,
+  "contentsType": 99,
+  "level": 65,
+  "requiredTime": 84300,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 19200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 65,
+  "contentsType": 99,
+  "level": 66,
+  "requiredTime": 86400,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 19500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 66,
+  "contentsType": 99,
+  "level": 67,
+  "requiredTime": 88500,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 19800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 67,
+  "contentsType": 99,
+  "level": 68,
+  "requiredTime": 90600,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 20100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 68,
+  "contentsType": 99,
+  "level": 69,
+  "requiredTime": 92700,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 20400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 69,
+  "contentsType": 99,
+  "level": 70,
+  "requiredTime": 94800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 20700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 70,
+  "contentsType": 99,
+  "level": 71,
+  "requiredTime": 98400,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 21000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 71,
+  "contentsType": 99,
+  "level": 72,
+  "requiredTime": 102000,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 21300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 72,
+  "contentsType": 99,
+  "level": 73,
+  "requiredTime": 105600,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 21600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 73,
+  "contentsType": 99,
+  "level": 74,
+  "requiredTime": 109200,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 21900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 74,
+  "contentsType": 99,
+  "level": 75,
+  "requiredTime": 112800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 22200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 75,
+  "contentsType": 99,
+  "level": 76,
+  "requiredTime": 116400,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 22500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 76,
+  "contentsType": 99,
+  "level": 77,
+  "requiredTime": 120000,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 22800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 77,
+  "contentsType": 99,
+  "level": 78,
+  "requiredTime": 123600,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 23100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 78,
+  "contentsType": 99,
+  "level": 79,
+  "requiredTime": 127200,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 23400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 79,
+  "contentsType": 99,
+  "level": 80,
+  "requiredTime": 130800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 23700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 80,
+  "contentsType": 99,
+  "level": 81,
+  "requiredTime": 134400,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 24000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 81,
+  "contentsType": 99,
+  "level": 82,
+  "requiredTime": 138000,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 24300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 82,
+  "contentsType": 99,
+  "level": 83,
+  "requiredTime": 141600,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 24600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 83,
+  "contentsType": 99,
+  "level": 84,
+  "requiredTime": 145200,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 24900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 84,
+  "contentsType": 99,
+  "level": 85,
+  "requiredTime": 148800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 25200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 85,
+  "contentsType": 99,
+  "level": 86,
+  "requiredTime": 152400,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 25500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 86,
+  "contentsType": 99,
+  "level": 87,
+  "requiredTime": 156000,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 25800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 87,
+  "contentsType": 99,
+  "level": 88,
+  "requiredTime": 159600,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 26100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 88,
+  "contentsType": 99,
+  "level": 89,
+  "requiredTime": 163200,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 26400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 89,
+  "contentsType": 99,
+  "level": 90,
+  "requiredTime": 166800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 26700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 90,
+  "contentsType": 99,
+  "level": 91,
+  "requiredTime": 170400,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 27000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 91,
+  "contentsType": 99,
+  "level": 92,
+  "requiredTime": 174000,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 27300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 92,
+  "contentsType": 99,
+  "level": 93,
+  "requiredTime": 177600,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 27600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 93,
+  "contentsType": 99,
+  "level": 94,
+  "requiredTime": 181200,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 27900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 94,
+  "contentsType": 99,
+  "level": 95,
+  "requiredTime": 184800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 28200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 95,
+  "contentsType": 99,
+  "level": 96,
+  "requiredTime": 188400,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 28500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 96,
+  "contentsType": 99,
+  "level": 97,
+  "requiredTime": 192000,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 28800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 97,
+  "contentsType": 99,
+  "level": 98,
+  "requiredTime": 195600,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 29100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 98,
+  "contentsType": 99,
+  "level": 99,
+  "requiredTime": 199200,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 29400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 99,
+  "contentsType": 99,
+  "level": 100,
+  "requiredTime": 202800,
+  "itemMstId": 3090001,
+  "num": 10000,
+  "quickFinishRequiredGem": 29700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 100,
+  "contentsType": 1,
+  "level": 2,
+  "requiredTime": 300,
+  "itemMstId": 3090003,
+  "num": 1000,
+  "quickFinishRequiredGem": 300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 101,
+  "contentsType": 1,
+  "level": 3,
+  "requiredTime": 600,
+  "itemMstId": 3090003,
+  "num": 1680,
+  "quickFinishRequiredGem": 600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 102,
+  "contentsType": 1,
+  "level": 4,
+  "requiredTime": 900,
+  "itemMstId": 3090003,
+  "num": 2406,
+  "quickFinishRequiredGem": 900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 103,
+  "contentsType": 1,
+  "level": 5,
+  "requiredTime": 1200,
+  "itemMstId": 3090003,
+  "num": 3155,
+  "quickFinishRequiredGem": 1200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 104,
+  "contentsType": 1,
+  "level": 6,
+  "requiredTime": 1500,
+  "itemMstId": 3090003,
+  "num": 3914,
+  "quickFinishRequiredGem": 1500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 105,
+  "contentsType": 1,
+  "level": 7,
+  "requiredTime": 1800,
+  "itemMstId": 3090003,
+  "num": 4679,
+  "quickFinishRequiredGem": 1800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 106,
+  "contentsType": 1,
+  "level": 8,
+  "requiredTime": 2100,
+  "itemMstId": 3090003,
+  "num": 5446,
+  "quickFinishRequiredGem": 2100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 107,
+  "contentsType": 1,
+  "level": 9,
+  "requiredTime": 2400,
+  "itemMstId": 3090003,
+  "num": 6214,
+  "quickFinishRequiredGem": 2400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 108,
+  "contentsType": 1,
+  "level": 10,
+  "requiredTime": 2700,
+  "itemMstId": 3090003,
+  "num": 6983,
+  "quickFinishRequiredGem": 2700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 109,
+  "contentsType": 1,
+  "level": 11,
+  "requiredTime": 3000,
+  "itemMstId": 3090003,
+  "num": 7752,
+  "quickFinishRequiredGem": 3000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 110,
+  "contentsType": 1,
+  "level": 12,
+  "requiredTime": 3600,
+  "itemMstId": 3090003,
+  "num": 8521,
+  "quickFinishRequiredGem": 3300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 111,
+  "contentsType": 1,
+  "level": 13,
+  "requiredTime": 4200,
+  "itemMstId": 3090003,
+  "num": 9290,
+  "quickFinishRequiredGem": 3600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 112,
+  "contentsType": 1,
+  "level": 14,
+  "requiredTime": 4800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 3900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 113,
+  "contentsType": 1,
+  "level": 15,
+  "requiredTime": 5400,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 4200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 114,
+  "contentsType": 1,
+  "level": 16,
+  "requiredTime": 6000,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 4500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 115,
+  "contentsType": 1,
+  "level": 17,
+  "requiredTime": 6600,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 4800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 116,
+  "contentsType": 1,
+  "level": 18,
+  "requiredTime": 7200,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 5100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 117,
+  "contentsType": 1,
+  "level": 19,
+  "requiredTime": 7800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 5400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 118,
+  "contentsType": 1,
+  "level": 20,
+  "requiredTime": 8400,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 5700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 119,
+  "contentsType": 1,
+  "level": 21,
+  "requiredTime": 9300,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 6000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 120,
+  "contentsType": 1,
+  "level": 22,
+  "requiredTime": 10200,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 6300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 121,
+  "contentsType": 1,
+  "level": 23,
+  "requiredTime": 11100,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 6600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 122,
+  "contentsType": 1,
+  "level": 24,
+  "requiredTime": 12000,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 6900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 123,
+  "contentsType": 1,
+  "level": 25,
+  "requiredTime": 12900,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 7200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 124,
+  "contentsType": 1,
+  "level": 26,
+  "requiredTime": 13800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 7500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 125,
+  "contentsType": 1,
+  "level": 27,
+  "requiredTime": 14700,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 7800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 126,
+  "contentsType": 1,
+  "level": 28,
+  "requiredTime": 15600,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 8100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 127,
+  "contentsType": 1,
+  "level": 29,
+  "requiredTime": 16500,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 8400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 128,
+  "contentsType": 1,
+  "level": 30,
+  "requiredTime": 17400,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 8700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 129,
+  "contentsType": 1,
+  "level": 31,
+  "requiredTime": 18300,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 9000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 130,
+  "contentsType": 1,
+  "level": 32,
+  "requiredTime": 19800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 9300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 131,
+  "contentsType": 1,
+  "level": 33,
+  "requiredTime": 21300,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 9600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 132,
+  "contentsType": 1,
+  "level": 34,
+  "requiredTime": 22800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 9900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 133,
+  "contentsType": 1,
+  "level": 35,
+  "requiredTime": 24300,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 10200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 134,
+  "contentsType": 1,
+  "level": 36,
+  "requiredTime": 25800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 10500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 135,
+  "contentsType": 1,
+  "level": 37,
+  "requiredTime": 27300,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 10800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 136,
+  "contentsType": 1,
+  "level": 38,
+  "requiredTime": 28800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 11100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 137,
+  "contentsType": 1,
+  "level": 39,
+  "requiredTime": 30300,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 11400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 138,
+  "contentsType": 1,
+  "level": 40,
+  "requiredTime": 31800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 11700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 139,
+  "contentsType": 1,
+  "level": 41,
+  "requiredTime": 33900,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 12000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 140,
+  "contentsType": 1,
+  "level": 42,
+  "requiredTime": 36000,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 12300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 141,
+  "contentsType": 1,
+  "level": 43,
+  "requiredTime": 38100,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 12600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 142,
+  "contentsType": 1,
+  "level": 44,
+  "requiredTime": 40200,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 12900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 143,
+  "contentsType": 1,
+  "level": 45,
+  "requiredTime": 42300,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 13200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 144,
+  "contentsType": 1,
+  "level": 46,
+  "requiredTime": 44400,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 13500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 145,
+  "contentsType": 1,
+  "level": 47,
+  "requiredTime": 46500,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 13800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 146,
+  "contentsType": 1,
+  "level": 48,
+  "requiredTime": 48600,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 14100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 147,
+  "contentsType": 1,
+  "level": 49,
+  "requiredTime": 50700,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 14400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 148,
+  "contentsType": 1,
+  "level": 50,
+  "requiredTime": 52800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 14700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 149,
+  "contentsType": 1,
+  "level": 51,
+  "requiredTime": 54900,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 15000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 150,
+  "contentsType": 1,
+  "level": 52,
+  "requiredTime": 57000,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 15300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 151,
+  "contentsType": 1,
+  "level": 53,
+  "requiredTime": 59100,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 15600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 152,
+  "contentsType": 1,
+  "level": 54,
+  "requiredTime": 61200,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 15900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 153,
+  "contentsType": 1,
+  "level": 55,
+  "requiredTime": 63300,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 16200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 154,
+  "contentsType": 1,
+  "level": 56,
+  "requiredTime": 65400,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 16500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 155,
+  "contentsType": 1,
+  "level": 57,
+  "requiredTime": 67500,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 16800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 156,
+  "contentsType": 1,
+  "level": 58,
+  "requiredTime": 69600,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 17100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 157,
+  "contentsType": 1,
+  "level": 59,
+  "requiredTime": 71700,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 17400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 158,
+  "contentsType": 1,
+  "level": 60,
+  "requiredTime": 73800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 17700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 159,
+  "contentsType": 1,
+  "level": 61,
+  "requiredTime": 75900,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 18000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 160,
+  "contentsType": 1,
+  "level": 62,
+  "requiredTime": 78000,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 18300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 161,
+  "contentsType": 1,
+  "level": 63,
+  "requiredTime": 80100,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 18600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 162,
+  "contentsType": 1,
+  "level": 64,
+  "requiredTime": 82200,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 18900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 163,
+  "contentsType": 1,
+  "level": 65,
+  "requiredTime": 84300,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 19200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 164,
+  "contentsType": 1,
+  "level": 66,
+  "requiredTime": 86400,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 19500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 165,
+  "contentsType": 1,
+  "level": 67,
+  "requiredTime": 88500,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 19800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 166,
+  "contentsType": 1,
+  "level": 68,
+  "requiredTime": 90600,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 20100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 167,
+  "contentsType": 1,
+  "level": 69,
+  "requiredTime": 92700,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 20400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 168,
+  "contentsType": 1,
+  "level": 70,
+  "requiredTime": 94800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 20700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 169,
+  "contentsType": 1,
+  "level": 71,
+  "requiredTime": 98400,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 21000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 170,
+  "contentsType": 1,
+  "level": 72,
+  "requiredTime": 102000,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 21300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 171,
+  "contentsType": 1,
+  "level": 73,
+  "requiredTime": 105600,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 21600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 172,
+  "contentsType": 1,
+  "level": 74,
+  "requiredTime": 109200,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 21900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 173,
+  "contentsType": 1,
+  "level": 75,
+  "requiredTime": 112800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 22200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 174,
+  "contentsType": 1,
+  "level": 76,
+  "requiredTime": 116400,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 22500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 175,
+  "contentsType": 1,
+  "level": 77,
+  "requiredTime": 120000,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 22800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 176,
+  "contentsType": 1,
+  "level": 78,
+  "requiredTime": 123600,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 23100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 177,
+  "contentsType": 1,
+  "level": 79,
+  "requiredTime": 127200,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 23400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 178,
+  "contentsType": 1,
+  "level": 80,
+  "requiredTime": 130800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 23700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 179,
+  "contentsType": 1,
+  "level": 81,
+  "requiredTime": 134400,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 24000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 180,
+  "contentsType": 1,
+  "level": 82,
+  "requiredTime": 138000,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 24300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 181,
+  "contentsType": 1,
+  "level": 83,
+  "requiredTime": 141600,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 24600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 182,
+  "contentsType": 1,
+  "level": 84,
+  "requiredTime": 145200,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 24900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 183,
+  "contentsType": 1,
+  "level": 85,
+  "requiredTime": 148800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 25200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 184,
+  "contentsType": 1,
+  "level": 86,
+  "requiredTime": 152400,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 25500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 185,
+  "contentsType": 1,
+  "level": 87,
+  "requiredTime": 156000,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 25800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 186,
+  "contentsType": 1,
+  "level": 88,
+  "requiredTime": 159600,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 26100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 187,
+  "contentsType": 1,
+  "level": 89,
+  "requiredTime": 163200,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 26400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 188,
+  "contentsType": 1,
+  "level": 90,
+  "requiredTime": 166800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 26700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 189,
+  "contentsType": 1,
+  "level": 91,
+  "requiredTime": 170400,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 27000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 190,
+  "contentsType": 1,
+  "level": 92,
+  "requiredTime": 174000,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 27300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 191,
+  "contentsType": 1,
+  "level": 93,
+  "requiredTime": 177600,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 27600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 192,
+  "contentsType": 1,
+  "level": 94,
+  "requiredTime": 181200,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 27900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 193,
+  "contentsType": 1,
+  "level": 95,
+  "requiredTime": 184800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 28200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 194,
+  "contentsType": 1,
+  "level": 96,
+  "requiredTime": 188400,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 28500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 195,
+  "contentsType": 1,
+  "level": 97,
+  "requiredTime": 192000,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 28800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 196,
+  "contentsType": 1,
+  "level": 98,
+  "requiredTime": 195600,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 29100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 197,
+  "contentsType": 1,
+  "level": 99,
+  "requiredTime": 199200,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 29400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 198,
+  "contentsType": 1,
+  "level": 100,
+  "requiredTime": 202800,
+  "itemMstId": 3090003,
+  "num": 10000,
+  "quickFinishRequiredGem": 29700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 199,
+  "contentsType": 2,
+  "level": 2,
+  "requiredTime": 300,
+  "itemMstId": 3090004,
+  "num": 1000,
+  "quickFinishRequiredGem": 300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 200,
+  "contentsType": 2,
+  "level": 3,
+  "requiredTime": 600,
+  "itemMstId": 3090004,
+  "num": 1680,
+  "quickFinishRequiredGem": 600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 201,
+  "contentsType": 2,
+  "level": 4,
+  "requiredTime": 900,
+  "itemMstId": 3090004,
+  "num": 2406,
+  "quickFinishRequiredGem": 900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 202,
+  "contentsType": 2,
+  "level": 5,
+  "requiredTime": 1200,
+  "itemMstId": 3090004,
+  "num": 3155,
+  "quickFinishRequiredGem": 1200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 203,
+  "contentsType": 2,
+  "level": 6,
+  "requiredTime": 1500,
+  "itemMstId": 3090004,
+  "num": 3914,
+  "quickFinishRequiredGem": 1500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 204,
+  "contentsType": 2,
+  "level": 7,
+  "requiredTime": 1800,
+  "itemMstId": 3090004,
+  "num": 4679,
+  "quickFinishRequiredGem": 1800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 205,
+  "contentsType": 2,
+  "level": 8,
+  "requiredTime": 2100,
+  "itemMstId": 3090004,
+  "num": 5446,
+  "quickFinishRequiredGem": 2100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 206,
+  "contentsType": 2,
+  "level": 9,
+  "requiredTime": 2400,
+  "itemMstId": 3090004,
+  "num": 6214,
+  "quickFinishRequiredGem": 2400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 207,
+  "contentsType": 2,
+  "level": 10,
+  "requiredTime": 2700,
+  "itemMstId": 3090004,
+  "num": 6983,
+  "quickFinishRequiredGem": 2700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 208,
+  "contentsType": 2,
+  "level": 11,
+  "requiredTime": 3000,
+  "itemMstId": 3090004,
+  "num": 7752,
+  "quickFinishRequiredGem": 3000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 209,
+  "contentsType": 2,
+  "level": 12,
+  "requiredTime": 3600,
+  "itemMstId": 3090004,
+  "num": 8521,
+  "quickFinishRequiredGem": 3300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 210,
+  "contentsType": 2,
+  "level": 13,
+  "requiredTime": 4200,
+  "itemMstId": 3090004,
+  "num": 9290,
+  "quickFinishRequiredGem": 3600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 211,
+  "contentsType": 2,
+  "level": 14,
+  "requiredTime": 4800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 3900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 212,
+  "contentsType": 2,
+  "level": 15,
+  "requiredTime": 5400,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 4200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 213,
+  "contentsType": 2,
+  "level": 16,
+  "requiredTime": 6000,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 4500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 214,
+  "contentsType": 2,
+  "level": 17,
+  "requiredTime": 6600,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 4800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 215,
+  "contentsType": 2,
+  "level": 18,
+  "requiredTime": 7200,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 5100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 216,
+  "contentsType": 2,
+  "level": 19,
+  "requiredTime": 7800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 5400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 217,
+  "contentsType": 2,
+  "level": 20,
+  "requiredTime": 8400,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 5700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 218,
+  "contentsType": 2,
+  "level": 21,
+  "requiredTime": 9300,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 6000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 219,
+  "contentsType": 2,
+  "level": 22,
+  "requiredTime": 10200,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 6300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 220,
+  "contentsType": 2,
+  "level": 23,
+  "requiredTime": 11100,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 6600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 221,
+  "contentsType": 2,
+  "level": 24,
+  "requiredTime": 12000,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 6900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 222,
+  "contentsType": 2,
+  "level": 25,
+  "requiredTime": 12900,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 7200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 223,
+  "contentsType": 2,
+  "level": 26,
+  "requiredTime": 13800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 7500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 224,
+  "contentsType": 2,
+  "level": 27,
+  "requiredTime": 14700,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 7800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 225,
+  "contentsType": 2,
+  "level": 28,
+  "requiredTime": 15600,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 8100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 226,
+  "contentsType": 2,
+  "level": 29,
+  "requiredTime": 16500,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 8400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 227,
+  "contentsType": 2,
+  "level": 30,
+  "requiredTime": 17400,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 8700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 228,
+  "contentsType": 2,
+  "level": 31,
+  "requiredTime": 18300,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 9000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 229,
+  "contentsType": 2,
+  "level": 32,
+  "requiredTime": 19800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 9300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 230,
+  "contentsType": 2,
+  "level": 33,
+  "requiredTime": 21300,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 9600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 231,
+  "contentsType": 2,
+  "level": 34,
+  "requiredTime": 22800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 9900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 232,
+  "contentsType": 2,
+  "level": 35,
+  "requiredTime": 24300,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 10200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 233,
+  "contentsType": 2,
+  "level": 36,
+  "requiredTime": 25800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 10500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 234,
+  "contentsType": 2,
+  "level": 37,
+  "requiredTime": 27300,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 10800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 235,
+  "contentsType": 2,
+  "level": 38,
+  "requiredTime": 28800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 11100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 236,
+  "contentsType": 2,
+  "level": 39,
+  "requiredTime": 30300,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 11400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 237,
+  "contentsType": 2,
+  "level": 40,
+  "requiredTime": 31800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 11700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 238,
+  "contentsType": 2,
+  "level": 41,
+  "requiredTime": 33900,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 12000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 239,
+  "contentsType": 2,
+  "level": 42,
+  "requiredTime": 36000,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 12300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 240,
+  "contentsType": 2,
+  "level": 43,
+  "requiredTime": 38100,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 12600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 241,
+  "contentsType": 2,
+  "level": 44,
+  "requiredTime": 40200,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 12900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 242,
+  "contentsType": 2,
+  "level": 45,
+  "requiredTime": 42300,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 13200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 243,
+  "contentsType": 2,
+  "level": 46,
+  "requiredTime": 44400,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 13500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 244,
+  "contentsType": 2,
+  "level": 47,
+  "requiredTime": 46500,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 13800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 245,
+  "contentsType": 2,
+  "level": 48,
+  "requiredTime": 48600,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 14100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 246,
+  "contentsType": 2,
+  "level": 49,
+  "requiredTime": 50700,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 14400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 247,
+  "contentsType": 2,
+  "level": 50,
+  "requiredTime": 52800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 14700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 248,
+  "contentsType": 2,
+  "level": 51,
+  "requiredTime": 54900,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 15000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 249,
+  "contentsType": 2,
+  "level": 52,
+  "requiredTime": 57000,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 15300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 250,
+  "contentsType": 2,
+  "level": 53,
+  "requiredTime": 59100,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 15600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 251,
+  "contentsType": 2,
+  "level": 54,
+  "requiredTime": 61200,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 15900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 252,
+  "contentsType": 2,
+  "level": 55,
+  "requiredTime": 63300,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 16200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 253,
+  "contentsType": 2,
+  "level": 56,
+  "requiredTime": 65400,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 16500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 254,
+  "contentsType": 2,
+  "level": 57,
+  "requiredTime": 67500,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 16800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 255,
+  "contentsType": 2,
+  "level": 58,
+  "requiredTime": 69600,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 17100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 256,
+  "contentsType": 2,
+  "level": 59,
+  "requiredTime": 71700,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 17400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 257,
+  "contentsType": 2,
+  "level": 60,
+  "requiredTime": 73800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 17700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 258,
+  "contentsType": 2,
+  "level": 61,
+  "requiredTime": 75900,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 18000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 259,
+  "contentsType": 2,
+  "level": 62,
+  "requiredTime": 78000,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 18300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 260,
+  "contentsType": 2,
+  "level": 63,
+  "requiredTime": 80100,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 18600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 261,
+  "contentsType": 2,
+  "level": 64,
+  "requiredTime": 82200,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 18900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 262,
+  "contentsType": 2,
+  "level": 65,
+  "requiredTime": 84300,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 19200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 263,
+  "contentsType": 2,
+  "level": 66,
+  "requiredTime": 86400,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 19500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 264,
+  "contentsType": 2,
+  "level": 67,
+  "requiredTime": 88500,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 19800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 265,
+  "contentsType": 2,
+  "level": 68,
+  "requiredTime": 90600,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 20100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 266,
+  "contentsType": 2,
+  "level": 69,
+  "requiredTime": 92700,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 20400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 267,
+  "contentsType": 2,
+  "level": 70,
+  "requiredTime": 94800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 20700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 268,
+  "contentsType": 2,
+  "level": 71,
+  "requiredTime": 98400,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 21000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 269,
+  "contentsType": 2,
+  "level": 72,
+  "requiredTime": 102000,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 21300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 270,
+  "contentsType": 2,
+  "level": 73,
+  "requiredTime": 105600,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 21600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 271,
+  "contentsType": 2,
+  "level": 74,
+  "requiredTime": 109200,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 21900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 272,
+  "contentsType": 2,
+  "level": 75,
+  "requiredTime": 112800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 22200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 273,
+  "contentsType": 2,
+  "level": 76,
+  "requiredTime": 116400,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 22500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 274,
+  "contentsType": 2,
+  "level": 77,
+  "requiredTime": 120000,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 22800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 275,
+  "contentsType": 2,
+  "level": 78,
+  "requiredTime": 123600,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 23100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 276,
+  "contentsType": 2,
+  "level": 79,
+  "requiredTime": 127200,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 23400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 277,
+  "contentsType": 2,
+  "level": 80,
+  "requiredTime": 130800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 23700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 278,
+  "contentsType": 2,
+  "level": 81,
+  "requiredTime": 134400,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 24000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 279,
+  "contentsType": 2,
+  "level": 82,
+  "requiredTime": 138000,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 24300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 280,
+  "contentsType": 2,
+  "level": 83,
+  "requiredTime": 141600,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 24600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 281,
+  "contentsType": 2,
+  "level": 84,
+  "requiredTime": 145200,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 24900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 282,
+  "contentsType": 2,
+  "level": 85,
+  "requiredTime": 148800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 25200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 283,
+  "contentsType": 2,
+  "level": 86,
+  "requiredTime": 152400,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 25500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 284,
+  "contentsType": 2,
+  "level": 87,
+  "requiredTime": 156000,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 25800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 285,
+  "contentsType": 2,
+  "level": 88,
+  "requiredTime": 159600,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 26100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 286,
+  "contentsType": 2,
+  "level": 89,
+  "requiredTime": 163200,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 26400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 287,
+  "contentsType": 2,
+  "level": 90,
+  "requiredTime": 166800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 26700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 288,
+  "contentsType": 2,
+  "level": 91,
+  "requiredTime": 170400,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 27000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 289,
+  "contentsType": 2,
+  "level": 92,
+  "requiredTime": 174000,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 27300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 290,
+  "contentsType": 2,
+  "level": 93,
+  "requiredTime": 177600,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 27600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 291,
+  "contentsType": 2,
+  "level": 94,
+  "requiredTime": 181200,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 27900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 292,
+  "contentsType": 2,
+  "level": 95,
+  "requiredTime": 184800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 28200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 293,
+  "contentsType": 2,
+  "level": 96,
+  "requiredTime": 188400,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 28500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 294,
+  "contentsType": 2,
+  "level": 97,
+  "requiredTime": 192000,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 28800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 295,
+  "contentsType": 2,
+  "level": 98,
+  "requiredTime": 195600,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 29100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 296,
+  "contentsType": 2,
+  "level": 99,
+  "requiredTime": 199200,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 29400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 297,
+  "contentsType": 2,
+  "level": 100,
+  "requiredTime": 202800,
+  "itemMstId": 3090004,
+  "num": 10000,
+  "quickFinishRequiredGem": 29700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 298,
+  "contentsType": 3,
+  "level": 2,
+  "requiredTime": 300,
+  "itemMstId": 3090005,
+  "num": 1000,
+  "quickFinishRequiredGem": 300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 299,
+  "contentsType": 3,
+  "level": 3,
+  "requiredTime": 600,
+  "itemMstId": 3090005,
+  "num": 1680,
+  "quickFinishRequiredGem": 600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 300,
+  "contentsType": 3,
+  "level": 4,
+  "requiredTime": 900,
+  "itemMstId": 3090005,
+  "num": 2406,
+  "quickFinishRequiredGem": 900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 301,
+  "contentsType": 3,
+  "level": 5,
+  "requiredTime": 1200,
+  "itemMstId": 3090005,
+  "num": 3155,
+  "quickFinishRequiredGem": 1200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 302,
+  "contentsType": 3,
+  "level": 6,
+  "requiredTime": 1500,
+  "itemMstId": 3090005,
+  "num": 3914,
+  "quickFinishRequiredGem": 1500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 303,
+  "contentsType": 3,
+  "level": 7,
+  "requiredTime": 1800,
+  "itemMstId": 3090005,
+  "num": 4679,
+  "quickFinishRequiredGem": 1800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 304,
+  "contentsType": 3,
+  "level": 8,
+  "requiredTime": 2100,
+  "itemMstId": 3090005,
+  "num": 5446,
+  "quickFinishRequiredGem": 2100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 305,
+  "contentsType": 3,
+  "level": 9,
+  "requiredTime": 2400,
+  "itemMstId": 3090005,
+  "num": 6214,
+  "quickFinishRequiredGem": 2400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 306,
+  "contentsType": 3,
+  "level": 10,
+  "requiredTime": 2700,
+  "itemMstId": 3090005,
+  "num": 6983,
+  "quickFinishRequiredGem": 2700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 307,
+  "contentsType": 3,
+  "level": 11,
+  "requiredTime": 3000,
+  "itemMstId": 3090005,
+  "num": 7752,
+  "quickFinishRequiredGem": 3000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 308,
+  "contentsType": 3,
+  "level": 12,
+  "requiredTime": 3600,
+  "itemMstId": 3090005,
+  "num": 8521,
+  "quickFinishRequiredGem": 3300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 309,
+  "contentsType": 3,
+  "level": 13,
+  "requiredTime": 4200,
+  "itemMstId": 3090005,
+  "num": 9290,
+  "quickFinishRequiredGem": 3600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 310,
+  "contentsType": 3,
+  "level": 14,
+  "requiredTime": 4800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 3900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 311,
+  "contentsType": 3,
+  "level": 15,
+  "requiredTime": 5400,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 4200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 312,
+  "contentsType": 3,
+  "level": 16,
+  "requiredTime": 6000,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 4500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 313,
+  "contentsType": 3,
+  "level": 17,
+  "requiredTime": 6600,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 4800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 314,
+  "contentsType": 3,
+  "level": 18,
+  "requiredTime": 7200,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 5100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 315,
+  "contentsType": 3,
+  "level": 19,
+  "requiredTime": 7800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 5400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 316,
+  "contentsType": 3,
+  "level": 20,
+  "requiredTime": 8400,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 5700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 317,
+  "contentsType": 3,
+  "level": 21,
+  "requiredTime": 9300,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 6000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 318,
+  "contentsType": 3,
+  "level": 22,
+  "requiredTime": 10200,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 6300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 319,
+  "contentsType": 3,
+  "level": 23,
+  "requiredTime": 11100,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 6600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 320,
+  "contentsType": 3,
+  "level": 24,
+  "requiredTime": 12000,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 6900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 321,
+  "contentsType": 3,
+  "level": 25,
+  "requiredTime": 12900,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 7200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 322,
+  "contentsType": 3,
+  "level": 26,
+  "requiredTime": 13800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 7500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 323,
+  "contentsType": 3,
+  "level": 27,
+  "requiredTime": 14700,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 7800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 324,
+  "contentsType": 3,
+  "level": 28,
+  "requiredTime": 15600,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 8100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 325,
+  "contentsType": 3,
+  "level": 29,
+  "requiredTime": 16500,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 8400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 326,
+  "contentsType": 3,
+  "level": 30,
+  "requiredTime": 17400,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 8700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 327,
+  "contentsType": 3,
+  "level": 31,
+  "requiredTime": 18300,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 9000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 328,
+  "contentsType": 3,
+  "level": 32,
+  "requiredTime": 19800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 9300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 329,
+  "contentsType": 3,
+  "level": 33,
+  "requiredTime": 21300,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 9600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 330,
+  "contentsType": 3,
+  "level": 34,
+  "requiredTime": 22800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 9900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 331,
+  "contentsType": 3,
+  "level": 35,
+  "requiredTime": 24300,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 10200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 332,
+  "contentsType": 3,
+  "level": 36,
+  "requiredTime": 25800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 10500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 333,
+  "contentsType": 3,
+  "level": 37,
+  "requiredTime": 27300,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 10800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 334,
+  "contentsType": 3,
+  "level": 38,
+  "requiredTime": 28800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 11100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 335,
+  "contentsType": 3,
+  "level": 39,
+  "requiredTime": 30300,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 11400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 336,
+  "contentsType": 3,
+  "level": 40,
+  "requiredTime": 31800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 11700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 337,
+  "contentsType": 3,
+  "level": 41,
+  "requiredTime": 33900,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 12000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 338,
+  "contentsType": 3,
+  "level": 42,
+  "requiredTime": 36000,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 12300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 339,
+  "contentsType": 3,
+  "level": 43,
+  "requiredTime": 38100,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 12600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 340,
+  "contentsType": 3,
+  "level": 44,
+  "requiredTime": 40200,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 12900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 341,
+  "contentsType": 3,
+  "level": 45,
+  "requiredTime": 42300,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 13200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 342,
+  "contentsType": 3,
+  "level": 46,
+  "requiredTime": 44400,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 13500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 343,
+  "contentsType": 3,
+  "level": 47,
+  "requiredTime": 46500,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 13800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 344,
+  "contentsType": 3,
+  "level": 48,
+  "requiredTime": 48600,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 14100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 345,
+  "contentsType": 3,
+  "level": 49,
+  "requiredTime": 50700,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 14400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 346,
+  "contentsType": 3,
+  "level": 50,
+  "requiredTime": 52800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 14700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 347,
+  "contentsType": 3,
+  "level": 51,
+  "requiredTime": 54900,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 15000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 348,
+  "contentsType": 3,
+  "level": 52,
+  "requiredTime": 57000,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 15300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 349,
+  "contentsType": 3,
+  "level": 53,
+  "requiredTime": 59100,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 15600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 350,
+  "contentsType": 3,
+  "level": 54,
+  "requiredTime": 61200,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 15900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 351,
+  "contentsType": 3,
+  "level": 55,
+  "requiredTime": 63300,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 16200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 352,
+  "contentsType": 3,
+  "level": 56,
+  "requiredTime": 65400,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 16500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 353,
+  "contentsType": 3,
+  "level": 57,
+  "requiredTime": 67500,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 16800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 354,
+  "contentsType": 3,
+  "level": 58,
+  "requiredTime": 69600,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 17100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 355,
+  "contentsType": 3,
+  "level": 59,
+  "requiredTime": 71700,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 17400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 356,
+  "contentsType": 3,
+  "level": 60,
+  "requiredTime": 73800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 17700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 357,
+  "contentsType": 3,
+  "level": 61,
+  "requiredTime": 75900,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 18000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 358,
+  "contentsType": 3,
+  "level": 62,
+  "requiredTime": 78000,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 18300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 359,
+  "contentsType": 3,
+  "level": 63,
+  "requiredTime": 80100,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 18600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 360,
+  "contentsType": 3,
+  "level": 64,
+  "requiredTime": 82200,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 18900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 361,
+  "contentsType": 3,
+  "level": 65,
+  "requiredTime": 84300,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 19200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 362,
+  "contentsType": 3,
+  "level": 66,
+  "requiredTime": 86400,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 19500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 363,
+  "contentsType": 3,
+  "level": 67,
+  "requiredTime": 88500,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 19800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 364,
+  "contentsType": 3,
+  "level": 68,
+  "requiredTime": 90600,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 20100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 365,
+  "contentsType": 3,
+  "level": 69,
+  "requiredTime": 92700,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 20400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 366,
+  "contentsType": 3,
+  "level": 70,
+  "requiredTime": 94800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 20700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 367,
+  "contentsType": 3,
+  "level": 71,
+  "requiredTime": 98400,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 21000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 368,
+  "contentsType": 3,
+  "level": 72,
+  "requiredTime": 102000,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 21300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 369,
+  "contentsType": 3,
+  "level": 73,
+  "requiredTime": 105600,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 21600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 370,
+  "contentsType": 3,
+  "level": 74,
+  "requiredTime": 109200,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 21900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 371,
+  "contentsType": 3,
+  "level": 75,
+  "requiredTime": 112800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 22200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 372,
+  "contentsType": 3,
+  "level": 76,
+  "requiredTime": 116400,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 22500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 373,
+  "contentsType": 3,
+  "level": 77,
+  "requiredTime": 120000,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 22800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 374,
+  "contentsType": 3,
+  "level": 78,
+  "requiredTime": 123600,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 23100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 375,
+  "contentsType": 3,
+  "level": 79,
+  "requiredTime": 127200,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 23400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 376,
+  "contentsType": 3,
+  "level": 80,
+  "requiredTime": 130800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 23700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 377,
+  "contentsType": 3,
+  "level": 81,
+  "requiredTime": 134400,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 24000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 378,
+  "contentsType": 3,
+  "level": 82,
+  "requiredTime": 138000,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 24300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 379,
+  "contentsType": 3,
+  "level": 83,
+  "requiredTime": 141600,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 24600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 380,
+  "contentsType": 3,
+  "level": 84,
+  "requiredTime": 145200,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 24900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 381,
+  "contentsType": 3,
+  "level": 85,
+  "requiredTime": 148800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 25200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 382,
+  "contentsType": 3,
+  "level": 86,
+  "requiredTime": 152400,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 25500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 383,
+  "contentsType": 3,
+  "level": 87,
+  "requiredTime": 156000,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 25800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 384,
+  "contentsType": 3,
+  "level": 88,
+  "requiredTime": 159600,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 26100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 385,
+  "contentsType": 3,
+  "level": 89,
+  "requiredTime": 163200,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 26400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 386,
+  "contentsType": 3,
+  "level": 90,
+  "requiredTime": 166800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 26700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 387,
+  "contentsType": 3,
+  "level": 91,
+  "requiredTime": 170400,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 27000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 388,
+  "contentsType": 3,
+  "level": 92,
+  "requiredTime": 174000,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 27300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 389,
+  "contentsType": 3,
+  "level": 93,
+  "requiredTime": 177600,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 27600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 390,
+  "contentsType": 3,
+  "level": 94,
+  "requiredTime": 181200,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 27900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 391,
+  "contentsType": 3,
+  "level": 95,
+  "requiredTime": 184800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 28200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 392,
+  "contentsType": 3,
+  "level": 96,
+  "requiredTime": 188400,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 28500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 393,
+  "contentsType": 3,
+  "level": 97,
+  "requiredTime": 192000,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 28800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 394,
+  "contentsType": 3,
+  "level": 98,
+  "requiredTime": 195600,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 29100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 395,
+  "contentsType": 3,
+  "level": 99,
+  "requiredTime": 199200,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 29400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 396,
+  "contentsType": 3,
+  "level": 100,
+  "requiredTime": 202800,
+  "itemMstId": 3090005,
+  "num": 10000,
+  "quickFinishRequiredGem": 29700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 397,
+  "contentsType": 4,
+  "level": 2,
+  "requiredTime": 300,
+  "itemMstId": 3090002,
+  "num": 1000,
+  "quickFinishRequiredGem": 300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 398,
+  "contentsType": 4,
+  "level": 3,
+  "requiredTime": 600,
+  "itemMstId": 3090002,
+  "num": 1680,
+  "quickFinishRequiredGem": 600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 399,
+  "contentsType": 4,
+  "level": 4,
+  "requiredTime": 900,
+  "itemMstId": 3090002,
+  "num": 2406,
+  "quickFinishRequiredGem": 900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 400,
+  "contentsType": 4,
+  "level": 5,
+  "requiredTime": 1200,
+  "itemMstId": 3090002,
+  "num": 3155,
+  "quickFinishRequiredGem": 1200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 401,
+  "contentsType": 4,
+  "level": 6,
+  "requiredTime": 1500,
+  "itemMstId": 3090002,
+  "num": 3914,
+  "quickFinishRequiredGem": 1500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 402,
+  "contentsType": 4,
+  "level": 7,
+  "requiredTime": 1800,
+  "itemMstId": 3090002,
+  "num": 4679,
+  "quickFinishRequiredGem": 1800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 403,
+  "contentsType": 4,
+  "level": 8,
+  "requiredTime": 2100,
+  "itemMstId": 3090002,
+  "num": 5446,
+  "quickFinishRequiredGem": 2100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 404,
+  "contentsType": 4,
+  "level": 9,
+  "requiredTime": 2400,
+  "itemMstId": 3090002,
+  "num": 6214,
+  "quickFinishRequiredGem": 2400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 405,
+  "contentsType": 4,
+  "level": 10,
+  "requiredTime": 2700,
+  "itemMstId": 3090002,
+  "num": 6983,
+  "quickFinishRequiredGem": 2700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 406,
+  "contentsType": 4,
+  "level": 11,
+  "requiredTime": 3000,
+  "itemMstId": 3090002,
+  "num": 7752,
+  "quickFinishRequiredGem": 3000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 407,
+  "contentsType": 4,
+  "level": 12,
+  "requiredTime": 3600,
+  "itemMstId": 3090002,
+  "num": 8521,
+  "quickFinishRequiredGem": 3300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 408,
+  "contentsType": 4,
+  "level": 13,
+  "requiredTime": 4200,
+  "itemMstId": 3090002,
+  "num": 9290,
+  "quickFinishRequiredGem": 3600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 409,
+  "contentsType": 4,
+  "level": 14,
+  "requiredTime": 4800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 3900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 410,
+  "contentsType": 4,
+  "level": 15,
+  "requiredTime": 5400,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 4200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 411,
+  "contentsType": 4,
+  "level": 16,
+  "requiredTime": 6000,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 4500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 412,
+  "contentsType": 4,
+  "level": 17,
+  "requiredTime": 6600,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 4800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 413,
+  "contentsType": 4,
+  "level": 18,
+  "requiredTime": 7200,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 5100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 414,
+  "contentsType": 4,
+  "level": 19,
+  "requiredTime": 7800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 5400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 415,
+  "contentsType": 4,
+  "level": 20,
+  "requiredTime": 8400,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 5700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 416,
+  "contentsType": 4,
+  "level": 21,
+  "requiredTime": 9300,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 6000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 417,
+  "contentsType": 4,
+  "level": 22,
+  "requiredTime": 10200,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 6300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 418,
+  "contentsType": 4,
+  "level": 23,
+  "requiredTime": 11100,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 6600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 419,
+  "contentsType": 4,
+  "level": 24,
+  "requiredTime": 12000,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 6900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 420,
+  "contentsType": 4,
+  "level": 25,
+  "requiredTime": 12900,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 7200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 421,
+  "contentsType": 4,
+  "level": 26,
+  "requiredTime": 13800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 7500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 422,
+  "contentsType": 4,
+  "level": 27,
+  "requiredTime": 14700,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 7800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 423,
+  "contentsType": 4,
+  "level": 28,
+  "requiredTime": 15600,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 8100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 424,
+  "contentsType": 4,
+  "level": 29,
+  "requiredTime": 16500,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 8400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 425,
+  "contentsType": 4,
+  "level": 30,
+  "requiredTime": 17400,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 8700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 426,
+  "contentsType": 4,
+  "level": 31,
+  "requiredTime": 18300,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 9000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 427,
+  "contentsType": 4,
+  "level": 32,
+  "requiredTime": 19800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 9300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 428,
+  "contentsType": 4,
+  "level": 33,
+  "requiredTime": 21300,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 9600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 429,
+  "contentsType": 4,
+  "level": 34,
+  "requiredTime": 22800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 9900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 430,
+  "contentsType": 4,
+  "level": 35,
+  "requiredTime": 24300,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 10200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 431,
+  "contentsType": 4,
+  "level": 36,
+  "requiredTime": 25800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 10500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 432,
+  "contentsType": 4,
+  "level": 37,
+  "requiredTime": 27300,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 10800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 433,
+  "contentsType": 4,
+  "level": 38,
+  "requiredTime": 28800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 11100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 434,
+  "contentsType": 4,
+  "level": 39,
+  "requiredTime": 30300,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 11400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 435,
+  "contentsType": 4,
+  "level": 40,
+  "requiredTime": 31800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 11700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 436,
+  "contentsType": 4,
+  "level": 41,
+  "requiredTime": 33900,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 12000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 437,
+  "contentsType": 4,
+  "level": 42,
+  "requiredTime": 36000,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 12300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 438,
+  "contentsType": 4,
+  "level": 43,
+  "requiredTime": 38100,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 12600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 439,
+  "contentsType": 4,
+  "level": 44,
+  "requiredTime": 40200,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 12900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 440,
+  "contentsType": 4,
+  "level": 45,
+  "requiredTime": 42300,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 13200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 441,
+  "contentsType": 4,
+  "level": 46,
+  "requiredTime": 44400,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 13500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 442,
+  "contentsType": 4,
+  "level": 47,
+  "requiredTime": 46500,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 13800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 443,
+  "contentsType": 4,
+  "level": 48,
+  "requiredTime": 48600,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 14100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 444,
+  "contentsType": 4,
+  "level": 49,
+  "requiredTime": 50700,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 14400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 445,
+  "contentsType": 4,
+  "level": 50,
+  "requiredTime": 52800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 14700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 446,
+  "contentsType": 4,
+  "level": 51,
+  "requiredTime": 54900,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 15000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 447,
+  "contentsType": 4,
+  "level": 52,
+  "requiredTime": 57000,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 15300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 448,
+  "contentsType": 4,
+  "level": 53,
+  "requiredTime": 59100,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 15600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 449,
+  "contentsType": 4,
+  "level": 54,
+  "requiredTime": 61200,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 15900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 450,
+  "contentsType": 4,
+  "level": 55,
+  "requiredTime": 63300,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 16200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 451,
+  "contentsType": 4,
+  "level": 56,
+  "requiredTime": 65400,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 16500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 452,
+  "contentsType": 4,
+  "level": 57,
+  "requiredTime": 67500,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 16800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 453,
+  "contentsType": 4,
+  "level": 58,
+  "requiredTime": 69600,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 17100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 454,
+  "contentsType": 4,
+  "level": 59,
+  "requiredTime": 71700,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 17400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 455,
+  "contentsType": 4,
+  "level": 60,
+  "requiredTime": 73800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 17700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 456,
+  "contentsType": 4,
+  "level": 61,
+  "requiredTime": 75900,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 18000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 457,
+  "contentsType": 4,
+  "level": 62,
+  "requiredTime": 78000,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 18300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 458,
+  "contentsType": 4,
+  "level": 63,
+  "requiredTime": 80100,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 18600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 459,
+  "contentsType": 4,
+  "level": 64,
+  "requiredTime": 82200,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 18900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 460,
+  "contentsType": 4,
+  "level": 65,
+  "requiredTime": 84300,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 19200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 461,
+  "contentsType": 4,
+  "level": 66,
+  "requiredTime": 86400,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 19500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 462,
+  "contentsType": 4,
+  "level": 67,
+  "requiredTime": 88500,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 19800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 463,
+  "contentsType": 4,
+  "level": 68,
+  "requiredTime": 90600,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 20100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 464,
+  "contentsType": 4,
+  "level": 69,
+  "requiredTime": 92700,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 20400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 465,
+  "contentsType": 4,
+  "level": 70,
+  "requiredTime": 94800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 20700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 466,
+  "contentsType": 4,
+  "level": 71,
+  "requiredTime": 98400,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 21000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 467,
+  "contentsType": 4,
+  "level": 72,
+  "requiredTime": 102000,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 21300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 468,
+  "contentsType": 4,
+  "level": 73,
+  "requiredTime": 105600,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 21600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 469,
+  "contentsType": 4,
+  "level": 74,
+  "requiredTime": 109200,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 21900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 470,
+  "contentsType": 4,
+  "level": 75,
+  "requiredTime": 112800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 22200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 471,
+  "contentsType": 4,
+  "level": 76,
+  "requiredTime": 116400,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 22500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 472,
+  "contentsType": 4,
+  "level": 77,
+  "requiredTime": 120000,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 22800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 473,
+  "contentsType": 4,
+  "level": 78,
+  "requiredTime": 123600,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 23100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 474,
+  "contentsType": 4,
+  "level": 79,
+  "requiredTime": 127200,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 23400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 475,
+  "contentsType": 4,
+  "level": 80,
+  "requiredTime": 130800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 23700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 476,
+  "contentsType": 4,
+  "level": 81,
+  "requiredTime": 134400,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 24000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 477,
+  "contentsType": 4,
+  "level": 82,
+  "requiredTime": 138000,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 24300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 478,
+  "contentsType": 4,
+  "level": 83,
+  "requiredTime": 141600,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 24600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 479,
+  "contentsType": 4,
+  "level": 84,
+  "requiredTime": 145200,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 24900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 480,
+  "contentsType": 4,
+  "level": 85,
+  "requiredTime": 148800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 25200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 481,
+  "contentsType": 4,
+  "level": 86,
+  "requiredTime": 152400,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 25500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 482,
+  "contentsType": 4,
+  "level": 87,
+  "requiredTime": 156000,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 25800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 483,
+  "contentsType": 4,
+  "level": 88,
+  "requiredTime": 159600,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 26100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 484,
+  "contentsType": 4,
+  "level": 89,
+  "requiredTime": 163200,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 26400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 485,
+  "contentsType": 4,
+  "level": 90,
+  "requiredTime": 166800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 26700
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 486,
+  "contentsType": 4,
+  "level": 91,
+  "requiredTime": 170400,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 27000
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 487,
+  "contentsType": 4,
+  "level": 92,
+  "requiredTime": 174000,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 27300
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 488,
+  "contentsType": 4,
+  "level": 93,
+  "requiredTime": 177600,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 27600
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 489,
+  "contentsType": 4,
+  "level": 94,
+  "requiredTime": 181200,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 27900
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 490,
+  "contentsType": 4,
+  "level": 95,
+  "requiredTime": 184800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 28200
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 491,
+  "contentsType": 4,
+  "level": 96,
+  "requiredTime": 188400,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 28500
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 492,
+  "contentsType": 4,
+  "level": 97,
+  "requiredTime": 192000,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 28800
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 493,
+  "contentsType": 4,
+  "level": 98,
+  "requiredTime": 195600,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 29100
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 494,
+  "contentsType": 4,
+  "level": 99,
+  "requiredTime": 199200,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 29400
+ },
+ {
+  "gardenLandscapingLevelUpMstId": 495,
+  "contentsType": 4,
+  "level": 100,
+  "requiredTime": 202800,
+  "itemMstId": 3090002,
+  "num": 10000,
+  "quickFinishRequiredGem": 29700
+ }
+]

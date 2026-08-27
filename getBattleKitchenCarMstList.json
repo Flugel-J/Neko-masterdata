@@ -1,0 +1,90 @@
+[
+ {
+  "battleKitchenCarMstId": 1,
+  "bodyKitchenCarPartsMstId": 90101,
+  "plateKitchenCarPartsMstId": 0,
+  "boardKitchenCarPartsMstId": 0,
+  "stickerKitchenCarPartsMstId": 0,
+  "stickerPlaceType": 0
+ },
+ {
+  "battleKitchenCarMstId": 2,
+  "bodyKitchenCarPartsMstId": 90101,
+  "plateKitchenCarPartsMstId": 2003,
+  "boardKitchenCarPartsMstId": 0,
+  "stickerKitchenCarPartsMstId": 0,
+  "stickerPlaceType": 0
+ },
+ {
+  "battleKitchenCarMstId": 3,
+  "bodyKitchenCarPartsMstId": 90101,
+  "plateKitchenCarPartsMstId": 0,
+  "boardKitchenCarPartsMstId": 90302,
+  "stickerKitchenCarPartsMstId": 0,
+  "stickerPlaceType": 0
+ },
+ {
+  "battleKitchenCarMstId": 4,
+  "bodyKitchenCarPartsMstId": 90101,
+  "plateKitchenCarPartsMstId": 0,
+  "boardKitchenCarPartsMstId": 0,
+  "stickerKitchenCarPartsMstId": 3001,
+  "stickerPlaceType": 1
+ },
+ {
+  "battleKitchenCarMstId": 5,
+  "bodyKitchenCarPartsMstId": 90101,
+  "plateKitchenCarPartsMstId": 2003,
+  "boardKitchenCarPartsMstId": 90302,
+  "stickerKitchenCarPartsMstId": 3001,
+  "stickerPlaceType": 2
+ },
+ {
+  "battleKitchenCarMstId": 6,
+  "bodyKitchenCarPartsMstId": 90201,
+  "plateKitchenCarPartsMstId": 0,
+  "boardKitchenCarPartsMstId": 0,
+  "stickerKitchenCarPartsMstId": 0,
+  "stickerPlaceType": 0
+ },
+ {
+  "battleKitchenCarMstId": 7,
+  "bodyKitchenCarPartsMstId": 90301,
+  "plateKitchenCarPartsMstId": 0,
+  "boardKitchenCarPartsMstId": 0,
+  "stickerKitchenCarPartsMstId": 0,
+  "stickerPlaceType": 0
+ },
+ {
+  "battleKitchenCarMstId": 8,
+  "bodyKitchenCarPartsMstId": 90401,
+  "plateKitchenCarPartsMstId": 0,
+  "boardKitchenCarPartsMstId": 0,
+  "stickerKitchenCarPartsMstId": 0,
+  "stickerPlaceType": 0
+ },
+ {
+  "battleKitchenCarMstId": 9,
+  "bodyKitchenCarPartsMstId": 90501,
+  "plateKitchenCarPartsMstId": 0,
+  "boardKitchenCarPartsMstId": 0,
+  "stickerKitchenCarPartsMstId": 0,
+  "stickerPlaceType": 0
+ },
+ {
+  "battleKitchenCarMstId": 901105,
+  "bodyKitchenCarPartsMstId": 901105,
+  "plateKitchenCarPartsMstId": 0,
+  "boardKitchenCarPartsMstId": 0,
+  "stickerKitchenCarPartsMstId": 0,
+  "stickerPlaceType": 0
+ },
+ {
+  "battleKitchenCarMstId": 901110,
+  "bodyKitchenCarPartsMstId": 901110,
+  "plateKitchenCarPartsMstId": 0,
+  "boardKitchenCarPartsMstId": 0,
+  "stickerKitchenCarPartsMstId": 0,
+  "stickerPlaceType": 0
+ }
+]

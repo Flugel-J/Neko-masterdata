@@ -1,0 +1,32 @@
+[
+ {
+  "gardenLandscapingMstId": 1,
+  "name": "Beginnings Flower",
+  "description": "Beginnings Flower",
+  "contentsType": 99
+ },
+ {
+  "gardenLandscapingMstId": 2,
+  "name": "Radiance Flower",
+  "description": "Radiance Flower",
+  "contentsType": 4
+ },
+ {
+  "gardenLandscapingMstId": 3,
+  "name": "Challenge Flower",
+  "description": "Challenge Flower",
+  "contentsType": 2
+ },
+ {
+  "gardenLandscapingMstId": 4,
+  "name": "Cooperation Flower",
+  "description": "Cooperation Flower",
+  "contentsType": 1
+ },
+ {
+  "gardenLandscapingMstId": 5,
+  "name": "Mystery Flower",
+  "description": "Mystery Flower",
+  "contentsType": 3
+ }
+]

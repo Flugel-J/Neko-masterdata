@@ -1,0 +1,92 @@
+[
+ {
+  "questCategoryMstId": 0,
+  "categoryType": 1,
+  "name": "Main Quest",
+  "resourceId": 1,
+  "sortOrder": 1,
+  "unlockRank": 0,
+  "prevQuestStageMstId": 0
+ },
+ {
+  "questCategoryMstId": 4,
+  "categoryType": 2,
+  "name": "Gift Quests",
+  "resourceId": 2,
+  "sortOrder": 2,
+  "unlockRank": 0,
+  "prevQuestStageMstId": 110101020
+ },
+ {
+  "questCategoryMstId": 0,
+  "categoryType": 3,
+  "name": "Event Quests",
+  "resourceId": 3,
+  "sortOrder": 3,
+  "unlockRank": 0,
+  "prevQuestStageMstId": 0
+ },
+ {
+  "questCategoryMstId": 2,
+  "categoryType": 4,
+  "name": "World Cruise",
+  "resourceId": 4,
+  "sortOrder": 4,
+  "unlockRank": 5,
+  "prevQuestStageMstId": 110101002
+ },
+ {
+  "questCategoryMstId": 6,
+  "categoryType": 5,
+  "name": "Contest",
+  "resourceId": 5,
+  "sortOrder": 5,
+  "unlockRank": 0,
+  "prevQuestStageMstId": 110101050
+ },
+ {
+  "questCategoryMstId": 3,
+  "categoryType": 6,
+  "name": "Mystery House",
+  "resourceId": 6,
+  "sortOrder": 6,
+  "unlockRank": 0,
+  "prevQuestStageMstId": 110101150
+ },
+ {
+  "questCategoryMstId": 7,
+  "categoryType": 7,
+  "name": "VR Cat Tower",
+  "resourceId": 7,
+  "sortOrder": 7,
+  "unlockRank": 0,
+  "prevQuestStageMstId": 110101060
+ },
+ {
+  "questCategoryMstId": 8,
+  "categoryType": 8,
+  "name": "Concert",
+  "resourceId": 8,
+  "sortOrder": 8,
+  "unlockRank": 0,
+  "prevQuestStageMstId": 110101080
+ },
+ {
+  "questCategoryMstId": 11,
+  "categoryType": 10,
+  "name": "Pawmpion Cup",
+  "resourceId": 10,
+  "sortOrder": 10,
+  "unlockRank": 5,
+  "prevQuestStageMstId": 110101002
+ },
+ {
+  "questCategoryMstId": 0,
+  "categoryType": 11,
+  "name": "Random Battle",
+  "resourceId": 11,
+  "sortOrder": 11,
+  "unlockRank": 1,
+  "prevQuestStageMstId": 0
+ }
+]

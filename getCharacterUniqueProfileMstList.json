@@ -1,0 +1,3362 @@
+[
+ {
+  "characterUniqueProfileMstId": 1010101,
+  "characterUniqueMstId": 10101,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010102,
+  "characterUniqueMstId": 10101,
+  "title": "Affiliation",
+  "detail": "La Soleil",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010103,
+  "characterUniqueMstId": 10101,
+  "title": "Height",
+  "detail": "152cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010104,
+  "characterUniqueMstId": 10101,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010105,
+  "characterUniqueMstId": 10101,
+  "title": "Self-Introduction",
+  "detail": "Chocola is the star Neko of the patisserie, La Soleil!\nWhat she loves most is Master and her twin little sister, Vanilla♪\nNow that lots of Nekos are working at the shop, Chocola will do her best as your senpai!\nBut... If I work really hard, can you spoil me a bit too?\nMeooow♪ Thank you so much, Master!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010106,
+  "characterUniqueMstId": 10101,
+  "title": "Features",
+  "detail": "Shorthair: Despite having short tail and ear fur, her hair grows incredibly long.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010107,
+  "characterUniqueMstId": 10101,
+  "title": "Birthday",
+  "detail": "Jul 3",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010201,
+  "characterUniqueMstId": 10102,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010202,
+  "characterUniqueMstId": 10102,
+  "title": "Affiliation",
+  "detail": "La Soleil",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010203,
+  "characterUniqueMstId": 10102,
+  "title": "Height",
+  "detail": "149cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010204,
+  "characterUniqueMstId": 10102,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010205,
+  "characterUniqueMstId": 10102,
+  "title": "Self-Introduction",
+  "detail": "I'm Vanilla, a Neko who works at La Soleil with Chocola.\nWhat I love most is Chocola. I mean, I don't dislike Master...\nLately, it's been tough with all the new Nekos joining... I thought I'd finally get a break, but now I have to train them.\nYou're making me work too much, so it's only fair if you spoil me a little... Master?\nHehe♪ Or would you like me to spoil you instead since you've been working too hard?",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010206,
+  "characterUniqueMstId": 10102,
+  "title": "Features",
+  "detail": "Shorthair: Despite having short tail and ear fur, her hair grows incredibly long.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010207,
+  "characterUniqueMstId": 10102,
+  "title": "Birthday",
+  "detail": "Jul 3",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010301,
+  "characterUniqueMstId": 10103,
+  "title": "Cat Breed",
+  "detail": "Chinchilla Persian",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010302,
+  "characterUniqueMstId": 10103,
+  "title": "Affiliation",
+  "detail": "La Soleil",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010303,
+  "characterUniqueMstId": 10103,
+  "title": "Height",
+  "detail": "143cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010304,
+  "characterUniqueMstId": 10103,
+  "title": "Neko Age",
+  "detail": "Age 2",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010305,
+  "characterUniqueMstId": 10103,
+  "title": "Self-Introduction",
+  "detail": "I'm Fraise, the secretary of the patisserie, La Soleil.\nI'm new here, but I will do my very best... So please take care of me?\nFor my beloved big brothe— I mean... For my respected Master, I'll work hard!\nUm... When we're not working, can I call you Big Brother?\nHehe... I'm looking forward to that time, Master♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010306,
+  "characterUniqueMstId": 10103,
+  "title": "Features",
+  "detail": "Longhair: She has a short tail.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010307,
+  "characterUniqueMstId": 10103,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010401,
+  "characterUniqueMstId": 10104,
+  "title": "Cat Breed",
+  "detail": "Munchkin",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010402,
+  "characterUniqueMstId": 10104,
+  "title": "Affiliation",
+  "detail": "La Soleil",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010403,
+  "characterUniqueMstId": 10104,
+  "title": "Height",
+  "detail": "142cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010404,
+  "characterUniqueMstId": 10104,
+  "title": "Neko Age",
+  "detail": "Age 4",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010405,
+  "characterUniqueMstId": 10104,
+  "title": "Self-Introduction",
+  "detail": "I'm Azuki, the eldest Neko of the Minazuki family.\nBetween my good-for-nothing Master and my little sisters, I don't even have time to slack off.\nI still can't take my eyes off Donuts...and now I hear some new Nekos are joining too?\nHey, hey... I'm not your wife or your mom, you understand that right?\nF-fine... I guess I'll work hard with you!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010406,
+  "characterUniqueMstId": 10104,
+  "title": "Features",
+  "detail": "Shorthair: She has short legs.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010407,
+  "characterUniqueMstId": 10104,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010501,
+  "characterUniqueMstId": 10105,
+  "title": "Cat Breed",
+  "detail": "Maine Coon",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010502,
+  "characterUniqueMstId": 10105,
+  "title": "Affiliation",
+  "detail": "La Soleil",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010503,
+  "characterUniqueMstId": 10105,
+  "title": "Height",
+  "detail": "168cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010504,
+  "characterUniqueMstId": 10105,
+  "title": "Neko Age",
+  "detail": "Age 2",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010505,
+  "characterUniqueMstId": 10105,
+  "title": "Self-Introduction",
+  "detail": "I'm Coconut, a Neko who works at La Soleil!\nI might be a little too strong, and I might mess up sometimes, but everyone at the shop counts on me.\nWell, um... Azuki scolds me about all sorts of things pretty much every day.\nUgh... I still feel totally hopeless sometimes, but... You won't give up on me, right?\nHehe, thanks Big Brother♪ I'll do my best!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010506,
+  "characterUniqueMstId": 10105,
+  "title": "Features",
+  "detail": "Longhair: She is a large breed.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010507,
+  "characterUniqueMstId": 10105,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010601,
+  "characterUniqueMstId": 10106,
+  "title": "Cat Breed",
+  "detail": "American Curl",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010602,
+  "characterUniqueMstId": 10106,
+  "title": "Affiliation",
+  "detail": "La Soleil",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010603,
+  "characterUniqueMstId": 10106,
+  "title": "Height",
+  "detail": "157cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010604,
+  "characterUniqueMstId": 10106,
+  "title": "Neko Age",
+  "detail": "Age 3",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010605,
+  "characterUniqueMstId": 10106,
+  "title": "Self-Introduction",
+  "detail": "I'm Maple, a Neko who works at Soleil and knows her tea♪\nI get to work doing what I love, and I even get chances to play guitar and sing. I love that I'm free to do things my way.\nOnce the new Nekos arrive, I should warn them to watch out for that guy's natural smooth-talking ways.\nEven if you think you'll be fine, you'll just end up like me...\nCome on, take responsibility... You have to make us even happier!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010606,
+  "characterUniqueMstId": 10106,
+  "title": "Features",
+  "detail": "Longhair: She is a large breed.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010607,
+  "characterUniqueMstId": 10106,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010701,
+  "characterUniqueMstId": 10107,
+  "title": "Cat Breed",
+  "detail": "Scottish Fold",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010702,
+  "characterUniqueMstId": 10107,
+  "title": "Affiliation",
+  "detail": "La Soleil",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010703,
+  "characterUniqueMstId": 10107,
+  "title": "Height",
+  "detail": "150cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010704,
+  "characterUniqueMstId": 10107,
+  "title": "Neko Age",
+  "detail": "Age 3",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010705,
+  "characterUniqueMstId": 10107,
+  "title": "Self-Introduction",
+  "detail": "I'm Cinnamon♪ I'm a Neko who works at Soleil.\nI'm super close with Maple, we play music together♪\nEven when the new Nekos arrive, please make sure you still give us lots of love too?\nAh, when I say \"love\"... I-I don't mean it like that...\nMeow~♪ If you pampered me somewhere like that... C-Cinnamon would just...melt~!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010706,
+  "characterUniqueMstId": 10107,
+  "title": "Features",
+  "detail": "Shorthair: Her ears are folded.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1010707,
+  "characterUniqueMstId": 10107,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020101,
+  "characterUniqueMstId": 10201,
+  "title": "Cat Breed",
+  "detail": "Japanese Bobtail Longhair",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020102,
+  "characterUniqueMstId": 10201,
+  "title": "Affiliation",
+  "detail": "Sakura Hills Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020103,
+  "characterUniqueMstId": 10201,
+  "title": "Height",
+  "detail": "168cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020104,
+  "characterUniqueMstId": 10201,
+  "title": "Neko Age",
+  "detail": "Age 4",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020105,
+  "characterUniqueMstId": 10201,
+  "title": "Self-Introduction",
+  "detail": "I am Yuzuha, the noble Nekomata who has chosen to lend her services to this shop.\nWith my \"Eyes That See Three Thousand Worlds\" (Mikeneko's Eyes), I shall judge your work.\nMany Nekos may gather here, but know this well… True elegance resides with me alone.\nNow, Master... Show me how you will make use of me. If you think you can command me, then give it a try!\nI will burn my worth into your very soul, so prepare yourself!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020106,
+  "characterUniqueMstId": 10201,
+  "title": "Features",
+  "detail": "Longhair: She has a short tail.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020107,
+  "characterUniqueMstId": 10201,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020201,
+  "characterUniqueMstId": 10202,
+  "title": "Cat Breed",
+  "detail": "Japanese Bobtail",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020202,
+  "characterUniqueMstId": 10202,
+  "title": "Affiliation",
+  "detail": "Sakura Hills Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020203,
+  "characterUniqueMstId": 10202,
+  "title": "Height",
+  "detail": "148cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020204,
+  "characterUniqueMstId": 10202,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020205,
+  "characterUniqueMstId": 10202,
+  "title": "Self-Introduction",
+  "detail": "Hehe, I'm Mikan from Sakura Hills Nekos College♪\nI'm Yuzuha Onee-chan's little sister, I'll be helping out too!\nI'll do my best to be super helpful to you, Manager!\nYou know, when everyone I love is smiling, it makes me really happy too♪\nSo I'll smile lots too, so keep watching me, okay, Manager?♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020206,
+  "characterUniqueMstId": 10202,
+  "title": "Features",
+  "detail": "Shorthair: She has a short tail.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020207,
+  "characterUniqueMstId": 10202,
+  "title": "Birthday",
+  "detail": "Aug 3",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2026-07-31T12:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020301,
+  "characterUniqueMstId": 10203,
+  "title": "Cat Breed",
+  "detail": "Ragdoll",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020302,
+  "characterUniqueMstId": 10203,
+  "title": "Affiliation",
+  "detail": "Sakura Hills Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020303,
+  "characterUniqueMstId": 10203,
+  "title": "Height",
+  "detail": "170cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020304,
+  "characterUniqueMstId": 10203,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020305,
+  "characterUniqueMstId": 10203,
+  "title": "Self-Introduction",
+  "detail": "Um... I-I'm Sakura, from Sakura Hills Nekos College.\nI'm very nervous... I'm sorry I can't look you in the eye while speaking...\nBut when you say kind words and praise me, it somehow gives me courage.\nI'm still clumsy, but when I manage to do my job well... please be sure to praise me.\nSo... p-please take good care of me.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020306,
+  "characterUniqueMstId": 10203,
+  "title": "Features",
+  "detail": "Longhair: Her ears and tail are darker in color.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020307,
+  "characterUniqueMstId": 10203,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020401,
+  "characterUniqueMstId": 10204,
+  "title": "Cat Breed",
+  "detail": "Somali",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020402,
+  "characterUniqueMstId": 10204,
+  "title": "Affiliation",
+  "detail": "Sakura Hills Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020403,
+  "characterUniqueMstId": 10204,
+  "title": "Height",
+  "detail": "143cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020404,
+  "characterUniqueMstId": 10204,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020405,
+  "characterUniqueMstId": 10204,
+  "title": "Self-Introduction",
+  "detail": "I am a shinobi, nameless...a shadow! Kurumi the Ninja Neko, reporting from Sakuragaoka Nekos Academy!\nMeow!? I said my name...! Even though I'm a ninja! ...and a shadow, too!\nI am my lord's hidden blade, sworn to protect my lord and strike down all my lord's enemies.\nServing customers at the shop is no problem, either! Now then! Welcome, purrr~lease enjoy~♪\nWell? Was it cute? Alright, my lord...what are your next orders?",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020406,
+  "characterUniqueMstId": 10204,
+  "title": "Features",
+  "detail": "Longhair: She has a fluffy, fox-like tail.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020407,
+  "characterUniqueMstId": 10204,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020501,
+  "characterUniqueMstId": 10205,
+  "title": "Cat Breed",
+  "detail": "American Shorthair",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020502,
+  "characterUniqueMstId": 10205,
+  "title": "Affiliation",
+  "detail": "Sakura Hills Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020503,
+  "characterUniqueMstId": 10205,
+  "title": "Height",
+  "detail": "160cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020504,
+  "characterUniqueMstId": 10205,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020505,
+  "characterUniqueMstId": 10205,
+  "title": "Self-Introduction",
+  "detail": "Hi there♪ I'm Ringo from Sakura Hills Nekos College. Are you happy today too?\nI loooove new and fun things! How about enjoying them with me too?♪\nNo need to hold back, no thanks! Leave everything to me♪\nSince I'm a bit of an Onee-san, it's okay to lean on me sometimes!\nI'll give you the sweetest time ever~♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020506,
+  "characterUniqueMstId": 10205,
+  "title": "Features",
+  "detail": "Shorthair\nShe has stripes.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020507,
+  "characterUniqueMstId": 10205,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020601,
+  "characterUniqueMstId": 10206,
+  "title": "Cat Breed",
+  "detail": "British Shorthair",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020602,
+  "characterUniqueMstId": 10206,
+  "title": "Affiliation",
+  "detail": "Sakura Hills Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020603,
+  "characterUniqueMstId": 10206,
+  "title": "Height",
+  "detail": "150cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020604,
+  "characterUniqueMstId": 10206,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020605,
+  "characterUniqueMstId": 10206,
+  "title": "Self-Introduction",
+  "detail": "I'm Sumomo~ I came from Sakura Hills Nekos College~\nUsually I just go to stray cat meetups and eat fish~\nBut this store feels really nice, so I'm gonna make it my territory~\nHmm~ Being near you feels kind of nice too~\nYour lap...can I make it my territory too~?",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020606,
+  "characterUniqueMstId": 10206,
+  "title": "Features",
+  "detail": "Shorthair: She has a round face.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020607,
+  "characterUniqueMstId": 10206,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020701,
+  "characterUniqueMstId": 10207,
+  "title": "Cat Breed",
+  "detail": "Tsushima Leopard Cat",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020702,
+  "characterUniqueMstId": 10207,
+  "title": "Affiliation",
+  "detail": "Sakura Hills Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020703,
+  "characterUniqueMstId": 10207,
+  "title": "Height",
+  "detail": "156cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020704,
+  "characterUniqueMstId": 10207,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020705,
+  "characterUniqueMstId": 10207,
+  "title": "Self-Introduction",
+  "detail": "I'm Karin from Sakura Hills Nekos College~♪\nIf something catches my eye, I can't help sharing it and making it go viral.\nAnd honestly, you're one of my favorite people at La Soleil, Manager.\nSo let's take this shop to the next level together, okay?\nFirst things first, let's take a selfie together~♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020706,
+  "characterUniqueMstId": 10207,
+  "title": "Features",
+  "detail": "Shorthair: She is a wildcat and chubby.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020707,
+  "characterUniqueMstId": 10207,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020801,
+  "characterUniqueMstId": 10208,
+  "title": "Cat Breed",
+  "detail": "Bengal Leopard Cat",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020802,
+  "characterUniqueMstId": 10208,
+  "title": "Affiliation",
+  "detail": "Sakura Hills Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020803,
+  "characterUniqueMstId": 10208,
+  "title": "Height",
+  "detail": "166 cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020804,
+  "characterUniqueMstId": 10208,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020805,
+  "characterUniqueMstId": 10208,
+  "title": "Self-Introduction",
+  "detail": "My name is Mayumi, a Bengal Leopard Cat attending Sakura Hills Nekos College.\nIt's a pleasure to meet you.\nBy the way, Manager, your appearance is looking a little unkempt.\nA sloppy appearance leads to a lack of discipline.\nAs long as I'm around, I'll make sure we uphold proper standards and follow the rules so this shop can be run to the highest standard.\nNow then, let's start by putting together a proper operations manual!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020806,
+  "characterUniqueMstId": 10208,
+  "title": "Features",
+  "detail": "Shorthair: She is a wildcat and slender.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020807,
+  "characterUniqueMstId": 10208,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020901,
+  "characterUniqueMstId": 10209,
+  "title": "Cat Breed",
+  "detail": "Iriomote Cat",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020902,
+  "characterUniqueMstId": 10209,
+  "title": "Affiliation",
+  "detail": "Sakura Hills Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020903,
+  "characterUniqueMstId": 10209,
+  "title": "Height",
+  "detail": "162 cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020904,
+  "characterUniqueMstId": 10209,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020905,
+  "characterUniqueMstId": 10209,
+  "title": "Self-Introduction",
+  "detail": "I'm Pawpaw~! Nice to meet ya~!\nI came from Sakura Hills Nekos College, and my breed is a Yamamayaa...\nWait, no, an Iriomote Cat~!\nPeople always say I'm easygoing, but am I~? I'm only a liiittle late all the time~.\nMore importantly, I brought some delicious awamori, so how about a drink, Manager~?",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020906,
+  "characterUniqueMstId": 10209,
+  "title": "Features",
+  "detail": "Shorthair: She is a wildcat and eats anything.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1020907,
+  "characterUniqueMstId": 10209,
+  "title": "Birthday",
+  "detail": "Sep 25",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2026-08-30T12:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021001,
+  "characterUniqueMstId": 10210,
+  "title": "Cat Breed",
+  "detail": "Malayan Tiger",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021002,
+  "characterUniqueMstId": 10210,
+  "title": "Affiliation",
+  "detail": "Sakura Hills Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021003,
+  "characterUniqueMstId": 10210,
+  "title": "Height",
+  "detail": "185 cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021004,
+  "characterUniqueMstId": 10210,
+  "title": "Neko Age",
+  "detail": "Age 2",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021005,
+  "characterUniqueMstId": 10210,
+  "title": "Self-Introduction",
+  "detail": "I'm Tsubaki, a tiger from Sakura Hills Nekos College.\nLet me make one thing clear from the start... I don't follow anyone unless they've earned my respect, so you'd better be prepared for that.\nThat being said, if you're the real deal, I'll give you everything I've got. Standing by my principles is my way of life!\nKeep your eyes wide open and watch how I live my life.\nSo yeah, I'm counting on you!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021006,
+  "characterUniqueMstId": 10210,
+  "title": "Features",
+  "detail": "Fierce Beast: The largest feline, but medium-sized among tigers.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021007,
+  "characterUniqueMstId": 10210,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021201,
+  "characterUniqueMstId": 10212,
+  "title": "Cat Breed",
+  "detail": "Fishing Cat",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021202,
+  "characterUniqueMstId": 10212,
+  "title": "Affiliation",
+  "detail": "Sakura Hills Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021203,
+  "characterUniqueMstId": 10212,
+  "title": "Height",
+  "detail": "151cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021204,
+  "characterUniqueMstId": 10212,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021205,
+  "characterUniqueMstId": 10212,
+  "title": "Self-Introduction",
+  "detail": "I'm Natsume from Sakura Hills Nekos College!\nI looove fish♪ Let's go fishing together sometime!\nWe can make sashimi, grilled fish, fried fish...\nI'll treat you to a delicious full-course fish feast, so you better get ready♪\nWe're going after the big one... Fiiiiiish!!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021206,
+  "characterUniqueMstId": 10212,
+  "title": "Features",
+  "detail": "Shorthair: She is a wildcat and a great swimmer.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1021207,
+  "characterUniqueMstId": 10212,
+  "title": "Birthday",
+  "detail": "Aug 31",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030101,
+  "characterUniqueMstId": 10301,
+  "title": "Cat Breed",
+  "detail": "Persia",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030102,
+  "characterUniqueMstId": 10301,
+  "title": "Affiliation",
+  "detail": "Jinhua Department Of Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030103,
+  "characterUniqueMstId": 10301,
+  "title": "Height",
+  "detail": "160cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030104,
+  "characterUniqueMstId": 10301,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030105,
+  "characterUniqueMstId": 10301,
+  "title": "Self-Introduction",
+  "detail": "Good day to you♪ I am Marmelo from the Jinhua Department of Nekos College.\nI adore fluffy things, and I always get what catches my eye♪\nWhen I heard rumors of this lovely shop and its Manager, I simply couldn't stay away♪\nMy dream is to make both La Soleil and you shine brighter, and take you both♪\nHehe... I'll make you mine, Manager♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030106,
+  "characterUniqueMstId": 10301,
+  "title": "Features",
+  "detail": "Longhair: She has small ears.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030107,
+  "characterUniqueMstId": 10301,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030201,
+  "characterUniqueMstId": 10302,
+  "title": "Cat Breed",
+  "detail": "Bengal",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030202,
+  "characterUniqueMstId": 10302,
+  "title": "Affiliation",
+  "detail": "Jinhua Department Of Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030203,
+  "characterUniqueMstId": 10302,
+  "title": "Height",
+  "detail": "140cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030204,
+  "characterUniqueMstId": 10302,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030205,
+  "characterUniqueMstId": 10302,
+  "title": "Self-Introduction",
+  "detail": "Gahaha! I'm Paramita! I come from the Jinhua Department of Nekos College!\nI'm the STRONGEST! Stronger than ANYONE else!\nI heard there are tons of strong people around here! I'll beat them all!\nYou look pretty weak, so I'm going to go easy on you.\nIf any weird customers show up, I'll knock them right out of here!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030206,
+  "characterUniqueMstId": 10302,
+  "title": "Features",
+  "detail": "Shorthair: \nShe has a leopard pattern.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030207,
+  "characterUniqueMstId": 10302,
+  "title": "Birthday",
+  "detail": "Sep 17",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2026-08-30T12:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030301,
+  "characterUniqueMstId": 10303,
+  "title": "Cat Breed",
+  "detail": "Dragon Lee",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030302,
+  "characterUniqueMstId": 10303,
+  "title": "Affiliation",
+  "detail": "Jinhua Department Of Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030303,
+  "characterUniqueMstId": 10303,
+  "title": "Height",
+  "detail": "152cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030304,
+  "characterUniqueMstId": 10303,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030305,
+  "characterUniqueMstId": 10303,
+  "title": "Self-Introduction",
+  "detail": "Hi there! I'm Fengli from the Jinhua Department of Nekos College♪ Nice to meet you!\nI'll take good care of everyone at the shop!\nI might be a liiittle rough around the edges, but I don't sweat the small stuff at all♪\nNo matter what you're like, I'll accept all of it.\nSo don't hold back, you're always welcome to lean on me♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030306,
+  "characterUniqueMstId": 10303,
+  "title": "Features",
+  "detail": "She has a tiger-like pattern.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030307,
+  "characterUniqueMstId": 10303,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030401,
+  "characterUniqueMstId": 10304,
+  "title": "Cat Breed",
+  "detail": "Siam",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030402,
+  "characterUniqueMstId": 10304,
+  "title": "Affiliation",
+  "detail": "Jinhua Department Of Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030403,
+  "characterUniqueMstId": 10304,
+  "title": "Height",
+  "detail": "167cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030404,
+  "characterUniqueMstId": 10304,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030405,
+  "characterUniqueMstId": 10304,
+  "title": "Self-Introduction",
+  "detail": "I am Lamud, from the Jinhua Department of Nekos College.\nI'll keep a smile on my face and do my very best in my work.\nI may be a little strict when it comes to manners and etiquette, but I am by no means a frightening Neko.\nI have familiarized myself with my duties, but if there is anything I lack, please tell me.\nI will make sure to support you so that each of your days is calm and wonderful♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030406,
+  "characterUniqueMstId": 10304,
+  "title": "Features",
+  "detail": "Shorthair: Her ears, tail and face are black.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1030407,
+  "characterUniqueMstId": 10304,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040101,
+  "characterUniqueMstId": 10401,
+  "title": "Cat Breed",
+  "detail": "Minuet",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040102,
+  "characterUniqueMstId": 10401,
+  "title": "Affiliation",
+  "detail": "Gertrude Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040103,
+  "characterUniqueMstId": 10401,
+  "title": "Height",
+  "detail": "139cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040104,
+  "characterUniqueMstId": 10401,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040105,
+  "characterUniqueMstId": 10401,
+  "title": "Self-Introduction",
+  "detail": "Mwahahaha... My name is Cannelé. I am a demon from Gertrude Nekos College, and I've come to corrupt this shop!\nThis sickeningly sweet place, and all who stand within it, shall be stained in darkness by Lord Cannelé.\nI won't allow you to run to that so-called angel, Sablé! You will become my servant!\nYou and I shall enter into a blood pact... look forward to it.\nNow, tremble before Cannelé's arrival and kneel in fear! MeowHAHAHA!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040106,
+  "characterUniqueMstId": 10401,
+  "title": "Features",
+  "detail": "Longhair: She is a small breed with short legs.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040107,
+  "characterUniqueMstId": 10401,
+  "title": "Birthday",
+  "detail": "Jul 21",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040201,
+  "characterUniqueMstId": 10402,
+  "title": "Cat Breed",
+  "detail": "Minuet",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040202,
+  "characterUniqueMstId": 10402,
+  "title": "Affiliation",
+  "detail": "Gertrude Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040203,
+  "characterUniqueMstId": 10402,
+  "title": "Height",
+  "detail": "139cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040204,
+  "characterUniqueMstId": 10402,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040205,
+  "characterUniqueMstId": 10402,
+  "title": "Self-Introduction",
+  "detail": "I'm Sablé from Gertrude Nekos College♪ A real angel from the heavens♪\nI'm here to make a \"contract\" with you, Master, so I want you to pet and spoil me every day~\nI won't lose to that demon Neko, Cannelé... I'm keeping you all to myself♪\nYou can touch my wings as much as you want, I'll make you sooo happy♪\nSo it's decided♪ You will make a contract with me and be happy every single day♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040206,
+  "characterUniqueMstId": 10402,
+  "title": "Features",
+  "detail": "Longhair: She is a small breed with short legs.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040207,
+  "characterUniqueMstId": 10402,
+  "title": "Birthday",
+  "detail": "Jul 21",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040301,
+  "characterUniqueMstId": 10403,
+  "title": "Cat Breed",
+  "detail": "Russian Blue",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040302,
+  "characterUniqueMstId": 10403,
+  "title": "Affiliation",
+  "detail": "Gertrude Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040303,
+  "characterUniqueMstId": 10403,
+  "title": "Height",
+  "detail": "152cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040304,
+  "characterUniqueMstId": 10403,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040305,
+  "characterUniqueMstId": 10403,
+  "title": "Self-Introduction",
+  "detail": "Zdravstvuyte♪ I'm Souffle...a Neko from Gertrude Nekos College.\nAre you...hungry? Souffle made you some really tasty food♪\nI'm good at cleaning and laundry too...hehe♪ I'm also very strong...mmf♪\n*snuggles up* Instead of words...being close like this says it all.\nOchen' priyatno♪ Nice to meet you♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040306,
+  "characterUniqueMstId": 10403,
+  "title": "Features",
+  "detail": "Shorthair: Her facial features are known as a \"Russian Smile\".",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040307,
+  "characterUniqueMstId": 10403,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040401,
+  "characterUniqueMstId": 10404,
+  "title": "Cat Breed",
+  "detail": "Norwegian Forest Cat",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040402,
+  "characterUniqueMstId": 10404,
+  "title": "Affiliation",
+  "detail": "Gertrude Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040403,
+  "characterUniqueMstId": 10404,
+  "title": "Height",
+  "detail": "174cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040404,
+  "characterUniqueMstId": 10404,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040405,
+  "characterUniqueMstId": 10404,
+  "title": "Self-Introduction",
+  "detail": "I'm Sorbet from Gertrude Nekos College. It's cold today, so I'm feeling great!\nI'm really good with the cold! I'll help with your work perfectly!\nBut when I'm near you... I start to feel really warm...\nI was sharp just a moment ago, but now I feel like I'm about to melt...yawn.\n...Sorry...next to you I get...sleepy...good night...zzz.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040406,
+  "characterUniqueMstId": 10404,
+  "title": "Features",
+  "detail": "Longhair: She has a thick, fluffy, double-layered coat.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040407,
+  "characterUniqueMstId": 10404,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040501,
+  "characterUniqueMstId": 10405,
+  "title": "Cat Breed",
+  "detail": "European Shorthair",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040502,
+  "characterUniqueMstId": 10405,
+  "title": "Affiliation",
+  "detail": "Gertrude Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040503,
+  "characterUniqueMstId": 10405,
+  "title": "Height",
+  "detail": "156cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040504,
+  "characterUniqueMstId": 10405,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040505,
+  "characterUniqueMstId": 10405,
+  "title": "Self-Introduction",
+  "detail": "I'm Bavarois from Gertrude Nekos College.\nLet me make one thing clear from the start: do not treat me the same as the other nekos.\nActs such as patting my head are absolutely unacceptable.\nIn particular, I will not tolerate physical contact from men.\nI came here as an employee, not as a pet.\nIf that's clear, then please proceed with your instructions.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040506,
+  "characterUniqueMstId": 10405,
+  "title": "Features",
+  "detail": "Shorthair: She has a slightly slender build.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1040507,
+  "characterUniqueMstId": 10405,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050101,
+  "characterUniqueMstId": 10501,
+  "title": "Cat Breed",
+  "detail": "Egyptian Mau",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050102,
+  "characterUniqueMstId": 10501,
+  "title": "Affiliation",
+  "detail": "Bastet Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050103,
+  "characterUniqueMstId": 10501,
+  "title": "Height",
+  "detail": "165cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050104,
+  "characterUniqueMstId": 10501,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050105,
+  "characterUniqueMstId": 10501,
+  "title": "Self-Introduction",
+  "detail": "I am Palmyra of Bastet Nekos College, a proud Neko who serves Lady Meowjed.\nImperfect humans, especially you, Manager, need someone like me to guide them.\nI will also show the new Nekos how they should carry themselves.\nManager, you too must devote yourself even more to Lady Meowjed and me.\nPalmyra will be watching over you... You should feel honored.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050106,
+  "characterUniqueMstId": 10501,
+  "title": "Features",
+  "detail": "Shorthair: She has small spots.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050107,
+  "characterUniqueMstId": 10501,
+  "title": "Birthday",
+  "detail": "Jul 9",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050201,
+  "characterUniqueMstId": 10502,
+  "title": "Cat Breed",
+  "detail": "Sokoke",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050202,
+  "characterUniqueMstId": 10502,
+  "title": "Affiliation",
+  "detail": "Bastet Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050203,
+  "characterUniqueMstId": 10502,
+  "title": "Height",
+  "detail": "152cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050204,
+  "characterUniqueMstId": 10502,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050205,
+  "characterUniqueMstId": 10502,
+  "title": "Self-Introduction",
+  "detail": "MeowHAHA! I'm Aki, from Bastet Nekos College!\nThis place is full of interesting things, perfect for pulling a few pranks!\nIf you space out, you might end up as Aki's next target!\nWhat's wrong? You can't find the shop key?\n...Aki doesn't know anything about it~ MeowHAHA!\nWell then, let's take the day off and go play! Okay?",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050206,
+  "characterUniqueMstId": 10502,
+  "title": "Features",
+  "detail": "She has a wood-grain pattern.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050207,
+  "characterUniqueMstId": 10502,
+  "title": "Birthday",
+  "detail": "Sep 8",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2026-08-30T12:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050301,
+  "characterUniqueMstId": 10503,
+  "title": "Cat Breed",
+  "detail": "Turkish Angora",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050302,
+  "characterUniqueMstId": 10503,
+  "title": "Affiliation",
+  "detail": "Bastet Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050303,
+  "characterUniqueMstId": 10503,
+  "title": "Height",
+  "detail": "161cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050304,
+  "characterUniqueMstId": 10503,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050305,
+  "characterUniqueMstId": 10503,
+  "title": "Self-Introduction",
+  "detail": "I'm Ak dut, from Bastet Nekos College.\nWhat I love most is dancing and coffee...and you, my destined partner.\nHehe, just kidding. I'm a bit of a mischievous Neko.\nBut what happens between us from here on out...no one can say for sure.\nI'm very particular about my coffee and my taste in men...so you'd better be ready♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050306,
+  "characterUniqueMstId": 10503,
+  "title": "Features",
+  "detail": "She has a delicate, silky, shiny coat.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050307,
+  "characterUniqueMstId": 10503,
+  "title": "Birthday",
+  "detail": "Aug 22",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2026-07-31T12:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050401,
+  "characterUniqueMstId": 10504,
+  "title": "Cat Breed",
+  "detail": "Devon Rex",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050402,
+  "characterUniqueMstId": 10504,
+  "title": "Affiliation",
+  "detail": "Bastet Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050403,
+  "characterUniqueMstId": 10504,
+  "title": "Height",
+  "detail": "144cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050404,
+  "characterUniqueMstId": 10504,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050405,
+  "characterUniqueMstId": 10504,
+  "title": "Self-Introduction",
+  "detail": "I'm Saffron. I came all the way here from Bastet Nekos College♪\nWhat's with the look? Are you so happy you can hardly contain yourself now that a cute Neko like me is here?\nDon't worry, it's a good thing♪ I'll make this a place that can't function without me.\nSo... How about getting down on your knees and spoiling me rotten?\nNow then, entertain me, little Manager♪ Everything you have will soon be mine!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050406,
+  "characterUniqueMstId": 10504,
+  "title": "Features",
+  "detail": "Shorthair: She has curly fur and is slightly small in size.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1050407,
+  "characterUniqueMstId": 10504,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060101,
+  "characterUniqueMstId": 10601,
+  "title": "Cat Breed",
+  "detail": "Exotic Shorthair",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060102,
+  "characterUniqueMstId": 10601,
+  "title": "Affiliation",
+  "detail": "Nekos Youth Academy",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060103,
+  "characterUniqueMstId": 10601,
+  "title": "Height",
+  "detail": "150cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060104,
+  "characterUniqueMstId": 10601,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060105,
+  "characterUniqueMstId": 10601,
+  "title": "Self-Introduction",
+  "detail": "I'm Donuts from NYA. This grumpy face is just how I was born...\nMy goal is to eat my fill of delicious cakes and sweets.\nPlease put me in the kitchen, not out on the floor.\nYou will be my personal dessert-making machine.\nThat part at least... I'm counting on you, alright?",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060106,
+  "characterUniqueMstId": 10601,
+  "title": "Features",
+  "detail": "She has a round face, short nose, droopy eyes and a grumpy-looking mouth.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060107,
+  "characterUniqueMstId": 10601,
+  "title": "Birthday",
+  "detail": "Aug 8",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2026-07-31T12:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060201,
+  "characterUniqueMstId": 10602,
+  "title": "Cat Breed",
+  "detail": "Ragamuffin",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060202,
+  "characterUniqueMstId": 10602,
+  "title": "Affiliation",
+  "detail": "Nekos Youth Academy",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060203,
+  "characterUniqueMstId": 10602,
+  "title": "Height",
+  "detail": "170cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060204,
+  "characterUniqueMstId": 10602,
+  "title": "Neko Age",
+  "detail": "Age 2",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060205,
+  "characterUniqueMstId": 10602,
+  "title": "Self-Introduction",
+  "detail": "Hi there♪ I'm Muffin, a Neko from NYA♪\nYa know, I'm pretty good at soothing and pampering. You might even start to feel a little spoiled♪\nBut I still haven't found the right person... Would you like to be my first?\nOh, I also love hugging people♪ Wait... Are you worried I might hug someone else?\nIf you become mine, I'll only hug you...that's a promise, Ma~ster♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060206,
+  "characterUniqueMstId": 10602,
+  "title": "Features",
+  "detail": "Longhair",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060207,
+  "characterUniqueMstId": 10602,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060301,
+  "characterUniqueMstId": 10603,
+  "title": "Cat Breed",
+  "detail": "American Bobtail",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060302,
+  "characterUniqueMstId": 10603,
+  "title": "Affiliation",
+  "detail": "Nekos Youth Academy",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060303,
+  "characterUniqueMstId": 10603,
+  "title": "Height",
+  "detail": "163cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060304,
+  "characterUniqueMstId": 10603,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060305,
+  "characterUniqueMstId": 10603,
+  "title": "Self-Introduction",
+  "detail": "Hey, I'm Cookie! A rockin' Neko from NYA!\nI'm not great with nitpicky stuff or fancy manners, but if you need someone to hype things up, I'm your Neko!\nBut don't get the wrong idea... I'm not gonna wear cute clothes and go \"Master!\" or anything like that!\nDon't get your hopes up.... I-I mean, if you insist, I'll do it, but still...\nAnyway, I want to make myself useful to you, so let's get along! Nice to meet ya!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060306,
+  "characterUniqueMstId": 10603,
+  "title": "Features",
+  "detail": "Medium Longhair: She has a short tail.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060307,
+  "characterUniqueMstId": 10603,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060401,
+  "characterUniqueMstId": 10604,
+  "title": "Cat Breed",
+  "detail": "Bombay",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060402,
+  "characterUniqueMstId": 10604,
+  "title": "Affiliation",
+  "detail": "Nekos Youth Academy",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060403,
+  "characterUniqueMstId": 10604,
+  "title": "Height",
+  "detail": "154cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060404,
+  "characterUniqueMstId": 10604,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060405,
+  "characterUniqueMstId": 10604,
+  "title": "Self-Introduction",
+  "detail": "I'm Licorice...from NYA.\nYeah, introducing myself out loud is inefficient...\nI sent you the address to my profile...go read that.\nI'm a streamer! If you have something to say, DM me! XD\n...Well, that's about it.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060406,
+  "characterUniqueMstId": 10604,
+  "title": "Features",
+  "detail": "Shorthair: She has an enamel-like shine.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060407,
+  "characterUniqueMstId": 10604,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060501,
+  "characterUniqueMstId": 10605,
+  "title": "Breed",
+  "detail": "Ocicat",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060502,
+  "characterUniqueMstId": 10605,
+  "title": "Affiliation",
+  "detail": "Nekos Youth Academy",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060503,
+  "characterUniqueMstId": 10605,
+  "title": "Height",
+  "detail": "172cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060504,
+  "characterUniqueMstId": 10605,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060505,
+  "characterUniqueMstId": 10605,
+  "title": "Description",
+  "detail": "Hiya! I'm Brownie from NYA!\nI'm great at basketball! Actually sports in general...and working out too!\nWhat am I good at here?\nHmm, probably chatting with customers and doing anything physical!\nHey, hey, if you stay inside the shop all the time, you're gonna get out of shape, you know?\nCome on, let's work up a loooot of sweat together♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060506,
+  "characterUniqueMstId": 10605,
+  "title": "Features",
+  "detail": "Shorthair: \nShe has a leopard pattern.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1060507,
+  "characterUniqueMstId": 10605,
+  "title": "Birthday",
+  "detail": "Sep 5",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2026-08-30T12:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990101,
+  "characterUniqueMstId": 19901,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990102,
+  "characterUniqueMstId": 19901,
+  "title": "Affiliation",
+  "detail": "Parttime",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990103,
+  "characterUniqueMstId": 19901,
+  "title": "Height",
+  "detail": "151cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990104,
+  "characterUniqueMstId": 19901,
+  "title": "Neko Age",
+  "detail": "Age 3",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990105,
+  "characterUniqueMstId": 19901,
+  "title": "Self-Introduction",
+  "detail": "I'm Sora~ Hehe, the sunshine here feels so warm and nice♪\nJust standing here...makes me...feel...like dozing off~\n...Ah! Oh no, I almost forgot I came to greet you about work~\nHehe, I can be so absentminded sometimes... I'm sorry...\nI'll help out lots from now on, so please take care of me~♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990106,
+  "characterUniqueMstId": 19901,
+  "title": "Features",
+  "detail": "Shorthair: She has slightly long hair.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990107,
+  "characterUniqueMstId": 19901,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990201,
+  "characterUniqueMstId": 19902,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990202,
+  "characterUniqueMstId": 19902,
+  "title": "Affiliation",
+  "detail": "Parttime",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990203,
+  "characterUniqueMstId": 19902,
+  "title": "Height",
+  "detail": "151cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990204,
+  "characterUniqueMstId": 19902,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990205,
+  "characterUniqueMstId": 19902,
+  "title": "Self-Introduction",
+  "detail": "Hmph! I'm Hana! My grandfathers told me to come here for a little social training!\nAn elegant Neko like me came all the way to your shop...you should be grateful!\nThough honestly, I doubt a place like this even has work worthy of someone like me~♪\nW-Wait!? I didn't mean I wouldn't work!\nS-Sorry! I promise I'll work properly, so please don't fire me!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990206,
+  "characterUniqueMstId": 19902,
+  "title": "Features",
+  "detail": "Longhair",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990207,
+  "characterUniqueMstId": 19902,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990301,
+  "characterUniqueMstId": 19903,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990302,
+  "characterUniqueMstId": 19903,
+  "title": "Affiliation",
+  "detail": "Parttime",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990303,
+  "characterUniqueMstId": 19903,
+  "title": "Height",
+  "detail": "142cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990304,
+  "characterUniqueMstId": 19903,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990305,
+  "characterUniqueMstId": 19903,
+  "title": "Self-Introduction",
+  "detail": "I'm Mimi. I'll be working at your shop!\nJust like the Nekos who've been here a while, the new ones, the house cats, and me—treat us all the same!\nI'm not angry or anything! I just can't stand favoritism...\nYou better treat me and the others equally!\nGeez, why do I even have to say this? Anyway, nice to meet you!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990306,
+  "characterUniqueMstId": 19903,
+  "title": "Features",
+  "detail": "Shorthair",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990307,
+  "characterUniqueMstId": 19903,
+  "title": "Birthday",
+  "detail": "Jul 31",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990401,
+  "characterUniqueMstId": 19904,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990402,
+  "characterUniqueMstId": 19904,
+  "title": "Affiliation",
+  "detail": "Parttime",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990403,
+  "characterUniqueMstId": 19904,
+  "title": "Height",
+  "detail": "154cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990404,
+  "characterUniqueMstId": 19904,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990405,
+  "characterUniqueMstId": 19904,
+  "title": "Self-Introduction",
+  "detail": "I'm Luna~♪ I promise I'll be veeeery helpful to you~♪\nHehehe... Hey, you♪ That reaction of yours is kind of cute~\nDid this sexy Neko make you all flustered~♪\nDon't try to hide it, I can tell~ After all, I've mastered the male heart!\nMaybe I can be helpful to you after work too~?",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990406,
+  "characterUniqueMstId": 19904,
+  "title": "Features",
+  "detail": "Longhair: She has folded ears, but is not a Scottish Fold.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990407,
+  "characterUniqueMstId": 19904,
+  "title": "Birthday",
+  "detail": "Sep 14",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2026-08-30T12:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990501,
+  "characterUniqueMstId": 19905,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990502,
+  "characterUniqueMstId": 19905,
+  "title": "Affiliation",
+  "detail": "Parttime",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990503,
+  "characterUniqueMstId": 19905,
+  "title": "Height",
+  "detail": "141cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990504,
+  "characterUniqueMstId": 19905,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990505,
+  "characterUniqueMstId": 19905,
+  "title": "Self-Introduction",
+  "detail": "My name is Yuki... Um, I'll be working here...\nEep...! S-Staring at me like that gets me nervous... Waaah!\nS-Sorry... I cry when I get startled... sniff.\n...Huh? You're not mad? It's okay to take things slowly...?\nWaaah! I'll do my very best from now on~!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990506,
+  "characterUniqueMstId": 19905,
+  "title": "Features",
+  "detail": "Shorthair: She has stripes.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990507,
+  "characterUniqueMstId": 19905,
+  "title": "Birthday",
+  "detail": "Aug 26",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2026-07-31T12:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990601,
+  "characterUniqueMstId": 19906,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990602,
+  "characterUniqueMstId": 19906,
+  "title": "Affiliation",
+  "detail": "Parttime",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990603,
+  "characterUniqueMstId": 19906,
+  "title": "Height",
+  "detail": "156cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990604,
+  "characterUniqueMstId": 19906,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990605,
+  "characterUniqueMstId": 19906,
+  "title": "Self-Introduction",
+  "detail": "I am Suzu. I have come to this shop to serve you♥\nAh... You look as amazing as ever today... Hehehe...♪\nWatching you work so diligently makes me feel like you're whispering sweet words of love to me...!\nFrom sorting the trash you throw away to doing the laundry, I can handle everything.\nWhether it's what you desire or not... I will accept it all for you♥",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990606,
+  "characterUniqueMstId": 19906,
+  "title": "Features",
+  "detail": "Shorthair (Medium)",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990607,
+  "characterUniqueMstId": 19906,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990701,
+  "characterUniqueMstId": 19907,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990702,
+  "characterUniqueMstId": 19907,
+  "title": "Affiliation",
+  "detail": "Parttime",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990703,
+  "characterUniqueMstId": 19907,
+  "title": "Height",
+  "detail": "144cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990704,
+  "characterUniqueMstId": 19907,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990705,
+  "characterUniqueMstId": 19907,
+  "title": "Self-Introduction",
+  "detail": "I'm Kuro. I've come to this shop to become its leader.\nTo start with, I've already made a list of improvements for the shop.\n...Huh? You want me to learn my own job first? O-Of course!\nI can handle the register too... Huh? Why won't it open!?\nA-Anyway... I'll be the one giving the instructions around here, so you'd better be ready!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990706,
+  "characterUniqueMstId": 19907,
+  "title": "Features",
+  "detail": "Shorthair",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990707,
+  "characterUniqueMstId": 19907,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990801,
+  "characterUniqueMstId": 19908,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990802,
+  "characterUniqueMstId": 19908,
+  "title": "Affiliation",
+  "detail": "Parttime",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990803,
+  "characterUniqueMstId": 19908,
+  "title": "Height",
+  "detail": "163cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990804,
+  "characterUniqueMstId": 19908,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990805,
+  "characterUniqueMstId": 19908,
+  "title": "Self-Introduction",
+  "detail": "I'm Natsu. I'll be working at your shop!\nI've got plenty of guts, but if it's boring work, I ain't doing it.\nHuh? You're worried I can't get along with everyone?\nI may look like this, but I'm known for looking out for my crew!\nOnce I say something, I stick to it. I'll take on any job you throw at me!\nI might cause a bit of trouble sometimes, but... Well, looking forward to working with you!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990806,
+  "characterUniqueMstId": 19908,
+  "title": "Features",
+  "detail": "Shorthair",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990807,
+  "characterUniqueMstId": 19908,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990901,
+  "characterUniqueMstId": 19909,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990902,
+  "characterUniqueMstId": 19909,
+  "title": "Affiliation",
+  "detail": "Parttime",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990903,
+  "characterUniqueMstId": 19909,
+  "title": "Height",
+  "detail": "156cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990904,
+  "characterUniqueMstId": 19909,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990905,
+  "characterUniqueMstId": 19909,
+  "title": "Self-Introduction",
+  "detail": "H-Hi... I'm Mugi. Nice to meet you...\nUm, I-I'm not very good at talking...\nSo please don't expect much from me in customer service...or teamwork...\nM-My hair's sticking up...? I-I was in bed for about three days...\nI-I really needed money for a Trip... That's why I came here to work...\nI-I mean... Not for the Trip...and not for the money either... I-I'll do my best for the shop...",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990906,
+  "characterUniqueMstId": 19909,
+  "title": "Features",
+  "detail": "Longhair",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1990907,
+  "characterUniqueMstId": 19909,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991001,
+  "characterUniqueMstId": 19910,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991002,
+  "characterUniqueMstId": 19910,
+  "title": "Affiliation",
+  "detail": "Parttime",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991003,
+  "characterUniqueMstId": 19910,
+  "title": "Height",
+  "detail": "135cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991004,
+  "characterUniqueMstId": 19910,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991005,
+  "characterUniqueMstId": 19910,
+  "title": "Self-Introduction",
+  "detail": "Hime here☆ Starting today, I'll be working at your shop, Manager♪\nIf Hime is around, everyone will fall head over heels for my cuteness☆\nBe sure to give Hime lots of special treatment and spoil me, okay?\nHey, hey, I want a present that suits someone as cute as Hime~♪\nSince Hime will make your shop super popular, you'll listen to my requests, right?",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991006,
+  "characterUniqueMstId": 19910,
+  "title": "Features",
+  "detail": "Shorthair: She has long hair.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991007,
+  "characterUniqueMstId": 19910,
+  "title": "Birthday",
+  "detail": "Aug 16",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2026-07-31T12:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991101,
+  "characterUniqueMstId": 19911,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991102,
+  "characterUniqueMstId": 19911,
+  "title": "Affiliation",
+  "detail": "Parttime",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991103,
+  "characterUniqueMstId": 19911,
+  "title": "Height",
+  "detail": "169cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991104,
+  "characterUniqueMstId": 19911,
+  "title": "Neko Age",
+  "detail": "Age 1",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991105,
+  "characterUniqueMstId": 19911,
+  "title": "Self-Introduction",
+  "detail": "I'm Rin. Hehe, I'll be working here starting today.\nMen are so easy. Be a little nice to them and they fall for you instantly.\nCustomer service will be a breeze...\nOh? Are you staring at me? Go ahead, take a good long look.\nWith a woman like me working here, I can reel in as many men as I want.\n...Or maybe you're the one who wants to get hooked the most?",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991106,
+  "characterUniqueMstId": 19911,
+  "title": "Features",
+  "detail": "Shorthair (Medium)",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991107,
+  "characterUniqueMstId": 19911,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991201,
+  "characterUniqueMstId": 19912,
+  "title": "Cat Breed",
+  "detail": "Mixed",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991202,
+  "characterUniqueMstId": 19912,
+  "title": "Affiliation",
+  "detail": "Parttime",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991203,
+  "characterUniqueMstId": 19912,
+  "title": "Height",
+  "detail": "149cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991204,
+  "characterUniqueMstId": 19912,
+  "title": "Neko Age",
+  "detail": "Age 0",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991205,
+  "characterUniqueMstId": 19912,
+  "title": "Self-Introduction",
+  "detail": "I'm Kiku! This shop is sooo pretty and stylish!\nI'm so happy I get to wear this cute uniform!\nHey, hey, what would you like me to do here? I hope I get to eat cake!\nHuh? That kind of job doesn't exist? Aww, that's too bad...\nIf there was a job like that, I'd totally work super hard...\nNo worries, I'll work hard and use my salary to buy cake and cute things♪",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991206,
+  "characterUniqueMstId": 19912,
+  "title": "Features",
+  "detail": "Shorthair: She has a scar from a fight on her ear.",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "characterUniqueProfileMstId": 1991207,
+  "characterUniqueMstId": 19912,
+  "title": "Birthday",
+  "detail": "？？？",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0,
+  "releaseTime": "2025-01-01T00:00:00+09:00"
+ }
+]

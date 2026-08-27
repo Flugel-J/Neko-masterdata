@@ -1,0 +1,882 @@
+[
+ {
+  "gardenFurnitureLayoutPlaceMstId": 1,
+  "gardenFurnitureLayoutMstId": 1,
+  "description": "coming soon...",
+  "positionX": 5,
+  "positionY": 13,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 2,
+  "gardenFurnitureLayoutMstId": 1,
+  "description": "coming soon...",
+  "positionX": 8,
+  "positionY": 13,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 3,
+  "gardenFurnitureLayoutMstId": 1,
+  "description": "coming soon...",
+  "positionX": 11,
+  "positionY": 13,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 4,
+  "gardenFurnitureLayoutMstId": 11,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 12,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 5,
+  "gardenFurnitureLayoutMstId": 2,
+  "description": "coming soon...",
+  "positionX": 13,
+  "positionY": 8,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 6,
+  "gardenFurnitureLayoutMstId": 5,
+  "description": "coming soon...",
+  "positionX": 10,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 7,
+  "gardenFurnitureLayoutMstId": 4,
+  "description": "coming soon...",
+  "positionX": 8,
+  "positionY": 4,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 8,
+  "gardenFurnitureLayoutMstId": 5,
+  "description": "coming soon...",
+  "positionX": 6,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 9,
+  "gardenFurnitureLayoutMstId": 3,
+  "description": "coming soon...",
+  "positionX": 3,
+  "positionY": 4,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 10,
+  "gardenFurnitureLayoutMstId": 5,
+  "description": "coming soon...",
+  "positionX": 2,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 11,
+  "gardenFurnitureLayoutMstId": 6,
+  "description": "coming soon...",
+  "positionX": 15,
+  "positionY": 15,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 12,
+  "gardenFurnitureLayoutMstId": 6,
+  "description": "coming soon...",
+  "positionX": 15,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 13,
+  "gardenFurnitureLayoutMstId": 12,
+  "description": "coming soon...",
+  "positionX": 14,
+  "positionY": 1,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 14,
+  "gardenFurnitureLayoutMstId": 7,
+  "description": "coming soon...",
+  "positionX": 13,
+  "positionY": 10,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 15,
+  "gardenFurnitureLayoutMstId": 14,
+  "description": "coming soon...",
+  "positionX": 8,
+  "positionY": 10,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 16,
+  "gardenFurnitureLayoutMstId": 6,
+  "description": "coming soon...",
+  "positionX": 9,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 17,
+  "gardenFurnitureLayoutMstId": 14,
+  "description": "coming soon...",
+  "positionX": 3,
+  "positionY": 10,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 18,
+  "gardenFurnitureLayoutMstId": 6,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 19,
+  "gardenFurnitureLayoutMstId": 13,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 7,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 20,
+  "gardenFurnitureLayoutMstId": 8,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 2,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 21,
+  "gardenFurnitureLayoutMstId": 9,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 3,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 22,
+  "gardenFurnitureLayoutMstId": 10,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 999,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 24,
+  "gardenFurnitureLayoutMstId": 8,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 2,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 25,
+  "gardenFurnitureLayoutMstId": 9,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 3,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 26,
+  "gardenFurnitureLayoutMstId": 8,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 2,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 27,
+  "gardenFurnitureLayoutMstId": 9,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 3,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 28,
+  "gardenFurnitureLayoutMstId": 8,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 2,
+  "areaType": 4
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 29,
+  "gardenFurnitureLayoutMstId": 9,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 3,
+  "areaType": 4
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 30,
+  "gardenFurnitureLayoutMstId": 8,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 2,
+  "areaType": 5
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 31,
+  "gardenFurnitureLayoutMstId": 9,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 3,
+  "areaType": 5
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 32,
+  "gardenFurnitureLayoutMstId": 8,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 2,
+  "areaType": 6
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 33,
+  "gardenFurnitureLayoutMstId": 9,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 3,
+  "areaType": 6
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 34,
+  "gardenFurnitureLayoutMstId": 8,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 2,
+  "areaType": 7
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 35,
+  "gardenFurnitureLayoutMstId": 9,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 3,
+  "areaType": 7
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 37,
+  "gardenFurnitureLayoutMstId": 15,
+  "description": "coming soon...",
+  "positionX": 3,
+  "positionY": 9,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 41,
+  "gardenFurnitureLayoutMstId": 17,
+  "description": "coming soon...",
+  "positionX": 7,
+  "positionY": 13,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 42,
+  "gardenFurnitureLayoutMstId": 17,
+  "description": "coming soon...",
+  "positionX": 7,
+  "positionY": 11,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 43,
+  "gardenFurnitureLayoutMstId": 18,
+  "description": "coming soon...",
+  "positionX": 7,
+  "positionY": 9,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 44,
+  "gardenFurnitureLayoutMstId": 38,
+  "description": "coming soon...",
+  "positionX": 7,
+  "positionY": 8,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 45,
+  "gardenFurnitureLayoutMstId": 19,
+  "description": "Drink Counter Right",
+  "positionX": 0,
+  "positionY": 5,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 46,
+  "gardenFurnitureLayoutMstId": 57,
+  "description": "Drip Counter Left",
+  "positionX": 0,
+  "positionY": 7,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 47,
+  "gardenFurnitureLayoutMstId": 20,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 8,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 48,
+  "gardenFurnitureLayoutMstId": 21,
+  "description": "coming soon...",
+  "positionX": 7,
+  "positionY": 5,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 49,
+  "gardenFurnitureLayoutMstId": 21,
+  "description": "coming soon...",
+  "positionX": 7,
+  "positionY": 3,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 50,
+  "gardenFurnitureLayoutMstId": 22,
+  "description": "coming soon...",
+  "positionX": 3,
+  "positionY": 4,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 51,
+  "gardenFurnitureLayoutMstId": 23,
+  "description": "coming soon...",
+  "positionX": 2,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 52,
+  "gardenFurnitureLayoutMstId": 24,
+  "description": "coming soon...",
+  "positionX": 7,
+  "positionY": 7,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 53,
+  "gardenFurnitureLayoutMstId": 56,
+  "description": "Dishwasher",
+  "positionX": 4,
+  "positionY": 15,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 54,
+  "gardenFurnitureLayoutMstId": 25,
+  "description": "Sink",
+  "positionX": 6,
+  "positionY": 15,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 55,
+  "gardenFurnitureLayoutMstId": 26,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 15,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 56,
+  "gardenFurnitureLayoutMstId": 27,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 2,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 2
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 57,
+  "gardenFurnitureLayoutMstId": 1,
+  "description": "coming soon...",
+  "positionX": 2,
+  "positionY": 5,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 58,
+  "gardenFurnitureLayoutMstId": 28,
+  "description": "coming soon...",
+  "positionX": 3,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 59,
+  "gardenFurnitureLayoutMstId": 29,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 8,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 60,
+  "gardenFurnitureLayoutMstId": 30,
+  "description": "coming soon...",
+  "positionX": 7,
+  "positionY": 7,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 61,
+  "gardenFurnitureLayoutMstId": 31,
+  "description": "coming soon...",
+  "positionX": 1,
+  "positionY": 11,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 62,
+  "gardenFurnitureLayoutMstId": 32,
+  "description": "coming soon...",
+  "positionX": 7,
+  "positionY": 11,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 63,
+  "gardenFurnitureLayoutMstId": 33,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 14,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 64,
+  "gardenFurnitureLayoutMstId": 34,
+  "description": "coming soon...",
+  "positionX": 3,
+  "positionY": 11,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 65,
+  "gardenFurnitureLayoutMstId": 35,
+  "description": "coming soon...",
+  "positionX": -7,
+  "positionY": 1,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 4,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 66,
+  "gardenFurnitureLayoutMstId": 36,
+  "description": "coming soon...",
+  "positionX": 14,
+  "positionY": 1,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 4,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 67,
+  "gardenFurnitureLayoutMstId": 6,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 68,
+  "gardenFurnitureLayoutMstId": 6,
+  "description": "coming soon...",
+  "positionX": 7,
+  "positionY": 6,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 69,
+  "gardenFurnitureLayoutMstId": 13,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 2,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 3
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 70,
+  "gardenFurnitureLayoutMstId": 37,
+  "description": "coming soon...",
+  "positionX": 13,
+  "positionY": 5,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 71,
+  "gardenFurnitureLayoutMstId": 7,
+  "description": "coming soon...",
+  "positionX": -2,
+  "positionY": 10,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 72,
+  "gardenFurnitureLayoutMstId": 40,
+  "description": "Television",
+  "positionX": 4,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 7
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 73,
+  "gardenFurnitureLayoutMstId": 6,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 7
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 74,
+  "gardenFurnitureLayoutMstId": 51,
+  "description": "coming soon...",
+  "positionX": 1,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 7
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 75,
+  "gardenFurnitureLayoutMstId": 13,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 3,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 7
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 76,
+  "gardenFurnitureLayoutMstId": 41,
+  "description": "Trash Can",
+  "positionX": 0,
+  "positionY": 7,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 7
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 77,
+  "gardenFurnitureLayoutMstId": 50,
+  "description": "coming soon...",
+  "positionX": 1,
+  "positionY": 6,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 7
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 78,
+  "gardenFurnitureLayoutMstId": 54,
+  "description": "coming soon...",
+  "positionX": 4,
+  "positionY": 6,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 7
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 79,
+  "gardenFurnitureLayoutMstId": 35,
+  "description": "coming soon...",
+  "positionX": -3,
+  "positionY": 1,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 4,
+  "areaType": 7
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 80,
+  "gardenFurnitureLayoutMstId": 45,
+  "description": "coming soon...",
+  "positionX": 2,
+  "positionY": 3,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 4
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 81,
+  "gardenFurnitureLayoutMstId": 46,
+  "description": "Order System",
+  "positionX": 2,
+  "positionY": 7,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 4
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 82,
+  "gardenFurnitureLayoutMstId": 42,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 7,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 5
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 83,
+  "gardenFurnitureLayoutMstId": 44,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 2,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 5
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 84,
+  "gardenFurnitureLayoutMstId": 52,
+  "description": "Courtyard Shelf",
+  "positionX": 7,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 5
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 85,
+  "gardenFurnitureLayoutMstId": 53,
+  "description": "Gardening Supplies",
+  "positionX": 7,
+  "positionY": 3,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 5
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 86,
+  "gardenFurnitureLayoutMstId": 47,
+  "description": "Flower Bed",
+  "positionX": 3,
+  "positionY": 3,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 5
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 87,
+  "gardenFurnitureLayoutMstId": 43,
+  "description": "coming soon...",
+  "positionX": 8,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 6
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 88,
+  "gardenFurnitureLayoutMstId": 48,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 7,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 6
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 89,
+  "gardenFurnitureLayoutMstId": 49,
+  "description": "Food Trucks",
+  "positionX": 3,
+  "positionY": 2,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 6
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 90,
+  "gardenFurnitureLayoutMstId": 55,
+  "description": "coming soon...",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 4
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 91,
+  "gardenFurnitureLayoutMstId": 35,
+  "description": "coming soon...",
+  "positionX": -5,
+  "positionY": 1,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 4,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 92,
+  "gardenFurnitureLayoutMstId": 35,
+  "description": "coming soon...",
+  "positionX": -13,
+  "positionY": 1,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 4,
+  "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 93,
+  "gardenFurnitureLayoutMstId": 36,
+  "description": "coming soon...",
+  "positionX": 1,
+  "positionY": 1,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 4,
+  "areaType": 1
+ }
+]

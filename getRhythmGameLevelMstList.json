@@ -1,0 +1,380 @@
+[
+ {
+  "rhythmGameMstId": 10001,
+  "rhythmGameLevel": 1,
+  "maxNotes": 132,
+  "scoreMulti": 100,
+  "scoreBorderS": 2441144,
+  "scoreBorderA": 1830858,
+  "scoreBorderB": 1220572
+ },
+ {
+  "rhythmGameMstId": 10001,
+  "rhythmGameLevel": 2,
+  "maxNotes": 238,
+  "scoreMulti": 110,
+  "scoreBorderS": 2712125,
+  "scoreBorderA": 2034094,
+  "scoreBorderB": 1356062
+ },
+ {
+  "rhythmGameMstId": 10001,
+  "rhythmGameLevel": 3,
+  "maxNotes": 334,
+  "scoreMulti": 120,
+  "scoreBorderS": 2984126,
+  "scoreBorderA": 2238095,
+  "scoreBorderB": 1492063
+ },
+ {
+  "rhythmGameMstId": 10003,
+  "rhythmGameLevel": 1,
+  "maxNotes": 137,
+  "scoreMulti": 100,
+  "scoreBorderS": 2442244,
+  "scoreBorderA": 1831683,
+  "scoreBorderB": 1221122
+ },
+ {
+  "rhythmGameMstId": 10003,
+  "rhythmGameLevel": 2,
+  "maxNotes": 261,
+  "scoreMulti": 110,
+  "scoreBorderS": 2720594,
+  "scoreBorderA": 2040446,
+  "scoreBorderB": 1360297
+ },
+ {
+  "rhythmGameMstId": 10003,
+  "rhythmGameLevel": 3,
+  "maxNotes": 333,
+  "scoreMulti": 120,
+  "scoreBorderS": 2989227,
+  "scoreBorderA": 2241920,
+  "scoreBorderB": 1494614
+ },
+ {
+  "rhythmGameMstId": 10004,
+  "rhythmGameLevel": 1,
+  "maxNotes": 151,
+  "scoreMulti": 100,
+  "scoreBorderS": 2440000,
+  "scoreBorderA": 1830000,
+  "scoreBorderB": 1220000
+ },
+ {
+  "rhythmGameMstId": 10004,
+  "rhythmGameLevel": 2,
+  "maxNotes": 285,
+  "scoreMulti": 110,
+  "scoreBorderS": 2720000,
+  "scoreBorderA": 2040000,
+  "scoreBorderB": 1360000
+ },
+ {
+  "rhythmGameMstId": 10004,
+  "rhythmGameLevel": 3,
+  "maxNotes": 373,
+  "scoreMulti": 120,
+  "scoreBorderS": 3000000,
+  "scoreBorderA": 2250000,
+  "scoreBorderB": 1500000
+ },
+ {
+  "rhythmGameMstId": 20001,
+  "rhythmGameLevel": 1,
+  "maxNotes": 154,
+  "scoreMulti": 100,
+  "scoreBorderS": 2443044,
+  "scoreBorderA": 1832283,
+  "scoreBorderB": 1221522
+ },
+ {
+  "rhythmGameMstId": 20001,
+  "rhythmGameLevel": 2,
+  "maxNotes": 280,
+  "scoreMulti": 110,
+  "scoreBorderS": 2725904,
+  "scoreBorderA": 2044428,
+  "scoreBorderB": 1362952
+ },
+ {
+  "rhythmGameMstId": 20001,
+  "rhythmGameLevel": 3,
+  "maxNotes": 334,
+  "scoreMulti": 120,
+  "scoreBorderS": 2980453,
+  "scoreBorderA": 2235340,
+  "scoreBorderB": 1490226
+ },
+ {
+  "rhythmGameMstId": 20002,
+  "rhythmGameLevel": 1,
+  "maxNotes": 137,
+  "scoreMulti": 100,
+  "scoreBorderS": 2442244,
+  "scoreBorderA": 1831683,
+  "scoreBorderB": 1221122
+ },
+ {
+  "rhythmGameMstId": 20002,
+  "rhythmGameLevel": 2,
+  "maxNotes": 299,
+  "scoreMulti": 110,
+  "scoreBorderS": 2730505,
+  "scoreBorderA": 2047879,
+  "scoreBorderB": 1365252
+ },
+ {
+  "rhythmGameMstId": 20002,
+  "rhythmGameLevel": 3,
+  "maxNotes": 367,
+  "scoreMulti": 120,
+  "scoreBorderS": 2994426,
+  "scoreBorderA": 2245820,
+  "scoreBorderB": 1497213
+ },
+ {
+  "rhythmGameMstId": 20003,
+  "rhythmGameLevel": 1,
+  "maxNotes": 184,
+  "scoreMulti": 100,
+  "scoreBorderS": 2454342,
+  "scoreBorderA": 2776168,
+  "scoreBorderB": 1850778
+ },
+ {
+  "rhythmGameMstId": 20003,
+  "rhythmGameLevel": 2,
+  "maxNotes": 401,
+  "scoreMulti": 110,
+  "scoreBorderS": 2742234,
+  "scoreBorderA": 2056675,
+  "scoreBorderB": 1371117
+ },
+ {
+  "rhythmGameMstId": 20003,
+  "rhythmGameLevel": 3,
+  "maxNotes": 477,
+  "scoreMulti": 120,
+  "scoreBorderS": 3015554,
+  "scoreBorderA": 2261665,
+  "scoreBorderB": 1507777
+ },
+ {
+  "rhythmGameMstId": 20004,
+  "rhythmGameLevel": 1,
+  "maxNotes": 159,
+  "scoreMulti": 100,
+  "scoreBorderS": 2441644,
+  "scoreBorderA": 1831233,
+  "scoreBorderB": 1220822
+ },
+ {
+  "rhythmGameMstId": 20004,
+  "rhythmGameLevel": 2,
+  "maxNotes": 244,
+  "scoreMulti": 110,
+  "scoreBorderS": 2713628,
+  "scoreBorderA": 2035221,
+  "scoreBorderB": 1356814
+ },
+ {
+  "rhythmGameMstId": 20004,
+  "rhythmGameLevel": 3,
+  "maxNotes": 310,
+  "scoreMulti": 120,
+  "scoreBorderS": 2972655,
+  "scoreBorderA": 2229491,
+  "scoreBorderB": 1486328
+ },
+ {
+  "rhythmGameMstId": 20005,
+  "rhythmGameLevel": 1,
+  "maxNotes": 137,
+  "scoreMulti": 100,
+  "scoreBorderS": 2442244,
+  "scoreBorderA": 1831683,
+  "scoreBorderB": 1221122
+ },
+ {
+  "rhythmGameMstId": 20005,
+  "rhythmGameLevel": 2,
+  "maxNotes": 310,
+  "scoreMulti": 110,
+  "scoreBorderS": 2733792,
+  "scoreBorderA": 2050344,
+  "scoreBorderB": 1366896
+ },
+ {
+  "rhythmGameMstId": 20005,
+  "rhythmGameLevel": 3,
+  "maxNotes": 367,
+  "scoreMulti": 120,
+  "scoreBorderS": 2992904,
+  "scoreBorderA": 2244678,
+  "scoreBorderB": 1496452
+ },
+ {
+  "rhythmGameMstId": 20006,
+  "rhythmGameLevel": 1,
+  "maxNotes": 150,
+  "scoreMulti": 100,
+  "scoreBorderS": 2444800,
+  "scoreBorderA": 1833600,
+  "scoreBorderB": 1222400
+ },
+ {
+  "rhythmGameMstId": 20006,
+  "rhythmGameLevel": 2,
+  "maxNotes": 323,
+  "scoreMulti": 110,
+  "scoreBorderS": 2737477,
+  "scoreBorderA": 2053108,
+  "scoreBorderB": 1368738
+ },
+ {
+  "rhythmGameMstId": 20006,
+  "rhythmGameLevel": 3,
+  "maxNotes": 379,
+  "scoreMulti": 120,
+  "scoreBorderS": 2997480,
+  "scoreBorderA": 2248110,
+  "scoreBorderB": 1498740
+ },
+ {
+  "rhythmGameMstId": 20007,
+  "rhythmGameLevel": 1,
+  "maxNotes": 127,
+  "scoreMulti": 100,
+  "scoreBorderS": 2440000,
+  "scoreBorderA": 1830000,
+  "scoreBorderB": 1220000
+ },
+ {
+  "rhythmGameMstId": 20007,
+  "rhythmGameLevel": 2,
+  "maxNotes": 195,
+  "scoreMulti": 110,
+  "scoreBorderS": 2720000,
+  "scoreBorderA": 2040000,
+  "scoreBorderB": 1360000
+ },
+ {
+  "rhythmGameMstId": 20007,
+  "rhythmGameLevel": 3,
+  "maxNotes": 269,
+  "scoreMulti": 120,
+  "scoreBorderS": 3000000,
+  "scoreBorderA": 2250000,
+  "scoreBorderB": 1500000
+ },
+ {
+  "rhythmGameMstId": 20008,
+  "rhythmGameLevel": 1,
+  "maxNotes": 127,
+  "scoreMulti": 100,
+  "scoreBorderS": 2440000,
+  "scoreBorderA": 1830000,
+  "scoreBorderB": 1220000
+ },
+ {
+  "rhythmGameMstId": 20008,
+  "rhythmGameLevel": 2,
+  "maxNotes": 295,
+  "scoreMulti": 110,
+  "scoreBorderS": 2720000,
+  "scoreBorderA": 2040000,
+  "scoreBorderB": 1360000
+ },
+ {
+  "rhythmGameMstId": 20008,
+  "rhythmGameLevel": 3,
+  "maxNotes": 398,
+  "scoreMulti": 120,
+  "scoreBorderS": 3000000,
+  "scoreBorderA": 2250000,
+  "scoreBorderB": 1500000
+ },
+ {
+  "rhythmGameMstId": 100101,
+  "rhythmGameLevel": 1,
+  "maxNotes": 150,
+  "scoreMulti": 100,
+  "scoreBorderS": 2444800,
+  "scoreBorderA": 1833600,
+  "scoreBorderB": 1222400
+ },
+ {
+  "rhythmGameMstId": 100101,
+  "rhythmGameLevel": 2,
+  "maxNotes": 323,
+  "scoreMulti": 110,
+  "scoreBorderS": 2737477,
+  "scoreBorderA": 2053108,
+  "scoreBorderB": 1368738
+ },
+ {
+  "rhythmGameMstId": 100101,
+  "rhythmGameLevel": 3,
+  "maxNotes": 379,
+  "scoreMulti": 120,
+  "scoreBorderS": 2997480,
+  "scoreBorderA": 2248110,
+  "scoreBorderB": 1498740
+ },
+ {
+  "rhythmGameMstId": 100301,
+  "rhythmGameLevel": 1,
+  "maxNotes": 127,
+  "scoreMulti": 100,
+  "scoreBorderS": 2440000,
+  "scoreBorderA": 1830000,
+  "scoreBorderB": 1220000
+ },
+ {
+  "rhythmGameMstId": 100301,
+  "rhythmGameLevel": 2,
+  "maxNotes": 195,
+  "scoreMulti": 110,
+  "scoreBorderS": 2720000,
+  "scoreBorderA": 2040000,
+  "scoreBorderB": 1360000
+ },
+ {
+  "rhythmGameMstId": 100301,
+  "rhythmGameLevel": 3,
+  "maxNotes": 269,
+  "scoreMulti": 120,
+  "scoreBorderS": 3000000,
+  "scoreBorderA": 2250000,
+  "scoreBorderB": 1500000
+ },
+ {
+  "rhythmGameMstId": 100501,
+  "rhythmGameLevel": 1,
+  "maxNotes": 127,
+  "scoreMulti": 100,
+  "scoreBorderS": 2440000,
+  "scoreBorderA": 1830000,
+  "scoreBorderB": 1220000
+ },
+ {
+  "rhythmGameMstId": 100501,
+  "rhythmGameLevel": 2,
+  "maxNotes": 295,
+  "scoreMulti": 110,
+  "scoreBorderS": 2720000,
+  "scoreBorderA": 2040000,
+  "scoreBorderB": 1360000
+ },
+ {
+  "rhythmGameMstId": 100501,
+  "rhythmGameLevel": 3,
+  "maxNotes": 398,
+  "scoreMulti": 120,
+  "scoreBorderS": 3000000,
+  "scoreBorderA": 2250000,
+  "scoreBorderB": 1500000
+ }
+]

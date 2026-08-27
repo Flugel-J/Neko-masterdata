@@ -1,0 +1,20 @@
+[
+ {
+  "gardenSkipOffRelationMstId": 1,
+  "relationType": 0,
+  "viewedStatus": 0,
+  "weight": 100
+ },
+ {
+  "gardenSkipOffRelationMstId": 2,
+  "relationType": 1,
+  "viewedStatus": 0,
+  "weight": 100
+ },
+ {
+  "gardenSkipOffRelationMstId": 3,
+  "relationType": 2,
+  "viewedStatus": 0,
+  "weight": 0
+ }
+]

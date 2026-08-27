@@ -1,0 +1,102 @@
+[
+ {
+  "routeDungeonMstId": 10001,
+  "name": "Area 1",
+  "description": "coming soon...",
+  "sortOrder": 1,
+  "resourceId": 0,
+  "openUserRank": 1,
+  "openQuestStageMstId": 110101150,
+  "mapPosition": ""
+ },
+ {
+  "routeDungeonMstId": 10002,
+  "name": "Area 2",
+  "description": "coming soon...",
+  "sortOrder": 2,
+  "resourceId": 0,
+  "openUserRank": 1,
+  "openQuestStageMstId": 110101150,
+  "mapPosition": ""
+ },
+ {
+  "routeDungeonMstId": 10003,
+  "name": "Area 3",
+  "description": "coming soon...",
+  "sortOrder": 3,
+  "resourceId": 0,
+  "openUserRank": 1,
+  "openQuestStageMstId": 110101150,
+  "mapPosition": ""
+ },
+ {
+  "routeDungeonMstId": 10004,
+  "name": "Area 4",
+  "description": "coming soon...",
+  "sortOrder": 4,
+  "resourceId": 0,
+  "openUserRank": 1,
+  "openQuestStageMstId": 110101150,
+  "mapPosition": ""
+ },
+ {
+  "routeDungeonMstId": 10005,
+  "name": "Area 5",
+  "description": "coming soon...",
+  "sortOrder": 5,
+  "resourceId": 0,
+  "openUserRank": 1,
+  "openQuestStageMstId": 110101150,
+  "mapPosition": ""
+ },
+ {
+  "routeDungeonMstId": 10006,
+  "name": "Area 6",
+  "description": "coming soon...",
+  "sortOrder": 6,
+  "resourceId": 0,
+  "openUserRank": 1,
+  "openQuestStageMstId": 110101150,
+  "mapPosition": ""
+ },
+ {
+  "routeDungeonMstId": 10007,
+  "name": "Area 7",
+  "description": "coming soon...",
+  "sortOrder": 7,
+  "resourceId": 0,
+  "openUserRank": 1,
+  "openQuestStageMstId": 110101150,
+  "mapPosition": ""
+ },
+ {
+  "routeDungeonMstId": 10008,
+  "name": "Area 8",
+  "description": "coming soon...",
+  "sortOrder": 8,
+  "resourceId": 0,
+  "openUserRank": 1,
+  "openQuestStageMstId": 110101150,
+  "mapPosition": ""
+ },
+ {
+  "routeDungeonMstId": 10009,
+  "name": "Area 9",
+  "description": "coming soon...",
+  "sortOrder": 9,
+  "resourceId": 0,
+  "openUserRank": 1,
+  "openQuestStageMstId": 110101150,
+  "mapPosition": ""
+ },
+ {
+  "routeDungeonMstId": 10010,
+  "name": "Area 10",
+  "description": "coming soon...",
+  "sortOrder": 10,
+  "resourceId": 0,
+  "openUserRank": 1,
+  "openQuestStageMstId": 110101150,
+  "mapPosition": ""
+ }
+]

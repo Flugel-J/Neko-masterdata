@@ -1,0 +1,50 @@
+[
+ {
+  "guildWeeklyPointRewardGroupMstId": 1,
+  "groupId": 1,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 20
+ },
+ {
+  "guildWeeklyPointRewardGroupMstId": 2,
+  "groupId": 2,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 30
+ },
+ {
+  "guildWeeklyPointRewardGroupMstId": 3,
+  "groupId": 3,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 50
+ },
+ {
+  "guildWeeklyPointRewardGroupMstId": 4,
+  "groupId": 4,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "guildWeeklyPointRewardGroupMstId": 5,
+  "groupId": 5,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 200
+ },
+ {
+  "guildWeeklyPointRewardGroupMstId": 6,
+  "groupId": 6,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 300
+ }
+]

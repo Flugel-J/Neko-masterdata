@@ -1,0 +1,442 @@
+[
+ {
+  "gardenFurnitureInitialSetMstId": 1,
+  "gardenFurnitureMstId": 205001,
+  "gardenFurnitureLayoutPlaceMstId": 1
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 2,
+  "gardenFurnitureMstId": 205002,
+  "gardenFurnitureLayoutPlaceMstId": 4
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 3,
+  "gardenFurnitureMstId": 101001,
+  "gardenFurnitureLayoutPlaceMstId": 5
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 4,
+  "gardenFurnitureMstId": 201001,
+  "gardenFurnitureLayoutPlaceMstId": 6
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 5,
+  "gardenFurnitureMstId": 201001,
+  "gardenFurnitureLayoutPlaceMstId": 8
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 6,
+  "gardenFurnitureMstId": 201001,
+  "gardenFurnitureLayoutPlaceMstId": 10
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 7,
+  "gardenFurnitureMstId": 208002,
+  "gardenFurnitureLayoutPlaceMstId": 11
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 8,
+  "gardenFurnitureMstId": 208005,
+  "gardenFurnitureLayoutPlaceMstId": 13
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 9,
+  "gardenFurnitureMstId": 208003,
+  "gardenFurnitureLayoutPlaceMstId": 14
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 10,
+  "gardenFurnitureMstId": 208004,
+  "gardenFurnitureLayoutPlaceMstId": 15
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 11,
+  "gardenFurnitureMstId": 208001,
+  "gardenFurnitureLayoutPlaceMstId": 16
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 12,
+  "gardenFurnitureMstId": 208001,
+  "gardenFurnitureLayoutPlaceMstId": 18
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 13,
+  "gardenFurnitureMstId": 209001,
+  "gardenFurnitureLayoutPlaceMstId": 19
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 14,
+  "gardenFurnitureMstId": 303001,
+  "gardenFurnitureLayoutPlaceMstId": 20
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 15,
+  "gardenFurnitureMstId": 302001,
+  "gardenFurnitureLayoutPlaceMstId": 21
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 16,
+  "gardenFurnitureMstId": 301001,
+  "gardenFurnitureLayoutPlaceMstId": 22
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 18,
+  "gardenFurnitureMstId": 305001,
+  "gardenFurnitureLayoutPlaceMstId": 24
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 19,
+  "gardenFurnitureMstId": 304001,
+  "gardenFurnitureLayoutPlaceMstId": 25
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 20,
+  "gardenFurnitureMstId": 307001,
+  "gardenFurnitureLayoutPlaceMstId": 26
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 21,
+  "gardenFurnitureMstId": 306001,
+  "gardenFurnitureLayoutPlaceMstId": 27
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 22,
+  "gardenFurnitureMstId": 309001,
+  "gardenFurnitureLayoutPlaceMstId": 28
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 23,
+  "gardenFurnitureMstId": 308001,
+  "gardenFurnitureLayoutPlaceMstId": 29
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 24,
+  "gardenFurnitureMstId": 311001,
+  "gardenFurnitureLayoutPlaceMstId": 30
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 25,
+  "gardenFurnitureMstId": 310001,
+  "gardenFurnitureLayoutPlaceMstId": 31
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 26,
+  "gardenFurnitureMstId": 313001,
+  "gardenFurnitureLayoutPlaceMstId": 32
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 27,
+  "gardenFurnitureMstId": 312001,
+  "gardenFurnitureLayoutPlaceMstId": 33
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 28,
+  "gardenFurnitureMstId": 315001,
+  "gardenFurnitureLayoutPlaceMstId": 34
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 29,
+  "gardenFurnitureMstId": 314001,
+  "gardenFurnitureLayoutPlaceMstId": 35
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 30,
+  "gardenFurnitureMstId": 205001,
+  "gardenFurnitureLayoutPlaceMstId": 2
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 31,
+  "gardenFurnitureMstId": 205001,
+  "gardenFurnitureLayoutPlaceMstId": 3
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 32,
+  "gardenFurnitureMstId": 201005,
+  "gardenFurnitureLayoutPlaceMstId": 7
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 33,
+  "gardenFurnitureMstId": 201026,
+  "gardenFurnitureLayoutPlaceMstId": 9
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 35,
+  "gardenFurnitureMstId": 208002,
+  "gardenFurnitureLayoutPlaceMstId": 12
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 36,
+  "gardenFurnitureMstId": 208004,
+  "gardenFurnitureLayoutPlaceMstId": 17
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 37,
+  "gardenFurnitureMstId": 202001,
+  "gardenFurnitureLayoutPlaceMstId": 37
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 38,
+  "gardenFurnitureMstId": 203001,
+  "gardenFurnitureLayoutPlaceMstId": 41
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 39,
+  "gardenFurnitureMstId": 203001,
+  "gardenFurnitureLayoutPlaceMstId": 42
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 40,
+  "gardenFurnitureMstId": 203002,
+  "gardenFurnitureLayoutPlaceMstId": 43
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 41,
+  "gardenFurnitureMstId": 207001,
+  "gardenFurnitureLayoutPlaceMstId": 44
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 42,
+  "gardenFurnitureMstId": 204002,
+  "gardenFurnitureLayoutPlaceMstId": 45
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 43,
+  "gardenFurnitureMstId": 204001,
+  "gardenFurnitureLayoutPlaceMstId": 46
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 44,
+  "gardenFurnitureMstId": 205003,
+  "gardenFurnitureLayoutPlaceMstId": 47
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 45,
+  "gardenFurnitureMstId": 207002,
+  "gardenFurnitureLayoutPlaceMstId": 48
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 46,
+  "gardenFurnitureMstId": 207002,
+  "gardenFurnitureLayoutPlaceMstId": 49
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 47,
+  "gardenFurnitureMstId": 207003,
+  "gardenFurnitureLayoutPlaceMstId": 50
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 48,
+  "gardenFurnitureMstId": 207004,
+  "gardenFurnitureLayoutPlaceMstId": 51
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 49,
+  "gardenFurnitureMstId": 208008,
+  "gardenFurnitureLayoutPlaceMstId": 52
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 50,
+  "gardenFurnitureMstId": 208007,
+  "gardenFurnitureLayoutPlaceMstId": 53
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 51,
+  "gardenFurnitureMstId": 208006,
+  "gardenFurnitureLayoutPlaceMstId": 54
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 52,
+  "gardenFurnitureMstId": 207005,
+  "gardenFurnitureLayoutPlaceMstId": 55
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 53,
+  "gardenFurnitureMstId": 209002,
+  "gardenFurnitureLayoutPlaceMstId": 56
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 54,
+  "gardenFurnitureMstId": 205004,
+  "gardenFurnitureLayoutPlaceMstId": 57
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 55,
+  "gardenFurnitureMstId": 204003,
+  "gardenFurnitureLayoutPlaceMstId": 58
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 56,
+  "gardenFurnitureMstId": 207006,
+  "gardenFurnitureLayoutPlaceMstId": 59
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 57,
+  "gardenFurnitureMstId": 207007,
+  "gardenFurnitureLayoutPlaceMstId": 60
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 58,
+  "gardenFurnitureMstId": 205005,
+  "gardenFurnitureLayoutPlaceMstId": 61
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 59,
+  "gardenFurnitureMstId": 207008,
+  "gardenFurnitureLayoutPlaceMstId": 62
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 60,
+  "gardenFurnitureMstId": 211001,
+  "gardenFurnitureLayoutPlaceMstId": 63
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 61,
+  "gardenFurnitureMstId": 211002,
+  "gardenFurnitureLayoutPlaceMstId": 64
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 62,
+  "gardenFurnitureMstId": 210004,
+  "gardenFurnitureLayoutPlaceMstId": 65
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 63,
+  "gardenFurnitureMstId": 210005,
+  "gardenFurnitureLayoutPlaceMstId": 66
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 64,
+  "gardenFurnitureMstId": 208009,
+  "gardenFurnitureLayoutPlaceMstId": 67
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 65,
+  "gardenFurnitureMstId": 208009,
+  "gardenFurnitureLayoutPlaceMstId": 68
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 66,
+  "gardenFurnitureMstId": 209003,
+  "gardenFurnitureLayoutPlaceMstId": 69
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 67,
+  "gardenFurnitureMstId": 201003,
+  "gardenFurnitureLayoutPlaceMstId": 70
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 68,
+  "gardenFurnitureMstId": 208003,
+  "gardenFurnitureLayoutPlaceMstId": 71
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 71,
+  "gardenFurnitureMstId": 212001,
+  "gardenFurnitureLayoutPlaceMstId": 72
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 72,
+  "gardenFurnitureMstId": 208010,
+  "gardenFurnitureLayoutPlaceMstId": 73
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 73,
+  "gardenFurnitureMstId": 107001,
+  "gardenFurnitureLayoutPlaceMstId": 74
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 74,
+  "gardenFurnitureMstId": 209004,
+  "gardenFurnitureLayoutPlaceMstId": 75
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 75,
+  "gardenFurnitureMstId": 208011,
+  "gardenFurnitureLayoutPlaceMstId": 76
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 76,
+  "gardenFurnitureMstId": 106001,
+  "gardenFurnitureLayoutPlaceMstId": 77
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 77,
+  "gardenFurnitureMstId": 211003,
+  "gardenFurnitureLayoutPlaceMstId": 78
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 78,
+  "gardenFurnitureMstId": 210006,
+  "gardenFurnitureLayoutPlaceMstId": 79
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 79,
+  "gardenFurnitureMstId": 216001,
+  "gardenFurnitureLayoutPlaceMstId": 80
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 80,
+  "gardenFurnitureMstId": 102001,
+  "gardenFurnitureLayoutPlaceMstId": 81
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 81,
+  "gardenFurnitureMstId": 214001,
+  "gardenFurnitureLayoutPlaceMstId": 82
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 82,
+  "gardenFurnitureMstId": 215001,
+  "gardenFurnitureLayoutPlaceMstId": 83
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 83,
+  "gardenFurnitureMstId": 207009,
+  "gardenFurnitureLayoutPlaceMstId": 84
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 84,
+  "gardenFurnitureMstId": 207010,
+  "gardenFurnitureLayoutPlaceMstId": 85
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 85,
+  "gardenFurnitureMstId": 103001,
+  "gardenFurnitureLayoutPlaceMstId": 86
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 86,
+  "gardenFurnitureMstId": 214002,
+  "gardenFurnitureLayoutPlaceMstId": 87
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 87,
+  "gardenFurnitureMstId": 104001,
+  "gardenFurnitureLayoutPlaceMstId": 88
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 88,
+  "gardenFurnitureMstId": 105001,
+  "gardenFurnitureLayoutPlaceMstId": 89
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 89,
+  "gardenFurnitureMstId": 217001,
+  "gardenFurnitureLayoutPlaceMstId": 90
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 90,
+  "gardenFurnitureMstId": 210001,
+  "gardenFurnitureLayoutPlaceMstId": 91
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 91,
+  "gardenFurnitureMstId": 210002,
+  "gardenFurnitureLayoutPlaceMstId": 92
+ },
+ {
+  "gardenFurnitureInitialSetMstId": 92,
+  "gardenFurnitureMstId": 210003,
+  "gardenFurnitureLayoutPlaceMstId": 93
+ }
+]

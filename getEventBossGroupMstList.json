@@ -1,0 +1,107 @@
+[
+ {
+  "eventBossGroupMstId": 100101,
+  "groupId": 1001,
+  "difficulty": 1,
+  "eventBossBattleMstId": 100101,
+  "eventPointCoefficient": 20
+ },
+ {
+  "eventBossGroupMstId": 100102,
+  "groupId": 1001,
+  "difficulty": 2,
+  "eventBossBattleMstId": 100102,
+  "eventPointCoefficient": 50
+ },
+ {
+  "eventBossGroupMstId": 100103,
+  "groupId": 1001,
+  "difficulty": 3,
+  "eventBossBattleMstId": 100103,
+  "eventPointCoefficient": 80
+ },
+ {
+  "eventBossGroupMstId": 100104,
+  "groupId": 1002,
+  "difficulty": 1,
+  "eventBossBattleMstId": 100104,
+  "eventPointCoefficient": 20
+ },
+ {
+  "eventBossGroupMstId": 100105,
+  "groupId": 1002,
+  "difficulty": 2,
+  "eventBossBattleMstId": 100105,
+  "eventPointCoefficient": 50
+ },
+ {
+  "eventBossGroupMstId": 100106,
+  "groupId": 1002,
+  "difficulty": 3,
+  "eventBossBattleMstId": 100106,
+  "eventPointCoefficient": 80
+ },
+ {
+  "eventBossGroupMstId": 100107,
+  "groupId": 1003,
+  "difficulty": 1,
+  "eventBossBattleMstId": 100107,
+  "eventPointCoefficient": 2
+ },
+ {
+  "eventBossGroupMstId": 100108,
+  "groupId": 1003,
+  "difficulty": 2,
+  "eventBossBattleMstId": 100108,
+  "eventPointCoefficient": 5
+ },
+ {
+  "eventBossGroupMstId": 100109,
+  "groupId": 1003,
+  "difficulty": 3,
+  "eventBossBattleMstId": 100109,
+  "eventPointCoefficient": 8
+ },
+ {
+  "eventBossGroupMstId": 100110,
+  "groupId": 1004,
+  "difficulty": 1,
+  "eventBossBattleMstId": 100110,
+  "eventPointCoefficient": 2
+ },
+ {
+  "eventBossGroupMstId": 100111,
+  "groupId": 1004,
+  "difficulty": 2,
+  "eventBossBattleMstId": 100111,
+  "eventPointCoefficient": 5
+ },
+ {
+  "eventBossGroupMstId": 100112,
+  "groupId": 1004,
+  "difficulty": 3,
+  "eventBossBattleMstId": 100112,
+  "eventPointCoefficient": 8
+ },
+ {
+  "eventBossGroupMstId": 100113,
+  "groupId": 1005,
+  "difficulty": 1,
+  "eventBossBattleMstId": 100113,
+  "eventPointCoefficient": 2
+ },
+ {
+  "eventBossGroupMstId": 100114,
+  "groupId": 1005,
+  "difficulty": 2,
+  "eventBossBattleMstId": 100114,
+  "eventPointCoefficient": 5
+ },
+ {
+  "eventBossGroupMstId": 100115,
+  "groupId": 1005,
+  "difficulty": 3,
+  "eventBossBattleMstId": 100115,
+  "eventPointCoefficient": 8
+ }
+]

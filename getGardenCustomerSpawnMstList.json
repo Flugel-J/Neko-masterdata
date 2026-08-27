@@ -1,0 +1,122 @@
+[
+ {
+  "gardenCustomerSpawnMstId": 1,
+  "spawnType": 0,
+  "spawnStartDelay": 12,
+  "gardenCustomerGroupMstId": 1,
+  "orderType": 1,
+  "allowableWaitTime": 30,
+  "waitingChance": 300,
+  "purchaseChance": 3300
+ },
+ {
+  "gardenCustomerSpawnMstId": 2,
+  "spawnType": 0,
+  "spawnStartDelay": 12,
+  "gardenCustomerGroupMstId": 2,
+  "orderType": 2,
+  "allowableWaitTime": 30,
+  "waitingChance": 300,
+  "purchaseChance": 3300
+ },
+ {
+  "gardenCustomerSpawnMstId": 3,
+  "spawnType": 0,
+  "spawnStartDelay": 12,
+  "gardenCustomerGroupMstId": 3,
+  "orderType": 1,
+  "allowableWaitTime": 30,
+  "waitingChance": 300,
+  "purchaseChance": 3300
+ },
+ {
+  "gardenCustomerSpawnMstId": 4,
+  "spawnType": 0,
+  "spawnStartDelay": 12,
+  "gardenCustomerGroupMstId": 4,
+  "orderType": 2,
+  "allowableWaitTime": 30,
+  "waitingChance": 300,
+  "purchaseChance": 3300
+ },
+ {
+  "gardenCustomerSpawnMstId": 5,
+  "spawnType": 0,
+  "spawnStartDelay": 12,
+  "gardenCustomerGroupMstId": 5,
+  "orderType": 1,
+  "allowableWaitTime": 30,
+  "waitingChance": 300,
+  "purchaseChance": 3300
+ },
+ {
+  "gardenCustomerSpawnMstId": 6,
+  "spawnType": 0,
+  "spawnStartDelay": 12,
+  "gardenCustomerGroupMstId": 6,
+  "orderType": 2,
+  "allowableWaitTime": 30,
+  "waitingChance": 300,
+  "purchaseChance": 3300
+ },
+ {
+  "gardenCustomerSpawnMstId": 7,
+  "spawnType": 0,
+  "spawnStartDelay": 12,
+  "gardenCustomerGroupMstId": 7,
+  "orderType": 1,
+  "allowableWaitTime": 30,
+  "waitingChance": 300,
+  "purchaseChance": 3300
+ },
+ {
+  "gardenCustomerSpawnMstId": 8,
+  "spawnType": 0,
+  "spawnStartDelay": 12,
+  "gardenCustomerGroupMstId": 8,
+  "orderType": 2,
+  "allowableWaitTime": 30,
+  "waitingChance": 300,
+  "purchaseChance": 3300
+ },
+ {
+  "gardenCustomerSpawnMstId": 9,
+  "spawnType": 0,
+  "spawnStartDelay": 12,
+  "gardenCustomerGroupMstId": 9,
+  "orderType": 1,
+  "allowableWaitTime": 30,
+  "waitingChance": 300,
+  "purchaseChance": 3300
+ },
+ {
+  "gardenCustomerSpawnMstId": 10,
+  "spawnType": 0,
+  "spawnStartDelay": 12,
+  "gardenCustomerGroupMstId": 10,
+  "orderType": 2,
+  "allowableWaitTime": 30,
+  "waitingChance": 300,
+  "purchaseChance": 3300
+ },
+ {
+  "gardenCustomerSpawnMstId": 11,
+  "spawnType": 0,
+  "spawnStartDelay": 12,
+  "gardenCustomerGroupMstId": 11,
+  "orderType": 1,
+  "allowableWaitTime": 30,
+  "waitingChance": 300,
+  "purchaseChance": 3300
+ },
+ {
+  "gardenCustomerSpawnMstId": 12,
+  "spawnType": 0,
+  "spawnStartDelay": 12,
+  "gardenCustomerGroupMstId": 12,
+  "orderType": 2,
+  "allowableWaitTime": 30,
+  "waitingChance": 300,
+  "purchaseChance": 3300
+ }
+]

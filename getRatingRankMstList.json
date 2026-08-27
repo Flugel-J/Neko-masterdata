@@ -1,0 +1,107 @@
+[
+ {
+  "ratingRankMstId": 1,
+  "ratingOrLess": 1000,
+  "name": "D1"
+ },
+ {
+  "ratingRankMstId": 2,
+  "ratingOrLess": 150000,
+  "name": "D2"
+ },
+ {
+  "ratingRankMstId": 3,
+  "ratingOrLess": 200000,
+  "name": "D3"
+ },
+ {
+  "ratingRankMstId": 4,
+  "ratingOrLess": 300000,
+  "name": "D4"
+ },
+ {
+  "ratingRankMstId": 5,
+  "ratingOrLess": 450000,
+  "name": "D5"
+ },
+ {
+  "ratingRankMstId": 6,
+  "ratingOrLess": 600000,
+  "name": "C1"
+ },
+ {
+  "ratingRankMstId": 7,
+  "ratingOrLess": 850000,
+  "name": "C2"
+ },
+ {
+  "ratingRankMstId": 8,
+  "ratingOrLess": 1000000,
+  "name": "C3"
+ },
+ {
+  "ratingRankMstId": 9,
+  "ratingOrLess": 1300000,
+  "name": "C4"
+ },
+ {
+  "ratingRankMstId": 10,
+  "ratingOrLess": 1600000,
+  "name": "C5"
+ },
+ {
+  "ratingRankMstId": 11,
+  "ratingOrLess": 2000000,
+  "name": "B1"
+ },
+ {
+  "ratingRankMstId": 12,
+  "ratingOrLess": 2500000,
+  "name": "B2"
+ },
+ {
+  "ratingRankMstId": 13,
+  "ratingOrLess": 3000000,
+  "name": "B3"
+ },
+ {
+  "ratingRankMstId": 14,
+  "ratingOrLess": 3500000,
+  "name": "B4"
+ },
+ {
+  "ratingRankMstId": 15,
+  "ratingOrLess": 4000000,
+  "name": "B5"
+ },
+ {
+  "ratingRankMstId": 16,
+  "ratingOrLess": 5000000,
+  "name": "A1"
+ },
+ {
+  "ratingRankMstId": 17,
+  "ratingOrLess": 5500000,
+  "name": "A2"
+ },
+ {
+  "ratingRankMstId": 18,
+  "ratingOrLess": 6000000,
+  "name": "A3"
+ },
+ {
+  "ratingRankMstId": 19,
+  "ratingOrLess": 7000000,
+  "name": "A4"
+ },
+ {
+  "ratingRankMstId": 20,
+  "ratingOrLess": 8000000,
+  "name": "A5"
+ },
+ {
+  "ratingRankMstId": 21,
+  "ratingOrLess": 10000000,
+  "name": "S1"
+ }
+]

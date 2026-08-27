@@ -1,0 +1,218 @@
+[
+ {
+  "gvgSummitRewardMstId": 1,
+  "rewardGroupId": 1,
+  "sortOrder": 1,
+  "objectReceiveType": 17,
+  "objectId": 16090011,
+  "num": 1
+ },
+ {
+  "gvgSummitRewardMstId": 2,
+  "rewardGroupId": 1,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 2500
+ },
+ {
+  "gvgSummitRewardMstId": 3,
+  "rewardGroupId": 2,
+  "sortOrder": 1,
+  "objectReceiveType": 17,
+  "objectId": 16090012,
+  "num": 1
+ },
+ {
+  "gvgSummitRewardMstId": 4,
+  "rewardGroupId": 2,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 2000
+ },
+ {
+  "gvgSummitRewardMstId": 5,
+  "rewardGroupId": 3,
+  "sortOrder": 1,
+  "objectReceiveType": 17,
+  "objectId": 16090013,
+  "num": 1
+ },
+ {
+  "gvgSummitRewardMstId": 6,
+  "rewardGroupId": 3,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 1500
+ },
+ {
+  "gvgSummitRewardMstId": 7,
+  "rewardGroupId": 4,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 1000
+ },
+ {
+  "gvgSummitRewardMstId": 8,
+  "rewardGroupId": 5,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 800
+ },
+ {
+  "gvgSummitRewardMstId": 9,
+  "rewardGroupId": 6,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 500
+ },
+ {
+  "gvgSummitRewardMstId": 10,
+  "rewardGroupId": 7,
+  "sortOrder": 1,
+  "objectReceiveType": 17,
+  "objectId": 16090021,
+  "num": 1
+ },
+ {
+  "gvgSummitRewardMstId": 11,
+  "rewardGroupId": 7,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 2500
+ },
+ {
+  "gvgSummitRewardMstId": 12,
+  "rewardGroupId": 8,
+  "sortOrder": 1,
+  "objectReceiveType": 17,
+  "objectId": 16090022,
+  "num": 1
+ },
+ {
+  "gvgSummitRewardMstId": 13,
+  "rewardGroupId": 8,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 2000
+ },
+ {
+  "gvgSummitRewardMstId": 14,
+  "rewardGroupId": 9,
+  "sortOrder": 1,
+  "objectReceiveType": 17,
+  "objectId": 16090023,
+  "num": 1
+ },
+ {
+  "gvgSummitRewardMstId": 15,
+  "rewardGroupId": 9,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 1500
+ },
+ {
+  "gvgSummitRewardMstId": 16,
+  "rewardGroupId": 10,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 1000
+ },
+ {
+  "gvgSummitRewardMstId": 17,
+  "rewardGroupId": 11,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 800
+ },
+ {
+  "gvgSummitRewardMstId": 18,
+  "rewardGroupId": 12,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 500
+ },
+ {
+  "gvgSummitRewardMstId": 19,
+  "rewardGroupId": 13,
+  "sortOrder": 1,
+  "objectReceiveType": 17,
+  "objectId": 16090031,
+  "num": 1
+ },
+ {
+  "gvgSummitRewardMstId": 20,
+  "rewardGroupId": 13,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 2500
+ },
+ {
+  "gvgSummitRewardMstId": 21,
+  "rewardGroupId": 14,
+  "sortOrder": 1,
+  "objectReceiveType": 17,
+  "objectId": 16090032,
+  "num": 1
+ },
+ {
+  "gvgSummitRewardMstId": 22,
+  "rewardGroupId": 14,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 2000
+ },
+ {
+  "gvgSummitRewardMstId": 23,
+  "rewardGroupId": 15,
+  "sortOrder": 1,
+  "objectReceiveType": 17,
+  "objectId": 16090033,
+  "num": 1
+ },
+ {
+  "gvgSummitRewardMstId": 24,
+  "rewardGroupId": 15,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 1500
+ },
+ {
+  "gvgSummitRewardMstId": 25,
+  "rewardGroupId": 16,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 1000
+ },
+ {
+  "gvgSummitRewardMstId": 26,
+  "rewardGroupId": 17,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 800
+ },
+ {
+  "gvgSummitRewardMstId": 27,
+  "rewardGroupId": 18,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 500
+ }
+]

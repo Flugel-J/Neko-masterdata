@@ -1,0 +1,23 @@
+[
+ {
+  "tipsMstId": 1,
+  "directionType": 1,
+  "categoryType": 1,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "2050-06-29T22:00:00+09:00"
+ },
+ {
+  "tipsMstId": 2,
+  "directionType": 1,
+  "categoryType": 2,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "2050-06-29T22:00:00+09:00"
+ },
+ {
+  "tipsMstId": 3,
+  "directionType": 1,
+  "categoryType": 2,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "2050-06-29T22:00:00+09:00"
+ }
+]

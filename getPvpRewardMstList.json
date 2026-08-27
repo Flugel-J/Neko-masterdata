@@ -1,0 +1,418 @@
+[
+ {
+  "pvpRewardMstId": 1,
+  "rewardGroupId": 1001,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 5000
+ },
+ {
+  "pvpRewardMstId": 2,
+  "rewardGroupId": 1001,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 50
+ },
+ {
+  "pvpRewardMstId": 3,
+  "rewardGroupId": 1001,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 5000
+ },
+ {
+  "pvpRewardMstId": 5,
+  "rewardGroupId": 1002,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 3000
+ },
+ {
+  "pvpRewardMstId": 6,
+  "rewardGroupId": 1002,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 30
+ },
+ {
+  "pvpRewardMstId": 7,
+  "rewardGroupId": 1002,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 3000
+ },
+ {
+  "pvpRewardMstId": 9,
+  "rewardGroupId": 1003,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 2000
+ },
+ {
+  "pvpRewardMstId": 10,
+  "rewardGroupId": 1003,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 20
+ },
+ {
+  "pvpRewardMstId": 11,
+  "rewardGroupId": 1003,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 2000
+ },
+ {
+  "pvpRewardMstId": 13,
+  "rewardGroupId": 1004,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "pvpRewardMstId": 14,
+  "rewardGroupId": 1004,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 20
+ },
+ {
+  "pvpRewardMstId": 15,
+  "rewardGroupId": 1004,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 1000
+ },
+ {
+  "pvpRewardMstId": 17,
+  "rewardGroupId": 1005,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 700
+ },
+ {
+  "pvpRewardMstId": 18,
+  "rewardGroupId": 1005,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 10
+ },
+ {
+  "pvpRewardMstId": 19,
+  "rewardGroupId": 1005,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 1000
+ },
+ {
+  "pvpRewardMstId": 21,
+  "rewardGroupId": 1006,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 500
+ },
+ {
+  "pvpRewardMstId": 22,
+  "rewardGroupId": 1006,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 10
+ },
+ {
+  "pvpRewardMstId": 23,
+  "rewardGroupId": 1006,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 500
+ },
+ {
+  "pvpRewardMstId": 25,
+  "rewardGroupId": 1007,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 300
+ },
+ {
+  "pvpRewardMstId": 26,
+  "rewardGroupId": 1007,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 300
+ },
+ {
+  "pvpRewardMstId": 27,
+  "rewardGroupId": 1008,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 200
+ },
+ {
+  "pvpRewardMstId": 29,
+  "rewardGroupId": 1008,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 200
+ },
+ {
+  "pvpRewardMstId": 30,
+  "rewardGroupId": 1009,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "pvpRewardMstId": 31,
+  "rewardGroupId": 1009,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 100
+ },
+ {
+  "pvpRewardMstId": 32,
+  "rewardGroupId": 1010,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 50
+ },
+ {
+  "pvpRewardMstId": 33,
+  "rewardGroupId": 1010,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 50
+ },
+ {
+  "pvpRewardMstId": 34,
+  "rewardGroupId": 1011,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "pvpRewardMstId": 35,
+  "rewardGroupId": 1011,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 10
+ },
+ {
+  "pvpRewardMstId": 36,
+  "rewardGroupId": 1012,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 10
+ },
+ {
+  "pvpRewardMstId": 37,
+  "rewardGroupId": 2001,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "pvpRewardMstId": 38,
+  "rewardGroupId": 2001,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 1000
+ },
+ {
+  "pvpRewardMstId": 39,
+  "rewardGroupId": 2002,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 800
+ },
+ {
+  "pvpRewardMstId": 40,
+  "rewardGroupId": 2002,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 800
+ },
+ {
+  "pvpRewardMstId": 41,
+  "rewardGroupId": 2003,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 600
+ },
+ {
+  "pvpRewardMstId": 42,
+  "rewardGroupId": 2003,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 600
+ },
+ {
+  "pvpRewardMstId": 43,
+  "rewardGroupId": 2004,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 500
+ },
+ {
+  "pvpRewardMstId": 44,
+  "rewardGroupId": 2004,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 500
+ },
+ {
+  "pvpRewardMstId": 45,
+  "rewardGroupId": 2005,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 300
+ },
+ {
+  "pvpRewardMstId": 46,
+  "rewardGroupId": 2005,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 300
+ },
+ {
+  "pvpRewardMstId": 47,
+  "rewardGroupId": 2006,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "pvpRewardMstId": 48,
+  "rewardGroupId": 2006,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 100
+ },
+ {
+  "pvpRewardMstId": 49,
+  "rewardGroupId": 2007,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 70
+ },
+ {
+  "pvpRewardMstId": 50,
+  "rewardGroupId": 2007,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 70
+ },
+ {
+  "pvpRewardMstId": 51,
+  "rewardGroupId": 2008,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 50
+ },
+ {
+  "pvpRewardMstId": 52,
+  "rewardGroupId": 2008,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 50
+ },
+ {
+  "pvpRewardMstId": 53,
+  "rewardGroupId": 2009,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 30
+ },
+ {
+  "pvpRewardMstId": 54,
+  "rewardGroupId": 2009,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 30
+ },
+ {
+  "pvpRewardMstId": 55,
+  "rewardGroupId": 2010,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 20
+ },
+ {
+  "pvpRewardMstId": 56,
+  "rewardGroupId": 2010,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 20
+ },
+ {
+  "pvpRewardMstId": 57,
+  "rewardGroupId": 2011,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "pvpRewardMstId": 58,
+  "rewardGroupId": 2011,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 10
+ },
+ {
+  "pvpRewardMstId": 59,
+  "rewardGroupId": 2012,
+  "sortOrder": 1,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 10
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "guildLoginBonusRewardMstId": 1,
+  "loginCount": 1,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "guildLoginBonusRewardMstId": 2,
+  "loginCount": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "guildLoginBonusRewardMstId": 3,
+  "loginCount": 3,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "guildLoginBonusRewardMstId": 4,
+  "loginCount": 4,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "guildLoginBonusRewardMstId": 5,
+  "loginCount": 5,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "guildLoginBonusRewardMstId": 6,
+  "loginCount": 6,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "guildLoginBonusRewardMstId": 7,
+  "loginCount": 7,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000
+ }
+]

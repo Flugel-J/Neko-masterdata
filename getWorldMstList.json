@@ -1,0 +1,82 @@
+[
+ {
+  "worldMstId": 1,
+  "sortOrder": 1,
+  "name": "JP1",
+  "description": "Recommended: JP World",
+  "capacity": 20000,
+  "resourceId": 1,
+  "startTime": "2020-01-01T00:00:00+09:00",
+  "worldType": 1
+ },
+ {
+  "worldMstId": 2,
+  "sortOrder": 2,
+  "name": "JP2",
+  "description": "Recommended: JP World",
+  "capacity": 20000,
+  "resourceId": 2,
+  "startTime": "2020-01-01T00:00:00+09:00",
+  "worldType": 1
+ },
+ {
+  "worldMstId": 3,
+  "sortOrder": 3,
+  "name": "JP3",
+  "description": "Recommended: JP World",
+  "capacity": 20000,
+  "resourceId": 3,
+  "startTime": "2020-01-01T00:00:00+09:00",
+  "worldType": 1
+ },
+ {
+  "worldMstId": 4,
+  "sortOrder": 4,
+  "name": "JP4",
+  "description": "Recommended: JP World",
+  "capacity": 20000,
+  "resourceId": 1,
+  "startTime": "2020-01-01T00:00:00+09:00",
+  "worldType": 1
+ },
+ {
+  "worldMstId": 5,
+  "sortOrder": 5,
+  "name": "JP5",
+  "description": "Recommended: JP World",
+  "capacity": 20000,
+  "resourceId": 2,
+  "startTime": "2020-01-01T00:00:00+09:00",
+  "worldType": 1
+ },
+ {
+  "worldMstId": 6,
+  "sortOrder": 6,
+  "name": "EN1",
+  "description": "Global",
+  "capacity": 20000,
+  "resourceId": 1,
+  "startTime": "2020-01-01T00:00:00+09:00",
+  "worldType": 2
+ },
+ {
+  "worldMstId": 7,
+  "sortOrder": 7,
+  "name": "EN2",
+  "description": "Global",
+  "capacity": 20000,
+  "resourceId": 2,
+  "startTime": "2020-01-01T00:00:00+09:00",
+  "worldType": 2
+ },
+ {
+  "worldMstId": 8,
+  "sortOrder": 8,
+  "name": "EN3",
+  "description": "Global",
+  "capacity": 20000,
+  "resourceId": 3,
+  "startTime": "2020-01-01T00:00:00+09:00",
+  "worldType": 2
+ }
+]

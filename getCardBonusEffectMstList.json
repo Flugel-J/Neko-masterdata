@@ -1,0 +1,722 @@
+[
+ {
+  "cardBonusEffectMstId": 2011,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 10
+ },
+ {
+  "cardBonusEffectMstId": 2012,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 20
+ },
+ {
+  "cardBonusEffectMstId": 2013,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 30
+ },
+ {
+  "cardBonusEffectMstId": 2014,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 40
+ },
+ {
+  "cardBonusEffectMstId": 2015,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 50
+ },
+ {
+  "cardBonusEffectMstId": 2016,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 60
+ },
+ {
+  "cardBonusEffectMstId": 2021,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 50
+ },
+ {
+  "cardBonusEffectMstId": 2022,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 60
+ },
+ {
+  "cardBonusEffectMstId": 2023,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 70
+ },
+ {
+  "cardBonusEffectMstId": 2024,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 80
+ },
+ {
+  "cardBonusEffectMstId": 2025,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 90
+ },
+ {
+  "cardBonusEffectMstId": 2026,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 100
+ },
+ {
+  "cardBonusEffectMstId": 2031,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 100
+ },
+ {
+  "cardBonusEffectMstId": 2032,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 115
+ },
+ {
+  "cardBonusEffectMstId": 2033,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 130
+ },
+ {
+  "cardBonusEffectMstId": 2034,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 145
+ },
+ {
+  "cardBonusEffectMstId": 2035,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 160
+ },
+ {
+  "cardBonusEffectMstId": 2036,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 175
+ },
+ {
+  "cardBonusEffectMstId": 2041,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 150
+ },
+ {
+  "cardBonusEffectMstId": 2042,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 170
+ },
+ {
+  "cardBonusEffectMstId": 2043,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 190
+ },
+ {
+  "cardBonusEffectMstId": 2044,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 210
+ },
+ {
+  "cardBonusEffectMstId": 2045,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 230
+ },
+ {
+  "cardBonusEffectMstId": 2046,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 250
+ },
+ {
+  "cardBonusEffectMstId": 2051,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 150
+ },
+ {
+  "cardBonusEffectMstId": 2052,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 180
+ },
+ {
+  "cardBonusEffectMstId": 2053,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 210
+ },
+ {
+  "cardBonusEffectMstId": 2054,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 240
+ },
+ {
+  "cardBonusEffectMstId": 2055,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 270
+ },
+ {
+  "cardBonusEffectMstId": 2056,
+  "name": "Food %UP",
+  "paramType": 2,
+  "paramValue": 300
+ },
+ {
+  "cardBonusEffectMstId": 4011,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 10
+ },
+ {
+  "cardBonusEffectMstId": 4012,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 20
+ },
+ {
+  "cardBonusEffectMstId": 4013,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 30
+ },
+ {
+  "cardBonusEffectMstId": 4014,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 40
+ },
+ {
+  "cardBonusEffectMstId": 4015,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 50
+ },
+ {
+  "cardBonusEffectMstId": 4016,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 60
+ },
+ {
+  "cardBonusEffectMstId": 4021,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 50
+ },
+ {
+  "cardBonusEffectMstId": 4022,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 60
+ },
+ {
+  "cardBonusEffectMstId": 4023,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 70
+ },
+ {
+  "cardBonusEffectMstId": 4024,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 80
+ },
+ {
+  "cardBonusEffectMstId": 4025,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 90
+ },
+ {
+  "cardBonusEffectMstId": 4026,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 100
+ },
+ {
+  "cardBonusEffectMstId": 4031,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 100
+ },
+ {
+  "cardBonusEffectMstId": 4032,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 115
+ },
+ {
+  "cardBonusEffectMstId": 4033,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 130
+ },
+ {
+  "cardBonusEffectMstId": 4034,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 145
+ },
+ {
+  "cardBonusEffectMstId": 4035,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 160
+ },
+ {
+  "cardBonusEffectMstId": 4036,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 175
+ },
+ {
+  "cardBonusEffectMstId": 4041,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 150
+ },
+ {
+  "cardBonusEffectMstId": 4042,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 170
+ },
+ {
+  "cardBonusEffectMstId": 4043,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 190
+ },
+ {
+  "cardBonusEffectMstId": 4044,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 210
+ },
+ {
+  "cardBonusEffectMstId": 4045,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 230
+ },
+ {
+  "cardBonusEffectMstId": 4046,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 250
+ },
+ {
+  "cardBonusEffectMstId": 4051,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 150
+ },
+ {
+  "cardBonusEffectMstId": 4052,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 180
+ },
+ {
+  "cardBonusEffectMstId": 4053,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 210
+ },
+ {
+  "cardBonusEffectMstId": 4054,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 240
+ },
+ {
+  "cardBonusEffectMstId": 4055,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 270
+ },
+ {
+  "cardBonusEffectMstId": 4056,
+  "name": "Drinks %UP",
+  "paramType": 4,
+  "paramValue": 300
+ },
+ {
+  "cardBonusEffectMstId": 6011,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 10
+ },
+ {
+  "cardBonusEffectMstId": 6012,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 20
+ },
+ {
+  "cardBonusEffectMstId": 6013,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 30
+ },
+ {
+  "cardBonusEffectMstId": 6014,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 40
+ },
+ {
+  "cardBonusEffectMstId": 6015,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 50
+ },
+ {
+  "cardBonusEffectMstId": 6016,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 60
+ },
+ {
+  "cardBonusEffectMstId": 6021,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 50
+ },
+ {
+  "cardBonusEffectMstId": 6022,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 60
+ },
+ {
+  "cardBonusEffectMstId": 6023,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 70
+ },
+ {
+  "cardBonusEffectMstId": 6024,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 80
+ },
+ {
+  "cardBonusEffectMstId": 6025,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 90
+ },
+ {
+  "cardBonusEffectMstId": 6026,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 100
+ },
+ {
+  "cardBonusEffectMstId": 6031,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 100
+ },
+ {
+  "cardBonusEffectMstId": 6032,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 115
+ },
+ {
+  "cardBonusEffectMstId": 6033,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 130
+ },
+ {
+  "cardBonusEffectMstId": 6034,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 145
+ },
+ {
+  "cardBonusEffectMstId": 6035,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 160
+ },
+ {
+  "cardBonusEffectMstId": 6036,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 175
+ },
+ {
+  "cardBonusEffectMstId": 6041,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 150
+ },
+ {
+  "cardBonusEffectMstId": 6042,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 170
+ },
+ {
+  "cardBonusEffectMstId": 6043,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 190
+ },
+ {
+  "cardBonusEffectMstId": 6044,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 210
+ },
+ {
+  "cardBonusEffectMstId": 6045,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 230
+ },
+ {
+  "cardBonusEffectMstId": 6046,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 250
+ },
+ {
+  "cardBonusEffectMstId": 6051,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 150
+ },
+ {
+  "cardBonusEffectMstId": 6052,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 180
+ },
+ {
+  "cardBonusEffectMstId": 6053,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 210
+ },
+ {
+  "cardBonusEffectMstId": 6054,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 240
+ },
+ {
+  "cardBonusEffectMstId": 6055,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 270
+ },
+ {
+  "cardBonusEffectMstId": 6056,
+  "name": "Sweets %UP",
+  "paramType": 6,
+  "paramValue": 300
+ },
+ {
+  "cardBonusEffectMstId": 8011,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 10
+ },
+ {
+  "cardBonusEffectMstId": 8012,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 20
+ },
+ {
+  "cardBonusEffectMstId": 8013,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 30
+ },
+ {
+  "cardBonusEffectMstId": 8014,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 40
+ },
+ {
+  "cardBonusEffectMstId": 8015,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 50
+ },
+ {
+  "cardBonusEffectMstId": 8016,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 60
+ },
+ {
+  "cardBonusEffectMstId": 8021,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 50
+ },
+ {
+  "cardBonusEffectMstId": 8022,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 60
+ },
+ {
+  "cardBonusEffectMstId": 8023,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 70
+ },
+ {
+  "cardBonusEffectMstId": 8024,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 80
+ },
+ {
+  "cardBonusEffectMstId": 8025,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 90
+ },
+ {
+  "cardBonusEffectMstId": 8026,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 100
+ },
+ {
+  "cardBonusEffectMstId": 8031,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 100
+ },
+ {
+  "cardBonusEffectMstId": 8032,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 115
+ },
+ {
+  "cardBonusEffectMstId": 8033,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 130
+ },
+ {
+  "cardBonusEffectMstId": 8034,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 145
+ },
+ {
+  "cardBonusEffectMstId": 8035,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 160
+ },
+ {
+  "cardBonusEffectMstId": 8036,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 175
+ },
+ {
+  "cardBonusEffectMstId": 8041,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 150
+ },
+ {
+  "cardBonusEffectMstId": 8042,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 170
+ },
+ {
+  "cardBonusEffectMstId": 8043,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 190
+ },
+ {
+  "cardBonusEffectMstId": 8044,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 210
+ },
+ {
+  "cardBonusEffectMstId": 8045,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 230
+ },
+ {
+  "cardBonusEffectMstId": 8046,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 250
+ },
+ {
+  "cardBonusEffectMstId": 8051,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 150
+ },
+ {
+  "cardBonusEffectMstId": 8052,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 180
+ },
+ {
+  "cardBonusEffectMstId": 8053,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 210
+ },
+ {
+  "cardBonusEffectMstId": 8054,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 240
+ },
+ {
+  "cardBonusEffectMstId": 8055,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 270
+ },
+ {
+  "cardBonusEffectMstId": 8056,
+  "name": "Service %UP",
+  "paramType": 8,
+  "paramValue": 300
+ }
+]

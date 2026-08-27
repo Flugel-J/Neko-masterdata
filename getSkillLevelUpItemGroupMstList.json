@@ -1,0 +1,722 @@
+[
+ {
+  "skillLevelUpItemGroupMstId": 10101,
+  "itemMstId": 3050001,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10101,
+  "itemMstId": 3050010,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10102,
+  "itemMstId": 3050001,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10102,
+  "itemMstId": 3050016,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10103,
+  "itemMstId": 3050001,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10103,
+  "itemMstId": 3050022,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10201,
+  "itemMstId": 3050001,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10201,
+  "itemMstId": 3050010,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10202,
+  "itemMstId": 3050001,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10202,
+  "itemMstId": 3050016,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10203,
+  "itemMstId": 3050001,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10203,
+  "itemMstId": 3050022,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10301,
+  "itemMstId": 3050001,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10301,
+  "itemMstId": 3050010,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10302,
+  "itemMstId": 3050001,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10302,
+  "itemMstId": 3050016,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10303,
+  "itemMstId": 3050001,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10303,
+  "itemMstId": 3050022,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10401,
+  "itemMstId": 3050002,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10401,
+  "itemMstId": 3050011,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10402,
+  "itemMstId": 3050002,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10402,
+  "itemMstId": 3050017,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10403,
+  "itemMstId": 3050002,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10403,
+  "itemMstId": 3050023,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10501,
+  "itemMstId": 3050002,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10501,
+  "itemMstId": 3050011,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10502,
+  "itemMstId": 3050002,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10502,
+  "itemMstId": 3050017,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10503,
+  "itemMstId": 3050002,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10503,
+  "itemMstId": 3050023,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10601,
+  "itemMstId": 3050002,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10601,
+  "itemMstId": 3050011,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10602,
+  "itemMstId": 3050002,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10602,
+  "itemMstId": 3050017,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10603,
+  "itemMstId": 3050002,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10603,
+  "itemMstId": 3050023,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10701,
+  "itemMstId": 3050003,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10701,
+  "itemMstId": 3050012,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10702,
+  "itemMstId": 3050003,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10702,
+  "itemMstId": 3050018,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10703,
+  "itemMstId": 3050003,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10703,
+  "itemMstId": 3050024,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10801,
+  "itemMstId": 3050003,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10801,
+  "itemMstId": 3050012,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10802,
+  "itemMstId": 3050003,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10802,
+  "itemMstId": 3050018,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10803,
+  "itemMstId": 3050003,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10803,
+  "itemMstId": 3050024,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10901,
+  "itemMstId": 3050003,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10901,
+  "itemMstId": 3050012,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10902,
+  "itemMstId": 3050003,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10902,
+  "itemMstId": 3050018,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10903,
+  "itemMstId": 3050003,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 10903,
+  "itemMstId": 3050024,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 11001,
+  "itemMstId": 3050003,
+  "itemNum": 200,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 11001,
+  "itemMstId": 3050012,
+  "itemNum": 200,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 11002,
+  "itemMstId": 3050003,
+  "itemNum": 200,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 11002,
+  "itemMstId": 3050018,
+  "itemNum": 200,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 11003,
+  "itemMstId": 3050003,
+  "itemNum": 200,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 11003,
+  "itemMstId": 3050024,
+  "itemNum": 200,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20101,
+  "itemMstId": 3050005,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20101,
+  "itemMstId": 3050013,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20102,
+  "itemMstId": 3050005,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20102,
+  "itemMstId": 3050019,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20103,
+  "itemMstId": 3050005,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20103,
+  "itemMstId": 3050025,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20201,
+  "itemMstId": 3050005,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20201,
+  "itemMstId": 3050013,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20202,
+  "itemMstId": 3050005,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20202,
+  "itemMstId": 3050019,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20203,
+  "itemMstId": 3050005,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20203,
+  "itemMstId": 3050025,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20301,
+  "itemMstId": 3050005,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20301,
+  "itemMstId": 3050013,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20302,
+  "itemMstId": 3050005,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20302,
+  "itemMstId": 3050019,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20303,
+  "itemMstId": 3050005,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20303,
+  "itemMstId": 3050025,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20401,
+  "itemMstId": 3050006,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20401,
+  "itemMstId": 3050014,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20402,
+  "itemMstId": 3050006,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20402,
+  "itemMstId": 3050020,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20403,
+  "itemMstId": 3050006,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20403,
+  "itemMstId": 3050026,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20501,
+  "itemMstId": 3050006,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20501,
+  "itemMstId": 3050014,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20502,
+  "itemMstId": 3050006,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20502,
+  "itemMstId": 3050020,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20503,
+  "itemMstId": 3050006,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20503,
+  "itemMstId": 3050026,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20601,
+  "itemMstId": 3050006,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20601,
+  "itemMstId": 3050014,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20602,
+  "itemMstId": 3050006,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20602,
+  "itemMstId": 3050020,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20603,
+  "itemMstId": 3050006,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20603,
+  "itemMstId": 3050026,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20701,
+  "itemMstId": 3050007,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20701,
+  "itemMstId": 3050015,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20702,
+  "itemMstId": 3050007,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20702,
+  "itemMstId": 3050021,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20703,
+  "itemMstId": 3050007,
+  "itemNum": 50,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20703,
+  "itemMstId": 3050027,
+  "itemNum": 50,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20801,
+  "itemMstId": 3050007,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20801,
+  "itemMstId": 3050015,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20802,
+  "itemMstId": 3050007,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20802,
+  "itemMstId": 3050021,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20803,
+  "itemMstId": 3050007,
+  "itemNum": 100,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20803,
+  "itemMstId": 3050027,
+  "itemNum": 100,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20901,
+  "itemMstId": 3050007,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20901,
+  "itemMstId": 3050015,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20902,
+  "itemMstId": 3050007,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20902,
+  "itemMstId": 3050021,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20903,
+  "itemMstId": 3050007,
+  "itemNum": 150,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 20903,
+  "itemMstId": 3050027,
+  "itemNum": 150,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 21001,
+  "itemMstId": 3050007,
+  "itemNum": 200,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 21001,
+  "itemMstId": 3050015,
+  "itemNum": 200,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 21002,
+  "itemMstId": 3050007,
+  "itemNum": 200,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 21002,
+  "itemMstId": 3050021,
+  "itemNum": 200,
+  "priority": 2
+ },
+ {
+  "skillLevelUpItemGroupMstId": 21003,
+  "itemMstId": 3050007,
+  "itemNum": 200,
+  "priority": 1
+ },
+ {
+  "skillLevelUpItemGroupMstId": 21003,
+  "itemMstId": 3050027,
+  "itemNum": 200,
+  "priority": 2
+ }
+]

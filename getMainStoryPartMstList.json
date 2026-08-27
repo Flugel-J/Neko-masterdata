@@ -1,0 +1,18 @@
+[
+ {
+  "mainStoryPartMstId": 1101,
+  "partNum": 1,
+  "partName": "La Soleil Arc",
+  "thumbnail": "bg_school_01",
+  "characterMstId": 1010101,
+  "startTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "mainStoryPartMstId": 1102,
+  "partNum": 2,
+  "partName": "Sakura Hills Nekos College Arc",
+  "thumbnail": "bg_school_02",
+  "characterMstId": 1020101,
+  "startTime": "2025-01-01T00:00:00+09:00"
+ }
+]

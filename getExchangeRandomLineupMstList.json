@@ -1,0 +1,9 @@
+[
+ {
+  "exchangeRandomLineupMstId": 1,
+  "exchangeShopMstId": 2,
+  "freeRefreshCountPerDay": 5,
+  "paidRefreshCountPerDay": 100,
+  "paidRefreshCost": 10
+ }
+]

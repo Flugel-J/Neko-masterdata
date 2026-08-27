@@ -1,0 +1,342 @@
+[
+ {
+  "communicationAchievementMstId": 1,
+  "needTotalHeartLevel": 5,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 2,
+  "needTotalHeartLevel": 10,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 3,
+  "needTotalHeartLevel": 15,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 4,
+  "needTotalHeartLevel": 20,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 5,
+  "needTotalHeartLevel": 25,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 6,
+  "needTotalHeartLevel": 30,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 7,
+  "needTotalHeartLevel": 35,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 8,
+  "needTotalHeartLevel": 40,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 9,
+  "needTotalHeartLevel": 45,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 10,
+  "needTotalHeartLevel": 50,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 11,
+  "needTotalHeartLevel": 55,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 12,
+  "needTotalHeartLevel": 60,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 13,
+  "needTotalHeartLevel": 65,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 14,
+  "needTotalHeartLevel": 70,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 15,
+  "needTotalHeartLevel": 75,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 16,
+  "needTotalHeartLevel": 80,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 17,
+  "needTotalHeartLevel": 85,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 18,
+  "needTotalHeartLevel": 90,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 19,
+  "needTotalHeartLevel": 95,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 20,
+  "needTotalHeartLevel": 100,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 21,
+  "needTotalHeartLevel": 125,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 22,
+  "needTotalHeartLevel": 150,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 23,
+  "needTotalHeartLevel": 175,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 24,
+  "needTotalHeartLevel": 200,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 25,
+  "needTotalHeartLevel": 225,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 26,
+  "needTotalHeartLevel": 250,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 27,
+  "needTotalHeartLevel": 275,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 28,
+  "needTotalHeartLevel": 300,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 29,
+  "needTotalHeartLevel": 325,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 30,
+  "needTotalHeartLevel": 350,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 31,
+  "needTotalHeartLevel": 375,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 32,
+  "needTotalHeartLevel": 400,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 33,
+  "needTotalHeartLevel": 425,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 34,
+  "needTotalHeartLevel": 450,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 35,
+  "needTotalHeartLevel": 475,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 36,
+  "needTotalHeartLevel": 500,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 37,
+  "needTotalHeartLevel": 525,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 38,
+  "needTotalHeartLevel": 550,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 39,
+  "needTotalHeartLevel": 575,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 40,
+  "needTotalHeartLevel": 600,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 41,
+  "needTotalHeartLevel": 625,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 42,
+  "needTotalHeartLevel": 650,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 43,
+  "needTotalHeartLevel": 675,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 44,
+  "needTotalHeartLevel": 700,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 45,
+  "needTotalHeartLevel": 725,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 46,
+  "needTotalHeartLevel": 750,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 47,
+  "needTotalHeartLevel": 775,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 48,
+  "needTotalHeartLevel": 800,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 49,
+  "needTotalHeartLevel": 825,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 50,
+  "needTotalHeartLevel": 850,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 51,
+  "needTotalHeartLevel": 875,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 52,
+  "needTotalHeartLevel": 900,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 53,
+  "needTotalHeartLevel": 925,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 54,
+  "needTotalHeartLevel": 950,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 55,
+  "needTotalHeartLevel": 975,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 56,
+  "needTotalHeartLevel": 1000,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 57,
+  "needTotalHeartLevel": 1025,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 58,
+  "needTotalHeartLevel": 1050,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 59,
+  "needTotalHeartLevel": 1075,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 60,
+  "needTotalHeartLevel": 1100,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 61,
+  "needTotalHeartLevel": 1125,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 62,
+  "needTotalHeartLevel": 1150,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 63,
+  "needTotalHeartLevel": 1175,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 64,
+  "needTotalHeartLevel": 1200,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 65,
+  "needTotalHeartLevel": 1225,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 66,
+  "needTotalHeartLevel": 1250,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 67,
+  "needTotalHeartLevel": 1275,
+  "rewardGroupId": 1
+ },
+ {
+  "communicationAchievementMstId": 68,
+  "needTotalHeartLevel": 1300,
+  "rewardGroupId": 1
+ }
+]

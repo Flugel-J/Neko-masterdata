@@ -1,0 +1,260 @@
+[
+ {
+  "loginBonusCharacterGroupMstId": 10001,
+  "groupId": 1,
+  "characterMstId": 1010101,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 10002,
+  "groupId": 1,
+  "characterMstId": 1010201,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 10003,
+  "groupId": 1,
+  "characterMstId": 1010301,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 10004,
+  "groupId": 1,
+  "characterMstId": 1010401,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 10005,
+  "groupId": 1,
+  "characterMstId": 1010501,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 10006,
+  "groupId": 1,
+  "characterMstId": 1010601,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 10007,
+  "groupId": 1,
+  "characterMstId": 1010701,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 20001,
+  "groupId": 2,
+  "characterMstId": 1010301,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 30001,
+  "groupId": 3,
+  "characterMstId": 1010101,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 30002,
+  "groupId": 3,
+  "characterMstId": 1010201,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 40001,
+  "groupId": 4,
+  "characterMstId": 1020101,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 40002,
+  "groupId": 4,
+  "characterMstId": 1020201,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 40003,
+  "groupId": 4,
+  "characterMstId": 1020301,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 40004,
+  "groupId": 4,
+  "characterMstId": 1020401,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 40005,
+  "groupId": 4,
+  "characterMstId": 1020501,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 50001,
+  "groupId": 5,
+  "characterMstId": 1010101,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 50002,
+  "groupId": 5,
+  "characterMstId": 1010201,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 50003,
+  "groupId": 5,
+  "characterMstId": 1010601,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 50004,
+  "groupId": 5,
+  "characterMstId": 1010701,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 60001,
+  "groupId": 6,
+  "characterMstId": 1010301,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 60002,
+  "groupId": 6,
+  "characterMstId": 1040301,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 60003,
+  "groupId": 6,
+  "characterMstId": 1060501,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 70001,
+  "groupId": 7,
+  "characterMstId": 1060301,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 70002,
+  "groupId": 7,
+  "characterMstId": 1050301,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 70003,
+  "groupId": 7,
+  "characterMstId": 1040501,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 80001,
+  "groupId": 8,
+  "characterMstId": 1010501,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 80002,
+  "groupId": 8,
+  "characterMstId": 1020301,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 80003,
+  "groupId": 8,
+  "characterMstId": 1030201,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 80004,
+  "groupId": 8,
+  "characterMstId": 1040101,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 80005,
+  "groupId": 8,
+  "characterMstId": 1050201,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 80006,
+  "groupId": 8,
+  "characterMstId": 1060101,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 90001,
+  "groupId": 9,
+  "characterMstId": 1020501,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 90002,
+  "groupId": 9,
+  "characterMstId": 1020601,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 90003,
+  "groupId": 9,
+  "characterMstId": 1021001,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 100001,
+  "groupId": 10,
+  "characterMstId": 1010101,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 100002,
+  "groupId": 10,
+  "characterMstId": 1010201,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 110001,
+  "groupId": 11,
+  "characterMstId": 1010101,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 110002,
+  "groupId": 11,
+  "characterMstId": 1010201,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 110003,
+  "groupId": 11,
+  "characterMstId": 1010301,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 120001,
+  "groupId": 12,
+  "characterMstId": 1010301,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 120002,
+  "groupId": 12,
+  "characterMstId": 1010401,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 120003,
+  "groupId": 12,
+  "characterMstId": 1010501,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 120004,
+  "groupId": 12,
+  "characterMstId": 1021201,
+  "characterVoiceMstId": 0
+ }
+]

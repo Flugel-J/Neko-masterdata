@@ -1,0 +1,22 @@
+[
+ {
+  "gardenAreaOpenConditionMstId": 1,
+  "requiredShopLevel": 5,
+  "gardenAreaMstId": 5
+ },
+ {
+  "gardenAreaOpenConditionMstId": 2,
+  "requiredShopLevel": 10,
+  "gardenAreaMstId": 4
+ },
+ {
+  "gardenAreaOpenConditionMstId": 3,
+  "requiredShopLevel": 15,
+  "gardenAreaMstId": 6
+ },
+ {
+  "gardenAreaOpenConditionMstId": 4,
+  "requiredShopLevel": 20,
+  "gardenAreaMstId": 7
+ }
+]

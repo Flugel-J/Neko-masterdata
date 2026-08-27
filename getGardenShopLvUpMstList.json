@@ -1,0 +1,317 @@
+[
+ {
+  "gardenShopLvUpMstId": 1,
+  "level": 1,
+  "targetUserRank": 1,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 0,
+  "totalFurnitureCount": 0,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 2,
+  "level": 2,
+  "targetUserRank": 1,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 0,
+  "totalFurnitureCount": 0,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 3,
+  "level": 3,
+  "targetUserRank": 1,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 0,
+  "totalFurnitureCount": 0,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 4,
+  "level": 4,
+  "targetUserRank": 2,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 0,
+  "totalFurnitureCount": 0,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 5,
+  "level": 5,
+  "targetUserRank": 2,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 0,
+  "totalFurnitureCount": 0,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 6,
+  "level": 6,
+  "targetUserRank": 2,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 0,
+  "totalFurnitureCount": 0,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 7,
+  "level": 7,
+  "targetUserRank": 3,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 0,
+  "totalFurnitureCount": 0,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 8,
+  "level": 8,
+  "targetUserRank": 3,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 0,
+  "totalFurnitureCount": 0,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 9,
+  "level": 9,
+  "targetUserRank": 3,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 0,
+  "totalFurnitureCount": 0,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 10,
+  "level": 10,
+  "targetUserRank": 3,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 0,
+  "totalFurnitureCount": 0,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 11,
+  "level": 11,
+  "targetUserRank": 10,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 2,
+  "totalFurnitureCount": 15,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 12,
+  "level": 12,
+  "targetUserRank": 14,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 3,
+  "totalFurnitureCount": 16,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 13,
+  "level": 13,
+  "targetUserRank": 18,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 3,
+  "totalFurnitureCount": 17,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 14,
+  "level": 14,
+  "targetUserRank": 22,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 3,
+  "totalFurnitureCount": 18,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 15,
+  "level": 15,
+  "targetUserRank": 26,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 4,
+  "totalFurnitureCount": 19,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 16,
+  "level": 16,
+  "targetUserRank": 30,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 4,
+  "totalFurnitureCount": 20,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 17,
+  "level": 17,
+  "targetUserRank": 34,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 4,
+  "totalFurnitureCount": 21,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 18,
+  "level": 18,
+  "targetUserRank": 36,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 5,
+  "totalFurnitureCount": 22,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 19,
+  "level": 19,
+  "targetUserRank": 38,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 5,
+  "totalFurnitureCount": 23,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 20,
+  "level": 20,
+  "targetUserRank": 40,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 5,
+  "totalFurnitureCount": 24,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 21,
+  "level": 21,
+  "targetUserRank": 42,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 6,
+  "totalFurnitureCount": 25,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 22,
+  "level": 22,
+  "targetUserRank": 44,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 6,
+  "totalFurnitureCount": 26,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 23,
+  "level": 23,
+  "targetUserRank": 46,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 6,
+  "totalFurnitureCount": 27,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 24,
+  "level": 24,
+  "targetUserRank": 48,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 7,
+  "totalFurnitureCount": 28,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 25,
+  "level": 25,
+  "targetUserRank": 50,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 7,
+  "totalFurnitureCount": 29,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 26,
+  "level": 26,
+  "targetUserRank": 52,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 7,
+  "totalFurnitureCount": 30,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 27,
+  "level": 27,
+  "targetUserRank": 54,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 8,
+  "totalFurnitureCount": 31,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 28,
+  "level": 28,
+  "targetUserRank": 56,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 8,
+  "totalFurnitureCount": 32,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 29,
+  "level": 29,
+  "targetUserRank": 58,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 8,
+  "totalFurnitureCount": 33,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 30,
+  "level": 30,
+  "targetUserRank": 60,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 9,
+  "totalFurnitureCount": 34,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 31,
+  "level": 31,
+  "targetUserRank": 65,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 9,
+  "totalFurnitureCount": 35,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 32,
+  "level": 32,
+  "targetUserRank": 70,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 9,
+  "totalFurnitureCount": 36,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 33,
+  "level": 33,
+  "targetUserRank": 75,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 10,
+  "totalFurnitureCount": 37,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 34,
+  "level": 34,
+  "targetUserRank": 80,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 10,
+  "totalFurnitureCount": 38,
+  "baseGardenProductMstId": 0
+ },
+ {
+  "gardenShopLvUpMstId": 35,
+  "level": 35,
+  "targetUserRank": 85,
+  "totalRewardCoin": 0,
+  "totalDevProducts": 10,
+  "totalFurnitureCount": 39,
+  "baseGardenProductMstId": 0
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "questSpecialRewardMstId": 1,
+  "questStageMstId": 110101005,
+  "paramType": 1,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 2,
+  "questStageMstId": 110101015,
+  "paramType": 3,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 3,
+  "questStageMstId": 110101025,
+  "paramType": 5,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 4,
+  "questStageMstId": 110101035,
+  "paramType": 7,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 5,
+  "questStageMstId": 110101045,
+  "paramType": 1,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 6,
+  "questStageMstId": 110101055,
+  "paramType": 3,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 7,
+  "questStageMstId": 110101065,
+  "paramType": 5,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 8,
+  "questStageMstId": 110101075,
+  "paramType": 7,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 9,
+  "questStageMstId": 110101085,
+  "paramType": 1,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 10,
+  "questStageMstId": 110101095,
+  "paramType": 3,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 11,
+  "questStageMstId": 110101105,
+  "paramType": 5,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 12,
+  "questStageMstId": 110101115,
+  "paramType": 7,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 13,
+  "questStageMstId": 110101125,
+  "paramType": 1,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 14,
+  "questStageMstId": 110101135,
+  "paramType": 3,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 15,
+  "questStageMstId": 110101145,
+  "paramType": 5,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 16,
+  "questStageMstId": 110101155,
+  "paramType": 7,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 17,
+  "questStageMstId": 110101165,
+  "paramType": 1,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 18,
+  "questStageMstId": 110101175,
+  "paramType": 3,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 19,
+  "questStageMstId": 110101185,
+  "paramType": 5,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 20,
+  "questStageMstId": 110101195,
+  "paramType": 7,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 21,
+  "questStageMstId": 110101205,
+  "paramType": 1,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 22,
+  "questStageMstId": 110101215,
+  "paramType": 3,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 23,
+  "questStageMstId": 110101225,
+  "paramType": 5,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 24,
+  "questStageMstId": 110101235,
+  "paramType": 7,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 25,
+  "questStageMstId": 110101245,
+  "paramType": 1,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 26,
+  "questStageMstId": 110101255,
+  "paramType": 3,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 27,
+  "questStageMstId": 110101265,
+  "paramType": 5,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 28,
+  "questStageMstId": 110101275,
+  "paramType": 7,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 29,
+  "questStageMstId": 110101285,
+  "paramType": 1,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 30,
+  "questStageMstId": 110101295,
+  "paramType": 3,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 31,
+  "questStageMstId": 110201005,
+  "paramType": 5,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 32,
+  "questStageMstId": 110201015,
+  "paramType": 7,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 33,
+  "questStageMstId": 110201025,
+  "paramType": 1,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 34,
+  "questStageMstId": 110201035,
+  "paramType": 3,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 35,
+  "questStageMstId": 110201045,
+  "paramType": 5,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 36,
+  "questStageMstId": 110201055,
+  "paramType": 7,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 37,
+  "questStageMstId": 110201065,
+  "paramType": 1,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 38,
+  "questStageMstId": 110201075,
+  "paramType": 3,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 39,
+  "questStageMstId": 110201085,
+  "paramType": 5,
+  "paramAmount": 300
+ },
+ {
+  "questSpecialRewardMstId": 40,
+  "questStageMstId": 110201095,
+  "paramType": 7,
+  "paramAmount": 300
+ }
+]

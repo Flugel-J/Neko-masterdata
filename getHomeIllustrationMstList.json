@@ -1,0 +1,20 @@
+[
+ {
+  "homeIllustrationMstId": 101010150,
+  "name": "Chocola (Special)",
+  "description": "A special background to celebrate Chocola birthday, \navailable for Home Customization.",
+  "characterMstId": 1010101,
+  "resourceId": 99,
+  "previewX": -390.0,
+  "previewX2": -800.0
+ },
+ {
+  "homeIllustrationMstId": 101020150,
+  "name": "Vanilla (Special)",
+  "description": "A special background to celebrate Vanilla birthday, \navailable for Home Customization.",
+  "characterMstId": 1010201,
+  "resourceId": 99,
+  "previewX": -330.0,
+  "previewX2": -760.0
+ }
+]

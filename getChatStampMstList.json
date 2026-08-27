@@ -1,0 +1,386 @@
+[
+ {
+  "chatStampMstId": 10101001,
+  "resourceId": 10101001,
+  "sortOrder": 18,
+  "name": "coming soon...",
+  "description": "coming soon...",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10101002,
+  "resourceId": 10101002,
+  "sortOrder": 1,
+  "name": "coming soon...",
+  "description": "coming soon...",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10101003,
+  "resourceId": 10101003,
+  "sortOrder": 25,
+  "name": "coming soon...",
+  "description": "coming soon...",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10101004,
+  "resourceId": 10101004,
+  "sortOrder": 37,
+  "name": "coming soon...",
+  "description": "coming soon...",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10102001,
+  "resourceId": 10102001,
+  "sortOrder": 38,
+  "name": "coming soon...",
+  "description": "coming soon...",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10102002,
+  "resourceId": 10102002,
+  "sortOrder": 2,
+  "name": "Stamp6",
+  "description": "Stamp6",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10102003,
+  "resourceId": 10102003,
+  "sortOrder": 36,
+  "name": "Stamp7",
+  "description": "Stamp7",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10102004,
+  "resourceId": 10102004,
+  "sortOrder": 26,
+  "name": "Stamp8",
+  "description": "Stamp8",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10103001,
+  "resourceId": 10103001,
+  "sortOrder": 20,
+  "name": "Stamp9",
+  "description": "Stamp9",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10103002,
+  "resourceId": 10103002,
+  "sortOrder": 17,
+  "name": "Stamp10",
+  "description": "Stamp10",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10103003,
+  "resourceId": 10103003,
+  "sortOrder": 4,
+  "name": "Stamp11",
+  "description": "Stamp11",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10103004,
+  "resourceId": 10103004,
+  "sortOrder": 40,
+  "name": "Stamp12",
+  "description": "Stamp12",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10104001,
+  "resourceId": 10104001,
+  "sortOrder": 24,
+  "name": "Stamp13",
+  "description": "Stamp13",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10104002,
+  "resourceId": 10104002,
+  "sortOrder": 23,
+  "name": "Stamp14",
+  "description": "Stamp14",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10104003,
+  "resourceId": 10104003,
+  "sortOrder": 44,
+  "name": "Stamp45",
+  "description": "Stamp45",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10105001,
+  "resourceId": 10105001,
+  "sortOrder": 33,
+  "name": "Stamp15",
+  "description": "Stamp15",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10105002,
+  "resourceId": 10105002,
+  "sortOrder": 8,
+  "name": "Stamp16",
+  "description": "Stamp16",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10105003,
+  "resourceId": 10105003,
+  "sortOrder": 46,
+  "name": "Stamp48",
+  "description": "Stamp48",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10106001,
+  "resourceId": 10106001,
+  "sortOrder": 43,
+  "name": "Stamp17",
+  "description": "Stamp17",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10106002,
+  "resourceId": 10106002,
+  "sortOrder": 22,
+  "name": "Stamp18",
+  "description": "Stamp18",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10106003,
+  "resourceId": 10106003,
+  "sortOrder": 45,
+  "name": "Stamp46",
+  "description": "Stamp46",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10107001,
+  "resourceId": 10107001,
+  "sortOrder": 42,
+  "name": "Stamp19",
+  "description": "Stamp19",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10107002,
+  "resourceId": 10107002,
+  "sortOrder": 19,
+  "name": "Stamp20",
+  "description": "Stamp20",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10107003,
+  "resourceId": 10107003,
+  "sortOrder": 47,
+  "name": "Stamp47",
+  "description": "Stamp47",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10201001,
+  "resourceId": 10201001,
+  "sortOrder": 28,
+  "name": "Stamp21",
+  "description": "Stamp21",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10202001,
+  "resourceId": 10202001,
+  "sortOrder": 39,
+  "name": "Stamp22",
+  "description": "Stamp22",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10203001,
+  "resourceId": 10203001,
+  "sortOrder": 35,
+  "name": "Stamp23",
+  "description": "Stamp23",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10204001,
+  "resourceId": 10204001,
+  "sortOrder": 21,
+  "name": "Stamp24",
+  "description": "Stamp24",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10301001,
+  "resourceId": 10301001,
+  "sortOrder": 6,
+  "name": "Stamp25",
+  "description": "Stamp25",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10302001,
+  "resourceId": 10302001,
+  "sortOrder": 41,
+  "name": "Stamp26",
+  "description": "Stamp26",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10303001,
+  "resourceId": 10303001,
+  "sortOrder": 10,
+  "name": "Stamp27",
+  "description": "Stamp27",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10304001,
+  "resourceId": 10304001,
+  "sortOrder": 30,
+  "name": "Stamp28",
+  "description": "Stamp28",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10401001,
+  "resourceId": 10401001,
+  "sortOrder": 31,
+  "name": "Stamp29",
+  "description": "Stamp29",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10402001,
+  "resourceId": 10402001,
+  "sortOrder": 5,
+  "name": "Stamp30",
+  "description": "Stamp30",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10403001,
+  "resourceId": 10403001,
+  "sortOrder": 34,
+  "name": "Stamp31",
+  "description": "Stamp31",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10404001,
+  "resourceId": 10404001,
+  "sortOrder": 29,
+  "name": "Stamp32",
+  "description": "Stamp32",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10501001,
+  "resourceId": 10501001,
+  "sortOrder": 14,
+  "name": "Stamp33",
+  "description": "Stamp33",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10502001,
+  "resourceId": 10502001,
+  "sortOrder": 27,
+  "name": "Stamp34",
+  "description": "Stamp34",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10503001,
+  "resourceId": 10503001,
+  "sortOrder": 13,
+  "name": "Stamp35",
+  "description": "Stamp35",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10504001,
+  "resourceId": 10504001,
+  "sortOrder": 32,
+  "name": "Stamp36",
+  "description": "Stamp36",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10601001,
+  "resourceId": 10601001,
+  "sortOrder": 9,
+  "name": "Stamp37",
+  "description": "Stamp37",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10602001,
+  "resourceId": 10602001,
+  "sortOrder": 16,
+  "name": "Stamp38",
+  "description": "Stamp38",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10603001,
+  "resourceId": 10603001,
+  "sortOrder": 15,
+  "name": "Stamp39",
+  "description": "Stamp39",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 10604001,
+  "resourceId": 10604001,
+  "sortOrder": 7,
+  "name": "Stamp40",
+  "description": "Stamp40",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 20101001,
+  "resourceId": 20101001,
+  "sortOrder": 3,
+  "name": "Stamp41",
+  "description": "Stamp41",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 20101002,
+  "resourceId": 20101002,
+  "sortOrder": 48,
+  "name": "Stamp44",
+  "description": "Stamp44",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 90901001,
+  "resourceId": 90901001,
+  "sortOrder": 11,
+  "name": "Stamp42",
+  "description": "Stamp42",
+  "isDefault": true
+ },
+ {
+  "chatStampMstId": 90901002,
+  "resourceId": 90901002,
+  "sortOrder": 12,
+  "name": "Stamp43",
+  "description": "Stamp43",
+  "isDefault": true
+ }
+]

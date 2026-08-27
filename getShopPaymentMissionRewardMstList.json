@@ -1,0 +1,51 @@
+[
+ {
+  "shopPaymentMissionRewardMstId": 1,
+  "shopPaymentMissionRewardGroupId": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "shopPaymentMissionRewardMstId": 2,
+  "shopPaymentMissionRewardGroupId": 2,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 200
+ },
+ {
+  "shopPaymentMissionRewardMstId": 3,
+  "shopPaymentMissionRewardGroupId": 3,
+  "objectReceiveType": 6,
+  "objectId": 3020003,
+  "num": 1
+ },
+ {
+  "shopPaymentMissionRewardMstId": 4,
+  "shopPaymentMissionRewardGroupId": 4,
+  "objectReceiveType": 6,
+  "objectId": 3020004,
+  "num": 1
+ },
+ {
+  "shopPaymentMissionRewardMstId": 5,
+  "shopPaymentMissionRewardGroupId": 5,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 300
+ },
+ {
+  "shopPaymentMissionRewardMstId": 3001,
+  "shopPaymentMissionRewardGroupId": 3001,
+  "objectReceiveType": 6,
+  "objectId": 3020003,
+  "num": 1
+ },
+ {
+  "shopPaymentMissionRewardMstId": 3002,
+  "shopPaymentMissionRewardGroupId": 3002,
+  "objectReceiveType": 6,
+  "objectId": 3020004,
+  "num": 1
+ }
+]

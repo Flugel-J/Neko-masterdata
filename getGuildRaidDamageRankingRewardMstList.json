@@ -1,0 +1,74 @@
+[
+ {
+  "guildRaidDamageRankingRewardMstId": 1,
+  "rankingRewardGroupId": 1010100,
+  "minRanking": 1,
+  "dailyRewardGroupId": 10101001
+ },
+ {
+  "guildRaidDamageRankingRewardMstId": 2,
+  "rankingRewardGroupId": 1010100,
+  "minRanking": 2,
+  "dailyRewardGroupId": 10101002
+ },
+ {
+  "guildRaidDamageRankingRewardMstId": 3,
+  "rankingRewardGroupId": 1010100,
+  "minRanking": 3,
+  "dailyRewardGroupId": 10101003
+ },
+ {
+  "guildRaidDamageRankingRewardMstId": 4,
+  "rankingRewardGroupId": 1010100,
+  "minRanking": 5,
+  "dailyRewardGroupId": 10101004
+ },
+ {
+  "guildRaidDamageRankingRewardMstId": 5,
+  "rankingRewardGroupId": 1010100,
+  "minRanking": 10,
+  "dailyRewardGroupId": 10101005
+ },
+ {
+  "guildRaidDamageRankingRewardMstId": 6,
+  "rankingRewardGroupId": 1010100,
+  "minRanking": 99,
+  "dailyRewardGroupId": 10101006
+ },
+ {
+  "guildRaidDamageRankingRewardMstId": 7,
+  "rankingRewardGroupId": 2010100,
+  "minRanking": 1,
+  "dailyRewardGroupId": 20101001
+ },
+ {
+  "guildRaidDamageRankingRewardMstId": 8,
+  "rankingRewardGroupId": 2010100,
+  "minRanking": 2,
+  "dailyRewardGroupId": 20101002
+ },
+ {
+  "guildRaidDamageRankingRewardMstId": 9,
+  "rankingRewardGroupId": 2010100,
+  "minRanking": 3,
+  "dailyRewardGroupId": 20101003
+ },
+ {
+  "guildRaidDamageRankingRewardMstId": 10,
+  "rankingRewardGroupId": 2010100,
+  "minRanking": 5,
+  "dailyRewardGroupId": 20101004
+ },
+ {
+  "guildRaidDamageRankingRewardMstId": 11,
+  "rankingRewardGroupId": 2010100,
+  "minRanking": 10,
+  "dailyRewardGroupId": 20101005
+ },
+ {
+  "guildRaidDamageRankingRewardMstId": 12,
+  "rankingRewardGroupId": 2010100,
+  "minRanking": 99,
+  "dailyRewardGroupId": 20101006
+ }
+]

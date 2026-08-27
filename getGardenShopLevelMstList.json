@@ -1,0 +1,177 @@
+[
+ {
+  "gardenShopLevelMstId": 1,
+  "level": 1,
+  "maxFurnitureLevel": 2
+ },
+ {
+  "gardenShopLevelMstId": 2,
+  "level": 2,
+  "maxFurnitureLevel": 3
+ },
+ {
+  "gardenShopLevelMstId": 3,
+  "level": 3,
+  "maxFurnitureLevel": 4
+ },
+ {
+  "gardenShopLevelMstId": 4,
+  "level": 4,
+  "maxFurnitureLevel": 5
+ },
+ {
+  "gardenShopLevelMstId": 5,
+  "level": 5,
+  "maxFurnitureLevel": 6
+ },
+ {
+  "gardenShopLevelMstId": 6,
+  "level": 6,
+  "maxFurnitureLevel": 7
+ },
+ {
+  "gardenShopLevelMstId": 7,
+  "level": 7,
+  "maxFurnitureLevel": 8
+ },
+ {
+  "gardenShopLevelMstId": 8,
+  "level": 8,
+  "maxFurnitureLevel": 9
+ },
+ {
+  "gardenShopLevelMstId": 9,
+  "level": 9,
+  "maxFurnitureLevel": 9
+ },
+ {
+  "gardenShopLevelMstId": 10,
+  "level": 10,
+  "maxFurnitureLevel": 10
+ },
+ {
+  "gardenShopLevelMstId": 11,
+  "level": 11,
+  "maxFurnitureLevel": 10
+ },
+ {
+  "gardenShopLevelMstId": 12,
+  "level": 12,
+  "maxFurnitureLevel": 11
+ },
+ {
+  "gardenShopLevelMstId": 13,
+  "level": 13,
+  "maxFurnitureLevel": 11
+ },
+ {
+  "gardenShopLevelMstId": 14,
+  "level": 14,
+  "maxFurnitureLevel": 12
+ },
+ {
+  "gardenShopLevelMstId": 15,
+  "level": 15,
+  "maxFurnitureLevel": 12
+ },
+ {
+  "gardenShopLevelMstId": 16,
+  "level": 16,
+  "maxFurnitureLevel": 13
+ },
+ {
+  "gardenShopLevelMstId": 17,
+  "level": 17,
+  "maxFurnitureLevel": 13
+ },
+ {
+  "gardenShopLevelMstId": 18,
+  "level": 18,
+  "maxFurnitureLevel": 14
+ },
+ {
+  "gardenShopLevelMstId": 19,
+  "level": 19,
+  "maxFurnitureLevel": 14
+ },
+ {
+  "gardenShopLevelMstId": 20,
+  "level": 20,
+  "maxFurnitureLevel": 15
+ },
+ {
+  "gardenShopLevelMstId": 21,
+  "level": 21,
+  "maxFurnitureLevel": 15
+ },
+ {
+  "gardenShopLevelMstId": 22,
+  "level": 22,
+  "maxFurnitureLevel": 16
+ },
+ {
+  "gardenShopLevelMstId": 23,
+  "level": 23,
+  "maxFurnitureLevel": 16
+ },
+ {
+  "gardenShopLevelMstId": 24,
+  "level": 24,
+  "maxFurnitureLevel": 17
+ },
+ {
+  "gardenShopLevelMstId": 25,
+  "level": 25,
+  "maxFurnitureLevel": 17
+ },
+ {
+  "gardenShopLevelMstId": 26,
+  "level": 26,
+  "maxFurnitureLevel": 18
+ },
+ {
+  "gardenShopLevelMstId": 27,
+  "level": 27,
+  "maxFurnitureLevel": 18
+ },
+ {
+  "gardenShopLevelMstId": 28,
+  "level": 28,
+  "maxFurnitureLevel": 19
+ },
+ {
+  "gardenShopLevelMstId": 29,
+  "level": 29,
+  "maxFurnitureLevel": 19
+ },
+ {
+  "gardenShopLevelMstId": 30,
+  "level": 30,
+  "maxFurnitureLevel": 20
+ },
+ {
+  "gardenShopLevelMstId": 31,
+  "level": 31,
+  "maxFurnitureLevel": 20
+ },
+ {
+  "gardenShopLevelMstId": 32,
+  "level": 32,
+  "maxFurnitureLevel": 21
+ },
+ {
+  "gardenShopLevelMstId": 33,
+  "level": 33,
+  "maxFurnitureLevel": 21
+ },
+ {
+  "gardenShopLevelMstId": 34,
+  "level": 34,
+  "maxFurnitureLevel": 22
+ },
+ {
+  "gardenShopLevelMstId": 35,
+  "level": 35,
+  "maxFurnitureLevel": 22
+ }
+]

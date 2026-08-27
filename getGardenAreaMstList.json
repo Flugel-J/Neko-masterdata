@@ -1,0 +1,79 @@
+[
+ {
+  "gardenAreaMstId": 1,
+  "name": "Floor",
+  "description": "The main floor features the product display and dining area.\nAssigning Nekos increases sales rewards.",
+  "areaType": 1,
+  "sizeX": 16,
+  "sizeY": 16,
+  "positionX": 0,
+  "positionY": 0,
+  "tabName": "Floor"
+ },
+ {
+  "gardenAreaMstId": 2,
+  "name": "Kitchen",
+  "description": "The kitchen where the store's items are prepared.\nAssigning cats increases sales rewards.",
+  "areaType": 2,
+  "sizeX": 8,
+  "sizeY": 16,
+  "positionX": 16,
+  "positionY": 0,
+  "tabName": "Kitchen"
+ },
+ {
+  "gardenAreaMstId": 3,
+  "name": "Staff Room",
+  "description": "The staff break room.\nAssign Nekos here to help them recover their stamina.",
+  "areaType": 3,
+  "sizeX": 8,
+  "sizeY": 16,
+  "positionX": 24,
+  "positionY": 0,
+  "tabName": "Staff Room"
+ },
+ {
+  "gardenAreaMstId": 4,
+  "name": "Parking",
+  "description": "A delivery moped is parked here.",
+  "areaType": 4,
+  "sizeX": 8,
+  "sizeY": 8,
+  "positionX": 16,
+  "positionY": -8,
+  "tabName": "Parking"
+ },
+ {
+  "gardenAreaMstId": 5,
+  "name": "Courtyard",
+  "description": "A garden where beautiful flowers are grown.\nEach flower can be leveled up and enhanced.",
+  "areaType": 5,
+  "sizeX": 8,
+  "sizeY": 8,
+  "positionX": 24,
+  "positionY": 16,
+  "tabName": "Courtyard"
+ },
+ {
+  "gardenAreaMstId": 6,
+  "name": "Garage",
+  "description": "The store's food truck is parked here.",
+  "areaType": 6,
+  "sizeX": 10,
+  "sizeY": 8,
+  "positionX": 24,
+  "positionY": -8,
+  "tabName": "Garage"
+ },
+ {
+  "gardenAreaMstId": 7,
+  "name": "Your Room",
+  "description": "Check your profile and Collector Board here.\nSometimes, Nekos might even drop by for a visit!",
+  "areaType": 7,
+  "sizeX": 8,
+  "sizeY": 8,
+  "positionX": 32,
+  "positionY": 0,
+  "tabName": "Your Room"
+ }
+]

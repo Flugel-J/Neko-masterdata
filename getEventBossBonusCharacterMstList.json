@@ -1,0 +1,138 @@
+[
+ {
+  "eventBossBonusCharacterMstId": 1001,
+  "groupId": 1001,
+  "sortOrder": 1,
+  "characterMstId": 1010101,
+  "bonusRate": 2500,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 1002,
+  "groupId": 1001,
+  "sortOrder": 2,
+  "characterMstId": 1010201,
+  "bonusRate": 2500,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 1003,
+  "groupId": 1001,
+  "sortOrder": 3,
+  "characterMstId": 1010601,
+  "bonusRate": 2500,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 1004,
+  "groupId": 1001,
+  "sortOrder": 4,
+  "characterMstId": 1010701,
+  "bonusRate": 2500,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 2001,
+  "groupId": 1002,
+  "sortOrder": 1,
+  "characterMstId": 1010301,
+  "bonusRate": 5000,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 2002,
+  "groupId": 1002,
+  "sortOrder": 2,
+  "characterMstId": 1040301,
+  "bonusRate": 5000,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 2003,
+  "groupId": 1002,
+  "sortOrder": 3,
+  "characterMstId": 1060501,
+  "bonusRate": 5000,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 3001,
+  "groupId": 1003,
+  "sortOrder": 1,
+  "characterMstId": 1050301,
+  "bonusRate": 5000,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 3002,
+  "groupId": 1003,
+  "sortOrder": 2,
+  "characterMstId": 1060301,
+  "bonusRate": 5000,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 3003,
+  "groupId": 1003,
+  "sortOrder": 3,
+  "characterMstId": 1040501,
+  "bonusRate": 5000,
+  "isLevelSync": true
+ },
+ {
+  "eventBossBonusCharacterMstId": 4001,
+  "groupId": 1004,
+  "sortOrder": 1,
+  "characterMstId": 1020501,
+  "bonusRate": 5000,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 4002,
+  "groupId": 1004,
+  "sortOrder": 2,
+  "characterMstId": 1020601,
+  "bonusRate": 5000,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 4003,
+  "groupId": 1004,
+  "sortOrder": 3,
+  "characterMstId": 1021001,
+  "bonusRate": 5000,
+  "isLevelSync": true
+ },
+ {
+  "eventBossBonusCharacterMstId": 5001,
+  "groupId": 1005,
+  "sortOrder": 1,
+  "characterMstId": 1010301,
+  "bonusRate": 5000,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 5002,
+  "groupId": 1005,
+  "sortOrder": 2,
+  "characterMstId": 1010401,
+  "bonusRate": 5000,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 5003,
+  "groupId": 1005,
+  "sortOrder": 3,
+  "characterMstId": 1010501,
+  "bonusRate": 5000,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 5004,
+  "groupId": 1005,
+  "sortOrder": 4,
+  "characterMstId": 1021201,
+  "bonusRate": 5000,
+  "isLevelSync": true
+ }
+]

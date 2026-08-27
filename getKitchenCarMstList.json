@@ -1,0 +1,62 @@
+[
+ {
+  "kitchenCarMstId": 1,
+  "resourceId": 1,
+  "name": "coming soon...",
+  "description": "coming soon...",
+  "bonusSkillMstId": 1,
+  "bonusSkillGroupId": 9010101,
+  "rating": 10,
+  "releaseTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "kitchenCarMstId": 2,
+  "resourceId": 2,
+  "name": "coming soon...",
+  "description": "coming soon...",
+  "bonusSkillMstId": 3,
+  "bonusSkillGroupId": 9020101,
+  "rating": 50,
+  "releaseTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "kitchenCarMstId": 3,
+  "resourceId": 3,
+  "name": "coming soon...",
+  "description": "coming soon...",
+  "bonusSkillMstId": 4,
+  "bonusSkillGroupId": 9030101,
+  "rating": 50,
+  "releaseTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "kitchenCarMstId": 4,
+  "resourceId": 4,
+  "name": "coming soon...",
+  "description": "coming soon...",
+  "bonusSkillMstId": 5,
+  "bonusSkillGroupId": 9040101,
+  "rating": 50,
+  "releaseTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "kitchenCarMstId": 5,
+  "resourceId": 5,
+  "name": "coming soon...",
+  "description": "coming soon...",
+  "bonusSkillMstId": 2,
+  "bonusSkillGroupId": 9050101,
+  "rating": 10,
+  "releaseTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "kitchenCarMstId": 6,
+  "resourceId": 6,
+  "name": "coming soon...",
+  "description": "coming soon...",
+  "bonusSkillMstId": 1,
+  "bonusSkillGroupId": 9999999,
+  "rating": 50,
+  "releaseTime": "1970-01-01T09:00:00+09:00"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "gardenIdleRewardCardSeriesLottMstId": 1,
+  "questStageMstId": 110101001,
+  "cardSeriesMstId": 10001
+ },
+ {
+  "gardenIdleRewardCardSeriesLottMstId": 2,
+  "questStageMstId": 110101020,
+  "cardSeriesMstId": 10002
+ },
+ {
+  "gardenIdleRewardCardSeriesLottMstId": 3,
+  "questStageMstId": 110101030,
+  "cardSeriesMstId": 10003
+ },
+ {
+  "gardenIdleRewardCardSeriesLottMstId": 4,
+  "questStageMstId": 110101040,
+  "cardSeriesMstId": 10004
+ },
+ {
+  "gardenIdleRewardCardSeriesLottMstId": 5,
+  "questStageMstId": 110101050,
+  "cardSeriesMstId": 10005
+ }
+]

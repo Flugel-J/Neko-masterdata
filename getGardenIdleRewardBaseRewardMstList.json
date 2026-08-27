@@ -1,0 +1,3502 @@
+[
+ {
+  "gardenIdleRewardBaseRewardMstId": 1,
+  "shopLevel": 1,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 500
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 2,
+  "shopLevel": 1,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 3,
+  "shopLevel": 1,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 250
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 4,
+  "shopLevel": 1,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 5,
+  "shopLevel": 1,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 6,
+  "shopLevel": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 525
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 7,
+  "shopLevel": 2,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 8,
+  "shopLevel": 2,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 260
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 9,
+  "shopLevel": 2,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 10,
+  "shopLevel": 2,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 11,
+  "shopLevel": 3,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 550
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 12,
+  "shopLevel": 3,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 13,
+  "shopLevel": 3,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 270
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 14,
+  "shopLevel": 3,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 15,
+  "shopLevel": 3,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 16,
+  "shopLevel": 4,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 575
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 17,
+  "shopLevel": 4,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 18,
+  "shopLevel": 4,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 280
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 19,
+  "shopLevel": 4,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 20,
+  "shopLevel": 4,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 21,
+  "shopLevel": 5,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 600
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 22,
+  "shopLevel": 5,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 23,
+  "shopLevel": 5,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 300
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 24,
+  "shopLevel": 5,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 25,
+  "shopLevel": 5,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 26,
+  "shopLevel": 6,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 620
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 27,
+  "shopLevel": 6,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 28,
+  "shopLevel": 6,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 310
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 29,
+  "shopLevel": 6,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 30,
+  "shopLevel": 6,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 31,
+  "shopLevel": 7,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 640
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 32,
+  "shopLevel": 7,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 33,
+  "shopLevel": 7,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 320
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 34,
+  "shopLevel": 7,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 35,
+  "shopLevel": 7,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 36,
+  "shopLevel": 8,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 660
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 37,
+  "shopLevel": 8,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 38,
+  "shopLevel": 8,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 330
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 39,
+  "shopLevel": 8,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 40,
+  "shopLevel": 8,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 41,
+  "shopLevel": 9,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 680
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 42,
+  "shopLevel": 9,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 43,
+  "shopLevel": 9,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 340
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 44,
+  "shopLevel": 9,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 45,
+  "shopLevel": 9,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 1
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 46,
+  "shopLevel": 10,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 700
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 47,
+  "shopLevel": 10,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 48,
+  "shopLevel": 10,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 350
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 49,
+  "shopLevel": 10,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 50,
+  "shopLevel": 10,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 51,
+  "shopLevel": 11,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 705
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 52,
+  "shopLevel": 11,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 53,
+  "shopLevel": 11,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 352
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 54,
+  "shopLevel": 11,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 55,
+  "shopLevel": 11,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 56,
+  "shopLevel": 12,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 710
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 57,
+  "shopLevel": 12,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 58,
+  "shopLevel": 12,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 355
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 59,
+  "shopLevel": 12,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 60,
+  "shopLevel": 12,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 61,
+  "shopLevel": 13,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 715
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 62,
+  "shopLevel": 13,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 63,
+  "shopLevel": 13,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 357
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 64,
+  "shopLevel": 13,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 65,
+  "shopLevel": 13,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 66,
+  "shopLevel": 14,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 720
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 67,
+  "shopLevel": 14,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 68,
+  "shopLevel": 14,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 360
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 69,
+  "shopLevel": 14,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 70,
+  "shopLevel": 14,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 71,
+  "shopLevel": 15,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 725
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 72,
+  "shopLevel": 15,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 73,
+  "shopLevel": 15,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 362
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 74,
+  "shopLevel": 15,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 75,
+  "shopLevel": 15,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 76,
+  "shopLevel": 16,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 730
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 77,
+  "shopLevel": 16,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 78,
+  "shopLevel": 16,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 365
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 79,
+  "shopLevel": 16,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 80,
+  "shopLevel": 16,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 81,
+  "shopLevel": 17,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 735
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 82,
+  "shopLevel": 17,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 83,
+  "shopLevel": 17,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 367
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 84,
+  "shopLevel": 17,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 85,
+  "shopLevel": 17,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 86,
+  "shopLevel": 18,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 740
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 87,
+  "shopLevel": 18,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 88,
+  "shopLevel": 18,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 370
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 89,
+  "shopLevel": 18,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 90,
+  "shopLevel": 18,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 91,
+  "shopLevel": 19,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 745
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 92,
+  "shopLevel": 19,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 93,
+  "shopLevel": 19,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 372
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 94,
+  "shopLevel": 19,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 95,
+  "shopLevel": 19,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 2
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 96,
+  "shopLevel": 20,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 750
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 97,
+  "shopLevel": 20,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 98,
+  "shopLevel": 20,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 375
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 99,
+  "shopLevel": 20,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 100,
+  "shopLevel": 20,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 101,
+  "shopLevel": 21,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 755
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 102,
+  "shopLevel": 21,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 103,
+  "shopLevel": 21,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 377
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 104,
+  "shopLevel": 21,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 105,
+  "shopLevel": 21,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 106,
+  "shopLevel": 22,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 760
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 107,
+  "shopLevel": 22,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 108,
+  "shopLevel": 22,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 380
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 109,
+  "shopLevel": 22,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 110,
+  "shopLevel": 22,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 111,
+  "shopLevel": 23,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 765
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 112,
+  "shopLevel": 23,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 113,
+  "shopLevel": 23,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 382
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 114,
+  "shopLevel": 23,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 115,
+  "shopLevel": 23,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 116,
+  "shopLevel": 24,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 770
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 117,
+  "shopLevel": 24,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 118,
+  "shopLevel": 24,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 385
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 119,
+  "shopLevel": 24,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 120,
+  "shopLevel": 24,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 121,
+  "shopLevel": 25,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 775
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 122,
+  "shopLevel": 25,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 123,
+  "shopLevel": 25,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 387
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 124,
+  "shopLevel": 25,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 125,
+  "shopLevel": 25,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 126,
+  "shopLevel": 26,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 780
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 127,
+  "shopLevel": 26,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 128,
+  "shopLevel": 26,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 390
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 129,
+  "shopLevel": 26,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 130,
+  "shopLevel": 26,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 131,
+  "shopLevel": 27,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 785
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 132,
+  "shopLevel": 27,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 133,
+  "shopLevel": 27,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 392
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 134,
+  "shopLevel": 27,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 135,
+  "shopLevel": 27,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 136,
+  "shopLevel": 28,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 790
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 137,
+  "shopLevel": 28,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 138,
+  "shopLevel": 28,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 395
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 139,
+  "shopLevel": 28,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 140,
+  "shopLevel": 28,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 141,
+  "shopLevel": 29,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 795
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 142,
+  "shopLevel": 29,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 143,
+  "shopLevel": 29,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 397
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 144,
+  "shopLevel": 29,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 145,
+  "shopLevel": 29,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 3
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 146,
+  "shopLevel": 30,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 800
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 147,
+  "shopLevel": 30,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 148,
+  "shopLevel": 30,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 400
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 149,
+  "shopLevel": 30,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 150,
+  "shopLevel": 30,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 151,
+  "shopLevel": 31,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 805
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 152,
+  "shopLevel": 31,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 153,
+  "shopLevel": 31,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 402
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 154,
+  "shopLevel": 31,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 155,
+  "shopLevel": 31,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 156,
+  "shopLevel": 32,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 810
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 157,
+  "shopLevel": 32,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 158,
+  "shopLevel": 32,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 405
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 159,
+  "shopLevel": 32,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 160,
+  "shopLevel": 32,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 161,
+  "shopLevel": 33,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 815
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 162,
+  "shopLevel": 33,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 163,
+  "shopLevel": 33,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 407
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 164,
+  "shopLevel": 33,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 165,
+  "shopLevel": 33,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 166,
+  "shopLevel": 34,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 820
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 167,
+  "shopLevel": 34,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 168,
+  "shopLevel": 34,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 410
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 169,
+  "shopLevel": 34,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 170,
+  "shopLevel": 34,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 171,
+  "shopLevel": 35,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 825
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 172,
+  "shopLevel": 35,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 173,
+  "shopLevel": 35,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 412
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 174,
+  "shopLevel": 35,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 175,
+  "shopLevel": 35,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 176,
+  "shopLevel": 36,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 830
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 177,
+  "shopLevel": 36,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 178,
+  "shopLevel": 36,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 415
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 179,
+  "shopLevel": 36,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 180,
+  "shopLevel": 36,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 181,
+  "shopLevel": 37,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 835
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 182,
+  "shopLevel": 37,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 183,
+  "shopLevel": 37,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 417
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 184,
+  "shopLevel": 37,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 185,
+  "shopLevel": 37,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 186,
+  "shopLevel": 38,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 840
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 187,
+  "shopLevel": 38,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 188,
+  "shopLevel": 38,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 420
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 189,
+  "shopLevel": 38,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 190,
+  "shopLevel": 38,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 191,
+  "shopLevel": 39,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 845
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 192,
+  "shopLevel": 39,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 193,
+  "shopLevel": 39,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 422
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 194,
+  "shopLevel": 39,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 195,
+  "shopLevel": 39,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 4
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 196,
+  "shopLevel": 40,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 850
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 197,
+  "shopLevel": 40,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 198,
+  "shopLevel": 40,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 425
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 199,
+  "shopLevel": 40,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 200,
+  "shopLevel": 40,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 201,
+  "shopLevel": 41,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 855
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 202,
+  "shopLevel": 41,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 203,
+  "shopLevel": 41,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 427
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 204,
+  "shopLevel": 41,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 205,
+  "shopLevel": 41,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 206,
+  "shopLevel": 42,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 860
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 207,
+  "shopLevel": 42,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 208,
+  "shopLevel": 42,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 430
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 209,
+  "shopLevel": 42,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 210,
+  "shopLevel": 42,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 211,
+  "shopLevel": 43,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 865
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 212,
+  "shopLevel": 43,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 213,
+  "shopLevel": 43,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 432
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 214,
+  "shopLevel": 43,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 215,
+  "shopLevel": 43,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 216,
+  "shopLevel": 44,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 870
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 217,
+  "shopLevel": 44,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 218,
+  "shopLevel": 44,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 435
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 219,
+  "shopLevel": 44,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 220,
+  "shopLevel": 44,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 221,
+  "shopLevel": 45,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 875
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 222,
+  "shopLevel": 45,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 223,
+  "shopLevel": 45,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 437
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 224,
+  "shopLevel": 45,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 225,
+  "shopLevel": 45,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 226,
+  "shopLevel": 46,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 880
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 227,
+  "shopLevel": 46,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 228,
+  "shopLevel": 46,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 440
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 229,
+  "shopLevel": 46,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 230,
+  "shopLevel": 46,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 231,
+  "shopLevel": 47,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 885
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 232,
+  "shopLevel": 47,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 233,
+  "shopLevel": 47,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 442
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 234,
+  "shopLevel": 47,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 235,
+  "shopLevel": 47,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 236,
+  "shopLevel": 48,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 890
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 237,
+  "shopLevel": 48,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 238,
+  "shopLevel": 48,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 445
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 239,
+  "shopLevel": 48,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 240,
+  "shopLevel": 48,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 241,
+  "shopLevel": 49,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 895
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 242,
+  "shopLevel": 49,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 243,
+  "shopLevel": 49,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 447
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 244,
+  "shopLevel": 49,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 245,
+  "shopLevel": 49,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 5
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 246,
+  "shopLevel": 50,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 900
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 247,
+  "shopLevel": 50,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 248,
+  "shopLevel": 50,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 450
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 249,
+  "shopLevel": 50,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 250,
+  "shopLevel": 50,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 251,
+  "shopLevel": 51,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 905
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 252,
+  "shopLevel": 51,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 253,
+  "shopLevel": 51,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 452
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 254,
+  "shopLevel": 51,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 255,
+  "shopLevel": 51,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 256,
+  "shopLevel": 52,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 910
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 257,
+  "shopLevel": 52,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 258,
+  "shopLevel": 52,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 455
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 259,
+  "shopLevel": 52,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 260,
+  "shopLevel": 52,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 261,
+  "shopLevel": 53,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 915
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 262,
+  "shopLevel": 53,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 263,
+  "shopLevel": 53,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 457
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 264,
+  "shopLevel": 53,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 265,
+  "shopLevel": 53,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 266,
+  "shopLevel": 54,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 920
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 267,
+  "shopLevel": 54,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 268,
+  "shopLevel": 54,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 460
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 269,
+  "shopLevel": 54,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 270,
+  "shopLevel": 54,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 271,
+  "shopLevel": 55,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 925
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 272,
+  "shopLevel": 55,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 273,
+  "shopLevel": 55,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 462
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 274,
+  "shopLevel": 55,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 275,
+  "shopLevel": 55,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 276,
+  "shopLevel": 56,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 930
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 277,
+  "shopLevel": 56,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 278,
+  "shopLevel": 56,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 465
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 279,
+  "shopLevel": 56,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 280,
+  "shopLevel": 56,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 281,
+  "shopLevel": 57,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 935
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 282,
+  "shopLevel": 57,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 283,
+  "shopLevel": 57,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 467
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 284,
+  "shopLevel": 57,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 285,
+  "shopLevel": 57,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 286,
+  "shopLevel": 58,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 940
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 287,
+  "shopLevel": 58,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 288,
+  "shopLevel": 58,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 470
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 289,
+  "shopLevel": 58,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 290,
+  "shopLevel": 58,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 291,
+  "shopLevel": 59,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 945
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 292,
+  "shopLevel": 59,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 293,
+  "shopLevel": 59,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 472
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 294,
+  "shopLevel": 59,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 295,
+  "shopLevel": 59,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 6
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 296,
+  "shopLevel": 60,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 950
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 297,
+  "shopLevel": 60,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 298,
+  "shopLevel": 60,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 475
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 299,
+  "shopLevel": 60,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 300,
+  "shopLevel": 60,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 301,
+  "shopLevel": 61,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 955
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 302,
+  "shopLevel": 61,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 303,
+  "shopLevel": 61,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 477
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 304,
+  "shopLevel": 61,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 305,
+  "shopLevel": 61,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 306,
+  "shopLevel": 62,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 960
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 307,
+  "shopLevel": 62,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 308,
+  "shopLevel": 62,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 480
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 309,
+  "shopLevel": 62,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 310,
+  "shopLevel": 62,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 311,
+  "shopLevel": 63,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 965
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 312,
+  "shopLevel": 63,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 313,
+  "shopLevel": 63,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 482
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 314,
+  "shopLevel": 63,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 315,
+  "shopLevel": 63,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 316,
+  "shopLevel": 64,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 970
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 317,
+  "shopLevel": 64,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 318,
+  "shopLevel": 64,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 485
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 319,
+  "shopLevel": 64,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 320,
+  "shopLevel": 64,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 321,
+  "shopLevel": 65,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 975
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 322,
+  "shopLevel": 65,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 323,
+  "shopLevel": 65,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 487
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 324,
+  "shopLevel": 65,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 325,
+  "shopLevel": 65,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 326,
+  "shopLevel": 66,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 980
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 327,
+  "shopLevel": 66,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 328,
+  "shopLevel": 66,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 490
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 329,
+  "shopLevel": 66,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 330,
+  "shopLevel": 66,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 331,
+  "shopLevel": 67,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 985
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 332,
+  "shopLevel": 67,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 333,
+  "shopLevel": 67,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 492
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 334,
+  "shopLevel": 67,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 335,
+  "shopLevel": 67,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 336,
+  "shopLevel": 68,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 990
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 337,
+  "shopLevel": 68,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 338,
+  "shopLevel": 68,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 495
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 339,
+  "shopLevel": 68,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 340,
+  "shopLevel": 68,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 341,
+  "shopLevel": 69,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 995
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 342,
+  "shopLevel": 69,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 343,
+  "shopLevel": 69,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 497
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 344,
+  "shopLevel": 69,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 345,
+  "shopLevel": 69,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 7
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 346,
+  "shopLevel": 70,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 347,
+  "shopLevel": 70,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 348,
+  "shopLevel": 70,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 500
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 349,
+  "shopLevel": 70,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 350,
+  "shopLevel": 70,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 351,
+  "shopLevel": 71,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1005
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 352,
+  "shopLevel": 71,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 353,
+  "shopLevel": 71,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 502
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 354,
+  "shopLevel": 71,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 355,
+  "shopLevel": 71,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 356,
+  "shopLevel": 72,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1010
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 357,
+  "shopLevel": 72,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 358,
+  "shopLevel": 72,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 505
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 359,
+  "shopLevel": 72,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 360,
+  "shopLevel": 72,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 361,
+  "shopLevel": 73,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1015
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 362,
+  "shopLevel": 73,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 363,
+  "shopLevel": 73,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 507
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 364,
+  "shopLevel": 73,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 365,
+  "shopLevel": 73,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 366,
+  "shopLevel": 74,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1020
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 367,
+  "shopLevel": 74,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 368,
+  "shopLevel": 74,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 510
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 369,
+  "shopLevel": 74,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 370,
+  "shopLevel": 74,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 371,
+  "shopLevel": 75,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1025
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 372,
+  "shopLevel": 75,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 373,
+  "shopLevel": 75,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 512
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 374,
+  "shopLevel": 75,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 375,
+  "shopLevel": 75,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 376,
+  "shopLevel": 76,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1030
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 377,
+  "shopLevel": 76,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 378,
+  "shopLevel": 76,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 515
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 379,
+  "shopLevel": 76,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 380,
+  "shopLevel": 76,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 381,
+  "shopLevel": 77,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1035
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 382,
+  "shopLevel": 77,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 383,
+  "shopLevel": 77,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 517
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 384,
+  "shopLevel": 77,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 385,
+  "shopLevel": 77,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 386,
+  "shopLevel": 78,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1040
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 387,
+  "shopLevel": 78,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 388,
+  "shopLevel": 78,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 520
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 389,
+  "shopLevel": 78,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 390,
+  "shopLevel": 78,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 391,
+  "shopLevel": 79,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1045
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 392,
+  "shopLevel": 79,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 393,
+  "shopLevel": 79,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 522
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 394,
+  "shopLevel": 79,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 395,
+  "shopLevel": 79,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 8
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 396,
+  "shopLevel": 80,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1050
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 397,
+  "shopLevel": 80,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 398,
+  "shopLevel": 80,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 525
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 399,
+  "shopLevel": 80,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 400,
+  "shopLevel": 80,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 401,
+  "shopLevel": 81,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1055
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 402,
+  "shopLevel": 81,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 403,
+  "shopLevel": 81,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 527
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 404,
+  "shopLevel": 81,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 405,
+  "shopLevel": 81,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 406,
+  "shopLevel": 82,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1060
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 407,
+  "shopLevel": 82,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 408,
+  "shopLevel": 82,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 530
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 409,
+  "shopLevel": 82,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 410,
+  "shopLevel": 82,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 411,
+  "shopLevel": 83,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1065
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 412,
+  "shopLevel": 83,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 413,
+  "shopLevel": 83,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 532
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 414,
+  "shopLevel": 83,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 415,
+  "shopLevel": 83,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 416,
+  "shopLevel": 84,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1070
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 417,
+  "shopLevel": 84,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 418,
+  "shopLevel": 84,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 535
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 419,
+  "shopLevel": 84,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 420,
+  "shopLevel": 84,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 421,
+  "shopLevel": 85,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1075
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 422,
+  "shopLevel": 85,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 423,
+  "shopLevel": 85,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 537
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 424,
+  "shopLevel": 85,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 425,
+  "shopLevel": 85,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 426,
+  "shopLevel": 86,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1080
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 427,
+  "shopLevel": 86,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 428,
+  "shopLevel": 86,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 540
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 429,
+  "shopLevel": 86,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 430,
+  "shopLevel": 86,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 431,
+  "shopLevel": 87,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1085
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 432,
+  "shopLevel": 87,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 433,
+  "shopLevel": 87,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 542
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 434,
+  "shopLevel": 87,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 435,
+  "shopLevel": 87,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 436,
+  "shopLevel": 88,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1090
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 437,
+  "shopLevel": 88,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 438,
+  "shopLevel": 88,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 545
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 439,
+  "shopLevel": 88,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 440,
+  "shopLevel": 88,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 441,
+  "shopLevel": 89,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1095
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 442,
+  "shopLevel": 89,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 443,
+  "shopLevel": 89,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 547
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 444,
+  "shopLevel": 89,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 445,
+  "shopLevel": 89,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 9
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 446,
+  "shopLevel": 90,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1100
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 447,
+  "shopLevel": 90,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 448,
+  "shopLevel": 90,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 550
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 449,
+  "shopLevel": 90,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 450,
+  "shopLevel": 90,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 451,
+  "shopLevel": 91,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1105
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 452,
+  "shopLevel": 91,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 11
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 453,
+  "shopLevel": 91,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 552
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 454,
+  "shopLevel": 91,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 455,
+  "shopLevel": 91,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 456,
+  "shopLevel": 92,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1110
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 457,
+  "shopLevel": 92,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 11
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 458,
+  "shopLevel": 92,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 555
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 459,
+  "shopLevel": 92,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 460,
+  "shopLevel": 92,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 461,
+  "shopLevel": 93,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1115
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 462,
+  "shopLevel": 93,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 11
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 463,
+  "shopLevel": 93,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 557
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 464,
+  "shopLevel": 93,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 465,
+  "shopLevel": 93,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 466,
+  "shopLevel": 94,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1120
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 467,
+  "shopLevel": 94,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 11
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 468,
+  "shopLevel": 94,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 560
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 469,
+  "shopLevel": 94,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 470,
+  "shopLevel": 94,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 471,
+  "shopLevel": 95,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1125
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 472,
+  "shopLevel": 95,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 11
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 473,
+  "shopLevel": 95,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 562
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 474,
+  "shopLevel": 95,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 475,
+  "shopLevel": 95,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 476,
+  "shopLevel": 96,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1130
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 477,
+  "shopLevel": 96,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 11
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 478,
+  "shopLevel": 96,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 565
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 479,
+  "shopLevel": 96,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 480,
+  "shopLevel": 96,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 481,
+  "shopLevel": 97,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1135
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 482,
+  "shopLevel": 97,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 11
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 483,
+  "shopLevel": 97,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 567
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 484,
+  "shopLevel": 97,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 485,
+  "shopLevel": 97,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 486,
+  "shopLevel": 98,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1140
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 487,
+  "shopLevel": 98,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 11
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 488,
+  "shopLevel": 98,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 570
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 489,
+  "shopLevel": 98,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 490,
+  "shopLevel": 98,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 491,
+  "shopLevel": 99,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1145
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 492,
+  "shopLevel": 99,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 11
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 493,
+  "shopLevel": 99,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 572
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 494,
+  "shopLevel": 99,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 495,
+  "shopLevel": 99,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 10
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 496,
+  "shopLevel": 100,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1150
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 497,
+  "shopLevel": 100,
+  "objectReceiveType": 9,
+  "objectId": 0,
+  "num": 12
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 498,
+  "shopLevel": 100,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 575
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 499,
+  "shopLevel": 100,
+  "objectReceiveType": 6,
+  "objectId": 3120001,
+  "num": 11
+ },
+ {
+  "gardenIdleRewardBaseRewardMstId": 500,
+  "shopLevel": 100,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 11
+ }
+]

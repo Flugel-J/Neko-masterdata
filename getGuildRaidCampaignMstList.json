@@ -1,0 +1,10 @@
+[
+ {
+  "guildRaidCampaignMstId": 1,
+  "damageLevelRewardGroupId": 10,
+  "damageRankingRewardGroupId": 11,
+  "bossDefeatRewardGroupId": 12,
+  "startTime": "2030-01-01T00:00:00+09:00",
+  "endTime": "2050-01-01T00:00:00+09:00"
+ }
+]

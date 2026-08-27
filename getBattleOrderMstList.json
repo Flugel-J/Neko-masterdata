@@ -1,0 +1,170 @@
+[
+ {
+  "battleOrderMstId": 1,
+  "orderFoodWeight": 100,
+  "orderDrinkWeight": 0,
+  "orderSweetsWeight": 0,
+  "orderOneDishWeight": 100,
+  "orderTwoDishWeight": 0
+ },
+ {
+  "battleOrderMstId": 2,
+  "orderFoodWeight": 0,
+  "orderDrinkWeight": 100,
+  "orderSweetsWeight": 0,
+  "orderOneDishWeight": 100,
+  "orderTwoDishWeight": 0
+ },
+ {
+  "battleOrderMstId": 3,
+  "orderFoodWeight": 0,
+  "orderDrinkWeight": 0,
+  "orderSweetsWeight": 100,
+  "orderOneDishWeight": 100,
+  "orderTwoDishWeight": 0
+ },
+ {
+  "battleOrderMstId": 4,
+  "orderFoodWeight": 33,
+  "orderDrinkWeight": 33,
+  "orderSweetsWeight": 33,
+  "orderOneDishWeight": 100,
+  "orderTwoDishWeight": 0
+ },
+ {
+  "battleOrderMstId": 5,
+  "orderFoodWeight": 50,
+  "orderDrinkWeight": 50,
+  "orderSweetsWeight": 0,
+  "orderOneDishWeight": 100,
+  "orderTwoDishWeight": 0
+ },
+ {
+  "battleOrderMstId": 6,
+  "orderFoodWeight": 0,
+  "orderDrinkWeight": 50,
+  "orderSweetsWeight": 50,
+  "orderOneDishWeight": 100,
+  "orderTwoDishWeight": 0
+ },
+ {
+  "battleOrderMstId": 7,
+  "orderFoodWeight": 50,
+  "orderDrinkWeight": 0,
+  "orderSweetsWeight": 50,
+  "orderOneDishWeight": 100,
+  "orderTwoDishWeight": 0
+ },
+ {
+  "battleOrderMstId": 8,
+  "orderFoodWeight": 33,
+  "orderDrinkWeight": 33,
+  "orderSweetsWeight": 33,
+  "orderOneDishWeight": 50,
+  "orderTwoDishWeight": 50
+ },
+ {
+  "battleOrderMstId": 9,
+  "orderFoodWeight": 0,
+  "orderDrinkWeight": 0,
+  "orderSweetsWeight": 100,
+  "orderOneDishWeight": 0,
+  "orderTwoDishWeight": 100
+ },
+ {
+  "battleOrderMstId": 10,
+  "orderFoodWeight": 100,
+  "orderDrinkWeight": 100,
+  "orderSweetsWeight": 0,
+  "orderOneDishWeight": 100,
+  "orderTwoDishWeight": 0
+ },
+ {
+  "battleOrderMstId": 11,
+  "orderFoodWeight": 100,
+  "orderDrinkWeight": 100,
+  "orderSweetsWeight": 0,
+  "orderOneDishWeight": 50,
+  "orderTwoDishWeight": 50
+ },
+ {
+  "battleOrderMstId": 12,
+  "orderFoodWeight": 100,
+  "orderDrinkWeight": 100,
+  "orderSweetsWeight": 0,
+  "orderOneDishWeight": 0,
+  "orderTwoDishWeight": 100
+ },
+ {
+  "battleOrderMstId": 13,
+  "orderFoodWeight": 100,
+  "orderDrinkWeight": 0,
+  "orderSweetsWeight": 100,
+  "orderOneDishWeight": 100,
+  "orderTwoDishWeight": 0
+ },
+ {
+  "battleOrderMstId": 14,
+  "orderFoodWeight": 100,
+  "orderDrinkWeight": 0,
+  "orderSweetsWeight": 100,
+  "orderOneDishWeight": 50,
+  "orderTwoDishWeight": 50
+ },
+ {
+  "battleOrderMstId": 15,
+  "orderFoodWeight": 100,
+  "orderDrinkWeight": 0,
+  "orderSweetsWeight": 100,
+  "orderOneDishWeight": 0,
+  "orderTwoDishWeight": 100
+ },
+ {
+  "battleOrderMstId": 16,
+  "orderFoodWeight": 0,
+  "orderDrinkWeight": 100,
+  "orderSweetsWeight": 100,
+  "orderOneDishWeight": 100,
+  "orderTwoDishWeight": 0
+ },
+ {
+  "battleOrderMstId": 17,
+  "orderFoodWeight": 0,
+  "orderDrinkWeight": 100,
+  "orderSweetsWeight": 100,
+  "orderOneDishWeight": 50,
+  "orderTwoDishWeight": 50
+ },
+ {
+  "battleOrderMstId": 18,
+  "orderFoodWeight": 0,
+  "orderDrinkWeight": 100,
+  "orderSweetsWeight": 100,
+  "orderOneDishWeight": 0,
+  "orderTwoDishWeight": 100
+ },
+ {
+  "battleOrderMstId": 19,
+  "orderFoodWeight": 100,
+  "orderDrinkWeight": 100,
+  "orderSweetsWeight": 100,
+  "orderOneDishWeight": 100,
+  "orderTwoDishWeight": 0
+ },
+ {
+  "battleOrderMstId": 20,
+  "orderFoodWeight": 25,
+  "orderDrinkWeight": 50,
+  "orderSweetsWeight": 75,
+  "orderOneDishWeight": 50,
+  "orderTwoDishWeight": 50
+ },
+ {
+  "battleOrderMstId": 21,
+  "orderFoodWeight": 100,
+  "orderDrinkWeight": 100,
+  "orderSweetsWeight": 100,
+  "orderOneDishWeight": 0,
+  "orderTwoDishWeight": 100
+ }
+]

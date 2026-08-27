@@ -1,0 +1,163 @@
+[
+ {
+  "gardenSkipOffRewardGroupMstId": 1,
+  "groupId": 1,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 10000
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 2,
+  "groupId": 2,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 3,
+  "groupId": 3,
+  "objectReceiveType": 6,
+  "objectId": 3090001,
+  "num": 1000
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 4,
+  "groupId": 4,
+  "objectReceiveType": 6,
+  "objectId": 4020001,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 5,
+  "groupId": 5,
+  "objectReceiveType": 6,
+  "objectId": 4020002,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 6,
+  "groupId": 6,
+  "objectReceiveType": 6,
+  "objectId": 4020003,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 7,
+  "groupId": 7,
+  "objectReceiveType": 6,
+  "objectId": 4020004,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 8,
+  "groupId": 8,
+  "objectReceiveType": 6,
+  "objectId": 4020005,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 9,
+  "groupId": 9,
+  "objectReceiveType": 6,
+  "objectId": 4020006,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 10,
+  "groupId": 10,
+  "objectReceiveType": 6,
+  "objectId": 4020007,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 11,
+  "groupId": 11,
+  "objectReceiveType": 6,
+  "objectId": 4020008,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 12,
+  "groupId": 12,
+  "objectReceiveType": 6,
+  "objectId": 4020009,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 13,
+  "groupId": 13,
+  "objectReceiveType": 6,
+  "objectId": 4020010,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 14,
+  "groupId": 14,
+  "objectReceiveType": 6,
+  "objectId": 4020011,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 15,
+  "groupId": 15,
+  "objectReceiveType": 6,
+  "objectId": 4020012,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 16,
+  "groupId": 16,
+  "objectReceiveType": 6,
+  "objectId": 4020013,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 17,
+  "groupId": 17,
+  "objectReceiveType": 6,
+  "objectId": 4020014,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 18,
+  "groupId": 18,
+  "objectReceiveType": 6,
+  "objectId": 4020015,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 19,
+  "groupId": 19,
+  "objectReceiveType": 6,
+  "objectId": 4030001,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 20,
+  "groupId": 20,
+  "objectReceiveType": 6,
+  "objectId": 4030002,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 21,
+  "groupId": 21,
+  "objectReceiveType": 6,
+  "objectId": 4030003,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 22,
+  "groupId": 22,
+  "objectReceiveType": 6,
+  "objectId": 4030004,
+  "num": 1
+ },
+ {
+  "gardenSkipOffRewardGroupMstId": 23,
+  "groupId": 23,
+  "objectReceiveType": 6,
+  "objectId": 4030005,
+  "num": 1
+ }
+]

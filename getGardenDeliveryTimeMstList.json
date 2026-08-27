@@ -1,0 +1,22 @@
+[
+ {
+  "rarity": 1,
+  "deliveryTime": 14400
+ },
+ {
+  "rarity": 2,
+  "deliveryTime": 21600
+ },
+ {
+  "rarity": 3,
+  "deliveryTime": 28800
+ },
+ {
+  "rarity": 4,
+  "deliveryTime": 36000
+ },
+ {
+  "rarity": 5,
+  "deliveryTime": 43200
+ }
+]

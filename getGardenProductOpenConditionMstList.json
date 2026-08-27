@@ -1,0 +1,290 @@
+[
+ {
+  "gardenProductOpenConditionMstId": 1,
+  "gardenProductMstId": 1011002,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 5,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 50000
+ },
+ {
+  "gardenProductOpenConditionMstId": 2,
+  "gardenProductMstId": 1012001,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 10,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 75000
+ },
+ {
+  "gardenProductOpenConditionMstId": 3,
+  "gardenProductMstId": 1012002,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 15,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 75000
+ },
+ {
+  "gardenProductOpenConditionMstId": 4,
+  "gardenProductMstId": 1012003,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 20,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 100000
+ },
+ {
+  "gardenProductOpenConditionMstId": 5,
+  "gardenProductMstId": 1012004,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 25,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 100000
+ },
+ {
+  "gardenProductOpenConditionMstId": 6,
+  "gardenProductMstId": 1013001,
+  "baseGardenProductMstId": 1012001,
+  "shopLevel": 35,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 200000
+ },
+ {
+  "gardenProductOpenConditionMstId": 7,
+  "gardenProductMstId": 1013002,
+  "baseGardenProductMstId": 1013001,
+  "shopLevel": 30,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 200000
+ },
+ {
+  "gardenProductOpenConditionMstId": 8,
+  "gardenProductMstId": 1013003,
+  "baseGardenProductMstId": 1012002,
+  "shopLevel": 40,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 250000
+ },
+ {
+  "gardenProductOpenConditionMstId": 9,
+  "gardenProductMstId": 1013004,
+  "baseGardenProductMstId": 1013003,
+  "shopLevel": 50,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 250000
+ },
+ {
+  "gardenProductOpenConditionMstId": 10,
+  "gardenProductMstId": 1013005,
+  "baseGardenProductMstId": 1012003,
+  "shopLevel": 60,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 350000
+ },
+ {
+  "gardenProductOpenConditionMstId": 11,
+  "gardenProductMstId": 1013006,
+  "baseGardenProductMstId": 1013005,
+  "shopLevel": 70,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 350000
+ },
+ {
+  "gardenProductOpenConditionMstId": 12,
+  "gardenProductMstId": 1013007,
+  "baseGardenProductMstId": 1013006,
+  "shopLevel": 90,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 500000
+ },
+ {
+  "gardenProductOpenConditionMstId": 13,
+  "gardenProductMstId": 2011002,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 5,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 50000
+ },
+ {
+  "gardenProductOpenConditionMstId": 14,
+  "gardenProductMstId": 2012001,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 10,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 75000
+ },
+ {
+  "gardenProductOpenConditionMstId": 15,
+  "gardenProductMstId": 2012002,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 15,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 75000
+ },
+ {
+  "gardenProductOpenConditionMstId": 16,
+  "gardenProductMstId": 2012003,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 20,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 100000
+ },
+ {
+  "gardenProductOpenConditionMstId": 17,
+  "gardenProductMstId": 2012004,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 25,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 100000
+ },
+ {
+  "gardenProductOpenConditionMstId": 18,
+  "gardenProductMstId": 2013001,
+  "baseGardenProductMstId": 2012001,
+  "shopLevel": 35,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 200000
+ },
+ {
+  "gardenProductOpenConditionMstId": 19,
+  "gardenProductMstId": 2013002,
+  "baseGardenProductMstId": 2013001,
+  "shopLevel": 30,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 200000
+ },
+ {
+  "gardenProductOpenConditionMstId": 20,
+  "gardenProductMstId": 2013003,
+  "baseGardenProductMstId": 2012002,
+  "shopLevel": 40,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 250000
+ },
+ {
+  "gardenProductOpenConditionMstId": 21,
+  "gardenProductMstId": 2013004,
+  "baseGardenProductMstId": 2013003,
+  "shopLevel": 50,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 250000
+ },
+ {
+  "gardenProductOpenConditionMstId": 22,
+  "gardenProductMstId": 2013005,
+  "baseGardenProductMstId": 2012003,
+  "shopLevel": 60,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 350000
+ },
+ {
+  "gardenProductOpenConditionMstId": 23,
+  "gardenProductMstId": 2013006,
+  "baseGardenProductMstId": 2013005,
+  "shopLevel": 70,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 350000
+ },
+ {
+  "gardenProductOpenConditionMstId": 24,
+  "gardenProductMstId": 2013007,
+  "baseGardenProductMstId": 2013006,
+  "shopLevel": 90,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 500000
+ },
+ {
+  "gardenProductOpenConditionMstId": 25,
+  "gardenProductMstId": 3011002,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 5,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 50000
+ },
+ {
+  "gardenProductOpenConditionMstId": 26,
+  "gardenProductMstId": 3012001,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 10,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 75000
+ },
+ {
+  "gardenProductOpenConditionMstId": 27,
+  "gardenProductMstId": 3012002,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 15,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 75000
+ },
+ {
+  "gardenProductOpenConditionMstId": 28,
+  "gardenProductMstId": 3012003,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 20,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 100000
+ },
+ {
+  "gardenProductOpenConditionMstId": 29,
+  "gardenProductMstId": 3012004,
+  "baseGardenProductMstId": 0,
+  "shopLevel": 25,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 100000
+ },
+ {
+  "gardenProductOpenConditionMstId": 30,
+  "gardenProductMstId": 3013001,
+  "baseGardenProductMstId": 3012001,
+  "shopLevel": 35,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 200000
+ },
+ {
+  "gardenProductOpenConditionMstId": 31,
+  "gardenProductMstId": 3013002,
+  "baseGardenProductMstId": 3013001,
+  "shopLevel": 30,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 200000
+ },
+ {
+  "gardenProductOpenConditionMstId": 32,
+  "gardenProductMstId": 3013003,
+  "baseGardenProductMstId": 3012002,
+  "shopLevel": 40,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 250000
+ },
+ {
+  "gardenProductOpenConditionMstId": 33,
+  "gardenProductMstId": 3013004,
+  "baseGardenProductMstId": 3013003,
+  "shopLevel": 50,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 250000
+ },
+ {
+  "gardenProductOpenConditionMstId": 34,
+  "gardenProductMstId": 3013005,
+  "baseGardenProductMstId": 3012003,
+  "shopLevel": 60,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 350000
+ },
+ {
+  "gardenProductOpenConditionMstId": 35,
+  "gardenProductMstId": 3013006,
+  "baseGardenProductMstId": 3013005,
+  "shopLevel": 70,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 350000
+ },
+ {
+  "gardenProductOpenConditionMstId": 36,
+  "gardenProductMstId": 3013007,
+  "baseGardenProductMstId": 3013006,
+  "shopLevel": 90,
+  "questStageMstId": 0,
+  "requiredGoldForDev": 500000
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "level": 2,
+  "requiredDeliveryCount": 2,
+  "requiredTime": 60
+ },
+ {
+  "level": 3,
+  "requiredDeliveryCount": 4,
+  "requiredTime": 120
+ },
+ {
+  "level": 4,
+  "requiredDeliveryCount": 6,
+  "requiredTime": 180
+ },
+ {
+  "level": 5,
+  "requiredDeliveryCount": 8,
+  "requiredTime": 240
+ },
+ {
+  "level": 6,
+  "requiredDeliveryCount": 10,
+  "requiredTime": 300
+ },
+ {
+  "level": 7,
+  "requiredDeliveryCount": 12,
+  "requiredTime": 360
+ },
+ {
+  "level": 8,
+  "requiredDeliveryCount": 14,
+  "requiredTime": 420
+ },
+ {
+  "level": 9,
+  "requiredDeliveryCount": 16,
+  "requiredTime": 480
+ },
+ {
+  "level": 10,
+  "requiredDeliveryCount": 20,
+  "requiredTime": 540
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "shopPaymentCategoryMstId": 1,
+  "name": "Limited Time",
+  "shopType": 0,
+  "sortOrder": 1,
+  "resourceId": 1,
+  "homeButtonTextureId": 0
+ },
+ {
+  "shopPaymentCategoryMstId": 2,
+  "name": "Normal",
+  "shopType": 0,
+  "sortOrder": 2,
+  "resourceId": 1,
+  "homeButtonTextureId": 0
+ },
+ {
+  "shopPaymentCategoryMstId": 3,
+  "name": "Gems",
+  "shopType": 0,
+  "sortOrder": 3,
+  "resourceId": 1,
+  "homeButtonTextureId": 0
+ },
+ {
+  "shopPaymentCategoryMstId": 4,
+  "name": "Bonuses",
+  "shopType": 0,
+  "sortOrder": 4,
+  "resourceId": 1,
+  "homeButtonTextureId": 0
+ },
+ {
+  "shopPaymentCategoryMstId": 5,
+  "name": "VIP-Exclusive",
+  "shopType": 0,
+  "sortOrder": 5,
+  "resourceId": 1,
+  "homeButtonTextureId": 0
+ },
+ {
+  "shopPaymentCategoryMstId": 6,
+  "name": "Pass",
+  "shopType": 0,
+  "sortOrder": 6,
+  "resourceId": 1,
+  "homeButtonTextureId": 0
+ }
+]

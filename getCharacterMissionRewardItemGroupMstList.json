@@ -1,0 +1,356 @@
+[
+ {
+  "characterMissionRewardItemGroupMstId": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 2,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 30
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 3,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 60
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 4,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 80
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 5,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 6,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 130
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 7,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 150
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 8,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 9,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 30
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 10,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 60
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 11,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 80
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 12,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 13,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 130
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 14,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 150
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 15,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 16,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 30
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 17,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 50
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 18,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 70
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 19,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 90
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 20,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 110
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 21,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 130
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 22,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 150
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 23,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 24,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 30
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 25,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 50
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 26,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 70
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 27,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 90
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 28,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 29,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 110
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 30,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 130
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 31,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 140
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 32,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 150
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 33,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 34,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 20
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 35,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 30
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 36,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 40
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 37,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 50
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 38,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 60
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 39,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 70
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 40,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 80
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 41,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 90
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 42,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 43,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 110
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 44,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 120
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 45,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 130
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 46,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 140
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 47,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 150
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 48,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 10
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 49,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 30
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 50,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 50
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 51,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 70
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 52,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 90
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 53,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 54,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 110
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 55,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 130
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 56,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 140
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 57,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 150
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 58,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "characterMissionRewardItemGroupMstId": 59,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ }
+]

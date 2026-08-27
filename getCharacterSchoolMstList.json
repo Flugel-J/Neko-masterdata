@@ -1,0 +1,34 @@
+[
+ {
+  "characterSchoolMstId": 1,
+  "name": "La Soleil"
+ },
+ {
+  "characterSchoolMstId": 2,
+  "name": "Sakura Hills Nekos College"
+ },
+ {
+  "characterSchoolMstId": 3,
+  "name": "Jinhua Department Of Nekos College"
+ },
+ {
+  "characterSchoolMstId": 4,
+  "name": "Gertrude Nekos College"
+ },
+ {
+  "characterSchoolMstId": 5,
+  "name": "Bastet Nekos College"
+ },
+ {
+  "characterSchoolMstId": 6,
+  "name": "Nekos Youth Academy"
+ },
+ {
+  "characterSchoolMstId": 50,
+  "name": "Felidae Co."
+ },
+ {
+  "characterSchoolMstId": 99,
+  "name": "Parttime"
+ }
+]

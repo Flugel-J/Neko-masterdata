@@ -1,0 +1,1952 @@
+[
+ {
+  "guildRaidSeasonMstId": 1,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-02-17T00:00:00+09:00",
+  "endTime": "2025-02-22T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 2,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-02-23T00:00:00+09:00",
+  "endTime": "2025-02-23T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 3,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-02-24T00:00:00+09:00",
+  "endTime": "2025-03-01T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 4,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-03-02T00:00:00+09:00",
+  "endTime": "2025-03-02T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 5,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-03-03T00:00:00+09:00",
+  "endTime": "2025-03-08T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 6,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-03-09T00:00:00+09:00",
+  "endTime": "2025-03-09T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 7,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-03-10T00:00:00+09:00",
+  "endTime": "2025-03-15T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 8,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-03-16T00:00:00+09:00",
+  "endTime": "2025-03-16T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 9,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-03-17T00:00:00+09:00",
+  "endTime": "2025-03-22T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 10,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-03-23T00:00:00+09:00",
+  "endTime": "2025-03-23T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 11,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-03-24T00:00:00+09:00",
+  "endTime": "2025-03-29T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 12,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-03-30T00:00:00+09:00",
+  "endTime": "2025-03-30T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 13,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-03-31T00:00:00+09:00",
+  "endTime": "2025-04-05T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 14,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-04-06T00:00:00+09:00",
+  "endTime": "2025-04-06T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 15,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-04-07T00:00:00+09:00",
+  "endTime": "2025-04-12T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 16,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-04-13T00:00:00+09:00",
+  "endTime": "2025-04-13T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 17,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-04-14T00:00:00+09:00",
+  "endTime": "2025-04-19T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 18,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-04-20T00:00:00+09:00",
+  "endTime": "2025-04-20T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 19,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-04-21T00:00:00+09:00",
+  "endTime": "2025-04-26T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 20,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-04-27T00:00:00+09:00",
+  "endTime": "2025-04-27T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 21,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-04-28T00:00:00+09:00",
+  "endTime": "2025-05-03T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 22,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-05-04T00:00:00+09:00",
+  "endTime": "2025-05-04T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 23,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-05-05T00:00:00+09:00",
+  "endTime": "2025-05-10T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 24,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-05-11T00:00:00+09:00",
+  "endTime": "2025-05-11T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 25,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-05-12T00:00:00+09:00",
+  "endTime": "2025-05-17T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 26,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-05-18T00:00:00+09:00",
+  "endTime": "2025-05-18T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 27,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-05-19T00:00:00+09:00",
+  "endTime": "2025-05-24T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 28,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-05-25T00:00:00+09:00",
+  "endTime": "2025-05-25T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 29,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-05-26T00:00:00+09:00",
+  "endTime": "2025-05-31T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 30,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-06-01T00:00:00+09:00",
+  "endTime": "2025-06-01T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 31,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-06-02T00:00:00+09:00",
+  "endTime": "2025-06-07T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 32,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-06-08T00:00:00+09:00",
+  "endTime": "2025-06-08T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 33,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-06-09T00:00:00+09:00",
+  "endTime": "2025-06-14T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 34,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-06-15T00:00:00+09:00",
+  "endTime": "2025-06-15T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 35,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-06-16T00:00:00+09:00",
+  "endTime": "2025-06-21T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 36,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-06-22T00:00:00+09:00",
+  "endTime": "2025-06-22T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 37,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-06-23T00:00:00+09:00",
+  "endTime": "2025-06-28T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 38,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-06-29T00:00:00+09:00",
+  "endTime": "2025-06-29T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 39,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-06-30T00:00:00+09:00",
+  "endTime": "2025-07-05T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 40,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-07-06T00:00:00+09:00",
+  "endTime": "2025-07-06T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 41,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-07-07T00:00:00+09:00",
+  "endTime": "2025-07-12T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 42,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-07-13T00:00:00+09:00",
+  "endTime": "2025-07-13T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 43,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-07-14T00:00:00+09:00",
+  "endTime": "2025-07-19T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 44,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-07-20T00:00:00+09:00",
+  "endTime": "2025-07-20T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 45,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-07-21T00:00:00+09:00",
+  "endTime": "2025-07-26T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 46,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-07-27T00:00:00+09:00",
+  "endTime": "2025-07-27T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 47,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-07-28T00:00:00+09:00",
+  "endTime": "2025-08-02T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 48,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-08-03T00:00:00+09:00",
+  "endTime": "2025-08-03T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 49,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-08-04T00:00:00+09:00",
+  "endTime": "2025-08-09T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 50,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-08-10T00:00:00+09:00",
+  "endTime": "2025-08-10T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 51,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-08-11T00:00:00+09:00",
+  "endTime": "2025-08-16T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 52,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-08-17T00:00:00+09:00",
+  "endTime": "2025-08-17T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 53,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-08-18T00:00:00+09:00",
+  "endTime": "2025-08-23T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 54,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-08-24T00:00:00+09:00",
+  "endTime": "2025-08-24T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 55,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-08-25T00:00:00+09:00",
+  "endTime": "2025-08-30T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 56,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-08-31T00:00:00+09:00",
+  "endTime": "2025-08-31T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 57,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-09-01T00:00:00+09:00",
+  "endTime": "2025-09-06T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 58,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-09-07T00:00:00+09:00",
+  "endTime": "2025-09-07T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 59,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-09-08T00:00:00+09:00",
+  "endTime": "2025-09-13T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 60,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-09-14T00:00:00+09:00",
+  "endTime": "2025-09-14T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 61,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-09-15T00:00:00+09:00",
+  "endTime": "2025-09-20T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 62,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-09-21T00:00:00+09:00",
+  "endTime": "2025-09-21T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 63,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-09-22T00:00:00+09:00",
+  "endTime": "2025-09-27T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 64,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-09-28T00:00:00+09:00",
+  "endTime": "2025-09-28T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 65,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-09-29T00:00:00+09:00",
+  "endTime": "2025-10-04T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 66,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-10-05T00:00:00+09:00",
+  "endTime": "2025-10-05T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 67,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-10-06T00:00:00+09:00",
+  "endTime": "2025-10-11T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 68,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-10-12T00:00:00+09:00",
+  "endTime": "2025-10-12T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 69,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-10-13T00:00:00+09:00",
+  "endTime": "2025-10-18T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 70,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-10-19T00:00:00+09:00",
+  "endTime": "2025-10-19T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 71,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-10-20T00:00:00+09:00",
+  "endTime": "2025-10-25T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 72,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-10-26T00:00:00+09:00",
+  "endTime": "2025-10-26T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 73,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-10-27T00:00:00+09:00",
+  "endTime": "2025-11-01T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 74,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-11-02T00:00:00+09:00",
+  "endTime": "2025-11-02T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 75,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-11-03T00:00:00+09:00",
+  "endTime": "2025-11-08T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 76,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-11-09T00:00:00+09:00",
+  "endTime": "2025-11-09T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 77,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-11-10T00:00:00+09:00",
+  "endTime": "2025-11-15T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 78,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-11-16T00:00:00+09:00",
+  "endTime": "2025-11-16T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 79,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-11-17T00:00:00+09:00",
+  "endTime": "2025-11-22T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 80,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-11-23T00:00:00+09:00",
+  "endTime": "2025-11-23T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 81,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-11-24T00:00:00+09:00",
+  "endTime": "2025-11-29T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 82,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-11-30T00:00:00+09:00",
+  "endTime": "2025-11-30T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 83,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-12-01T00:00:00+09:00",
+  "endTime": "2025-12-06T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 84,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-12-07T00:00:00+09:00",
+  "endTime": "2025-12-07T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 85,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-12-08T00:00:00+09:00",
+  "endTime": "2025-12-13T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 86,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-12-14T00:00:00+09:00",
+  "endTime": "2025-12-14T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 87,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-12-15T00:00:00+09:00",
+  "endTime": "2025-12-20T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 88,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-12-21T00:00:00+09:00",
+  "endTime": "2025-12-21T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 89,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-12-22T00:00:00+09:00",
+  "endTime": "2025-12-27T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 90,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2025-12-28T00:00:00+09:00",
+  "endTime": "2025-12-28T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 91,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2025-12-29T00:00:00+09:00",
+  "endTime": "2026-01-03T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 92,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-01-04T00:00:00+09:00",
+  "endTime": "2026-01-04T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 93,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-01-05T00:00:00+09:00",
+  "endTime": "2026-01-10T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 94,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-01-11T00:00:00+09:00",
+  "endTime": "2026-01-11T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 95,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-01-12T00:00:00+09:00",
+  "endTime": "2026-01-17T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 96,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-01-18T00:00:00+09:00",
+  "endTime": "2026-01-18T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 97,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-01-19T00:00:00+09:00",
+  "endTime": "2026-01-24T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 98,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-01-25T00:00:00+09:00",
+  "endTime": "2026-01-25T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 99,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-01-26T00:00:00+09:00",
+  "endTime": "2026-01-31T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 100,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-02-01T00:00:00+09:00",
+  "endTime": "2026-02-01T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 101,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-02-02T00:00:00+09:00",
+  "endTime": "2026-02-07T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 102,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-02-08T00:00:00+09:00",
+  "endTime": "2026-02-08T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 103,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-02-09T00:00:00+09:00",
+  "endTime": "2026-02-14T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 104,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-02-15T00:00:00+09:00",
+  "endTime": "2026-02-15T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 105,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-02-16T00:00:00+09:00",
+  "endTime": "2026-02-21T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 106,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-02-22T00:00:00+09:00",
+  "endTime": "2026-02-22T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 107,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-02-23T00:00:00+09:00",
+  "endTime": "2026-02-28T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 108,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-03-01T00:00:00+09:00",
+  "endTime": "2026-03-01T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 109,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-03-02T00:00:00+09:00",
+  "endTime": "2026-03-07T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 110,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-03-08T00:00:00+09:00",
+  "endTime": "2026-03-08T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 111,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-03-09T00:00:00+09:00",
+  "endTime": "2026-03-14T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 112,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-03-15T00:00:00+09:00",
+  "endTime": "2026-03-15T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 113,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-03-16T00:00:00+09:00",
+  "endTime": "2026-03-21T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 114,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-03-22T00:00:00+09:00",
+  "endTime": "2026-03-22T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 115,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-03-23T00:00:00+09:00",
+  "endTime": "2026-03-28T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 116,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-03-29T00:00:00+09:00",
+  "endTime": "2026-03-29T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 117,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-03-30T00:00:00+09:00",
+  "endTime": "2026-04-04T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 118,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-04-05T00:00:00+09:00",
+  "endTime": "2026-04-05T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 119,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-04-06T00:00:00+09:00",
+  "endTime": "2026-04-11T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 120,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-04-12T00:00:00+09:00",
+  "endTime": "2026-04-12T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 121,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-04-13T00:00:00+09:00",
+  "endTime": "2026-04-18T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 122,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-04-19T00:00:00+09:00",
+  "endTime": "2026-04-19T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 123,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-04-20T00:00:00+09:00",
+  "endTime": "2026-04-25T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 124,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-04-26T00:00:00+09:00",
+  "endTime": "2026-04-26T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 125,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-04-27T00:00:00+09:00",
+  "endTime": "2026-05-02T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 126,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-05-03T00:00:00+09:00",
+  "endTime": "2026-05-03T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 127,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-05-04T00:00:00+09:00",
+  "endTime": "2026-05-09T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 128,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-05-10T00:00:00+09:00",
+  "endTime": "2026-05-10T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 129,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-05-11T00:00:00+09:00",
+  "endTime": "2026-05-16T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 130,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-05-17T00:00:00+09:00",
+  "endTime": "2026-05-17T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 131,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-05-18T00:00:00+09:00",
+  "endTime": "2026-05-23T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 132,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-05-24T00:00:00+09:00",
+  "endTime": "2026-05-24T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 133,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-05-25T00:00:00+09:00",
+  "endTime": "2026-05-30T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 134,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-05-31T00:00:00+09:00",
+  "endTime": "2026-05-31T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 135,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-06-01T00:00:00+09:00",
+  "endTime": "2026-06-06T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 136,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-06-07T00:00:00+09:00",
+  "endTime": "2026-06-07T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 137,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-06-08T00:00:00+09:00",
+  "endTime": "2026-06-13T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 138,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-06-14T00:00:00+09:00",
+  "endTime": "2026-06-14T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 139,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-06-15T00:00:00+09:00",
+  "endTime": "2026-06-20T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 140,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-06-21T00:00:00+09:00",
+  "endTime": "2026-06-21T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 141,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-06-22T00:00:00+09:00",
+  "endTime": "2026-06-27T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 142,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-06-28T00:00:00+09:00",
+  "endTime": "2026-06-28T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 143,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-06-29T00:00:00+09:00",
+  "endTime": "2026-07-04T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 144,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-07-05T00:00:00+09:00",
+  "endTime": "2026-07-05T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 145,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-07-06T00:00:00+09:00",
+  "endTime": "2026-07-11T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 146,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-07-12T00:00:00+09:00",
+  "endTime": "2026-07-12T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 147,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-07-13T00:00:00+09:00",
+  "endTime": "2026-07-18T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 148,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-07-19T00:00:00+09:00",
+  "endTime": "2026-07-19T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 149,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-07-20T00:00:00+09:00",
+  "endTime": "2026-07-25T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 150,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-07-26T00:00:00+09:00",
+  "endTime": "2026-07-26T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 151,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-07-27T00:00:00+09:00",
+  "endTime": "2026-08-01T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 152,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-08-02T00:00:00+09:00",
+  "endTime": "2026-08-02T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 153,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-08-03T00:00:00+09:00",
+  "endTime": "2026-08-08T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 154,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-08-09T00:00:00+09:00",
+  "endTime": "2026-08-09T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 155,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-08-10T00:00:00+09:00",
+  "endTime": "2026-08-15T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 156,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-08-16T00:00:00+09:00",
+  "endTime": "2026-08-16T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 157,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-08-17T00:00:00+09:00",
+  "endTime": "2026-08-22T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 158,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-08-23T00:00:00+09:00",
+  "endTime": "2026-08-23T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 159,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-08-24T00:00:00+09:00",
+  "endTime": "2026-08-29T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 160,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-08-30T00:00:00+09:00",
+  "endTime": "2026-08-30T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 161,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-08-31T00:00:00+09:00",
+  "endTime": "2026-09-05T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 162,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-09-06T00:00:00+09:00",
+  "endTime": "2026-09-06T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 163,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-09-07T00:00:00+09:00",
+  "endTime": "2026-09-12T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 164,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-09-13T00:00:00+09:00",
+  "endTime": "2026-09-13T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 165,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-09-14T00:00:00+09:00",
+  "endTime": "2026-09-19T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 166,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-09-20T00:00:00+09:00",
+  "endTime": "2026-09-20T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 167,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-09-21T00:00:00+09:00",
+  "endTime": "2026-09-26T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 168,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-09-27T00:00:00+09:00",
+  "endTime": "2026-09-27T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 169,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-09-28T00:00:00+09:00",
+  "endTime": "2026-10-03T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 170,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-10-04T00:00:00+09:00",
+  "endTime": "2026-10-04T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 171,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-10-05T00:00:00+09:00",
+  "endTime": "2026-10-10T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 172,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-10-11T00:00:00+09:00",
+  "endTime": "2026-10-11T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 173,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-10-12T00:00:00+09:00",
+  "endTime": "2026-10-17T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 174,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-10-18T00:00:00+09:00",
+  "endTime": "2026-10-18T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 175,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-10-19T00:00:00+09:00",
+  "endTime": "2026-10-24T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 176,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-10-25T00:00:00+09:00",
+  "endTime": "2026-10-25T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 177,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-10-26T00:00:00+09:00",
+  "endTime": "2026-10-31T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 178,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-11-01T00:00:00+09:00",
+  "endTime": "2026-11-01T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 179,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-11-02T00:00:00+09:00",
+  "endTime": "2026-11-07T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 180,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-11-08T00:00:00+09:00",
+  "endTime": "2026-11-08T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 181,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-11-09T00:00:00+09:00",
+  "endTime": "2026-11-14T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 182,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-11-15T00:00:00+09:00",
+  "endTime": "2026-11-15T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 183,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-11-16T00:00:00+09:00",
+  "endTime": "2026-11-21T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 184,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-11-22T00:00:00+09:00",
+  "endTime": "2026-11-22T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 185,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-11-23T00:00:00+09:00",
+  "endTime": "2026-11-28T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 186,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1010,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-11-29T00:00:00+09:00",
+  "endTime": "2026-11-29T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 187,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-11-30T00:00:00+09:00",
+  "endTime": "2026-12-05T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 188,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1020,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-12-06T00:00:00+09:00",
+  "endTime": "2026-12-06T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 189,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-12-07T00:00:00+09:00",
+  "endTime": "2026-12-12T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 190,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1030,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-12-13T00:00:00+09:00",
+  "endTime": "2026-12-13T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 191,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-12-14T00:00:00+09:00",
+  "endTime": "2026-12-19T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 192,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1040,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-12-20T00:00:00+09:00",
+  "endTime": "2026-12-20T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 193,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-12-21T00:00:00+09:00",
+  "endTime": "2026-12-26T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 194,
+  "bossCharacterMstId": 11500001,
+  "bossDamageLevelGroupId": 1050,
+  "damageRankingRewardGroupId": 2010100,
+  "likeRewardGroupId": 2010200,
+  "startTime": "2026-12-27T00:00:00+09:00",
+  "endTime": "2026-12-27T23:59:59+09:00",
+  "backgroundId": 30000000000
+ },
+ {
+  "guildRaidSeasonMstId": 195,
+  "bossCharacterMstId": 23042001,
+  "bossDamageLevelGroupId": 2010,
+  "damageRankingRewardGroupId": 1010100,
+  "likeRewardGroupId": 1010200,
+  "startTime": "2026-12-28T00:00:00+09:00",
+  "endTime": "2027-01-02T23:59:59+09:00",
+  "backgroundId": 30000000000
+ }
+]

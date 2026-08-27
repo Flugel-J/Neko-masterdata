@@ -1,0 +1,186 @@
+[
+ {
+  "tipsGroupMstId": 1,
+  "tipsMstId": 1,
+  "resourceId": 103,
+  "sortOrder": 0,
+  "title": "La Soleil",
+  "description": "A Western-style pastry shop located in a city overlooking the harbor, where modern cityscapes blend with historic architecture and cultures from around the world thrive. Its sweets, crafted with care by a patissier trained in France, and the adorable nekos working there have made it a popular spot."
+ },
+ {
+  "tipsGroupMstId": 2,
+  "tipsMstId": 1,
+  "resourceId": 104,
+  "sortOrder": 2,
+  "title": "Bells And Exams",
+  "description": "The bell a neko wears is called an \"Independent Activity Permit\". Without it they cannot go out without their owner. It is also required for nekos to work. They must pass a very difficult exam to get one, and simply having this bell is proof that they are an exceptional neko."
+ },
+ {
+  "tipsGroupMstId": 3,
+  "tipsMstId": 1,
+  "resourceId": 105,
+  "sortOrder": 1,
+  "title": "Nekos",
+  "description": "Beings created by the super AI \"CAT-2\". \nThough similar to humans, they are different. \nThey reach adulthood in one year, have long lifespans and do not physically age. \nWhile they possess physical abilities comparable to felines, \nthey can also demonstrate high intelligence when living alongside humans."
+ },
+ {
+  "tipsGroupMstId": 4,
+  "tipsMstId": 1,
+  "resourceId": 106,
+  "sortOrder": 6,
+  "title": "Sakura Hills Nekos College",
+  "description": "A neko academy in Japan surrounded by eternal cherry blossoms. Located in a beautiful island nation where the seasons create ever-changing scenery, its campus resembles a traditional Japanese castle town. Although there are few cat breeds native to Japan, many Nekos from around the world are enrolled here. It is Yuzuha's alma mater."
+ },
+ {
+  "tipsGroupMstId": 5,
+  "tipsMstId": 1,
+  "resourceId": 107,
+  "sortOrder": 7,
+  "title": "Jinhua Department Of Nekos College",
+  "description": "A neko academy in Asia known for the greatest diversity in the world. Located on a scenic continent rich in nature and history, its campus towers like giant red walls. It is home to the largest variety of cat breeds, including rugged breeds from the south. It is Marmelo's alma mater."
+ },
+ {
+  "tipsGroupMstId": 6,
+  "tipsMstId": 1,
+  "resourceId": 108,
+  "sortOrder": 8,
+  "title": "Gertrude Nekos College",
+  "description": "A neko academy in Europe that values tradition. Located on a continent filled with beautiful cityscapes and rich nature, its campus features lavish architecture and elegant, dignified gardens. It is home to many graceful cat breeds from across Europe. It is Sablé and Cannelé's alma mater."
+ },
+ {
+  "tipsGroupMstId": 7,
+  "tipsMstId": 1,
+  "resourceId": 109,
+  "sortOrder": 9,
+  "title": "Bastet Nekos College",
+  "description": "A neko academy in Africa that glitters in the desert. Located on a continent filled with an exotic atmosphere, its campus is surrounded by magnificent architecture, abundant water and lush greenery. It is home to strong and alluring cat breeds from across North Africa. It is Palmira's alma mater."
+ },
+ {
+  "tipsGroupMstId": 8,
+  "tipsMstId": 1,
+  "resourceId": 110,
+  "sortOrder": 10,
+  "title": "Nekos Youth Academy",
+  "description": "A cutting-edge neko academy in North America. Located in a great nation where diverse cultures and vast nature stretch, its campus is equipped with facilities such as an all-weather multipurpose stadium. It is home to cat breeds from across America that embody the spirit of freedom and the frontier spirit. It is Donuts' alma mater."
+ },
+ {
+  "tipsGroupMstId": 9,
+  "tipsMstId": 1,
+  "resourceId": 111,
+  "sortOrder": 3,
+  "title": "Felidae Co.",
+  "description": "A massive corporation that runs the super AI \"CAT-2\". It is deeply involved in raising nekos and connecting them with society, operating multiple neko academies and hosting NekoFes to showcase the bond between nekos and humans. Its public faces are its representative, Casablanca, and the three sisters Freesia, Amaryllis and Azalea."
+ },
+ {
+  "tipsGroupMstId": 10,
+  "tipsMstId": 1,
+  "resourceId": 112,
+  "sortOrder": 4,
+  "title": "NekoFes",
+  "description": "A tournament hosted by Felidae Co. where nekos and their owners from around the world compete for popularity.\nIt consists of three stages: the qualifiers held around the world, the main event held at a neko academy and the finals held at Felidae Co.\nThe prize of the finals is said to \"grant the winner any wish\".\nEven the winner of the main event can have a wish granted under certain conditions."
+ },
+ {
+  "tipsGroupMstId": 11,
+  "tipsMstId": 2,
+  "resourceId": 10101,
+  "sortOrder": 1,
+  "title": "Chocola",
+  "description": "Chocola is the star Neko of the patisserie, La Soleil! What she loves most is Master and her twin little sister, Vanilla♪ Chocola will do her best as your senpai! But... If I work really hard, can you spoil me a bit too? Meooow♪ Thank you so much, Master!"
+ },
+ {
+  "tipsGroupMstId": 12,
+  "tipsMstId": 2,
+  "resourceId": 10102,
+  "sortOrder": 2,
+  "title": "Vanilla",
+  "description": "I'm Vanilla, a Neko who works at La Soleil with Chocola. What I love most is Chocola. I mean, I don't dislike Master... Lately, it's been tough with all the new Nekos joining... I thought I'd finally get a break, but now I have to train them. You're making me work too much, so it's only fair if you spoil me a little... Master?"
+ },
+ {
+  "tipsGroupMstId": 13,
+  "tipsMstId": 2,
+  "resourceId": 10103,
+  "sortOrder": 3,
+  "title": "Fraise",
+  "description": "I'm Fraize, the secretary of the patisserie, La Soleil. I'm new here, but I will do my very best... So please take care of me? For my beloved Onii— I mean... For my respected Master, I'll work hard! Um... When we're not working, can I call you Big Brother?"
+ },
+ {
+  "tipsGroupMstId": 14,
+  "tipsMstId": 2,
+  "resourceId": 10104,
+  "sortOrder": 4,
+  "title": "Azuki",
+  "description": "I'm Azuki, the eldest Neko of the Minazuki family. Between my good-for-nothing Master and my little sisters, I don't even have time to slack off. I hear some new Nekos are joining soon too? Hey, hey... I'm not your wife or your mom, you understand that right? F-fine... I guess I'll work hard with you!"
+ },
+ {
+  "tipsGroupMstId": 15,
+  "tipsMstId": 2,
+  "resourceId": 10105,
+  "sortOrder": 5,
+  "title": "Coconut",
+  "description": "I'm Coconut, a Neko who works at La Soleil! I might be a little too strong, and I might mess up sometimes, but everyone at the shop counts on me. Ugh... I still feel totally hopeless sometimes, but... You won't give up on me, right? Hehe, thanks Big Brother♪ I'll do my best!"
+ },
+ {
+  "tipsGroupMstId": 16,
+  "tipsMstId": 2,
+  "resourceId": 10106,
+  "sortOrder": 6,
+  "title": "Maple",
+  "description": "I'm Maple, a Neko who knows her tea♪ I get to work doing what I love, and I even get chances to play guitar and sing. I love that I'm free to do things my way. Once the new Nekos arrive, I should warn them to watch out for that guy's natural smooth-talking ways. Even if you think you'll be fine, you'll just end up like me..."
+ },
+ {
+  "tipsGroupMstId": 17,
+  "tipsMstId": 2,
+  "resourceId": 10107,
+  "sortOrder": 7,
+  "title": "Cinnamon",
+  "description": "I'm Cinnamon♪ I'm super close with Maple, we play music together♪ Even when the new Nekos arrive, please make sure you still give us lots of love too? Ah, when I say \"love\"... I-I don't mean it like that... If you pampered me somewhere like that... C-Cinnamon would just...melt~!"
+ },
+ {
+  "tipsGroupMstId": 21,
+  "tipsMstId": 3,
+  "resourceId": 10201,
+  "sortOrder": 1,
+  "title": "Yuzuha",
+  "description": "I am Yuzuha, the noble Nekomata. With my \"Eyes That See Three Thousand Worlds\" (Mikeneko's Eyes), I shall judge your work. Now, Master... Show me how you will make use of me. If you think you can command me, then give it a try! I will burn my worth into your very soul, so prepare yourself!"
+ },
+ {
+  "tipsGroupMstId": 22,
+  "tipsMstId": 3,
+  "resourceId": 10301,
+  "sortOrder": 2,
+  "title": "Marmelo",
+  "description": "Good day to you♪ I am Marmelo from Jinhua Department Of Nekos College. I adore fluffy things, and I always get what catches my eye♪ My dream is to make both La Soleil and you shine brighter, and take you both♪ Hehe... I'll make you mine, Manager♪"
+ },
+ {
+  "tipsGroupMstId": 23,
+  "tipsMstId": 3,
+  "resourceId": 10401,
+  "sortOrder": 3,
+  "title": "Cannelé",
+  "description": "Mwahahaha... My name is Cannelé. I am a demon from Gertrude Nekos College, and I've come to corrupt this shop! I won't allow you to run to that so-called angel, Sablé! You will become my servant! You and I shall enter into a blood pact... Now, tremble before Cannelé's arrival and kneel in fear! MeowHAHAHA!"
+ },
+ {
+  "tipsGroupMstId": 24,
+  "tipsMstId": 3,
+  "resourceId": 10402,
+  "sortOrder": 4,
+  "title": "Sablé",
+  "description": "Sablé from Gertrude Nekos College here♪ I'm a real angel from heaven♪ I will not lose to that demon Neko Cannelé... I will have you all to myself♪ You can touch my wings as much as you want, I'll make you sooo happy♪ Master, you're going to make a contract with Sablé and be happy every day, it's decided♪"
+ },
+ {
+  "tipsGroupMstId": 25,
+  "tipsMstId": 3,
+  "resourceId": 10501,
+  "sortOrder": 5,
+  "title": "Palmyra",
+  "description": "I am Palmyra of Bastet Nekos College, a proud Neko who serves Lady Najed. Imperfect humans, especially you, Manager, need someone like me to guide them. I will also show the new Nekos how they should carry themselves. Palmira will be watching over you... You should feel honored."
+ },
+ {
+  "tipsGroupMstId": 26,
+  "tipsMstId": 3,
+  "resourceId": 10601,
+  "sortOrder": 6,
+  "title": "Donut",
+  "description": "I'm Donuts from NYA. This grumpy face is just how I was born... My goal is to eat my fill of delicious cakes and sweets. Please put me in the kitchen, not out on the floor. You will be my personal dessert-making machine. That part at least... I'm counting on you, alright?"
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "gvgSummitFinalRankRewardMstId": 1,
+  "seasonMstId": 1,
+  "rank": 1,
+  "rewardGroupId": 1
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 2,
+  "seasonMstId": 1,
+  "rank": 2,
+  "rewardGroupId": 2
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 3,
+  "seasonMstId": 1,
+  "rank": 3,
+  "rewardGroupId": 3
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 4,
+  "seasonMstId": 1,
+  "rank": 4,
+  "rewardGroupId": 4
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 5,
+  "seasonMstId": 1,
+  "rank": 8,
+  "rewardGroupId": 5
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 6,
+  "seasonMstId": 1,
+  "rank": 16,
+  "rewardGroupId": 6
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 7,
+  "seasonMstId": 2,
+  "rank": 1,
+  "rewardGroupId": 7
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 8,
+  "seasonMstId": 2,
+  "rank": 2,
+  "rewardGroupId": 8
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 9,
+  "seasonMstId": 2,
+  "rank": 3,
+  "rewardGroupId": 9
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 10,
+  "seasonMstId": 2,
+  "rank": 4,
+  "rewardGroupId": 10
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 11,
+  "seasonMstId": 2,
+  "rank": 8,
+  "rewardGroupId": 11
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 12,
+  "seasonMstId": 2,
+  "rank": 16,
+  "rewardGroupId": 12
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 13,
+  "seasonMstId": 3,
+  "rank": 1,
+  "rewardGroupId": 13
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 14,
+  "seasonMstId": 3,
+  "rank": 2,
+  "rewardGroupId": 14
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 15,
+  "seasonMstId": 3,
+  "rank": 3,
+  "rewardGroupId": 15
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 16,
+  "seasonMstId": 3,
+  "rank": 4,
+  "rewardGroupId": 16
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 17,
+  "seasonMstId": 3,
+  "rank": 8,
+  "rewardGroupId": 17
+ },
+ {
+  "gvgSummitFinalRankRewardMstId": 18,
+  "seasonMstId": 3,
+  "rank": 16,
+  "rewardGroupId": 18
+ }
+]

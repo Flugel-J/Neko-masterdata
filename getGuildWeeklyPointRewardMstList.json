@@ -1,0 +1,38 @@
+[
+ {
+  "guildWeeklyPointRewardMstId": 1,
+  "weeklyPointNum": 200,
+  "groupId": 1,
+  "sortOrder": 1
+ },
+ {
+  "guildWeeklyPointRewardMstId": 2,
+  "weeklyPointNum": 1000,
+  "groupId": 2,
+  "sortOrder": 2
+ },
+ {
+  "guildWeeklyPointRewardMstId": 3,
+  "weeklyPointNum": 2000,
+  "groupId": 3,
+  "sortOrder": 3
+ },
+ {
+  "guildWeeklyPointRewardMstId": 4,
+  "weeklyPointNum": 3000,
+  "groupId": 4,
+  "sortOrder": 4
+ },
+ {
+  "guildWeeklyPointRewardMstId": 5,
+  "weeklyPointNum": 4000,
+  "groupId": 5,
+  "sortOrder": 5
+ },
+ {
+  "guildWeeklyPointRewardMstId": 6,
+  "weeklyPointNum": 5000,
+  "groupId": 6,
+  "sortOrder": 6
+ }
+]

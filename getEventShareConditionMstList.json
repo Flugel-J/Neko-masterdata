@@ -1,0 +1,137 @@
+[
+ {
+  "eventShareConditionMstId": 100101,
+  "eventShareMstId": 100,
+  "shopPaymentMstId": 1002001,
+  "shareCount": 1,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 100102,
+  "eventShareMstId": 100,
+  "shopPaymentMstId": 1002002,
+  "shareCount": 2,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 100103,
+  "eventShareMstId": 100,
+  "shopPaymentMstId": 1002003,
+  "shareCount": 4,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 200101,
+  "eventShareMstId": 101,
+  "shopPaymentMstId": 1002005,
+  "shareCount": 1,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 200102,
+  "eventShareMstId": 101,
+  "shopPaymentMstId": 1002006,
+  "shareCount": 2,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 200103,
+  "eventShareMstId": 101,
+  "shopPaymentMstId": 1002007,
+  "shareCount": 4,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 300101,
+  "eventShareMstId": 102,
+  "shopPaymentMstId": 1002061,
+  "shareCount": 1,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 300102,
+  "eventShareMstId": 102,
+  "shopPaymentMstId": 1002062,
+  "shareCount": 2,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 300103,
+  "eventShareMstId": 102,
+  "shopPaymentMstId": 1002063,
+  "shareCount": 4,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 400101,
+  "eventShareMstId": 103,
+  "shopPaymentMstId": 1002091,
+  "shareCount": 1,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 400102,
+  "eventShareMstId": 103,
+  "shopPaymentMstId": 1002092,
+  "shareCount": 2,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 400103,
+  "eventShareMstId": 103,
+  "shopPaymentMstId": 1002093,
+  "shareCount": 4,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 500101,
+  "eventShareMstId": 104,
+  "shopPaymentMstId": 1002126,
+  "shareCount": 1,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 500102,
+  "eventShareMstId": 104,
+  "shopPaymentMstId": 1002127,
+  "shareCount": 2,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 500103,
+  "eventShareMstId": 104,
+  "shopPaymentMstId": 1002128,
+  "shareCount": 4,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ }
+]

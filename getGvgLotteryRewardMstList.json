@@ -1,0 +1,146 @@
+[
+ {
+  "gvgLotteryRewardMstId": 1,
+  "lotteryRewardGroupId": 600,
+  "lotteryRate": 100,
+  "rewardGroupId": 6000
+ },
+ {
+  "gvgLotteryRewardMstId": 2,
+  "lotteryRewardGroupId": 600,
+  "lotteryRate": 300,
+  "rewardGroupId": 6001
+ },
+ {
+  "gvgLotteryRewardMstId": 3,
+  "lotteryRewardGroupId": 600,
+  "lotteryRate": 500,
+  "rewardGroupId": 6002
+ },
+ {
+  "gvgLotteryRewardMstId": 4,
+  "lotteryRewardGroupId": 600,
+  "lotteryRate": 500,
+  "rewardGroupId": 6003
+ },
+ {
+  "gvgLotteryRewardMstId": 5,
+  "lotteryRewardGroupId": 600,
+  "lotteryRate": 100,
+  "rewardGroupId": 6004
+ },
+ {
+  "gvgLotteryRewardMstId": 6,
+  "lotteryRewardGroupId": 600,
+  "lotteryRate": 300,
+  "rewardGroupId": 6005
+ },
+ {
+  "gvgLotteryRewardMstId": 7,
+  "lotteryRewardGroupId": 600,
+  "lotteryRate": 500,
+  "rewardGroupId": 6006
+ },
+ {
+  "gvgLotteryRewardMstId": 8,
+  "lotteryRewardGroupId": 600,
+  "lotteryRate": 500,
+  "rewardGroupId": 6007
+ },
+ {
+  "gvgLotteryRewardMstId": 9,
+  "lotteryRewardGroupId": 600,
+  "lotteryRate": 200,
+  "rewardGroupId": 6008
+ },
+ {
+  "gvgLotteryRewardMstId": 10,
+  "lotteryRewardGroupId": 600,
+  "lotteryRate": 300,
+  "rewardGroupId": 6009
+ },
+ {
+  "gvgLotteryRewardMstId": 11,
+  "lotteryRewardGroupId": 600,
+  "lotteryRate": 500,
+  "rewardGroupId": 6010
+ },
+ {
+  "gvgLotteryRewardMstId": 12,
+  "lotteryRewardGroupId": 600,
+  "lotteryRate": 500,
+  "rewardGroupId": 6011
+ },
+ {
+  "gvgLotteryRewardMstId": 13,
+  "lotteryRewardGroupId": 610,
+  "lotteryRate": 100,
+  "rewardGroupId": 6100
+ },
+ {
+  "gvgLotteryRewardMstId": 14,
+  "lotteryRewardGroupId": 610,
+  "lotteryRate": 300,
+  "rewardGroupId": 6101
+ },
+ {
+  "gvgLotteryRewardMstId": 15,
+  "lotteryRewardGroupId": 610,
+  "lotteryRate": 500,
+  "rewardGroupId": 6102
+ },
+ {
+  "gvgLotteryRewardMstId": 16,
+  "lotteryRewardGroupId": 610,
+  "lotteryRate": 500,
+  "rewardGroupId": 6103
+ },
+ {
+  "gvgLotteryRewardMstId": 17,
+  "lotteryRewardGroupId": 610,
+  "lotteryRate": 100,
+  "rewardGroupId": 6104
+ },
+ {
+  "gvgLotteryRewardMstId": 18,
+  "lotteryRewardGroupId": 610,
+  "lotteryRate": 300,
+  "rewardGroupId": 6105
+ },
+ {
+  "gvgLotteryRewardMstId": 19,
+  "lotteryRewardGroupId": 610,
+  "lotteryRate": 500,
+  "rewardGroupId": 6106
+ },
+ {
+  "gvgLotteryRewardMstId": 20,
+  "lotteryRewardGroupId": 610,
+  "lotteryRate": 500,
+  "rewardGroupId": 6107
+ },
+ {
+  "gvgLotteryRewardMstId": 21,
+  "lotteryRewardGroupId": 610,
+  "lotteryRate": 200,
+  "rewardGroupId": 6108
+ },
+ {
+  "gvgLotteryRewardMstId": 22,
+  "lotteryRewardGroupId": 610,
+  "lotteryRate": 300,
+  "rewardGroupId": 6109
+ },
+ {
+  "gvgLotteryRewardMstId": 23,
+  "lotteryRewardGroupId": 610,
+  "lotteryRate": 500,
+  "rewardGroupId": 6110
+ },
+ {
+  "gvgLotteryRewardMstId": 24,
+  "lotteryRewardGroupId": 610,
+  "lotteryRate": 500,
+  "rewardGroupId": 6111
+ }
+]

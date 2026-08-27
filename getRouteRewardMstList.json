@@ -1,0 +1,1244 @@
+[
+ {
+  "routeRewardMstId": 10001102,
+  "routeRewardGroupId": 100011,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1500000
+ },
+ {
+  "routeRewardMstId": 10001103,
+  "routeRewardGroupId": 100011,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 70
+ },
+ {
+  "routeRewardMstId": 10001104,
+  "routeRewardGroupId": 100011,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 10
+ },
+ {
+  "routeRewardMstId": 10001202,
+  "routeRewardGroupId": 100012,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1552000
+ },
+ {
+  "routeRewardMstId": 10001203,
+  "routeRewardGroupId": 100012,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 72
+ },
+ {
+  "routeRewardMstId": 10001204,
+  "routeRewardGroupId": 100012,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 10
+ },
+ {
+  "routeRewardMstId": 10001302,
+  "routeRewardGroupId": 100013,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1604000
+ },
+ {
+  "routeRewardMstId": 10001303,
+  "routeRewardGroupId": 100013,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 73
+ },
+ {
+  "routeRewardMstId": 10001304,
+  "routeRewardGroupId": 100013,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 10
+ },
+ {
+  "routeRewardMstId": 10002102,
+  "routeRewardGroupId": 100021,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1656000
+ },
+ {
+  "routeRewardMstId": 10002103,
+  "routeRewardGroupId": 100021,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 75
+ },
+ {
+  "routeRewardMstId": 10002104,
+  "routeRewardGroupId": 100021,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 13
+ },
+ {
+  "routeRewardMstId": 10002105,
+  "routeRewardGroupId": 100021,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 5
+ },
+ {
+  "routeRewardMstId": 10002202,
+  "routeRewardGroupId": 100022,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1708000
+ },
+ {
+  "routeRewardMstId": 10002203,
+  "routeRewardGroupId": 100022,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 77
+ },
+ {
+  "routeRewardMstId": 10002204,
+  "routeRewardGroupId": 100022,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 13
+ },
+ {
+  "routeRewardMstId": 10002205,
+  "routeRewardGroupId": 100022,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 5
+ },
+ {
+  "routeRewardMstId": 10002302,
+  "routeRewardGroupId": 100023,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1760000
+ },
+ {
+  "routeRewardMstId": 10002303,
+  "routeRewardGroupId": 100023,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 78
+ },
+ {
+  "routeRewardMstId": 10002304,
+  "routeRewardGroupId": 100023,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 13
+ },
+ {
+  "routeRewardMstId": 10002305,
+  "routeRewardGroupId": 100023,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 5
+ },
+ {
+  "routeRewardMstId": 10003102,
+  "routeRewardGroupId": 100031,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1812000
+ },
+ {
+  "routeRewardMstId": 10003103,
+  "routeRewardGroupId": 100031,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 80
+ },
+ {
+  "routeRewardMstId": 10003104,
+  "routeRewardGroupId": 100031,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 16
+ },
+ {
+  "routeRewardMstId": 10003105,
+  "routeRewardGroupId": 100031,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 7
+ },
+ {
+  "routeRewardMstId": 10003202,
+  "routeRewardGroupId": 100032,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1864000
+ },
+ {
+  "routeRewardMstId": 10003203,
+  "routeRewardGroupId": 100032,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 82
+ },
+ {
+  "routeRewardMstId": 10003204,
+  "routeRewardGroupId": 100032,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 16
+ },
+ {
+  "routeRewardMstId": 10003205,
+  "routeRewardGroupId": 100032,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 7
+ },
+ {
+  "routeRewardMstId": 10003302,
+  "routeRewardGroupId": 100033,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1916000
+ },
+ {
+  "routeRewardMstId": 10003303,
+  "routeRewardGroupId": 100033,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 83
+ },
+ {
+  "routeRewardMstId": 10003304,
+  "routeRewardGroupId": 100033,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 16
+ },
+ {
+  "routeRewardMstId": 10003305,
+  "routeRewardGroupId": 100033,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 7
+ },
+ {
+  "routeRewardMstId": 10004102,
+  "routeRewardGroupId": 100041,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1968000
+ },
+ {
+  "routeRewardMstId": 10004103,
+  "routeRewardGroupId": 100041,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 85
+ },
+ {
+  "routeRewardMstId": 10004104,
+  "routeRewardGroupId": 100041,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 19
+ },
+ {
+  "routeRewardMstId": 10004105,
+  "routeRewardGroupId": 100041,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 8
+ },
+ {
+  "routeRewardMstId": 10004106,
+  "routeRewardGroupId": 100041,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 1
+ },
+ {
+  "routeRewardMstId": 10004202,
+  "routeRewardGroupId": 100042,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2020000
+ },
+ {
+  "routeRewardMstId": 10004203,
+  "routeRewardGroupId": 100042,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 87
+ },
+ {
+  "routeRewardMstId": 10004204,
+  "routeRewardGroupId": 100042,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 19
+ },
+ {
+  "routeRewardMstId": 10004205,
+  "routeRewardGroupId": 100042,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 8
+ },
+ {
+  "routeRewardMstId": 10004206,
+  "routeRewardGroupId": 100042,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 1
+ },
+ {
+  "routeRewardMstId": 10004302,
+  "routeRewardGroupId": 100043,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2072000
+ },
+ {
+  "routeRewardMstId": 10004303,
+  "routeRewardGroupId": 100043,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 88
+ },
+ {
+  "routeRewardMstId": 10004304,
+  "routeRewardGroupId": 100043,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 19
+ },
+ {
+  "routeRewardMstId": 10004305,
+  "routeRewardGroupId": 100043,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 8
+ },
+ {
+  "routeRewardMstId": 10004306,
+  "routeRewardGroupId": 100043,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 1
+ },
+ {
+  "routeRewardMstId": 10005102,
+  "routeRewardGroupId": 100051,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2124000
+ },
+ {
+  "routeRewardMstId": 10005103,
+  "routeRewardGroupId": 100051,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 90
+ },
+ {
+  "routeRewardMstId": 10005104,
+  "routeRewardGroupId": 100051,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 22
+ },
+ {
+  "routeRewardMstId": 10005105,
+  "routeRewardGroupId": 100051,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 10
+ },
+ {
+  "routeRewardMstId": 10005106,
+  "routeRewardGroupId": 100051,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 2
+ },
+ {
+  "routeRewardMstId": 10005202,
+  "routeRewardGroupId": 100052,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2176000
+ },
+ {
+  "routeRewardMstId": 10005203,
+  "routeRewardGroupId": 100052,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 92
+ },
+ {
+  "routeRewardMstId": 10005204,
+  "routeRewardGroupId": 100052,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 22
+ },
+ {
+  "routeRewardMstId": 10005205,
+  "routeRewardGroupId": 100052,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 10
+ },
+ {
+  "routeRewardMstId": 10005206,
+  "routeRewardGroupId": 100052,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 2
+ },
+ {
+  "routeRewardMstId": 10005302,
+  "routeRewardGroupId": 100053,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2228000
+ },
+ {
+  "routeRewardMstId": 10005303,
+  "routeRewardGroupId": 100053,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 93
+ },
+ {
+  "routeRewardMstId": 10005304,
+  "routeRewardGroupId": 100053,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 22
+ },
+ {
+  "routeRewardMstId": 10005305,
+  "routeRewardGroupId": 100053,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 10
+ },
+ {
+  "routeRewardMstId": 10005306,
+  "routeRewardGroupId": 100053,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 2
+ },
+ {
+  "routeRewardMstId": 10006102,
+  "routeRewardGroupId": 100061,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2280000
+ },
+ {
+  "routeRewardMstId": 10006103,
+  "routeRewardGroupId": 100061,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 95
+ },
+ {
+  "routeRewardMstId": 10006104,
+  "routeRewardGroupId": 100061,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 25
+ },
+ {
+  "routeRewardMstId": 10006105,
+  "routeRewardGroupId": 100061,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 11
+ },
+ {
+  "routeRewardMstId": 10006106,
+  "routeRewardGroupId": 100061,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 3
+ },
+ {
+  "routeRewardMstId": 10006202,
+  "routeRewardGroupId": 100062,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2332000
+ },
+ {
+  "routeRewardMstId": 10006203,
+  "routeRewardGroupId": 100062,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 97
+ },
+ {
+  "routeRewardMstId": 10006204,
+  "routeRewardGroupId": 100062,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 25
+ },
+ {
+  "routeRewardMstId": 10006205,
+  "routeRewardGroupId": 100062,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 11
+ },
+ {
+  "routeRewardMstId": 10006206,
+  "routeRewardGroupId": 100062,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 3
+ },
+ {
+  "routeRewardMstId": 10006302,
+  "routeRewardGroupId": 100063,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2384000
+ },
+ {
+  "routeRewardMstId": 10006303,
+  "routeRewardGroupId": 100063,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 98
+ },
+ {
+  "routeRewardMstId": 10006304,
+  "routeRewardGroupId": 100063,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 25
+ },
+ {
+  "routeRewardMstId": 10006305,
+  "routeRewardGroupId": 100063,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 11
+ },
+ {
+  "routeRewardMstId": 10006306,
+  "routeRewardGroupId": 100063,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 3
+ },
+ {
+  "routeRewardMstId": 10007102,
+  "routeRewardGroupId": 100071,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2436000
+ },
+ {
+  "routeRewardMstId": 10007103,
+  "routeRewardGroupId": 100071,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 100
+ },
+ {
+  "routeRewardMstId": 10007104,
+  "routeRewardGroupId": 100071,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 28
+ },
+ {
+  "routeRewardMstId": 10007105,
+  "routeRewardGroupId": 100071,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 13
+ },
+ {
+  "routeRewardMstId": 10007106,
+  "routeRewardGroupId": 100071,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 4
+ },
+ {
+  "routeRewardMstId": 10007202,
+  "routeRewardGroupId": 100072,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2488000
+ },
+ {
+  "routeRewardMstId": 10007203,
+  "routeRewardGroupId": 100072,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 102
+ },
+ {
+  "routeRewardMstId": 10007204,
+  "routeRewardGroupId": 100072,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 28
+ },
+ {
+  "routeRewardMstId": 10007205,
+  "routeRewardGroupId": 100072,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 13
+ },
+ {
+  "routeRewardMstId": 10007206,
+  "routeRewardGroupId": 100072,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 4
+ },
+ {
+  "routeRewardMstId": 10007302,
+  "routeRewardGroupId": 100073,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2540000
+ },
+ {
+  "routeRewardMstId": 10007303,
+  "routeRewardGroupId": 100073,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 103
+ },
+ {
+  "routeRewardMstId": 10007304,
+  "routeRewardGroupId": 100073,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 28
+ },
+ {
+  "routeRewardMstId": 10007305,
+  "routeRewardGroupId": 100073,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 13
+ },
+ {
+  "routeRewardMstId": 10007306,
+  "routeRewardGroupId": 100073,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 4
+ },
+ {
+  "routeRewardMstId": 10008102,
+  "routeRewardGroupId": 100081,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2592000
+ },
+ {
+  "routeRewardMstId": 10008103,
+  "routeRewardGroupId": 100081,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 105
+ },
+ {
+  "routeRewardMstId": 10008104,
+  "routeRewardGroupId": 100081,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 31
+ },
+ {
+  "routeRewardMstId": 10008105,
+  "routeRewardGroupId": 100081,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 14
+ },
+ {
+  "routeRewardMstId": 10008106,
+  "routeRewardGroupId": 100081,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 5
+ },
+ {
+  "routeRewardMstId": 10008202,
+  "routeRewardGroupId": 100082,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2644000
+ },
+ {
+  "routeRewardMstId": 10008203,
+  "routeRewardGroupId": 100082,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 107
+ },
+ {
+  "routeRewardMstId": 10008204,
+  "routeRewardGroupId": 100082,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 31
+ },
+ {
+  "routeRewardMstId": 10008205,
+  "routeRewardGroupId": 100082,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 14
+ },
+ {
+  "routeRewardMstId": 10008206,
+  "routeRewardGroupId": 100082,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 5
+ },
+ {
+  "routeRewardMstId": 10008302,
+  "routeRewardGroupId": 100083,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2696000
+ },
+ {
+  "routeRewardMstId": 10008303,
+  "routeRewardGroupId": 100083,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 108
+ },
+ {
+  "routeRewardMstId": 10008304,
+  "routeRewardGroupId": 100083,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 31
+ },
+ {
+  "routeRewardMstId": 10008305,
+  "routeRewardGroupId": 100083,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 14
+ },
+ {
+  "routeRewardMstId": 10008306,
+  "routeRewardGroupId": 100083,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 5
+ },
+ {
+  "routeRewardMstId": 10009102,
+  "routeRewardGroupId": 100091,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2748000
+ },
+ {
+  "routeRewardMstId": 10009103,
+  "routeRewardGroupId": 100091,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 110
+ },
+ {
+  "routeRewardMstId": 10009104,
+  "routeRewardGroupId": 100091,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 34
+ },
+ {
+  "routeRewardMstId": 10009105,
+  "routeRewardGroupId": 100091,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 16
+ },
+ {
+  "routeRewardMstId": 10009106,
+  "routeRewardGroupId": 100091,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 6
+ },
+ {
+  "routeRewardMstId": 10009202,
+  "routeRewardGroupId": 100092,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2800000
+ },
+ {
+  "routeRewardMstId": 10009203,
+  "routeRewardGroupId": 100092,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 112
+ },
+ {
+  "routeRewardMstId": 10009204,
+  "routeRewardGroupId": 100092,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 34
+ },
+ {
+  "routeRewardMstId": 10009205,
+  "routeRewardGroupId": 100092,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 16
+ },
+ {
+  "routeRewardMstId": 10009206,
+  "routeRewardGroupId": 100092,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 6
+ },
+ {
+  "routeRewardMstId": 10009302,
+  "routeRewardGroupId": 100093,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2852000
+ },
+ {
+  "routeRewardMstId": 10009303,
+  "routeRewardGroupId": 100093,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 113
+ },
+ {
+  "routeRewardMstId": 10009304,
+  "routeRewardGroupId": 100093,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 34
+ },
+ {
+  "routeRewardMstId": 10009305,
+  "routeRewardGroupId": 100093,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 16
+ },
+ {
+  "routeRewardMstId": 10009306,
+  "routeRewardGroupId": 100093,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 6
+ },
+ {
+  "routeRewardMstId": 10010102,
+  "routeRewardGroupId": 100101,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2904000
+ },
+ {
+  "routeRewardMstId": 10010103,
+  "routeRewardGroupId": 100101,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 115
+ },
+ {
+  "routeRewardMstId": 10010104,
+  "routeRewardGroupId": 100101,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 37
+ },
+ {
+  "routeRewardMstId": 10010105,
+  "routeRewardGroupId": 100101,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 17
+ },
+ {
+  "routeRewardMstId": 10010106,
+  "routeRewardGroupId": 100101,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 7
+ },
+ {
+  "routeRewardMstId": 10010202,
+  "routeRewardGroupId": 100102,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2956000
+ },
+ {
+  "routeRewardMstId": 10010203,
+  "routeRewardGroupId": 100102,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 117
+ },
+ {
+  "routeRewardMstId": 10010204,
+  "routeRewardGroupId": 100102,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 37
+ },
+ {
+  "routeRewardMstId": 10010205,
+  "routeRewardGroupId": 100102,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 17
+ },
+ {
+  "routeRewardMstId": 10010206,
+  "routeRewardGroupId": 100102,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 7
+ },
+ {
+  "routeRewardMstId": 10010302,
+  "routeRewardGroupId": 100103,
+  "extensionRewardId": 0,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 3000000
+ },
+ {
+  "routeRewardMstId": 10010303,
+  "routeRewardGroupId": 100103,
+  "extensionRewardId": 0,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 3030005,
+  "num": 118
+ },
+ {
+  "routeRewardMstId": 10010304,
+  "routeRewardGroupId": 100103,
+  "extensionRewardId": 0,
+  "sortOrder": 4,
+  "objectReceiveType": 6,
+  "objectId": 5010002,
+  "num": 37
+ },
+ {
+  "routeRewardMstId": 10010305,
+  "routeRewardGroupId": 100103,
+  "extensionRewardId": 0,
+  "sortOrder": 5,
+  "objectReceiveType": 6,
+  "objectId": 5010003,
+  "num": 17
+ },
+ {
+  "routeRewardMstId": 10010306,
+  "routeRewardGroupId": 100103,
+  "extensionRewardId": 0,
+  "sortOrder": 6,
+  "objectReceiveType": 6,
+  "objectId": 5010004,
+  "num": 7
+ }
+]

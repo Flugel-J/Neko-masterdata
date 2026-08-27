@@ -1,0 +1,62 @@
+[
+ {
+  "gardenConditionTypeMstId": 1,
+  "conditionType": 1,
+  "name": "coming soon..."
+ },
+ {
+  "gardenConditionTypeMstId": 2,
+  "conditionType": 2,
+  "name": "coming soon..."
+ },
+ {
+  "gardenConditionTypeMstId": 3,
+  "conditionType": 3,
+  "name": "coming soon..."
+ },
+ {
+  "gardenConditionTypeMstId": 4,
+  "conditionType": 4,
+  "name": "coming soon..."
+ },
+ {
+  "gardenConditionTypeMstId": 5,
+  "conditionType": 5,
+  "name": "coming soon..."
+ },
+ {
+  "gardenConditionTypeMstId": 6,
+  "conditionType": 6,
+  "name": "coming soon..."
+ },
+ {
+  "gardenConditionTypeMstId": 7,
+  "conditionType": 7,
+  "name": "coming soon..."
+ },
+ {
+  "gardenConditionTypeMstId": 8,
+  "conditionType": 8,
+  "name": "coming soon..."
+ },
+ {
+  "gardenConditionTypeMstId": 9,
+  "conditionType": 9,
+  "name": "coming soon..."
+ },
+ {
+  "gardenConditionTypeMstId": 10,
+  "conditionType": 10,
+  "name": "coming soon..."
+ },
+ {
+  "gardenConditionTypeMstId": 11,
+  "conditionType": 11,
+  "name": "coming soon..."
+ },
+ {
+  "gardenConditionTypeMstId": 12,
+  "conditionType": 12,
+  "name": "Purchase N or more pieces of Furniture"
+ }
+]

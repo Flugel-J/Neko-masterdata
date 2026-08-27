@@ -1,0 +1,107 @@
+[
+ {
+  "supportLevel": 1,
+  "foodRate": 100,
+  "drinkRate": 100,
+  "sweetsRate": 100,
+  "serveRate": 100
+ },
+ {
+  "supportLevel": 2,
+  "foodRate": 200,
+  "drinkRate": 200,
+  "sweetsRate": 200,
+  "serveRate": 200
+ },
+ {
+  "supportLevel": 3,
+  "foodRate": 300,
+  "drinkRate": 300,
+  "sweetsRate": 300,
+  "serveRate": 300
+ },
+ {
+  "supportLevel": 4,
+  "foodRate": 400,
+  "drinkRate": 400,
+  "sweetsRate": 400,
+  "serveRate": 400
+ },
+ {
+  "supportLevel": 5,
+  "foodRate": 500,
+  "drinkRate": 500,
+  "sweetsRate": 500,
+  "serveRate": 500
+ },
+ {
+  "supportLevel": 6,
+  "foodRate": 600,
+  "drinkRate": 600,
+  "sweetsRate": 600,
+  "serveRate": 600
+ },
+ {
+  "supportLevel": 7,
+  "foodRate": 700,
+  "drinkRate": 700,
+  "sweetsRate": 700,
+  "serveRate": 700
+ },
+ {
+  "supportLevel": 8,
+  "foodRate": 800,
+  "drinkRate": 800,
+  "sweetsRate": 800,
+  "serveRate": 800
+ },
+ {
+  "supportLevel": 9,
+  "foodRate": 900,
+  "drinkRate": 900,
+  "sweetsRate": 900,
+  "serveRate": 900
+ },
+ {
+  "supportLevel": 10,
+  "foodRate": 1000,
+  "drinkRate": 1000,
+  "sweetsRate": 1000,
+  "serveRate": 1000
+ },
+ {
+  "supportLevel": 11,
+  "foodRate": 1100,
+  "drinkRate": 1100,
+  "sweetsRate": 1100,
+  "serveRate": 1100
+ },
+ {
+  "supportLevel": 12,
+  "foodRate": 1200,
+  "drinkRate": 1200,
+  "sweetsRate": 1200,
+  "serveRate": 1200
+ },
+ {
+  "supportLevel": 13,
+  "foodRate": 1300,
+  "drinkRate": 1300,
+  "sweetsRate": 1300,
+  "serveRate": 1300
+ },
+ {
+  "supportLevel": 14,
+  "foodRate": 1400,
+  "drinkRate": 1400,
+  "sweetsRate": 1400,
+  "serveRate": 1400
+ },
+ {
+  "supportLevel": 15,
+  "foodRate": 1500,
+  "drinkRate": 1500,
+  "sweetsRate": 1500,
+  "serveRate": 1500
+ }
+]

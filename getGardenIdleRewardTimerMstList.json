@@ -1,0 +1,77 @@
+[
+ {
+  "gardenIdleRewardTimerMstId": 1,
+  "targetVIPLevel": 1,
+  "baseMaxIdleTime": 28800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 2,
+  "targetVIPLevel": 2,
+  "baseMaxIdleTime": 28800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 3,
+  "targetVIPLevel": 3,
+  "baseMaxIdleTime": 28800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 4,
+  "targetVIPLevel": 4,
+  "baseMaxIdleTime": 28800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 5,
+  "targetVIPLevel": 5,
+  "baseMaxIdleTime": 46800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 6,
+  "targetVIPLevel": 6,
+  "baseMaxIdleTime": 46800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 7,
+  "targetVIPLevel": 7,
+  "baseMaxIdleTime": 46800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 8,
+  "targetVIPLevel": 8,
+  "baseMaxIdleTime": 46800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 9,
+  "targetVIPLevel": 9,
+  "baseMaxIdleTime": 46800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 10,
+  "targetVIPLevel": 10,
+  "baseMaxIdleTime": 64800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 11,
+  "targetVIPLevel": 11,
+  "baseMaxIdleTime": 64800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 12,
+  "targetVIPLevel": 12,
+  "baseMaxIdleTime": 64800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 13,
+  "targetVIPLevel": 13,
+  "baseMaxIdleTime": 64800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 14,
+  "targetVIPLevel": 14,
+  "baseMaxIdleTime": 64800
+ },
+ {
+  "gardenIdleRewardTimerMstId": 15,
+  "targetVIPLevel": 15,
+  "baseMaxIdleTime": 64800
+ }
+]

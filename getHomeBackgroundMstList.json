@@ -1,0 +1,156 @@
+[
+ {
+  "homeBackgroundMstId": 1001,
+  "name": "La Soleil Hall",
+  "description": "La Soleil Hall",
+  "hasFirst": true,
+  "isDefault": true,
+  "resourceId": 1001001,
+  "morningId": 1001001,
+  "afternoonId": 1001001,
+  "nightId": 1001003
+ },
+ {
+  "homeBackgroundMstId": 1002,
+  "name": "La Soleil Entrance",
+  "description": "La Soleil Entrance",
+  "hasFirst": true,
+  "isDefault": false,
+  "resourceId": 1002101,
+  "morningId": 1002101,
+  "afternoonId": 1002101,
+  "nightId": 1002103
+ },
+ {
+  "homeBackgroundMstId": 1003,
+  "name": "La Soleil Kitchen",
+  "description": "La Soleil Kitchen",
+  "hasFirst": true,
+  "isDefault": false,
+  "resourceId": 1003001,
+  "morningId": 1003001,
+  "afternoonId": 1003001,
+  "nightId": 1003001
+ },
+ {
+  "homeBackgroundMstId": 1004,
+  "name": "La Soleil Staff Room",
+  "description": "La Soleil Staff Room",
+  "hasFirst": true,
+  "isDefault": false,
+  "resourceId": 1004001,
+  "morningId": 1004001,
+  "afternoonId": 1004001,
+  "nightId": 1004001
+ },
+ {
+  "homeBackgroundMstId": 1106,
+  "name": "La Soleil Courtyard",
+  "description": "La Soleil Courtyard",
+  "hasFirst": true,
+  "isDefault": false,
+  "resourceId": 1106001,
+  "morningId": 1106001,
+  "afternoonId": 1106001,
+  "nightId": 1106003
+ },
+ {
+  "homeBackgroundMstId": 1301,
+  "name": "Sakuragaoka Store Entrance",
+  "description": "Sakuragaoka Store Entrance",
+  "hasFirst": false,
+  "isDefault": false,
+  "resourceId": 1301001,
+  "morningId": 1301001,
+  "afternoonId": 1301001,
+  "nightId": 1301003
+ },
+ {
+  "homeBackgroundMstId": 1307,
+  "name": "Sakuragaoka Store Hall",
+  "description": "Sakuragaoka Store Hall",
+  "hasFirst": false,
+  "isDefault": false,
+  "resourceId": 1307001,
+  "morningId": 1307001,
+  "afternoonId": 1307001,
+  "nightId": 1307003
+ },
+ {
+  "homeBackgroundMstId": 1308,
+  "name": "Sakuragaoka Store Kitchen",
+  "description": "Sakuragaoka Store Kitchen",
+  "hasFirst": false,
+  "isDefault": false,
+  "resourceId": 1308001,
+  "morningId": 1308001,
+  "afternoonId": 1308001,
+  "nightId": 1308003
+ },
+ {
+  "homeBackgroundMstId": 1309,
+  "name": "Sakuragaoka Store Staff Room",
+  "description": "Sakuragaoka Store Staff Room",
+  "hasFirst": false,
+  "isDefault": false,
+  "resourceId": 1309001,
+  "morningId": 1309001,
+  "afternoonId": 1309001,
+  "nightId": 1309001
+ },
+ {
+  "homeBackgroundMstId": 1601,
+  "name": "Sisters' Quartet Live Stage",
+  "description": "The live stage from the 1st Purrformance♪ ~Sisters' Quartet~.",
+  "hasFirst": false,
+  "isDefault": false,
+  "resourceId": 1601001,
+  "morningId": 1601001,
+  "afternoonId": 1601001,
+  "nightId": 1601001
+ },
+ {
+  "homeBackgroundMstId": 1603,
+  "name": "Unlimited Stamina And Speed Sports Field",
+  "description": "The sports field from the 1st Purrade ~Unlimited Stamina And Speed~.",
+  "hasFirst": false,
+  "isDefault": false,
+  "resourceId": 1603001,
+  "morningId": 1603001,
+  "afternoonId": 1603001,
+  "nightId": 1603001
+ },
+ {
+  "homeBackgroundMstId": 1604,
+  "name": "Garden Bride Wedding Venue",
+  "description": "The wedding venue from the 2nd Purrformance♪ ~Garden Bride~.",
+  "hasFirst": false,
+  "isDefault": false,
+  "resourceId": 1604001,
+  "morningId": 1604001,
+  "afternoonId": 1604001,
+  "nightId": 1604001
+ },
+ {
+  "homeBackgroundMstId": 1607,
+  "name": "Festival Of The Fierce Beasts Festival Grounds",
+  "description": "The festival grounds from the 2nd Purrade ~Festival Of The Fierce Beasts~.",
+  "hasFirst": false,
+  "isDefault": false,
+  "resourceId": 1607003,
+  "morningId": 1607003,
+  "afternoonId": 1607003,
+  "nightId": 1607003
+ },
+ {
+  "homeBackgroundMstId": 1610,
+  "name": "Seaside Heaven Beach Stall",
+  "description": "The beach stall from the 3rd Purrformance♪ ~Seaside Heaven~.",
+  "hasFirst": false,
+  "isDefault": false,
+  "resourceId": 1610001,
+  "morningId": 1610001,
+  "afternoonId": 1610001,
+  "nightId": 1610001
+ }
+]

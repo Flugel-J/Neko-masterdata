@@ -1,0 +1,44 @@
+[
+ {
+  "gardenFurnitureCoordinateMstId": 1,
+  "name": "Natural",
+  "description": "coming soon...",
+  "haveBonus": true,
+  "sortOrder": 3
+ },
+ {
+  "gardenFurnitureCoordinateMstId": 2,
+  "name": "Cool",
+  "description": "coming soon...",
+  "haveBonus": true,
+  "sortOrder": 4
+ },
+ {
+  "gardenFurnitureCoordinateMstId": 4,
+  "name": "Girly",
+  "description": "coming soon...",
+  "haveBonus": true,
+  "sortOrder": 5
+ },
+ {
+  "gardenFurnitureCoordinateMstId": 11,
+  "name": "La Soleil",
+  "description": "coming soon...",
+  "haveBonus": true,
+  "sortOrder": 1
+ },
+ {
+  "gardenFurnitureCoordinateMstId": 12,
+  "name": "Sakura Hills Nekos College",
+  "description": "coming soon...",
+  "haveBonus": true,
+  "sortOrder": 2
+ },
+ {
+  "gardenFurnitureCoordinateMstId": 99,
+  "name": "Unaffiliated",
+  "description": "coming soon...",
+  "haveBonus": true,
+  "sortOrder": 99
+ }
+]

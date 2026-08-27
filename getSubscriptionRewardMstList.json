@@ -1,0 +1,112 @@
+[
+ {
+  "subscriptionRewardMstId": 1,
+  "subscriptionLabel": "subscription.regular",
+  "continueCount": 1,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 360,
+  "startTime": "2022-01-01T00:00:00+09:00",
+  "endTime": "2050-12-31T23:59:59+09:00"
+ },
+ {
+  "subscriptionRewardMstId": 2,
+  "subscriptionLabel": "subscription.regular",
+  "continueCount": 2,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 720,
+  "startTime": "2022-01-01T00:00:00+09:00",
+  "endTime": "2050-12-31T23:59:59+09:00"
+ },
+ {
+  "subscriptionRewardMstId": 3,
+  "subscriptionLabel": "subscription.regular",
+  "continueCount": 1,
+  "sortOrder": 2,
+  "objectReceiveType": 25,
+  "objectId": 0,
+  "num": 180,
+  "startTime": "2022-01-01T00:00:00+09:00",
+  "endTime": "2050-12-31T23:59:59+09:00"
+ },
+ {
+  "subscriptionRewardMstId": 4,
+  "subscriptionLabel": "subscription.regular",
+  "continueCount": 2,
+  "sortOrder": 2,
+  "objectReceiveType": 25,
+  "objectId": 0,
+  "num": 180,
+  "startTime": "2022-01-01T00:00:00+09:00",
+  "endTime": "2050-12-31T23:59:59+09:00"
+ },
+ {
+  "subscriptionRewardMstId": 5,
+  "subscriptionLabel": "subscription.premium",
+  "continueCount": 1,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 980,
+  "startTime": "2022-01-01T00:00:00+09:00",
+  "endTime": "2050-12-31T23:59:59+09:00"
+ },
+ {
+  "subscriptionRewardMstId": 6,
+  "subscriptionLabel": "subscription.premium",
+  "continueCount": 2,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 1960,
+  "startTime": "2022-01-01T00:00:00+09:00",
+  "endTime": "2050-12-31T23:59:59+09:00"
+ },
+ {
+  "subscriptionRewardMstId": 7,
+  "subscriptionLabel": "subscription.premium",
+  "continueCount": 1,
+  "sortOrder": 2,
+  "objectReceiveType": 25,
+  "objectId": 0,
+  "num": 490,
+  "startTime": "2022-01-01T00:00:00+09:00",
+  "endTime": "2050-12-31T23:59:59+09:00"
+ },
+ {
+  "subscriptionRewardMstId": 8,
+  "subscriptionLabel": "subscription.premium",
+  "continueCount": 2,
+  "sortOrder": 2,
+  "objectReceiveType": 25,
+  "objectId": 0,
+  "num": 490,
+  "startTime": "2022-01-01T00:00:00+09:00",
+  "endTime": "2050-12-31T23:59:59+09:00"
+ },
+ {
+  "subscriptionRewardMstId": 9,
+  "subscriptionLabel": "subscription.premium",
+  "continueCount": 1,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 250000,
+  "startTime": "2022-01-01T00:00:00+09:00",
+  "endTime": "2050-12-31T23:59:59+09:00"
+ },
+ {
+  "subscriptionRewardMstId": 10,
+  "subscriptionLabel": "subscription.premium",
+  "continueCount": 2,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 500000,
+  "startTime": "2022-01-01T00:00:00+09:00",
+  "endTime": "2050-12-31T23:59:59+09:00"
+ }
+]

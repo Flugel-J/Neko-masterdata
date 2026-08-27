@@ -1,0 +1,110 @@
+[
+ {
+  "gvgSummitVoteMstId": 1,
+  "seasonMstId": 1,
+  "round": 1,
+  "initialVotingMedalNum": 100,
+  "returnRatioWinMinor": 3.0,
+  "returnRatioWinMajor": 1.5,
+  "returnRatioLose": 0.5
+ },
+ {
+  "gvgSummitVoteMstId": 2,
+  "seasonMstId": 1,
+  "round": 2,
+  "initialVotingMedalNum": 100,
+  "returnRatioWinMinor": 3.0,
+  "returnRatioWinMajor": 1.5,
+  "returnRatioLose": 0.5
+ },
+ {
+  "gvgSummitVoteMstId": 3,
+  "seasonMstId": 1,
+  "round": 3,
+  "initialVotingMedalNum": 100,
+  "returnRatioWinMinor": 3.0,
+  "returnRatioWinMajor": 1.5,
+  "returnRatioLose": 0.5
+ },
+ {
+  "gvgSummitVoteMstId": 4,
+  "seasonMstId": 1,
+  "round": 4,
+  "initialVotingMedalNum": 100,
+  "returnRatioWinMinor": 3.0,
+  "returnRatioWinMajor": 1.5,
+  "returnRatioLose": 0.5
+ },
+ {
+  "gvgSummitVoteMstId": 5,
+  "seasonMstId": 2,
+  "round": 1,
+  "initialVotingMedalNum": 100,
+  "returnRatioWinMinor": 3.0,
+  "returnRatioWinMajor": 1.5,
+  "returnRatioLose": 0.5
+ },
+ {
+  "gvgSummitVoteMstId": 6,
+  "seasonMstId": 2,
+  "round": 2,
+  "initialVotingMedalNum": 100,
+  "returnRatioWinMinor": 3.0,
+  "returnRatioWinMajor": 1.5,
+  "returnRatioLose": 0.5
+ },
+ {
+  "gvgSummitVoteMstId": 7,
+  "seasonMstId": 2,
+  "round": 3,
+  "initialVotingMedalNum": 100,
+  "returnRatioWinMinor": 3.0,
+  "returnRatioWinMajor": 1.5,
+  "returnRatioLose": 0.5
+ },
+ {
+  "gvgSummitVoteMstId": 8,
+  "seasonMstId": 2,
+  "round": 4,
+  "initialVotingMedalNum": 100,
+  "returnRatioWinMinor": 3.0,
+  "returnRatioWinMajor": 1.5,
+  "returnRatioLose": 0.5
+ },
+ {
+  "gvgSummitVoteMstId": 9,
+  "seasonMstId": 3,
+  "round": 1,
+  "initialVotingMedalNum": 100,
+  "returnRatioWinMinor": 3.0,
+  "returnRatioWinMajor": 1.5,
+  "returnRatioLose": 0.5
+ },
+ {
+  "gvgSummitVoteMstId": 10,
+  "seasonMstId": 3,
+  "round": 2,
+  "initialVotingMedalNum": 100,
+  "returnRatioWinMinor": 3.0,
+  "returnRatioWinMajor": 1.5,
+  "returnRatioLose": 0.5
+ },
+ {
+  "gvgSummitVoteMstId": 11,
+  "seasonMstId": 3,
+  "round": 3,
+  "initialVotingMedalNum": 100,
+  "returnRatioWinMinor": 3.0,
+  "returnRatioWinMajor": 1.5,
+  "returnRatioLose": 0.5
+ },
+ {
+  "gvgSummitVoteMstId": 12,
+  "seasonMstId": 3,
+  "round": 4,
+  "initialVotingMedalNum": 100,
+  "returnRatioWinMinor": 3.0,
+  "returnRatioWinMajor": 1.5,
+  "returnRatioLose": 0.5
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "eventBossMstId": 100,
+  "eventMstId": 100001,
+  "dailyEventBossStamina": 3,
+  "groupId": 1001,
+  "backgroundId": 2101000
+ },
+ {
+  "eventBossMstId": 101,
+  "eventMstId": 100002,
+  "dailyEventBossStamina": 3,
+  "groupId": 1002,
+  "backgroundId": 2010000
+ },
+ {
+  "eventBossMstId": 102,
+  "eventMstId": 100003,
+  "dailyEventBossStamina": 3,
+  "groupId": 1003,
+  "backgroundId": 2003000
+ },
+ {
+  "eventBossMstId": 103,
+  "eventMstId": 100004,
+  "dailyEventBossStamina": 3,
+  "groupId": 1004,
+  "backgroundId": 2002001
+ },
+ {
+  "eventBossMstId": 104,
+  "eventMstId": 100005,
+  "dailyEventBossStamina": 3,
+  "groupId": 1005,
+  "backgroundId": 2103000
+ }
+]

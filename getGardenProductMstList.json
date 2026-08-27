@@ -1,0 +1,392 @@
+[
+ {
+  "gardenProductMstId": 1011001,
+  "resourceId": 1011001,
+  "name": "Scone",
+  "description": "This simple treat is crispy on the outside and moist on the inside, and has a fragrant aroma of wheat.",
+  "productType": 1,
+  "paramValue": 210,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 1011002,
+  "resourceId": 1011002,
+  "name": "French Toast",
+  "description": "This happy treat is soaked with egg and honey.",
+  "productType": 1,
+  "paramValue": 240,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 1012001,
+  "resourceId": 1012001,
+  "name": "Sweet Potato Tart",
+  "description": "This rich and gentle treat lets you enjoy the natural sweetness of sweet potato.",
+  "productType": 1,
+  "paramValue": 270,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 1012002,
+  "resourceId": 1012002,
+  "name": "Chocolate Fondant",
+  "description": "This luxurious treat has warm chocolate that oozes from the inside.",
+  "productType": 1,
+  "paramValue": 300,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 1012003,
+  "resourceId": 1012003,
+  "name": "Waffle",
+  "description": "This appealing treat features a crunchy texture and a toasty aroma.",
+  "productType": 1,
+  "paramValue": 390,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 1012004,
+  "resourceId": 1012004,
+  "name": "Cream Puff",
+  "description": "This rich treat is generously filled with cream that fills the palate.",
+  "productType": 1,
+  "paramValue": 390,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 1013001,
+  "resourceId": 1013001,
+  "name": "Cherry Pie",
+  "description": "This authentic treat wraps sweet and tangy fruit in a crispy pastry.",
+  "productType": 1,
+  "paramValue": 450,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 1013002,
+  "resourceId": 1013002,
+  "name": "Honey Toast",
+  "description": "This innovative treat features thick-cut bread soaked with honey and topped with decorations.",
+  "productType": 1,
+  "paramValue": 450,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 1013003,
+  "resourceId": 1013003,
+  "name": "Fruit Gratin",
+  "description": "This special treat lets you enjoy the sweetness of fruit with warm sauce and honey.",
+  "productType": 1,
+  "paramValue": 510,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 1013004,
+  "resourceId": 1013004,
+  "name": "Chocolate Fondue",
+  "description": "This treat features marshmallows and fruit coated with warm chocolate.",
+  "productType": 1,
+  "paramValue": 510,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 1013005,
+  "resourceId": 1013005,
+  "name": "Creme Brulee-Style Fried Sandwich",
+  "description": "This novel treat is crispy on the outside, and melty and sweet on the inside.",
+  "productType": 1,
+  "paramValue": 570,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 1013006,
+  "resourceId": 1013006,
+  "name": "Crepe",
+  "description": "This carefully crafted treat features rich cream wrapped in a thin crepe.",
+  "productType": 1,
+  "paramValue": 660,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 1013007,
+  "resourceId": 1013007,
+  "name": "Pancake",
+  "description": "This treat features a fluffy texture and is served with a generous amount of fresh cream.",
+  "productType": 1,
+  "paramValue": 900,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 2011001,
+  "resourceId": 2011001,
+  "name": "Pound Cake",
+  "description": "This moist treat is packed with the richness of butter and the flavors of its ingredients.",
+  "productType": 3,
+  "paramValue": 210,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 2011002,
+  "resourceId": 2011002,
+  "name": "Pudding",
+  "description": "This simple treat has a slightly firm texture and highlights the flavors of its ingredients.",
+  "productType": 3,
+  "paramValue": 240,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 2012001,
+  "resourceId": 2012001,
+  "name": "Shortcake",
+  "description": "This treat features a fluffy sponge cake topped with strawberries and fresh cream.",
+  "productType": 3,
+  "paramValue": 270,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 2012002,
+  "resourceId": 2012002,
+  "name": "Cheesecake",
+  "description": "This luxurious treat features a rich cheese flavor that spreads across the palate.",
+  "productType": 3,
+  "paramValue": 300,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 2012003,
+  "resourceId": 2012003,
+  "name": "Yogurt Bowl",
+  "description": "This healthy treat lets you enjoy the natural flavors of fruit and thick yogurt.",
+  "productType": 3,
+  "paramValue": 390,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 2012004,
+  "resourceId": 2012004,
+  "name": "Fruit Sandwich",
+  "description": "This refreshing treat sandwiches seasonal fruit with light cream.",
+  "productType": 3,
+  "paramValue": 390,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 2013001,
+  "resourceId": 2013001,
+  "name": "Chocolate Cake",
+  "description": "This rich and moist treat features a pronounced cocoa aroma.",
+  "productType": 3,
+  "paramValue": 450,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 2013002,
+  "resourceId": 2013002,
+  "name": "Paris-Brest",
+  "description": "This elegant treat features ring-shaped choux pastry filled with rich cream.",
+  "productType": 3,
+  "paramValue": 450,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 2013003,
+  "resourceId": 2013003,
+  "name": "Strawberry Heart Cake",
+  "description": "This heart-shaped special treat features carefully piped cream and plenty of strawberries.",
+  "productType": 3,
+  "paramValue": 510,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 2013004,
+  "resourceId": 2013004,
+  "name": "Decorated Cake",
+  "description": "This treat features pop-style cookie decorations that are perfect for celebrations.",
+  "productType": 3,
+  "paramValue": 510,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 2013005,
+  "resourceId": 2013005,
+  "name": "Fruit Parfait",
+  "description": "This luxurious treat is packed with gelato and carefully selected fruit.",
+  "productType": 3,
+  "paramValue": 570,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 2013006,
+  "resourceId": 2013006,
+  "name": "Milk Pudding a la Mode",
+  "description": "This luxurious treat features milk pudding served with ice cream and decorative fruit.",
+  "productType": 3,
+  "paramValue": 660,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 2013007,
+  "resourceId": 2013007,
+  "name": "Mousse Cake",
+  "description": "This elegant treat features a light mousse cake served with decoratively cut fruit.",
+  "productType": 3,
+  "paramValue": 900,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 3011001,
+  "resourceId": 3011001,
+  "name": "Latte Art Coffee",
+  "description": "This cute treat features art drawn on fluffy foam, creating a soothing moment.",
+  "productType": 2,
+  "paramValue": 210,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 3011002,
+  "resourceId": 3011002,
+  "name": "Fruit Juice",
+  "description": "This refreshing treat features plenty of fresh fruit.",
+  "productType": 2,
+  "paramValue": 240,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 3012001,
+  "resourceId": 3012001,
+  "name": "Black Tea",
+  "description": "This elegant treat features the rich aroma of tea leaves that brings a sense of calm.",
+  "productType": 2,
+  "paramValue": 270,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 3012002,
+  "resourceId": 3012002,
+  "name": "Matcha Latte",
+  "description": "This treat features slightly bitter matcha balanced with mellow milk.",
+  "productType": 2,
+  "paramValue": 300,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 3012003,
+  "resourceId": 3012003,
+  "name": "Craft Cola",
+  "description": "This carefully crafted treat features a fragrant blend of spices.",
+  "productType": 2,
+  "paramValue": 390,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 3012004,
+  "resourceId": 3012004,
+  "name": "Smoothie",
+  "description": "This treat lets you enjoy frozen berries and vegetables.",
+  "productType": 2,
+  "paramValue": 390,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 3013001,
+  "resourceId": 3013001,
+  "name": "Coffee Jelly Shake",
+  "description": "This exquisite treat features slightly bitter coffee jelly paired with mildly sweetened cream.",
+  "productType": 2,
+  "paramValue": 450,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 3013002,
+  "resourceId": 3013002,
+  "name": "Chai",
+  "description": "This treat features a layered aroma from a blend of spices.",
+  "productType": 2,
+  "paramValue": 450,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 3013003,
+  "resourceId": 3013003,
+  "name": "Russian Tea",
+  "description": "This special treat is warm and sweet, and is enjoyed by adding jam.",
+  "productType": 2,
+  "paramValue": 510,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 3013004,
+  "resourceId": 3013004,
+  "name": "Matcha Warabi Milk",
+  "description": "This matcha-flavored treat features soft and chewy warabi mochi.",
+  "productType": 2,
+  "paramValue": 510,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 3013005,
+  "resourceId": 3013005,
+  "name": "Cream Soda",
+  "description": "This colorful treat features rainbow-colored jelly served with vanilla ice cream.",
+  "productType": 2,
+  "paramValue": 570,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 3013006,
+  "resourceId": 3013006,
+  "name": "Tropical Juice",
+  "description": "This resort-style treat features Blue Curacao served with fruit.",
+  "productType": 2,
+  "paramValue": 660,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "gardenProductMstId": 3013007,
+  "resourceId": 3013007,
+  "name": "Fruit Shake",
+  "description": "This rich treat features the sweetness of fruit blended with the richness of milk.",
+  "productType": 2,
+  "paramValue": 900,
+  "startTime": "2000-01-01T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ }
+]

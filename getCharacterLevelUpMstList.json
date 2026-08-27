@@ -1,0 +1,4202 @@
+[
+ {
+  "rarity": 3,
+  "level": 1,
+  "requiredGold": 5000,
+  "requiredMana": 3000,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 2,
+  "requiredGold": 5600,
+  "requiredMana": 3260,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 3,
+  "requiredGold": 6200,
+  "requiredMana": 3530,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 4,
+  "requiredGold": 6800,
+  "requiredMana": 3810,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 5,
+  "requiredGold": 7400,
+  "requiredMana": 4090,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 6,
+  "requiredGold": 8000,
+  "requiredMana": 4380,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 7,
+  "requiredGold": 8600,
+  "requiredMana": 4680,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 8,
+  "requiredGold": 9200,
+  "requiredMana": 4980,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 9,
+  "requiredGold": 9800,
+  "requiredMana": 5290,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 10,
+  "requiredGold": 10400,
+  "requiredMana": 5610,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 11,
+  "requiredGold": 11100,
+  "requiredMana": 5940,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 12,
+  "requiredGold": 11800,
+  "requiredMana": 6270,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 13,
+  "requiredGold": 12500,
+  "requiredMana": 6610,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 14,
+  "requiredGold": 13200,
+  "requiredMana": 6960,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 15,
+  "requiredGold": 13900,
+  "requiredMana": 7310,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 16,
+  "requiredGold": 14600,
+  "requiredMana": 7670,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 17,
+  "requiredGold": 15300,
+  "requiredMana": 8040,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 18,
+  "requiredGold": 16000,
+  "requiredMana": 8420,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 19,
+  "requiredGold": 16700,
+  "requiredMana": 8800,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 20,
+  "requiredGold": 17400,
+  "requiredMana": 9190,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 21,
+  "requiredGold": 18100,
+  "requiredMana": 9590,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 22,
+  "requiredGold": 18800,
+  "requiredMana": 9990,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 23,
+  "requiredGold": 19500,
+  "requiredMana": 10400,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 24,
+  "requiredGold": 20300,
+  "requiredMana": 10820,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 25,
+  "requiredGold": 21100,
+  "requiredMana": 11250,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 26,
+  "requiredGold": 21900,
+  "requiredMana": 11680,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 27,
+  "requiredGold": 22700,
+  "requiredMana": 12120,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 28,
+  "requiredGold": 23500,
+  "requiredMana": 12570,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 29,
+  "requiredGold": 24300,
+  "requiredMana": 13020,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 30,
+  "requiredGold": 25100,
+  "requiredMana": 13480,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 31,
+  "requiredGold": 25900,
+  "requiredMana": 13950,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 32,
+  "requiredGold": 26700,
+  "requiredMana": 14430,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 33,
+  "requiredGold": 27600,
+  "requiredMana": 14910,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 34,
+  "requiredGold": 28500,
+  "requiredMana": 15400,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 35,
+  "requiredGold": 29400,
+  "requiredMana": 15900,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 36,
+  "requiredGold": 30300,
+  "requiredMana": 16410,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 37,
+  "requiredGold": 31200,
+  "requiredMana": 16920,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 38,
+  "requiredGold": 32100,
+  "requiredMana": 17440,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 39,
+  "requiredGold": 33000,
+  "requiredMana": 17970,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 40,
+  "requiredGold": 33900,
+  "requiredMana": 18510,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 41,
+  "requiredGold": 34900,
+  "requiredMana": 19050,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 42,
+  "requiredGold": 35900,
+  "requiredMana": 19600,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 43,
+  "requiredGold": 36900,
+  "requiredMana": 20160,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 44,
+  "requiredGold": 37900,
+  "requiredMana": 20730,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 45,
+  "requiredGold": 38900,
+  "requiredMana": 21300,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 46,
+  "requiredGold": 39900,
+  "requiredMana": 21880,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 47,
+  "requiredGold": 40900,
+  "requiredMana": 22470,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 48,
+  "requiredGold": 42000,
+  "requiredMana": 23070,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 49,
+  "requiredGold": 43100,
+  "requiredMana": 23670,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 50,
+  "requiredGold": 44200,
+  "requiredMana": 24280,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 51,
+  "requiredGold": 45300,
+  "requiredMana": 24900,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 52,
+  "requiredGold": 46400,
+  "requiredMana": 25530,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 53,
+  "requiredGold": 47500,
+  "requiredMana": 26160,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 54,
+  "requiredGold": 48600,
+  "requiredMana": 26800,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 55,
+  "requiredGold": 49800,
+  "requiredMana": 27450,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 56,
+  "requiredGold": 51000,
+  "requiredMana": 28110,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 57,
+  "requiredGold": 52200,
+  "requiredMana": 28770,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 58,
+  "requiredGold": 53400,
+  "requiredMana": 29440,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 59,
+  "requiredGold": 54600,
+  "requiredMana": 30120,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 60,
+  "requiredGold": 55900,
+  "requiredMana": 30810,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 61,
+  "requiredGold": 57200,
+  "requiredMana": 31500,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 62,
+  "requiredGold": 58500,
+  "requiredMana": 32200,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 63,
+  "requiredGold": 59800,
+  "requiredMana": 32910,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 64,
+  "requiredGold": 61100,
+  "requiredMana": 33630,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 65,
+  "requiredGold": 62400,
+  "requiredMana": 34350,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 66,
+  "requiredGold": 63800,
+  "requiredMana": 35080,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 67,
+  "requiredGold": 65200,
+  "requiredMana": 35820,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 68,
+  "requiredGold": 66600,
+  "requiredMana": 36570,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 69,
+  "requiredGold": 68000,
+  "requiredMana": 37320,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 70,
+  "requiredGold": 69400,
+  "requiredMana": 38080,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 71,
+  "requiredGold": 70900,
+  "requiredMana": 38850,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 72,
+  "requiredGold": 72400,
+  "requiredMana": 39630,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 73,
+  "requiredGold": 73900,
+  "requiredMana": 40410,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 74,
+  "requiredGold": 75400,
+  "requiredMana": 41200,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 75,
+  "requiredGold": 77000,
+  "requiredMana": 42000,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 76,
+  "requiredGold": 78600,
+  "requiredMana": 42810,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 77,
+  "requiredGold": 80200,
+  "requiredMana": 43630,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 78,
+  "requiredGold": 81800,
+  "requiredMana": 44450,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 79,
+  "requiredGold": 83400,
+  "requiredMana": 45280,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 80,
+  "requiredGold": 85100,
+  "requiredMana": 46120,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 81,
+  "requiredGold": 86800,
+  "requiredMana": 46970,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 82,
+  "requiredGold": 88500,
+  "requiredMana": 47820,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 83,
+  "requiredGold": 90200,
+  "requiredMana": 48680,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 84,
+  "requiredGold": 92000,
+  "requiredMana": 49550,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 85,
+  "requiredGold": 93800,
+  "requiredMana": 50430,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 86,
+  "requiredGold": 95600,
+  "requiredMana": 51320,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 87,
+  "requiredGold": 97400,
+  "requiredMana": 52210,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 88,
+  "requiredGold": 99300,
+  "requiredMana": 53110,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 89,
+  "requiredGold": 101200,
+  "requiredMana": 54020,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 90,
+  "requiredGold": 103100,
+  "requiredMana": 54940,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 91,
+  "requiredGold": 105000,
+  "requiredMana": 55870,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 92,
+  "requiredGold": 107000,
+  "requiredMana": 56800,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 93,
+  "requiredGold": 109000,
+  "requiredMana": 57740,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 94,
+  "requiredGold": 111000,
+  "requiredMana": 58690,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 95,
+  "requiredGold": 113000,
+  "requiredMana": 59650,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 96,
+  "requiredGold": 115100,
+  "requiredMana": 60620,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 97,
+  "requiredGold": 117200,
+  "requiredMana": 61590,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 98,
+  "requiredGold": 119300,
+  "requiredMana": 62570,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 99,
+  "requiredGold": 121400,
+  "requiredMana": 63560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 100,
+  "requiredGold": 123600,
+  "requiredMana": 64560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 101,
+  "requiredGold": 125800,
+  "requiredMana": 65560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 102,
+  "requiredGold": 128000,
+  "requiredMana": 66570,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 103,
+  "requiredGold": 130300,
+  "requiredMana": 67590,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 104,
+  "requiredGold": 132600,
+  "requiredMana": 68620,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 105,
+  "requiredGold": 134900,
+  "requiredMana": 69660,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 106,
+  "requiredGold": 137200,
+  "requiredMana": 70710,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 107,
+  "requiredGold": 139600,
+  "requiredMana": 71760,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 108,
+  "requiredGold": 142000,
+  "requiredMana": 72820,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 109,
+  "requiredGold": 144400,
+  "requiredMana": 73890,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 110,
+  "requiredGold": 146900,
+  "requiredMana": 74970,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 111,
+  "requiredGold": 149400,
+  "requiredMana": 76060,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 112,
+  "requiredGold": 151900,
+  "requiredMana": 77150,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 113,
+  "requiredGold": 154500,
+  "requiredMana": 78250,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 114,
+  "requiredGold": 157100,
+  "requiredMana": 79360,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 115,
+  "requiredGold": 159700,
+  "requiredMana": 80480,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 116,
+  "requiredGold": 162300,
+  "requiredMana": 81610,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 117,
+  "requiredGold": 165000,
+  "requiredMana": 82740,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 118,
+  "requiredGold": 167700,
+  "requiredMana": 83880,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 119,
+  "requiredGold": 170400,
+  "requiredMana": 85030,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 120,
+  "requiredGold": 173200,
+  "requiredMana": 86190,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 121,
+  "requiredGold": 176000,
+  "requiredMana": 87360,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 122,
+  "requiredGold": 178800,
+  "requiredMana": 88540,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 123,
+  "requiredGold": 181700,
+  "requiredMana": 89720,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 124,
+  "requiredGold": 184600,
+  "requiredMana": 90910,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 125,
+  "requiredGold": 187500,
+  "requiredMana": 92110,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 126,
+  "requiredGold": 190500,
+  "requiredMana": 93320,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 127,
+  "requiredGold": 193500,
+  "requiredMana": 94540,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 128,
+  "requiredGold": 196500,
+  "requiredMana": 95760,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 129,
+  "requiredGold": 199600,
+  "requiredMana": 96990,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 130,
+  "requiredGold": 202700,
+  "requiredMana": 98230,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 131,
+  "requiredGold": 205800,
+  "requiredMana": 99480,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 132,
+  "requiredGold": 209000,
+  "requiredMana": 100740,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 133,
+  "requiredGold": 212200,
+  "requiredMana": 102010,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 134,
+  "requiredGold": 215500,
+  "requiredMana": 103280,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 135,
+  "requiredGold": 218800,
+  "requiredMana": 104560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 136,
+  "requiredGold": 222100,
+  "requiredMana": 105850,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 137,
+  "requiredGold": 225500,
+  "requiredMana": 107150,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 138,
+  "requiredGold": 228900,
+  "requiredMana": 108460,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 139,
+  "requiredGold": 232300,
+  "requiredMana": 109780,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 140,
+  "requiredGold": 235800,
+  "requiredMana": 111100,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 141,
+  "requiredGold": 239300,
+  "requiredMana": 112430,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 142,
+  "requiredGold": 242800,
+  "requiredMana": 113770,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 143,
+  "requiredGold": 246400,
+  "requiredMana": 115120,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 144,
+  "requiredGold": 250000,
+  "requiredMana": 116480,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 145,
+  "requiredGold": 253700,
+  "requiredMana": 117850,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 146,
+  "requiredGold": 257400,
+  "requiredMana": 119230,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 147,
+  "requiredGold": 261100,
+  "requiredMana": 120610,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 148,
+  "requiredGold": 264900,
+  "requiredMana": 122000,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 149,
+  "requiredGold": 268700,
+  "requiredMana": 123400,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 150,
+  "requiredGold": 272600,
+  "requiredMana": 124810,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 151,
+  "requiredGold": 276500,
+  "requiredMana": 126230,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 152,
+  "requiredGold": 280400,
+  "requiredMana": 127660,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 153,
+  "requiredGold": 284400,
+  "requiredMana": 129090,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 154,
+  "requiredGold": 288400,
+  "requiredMana": 130530,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 155,
+  "requiredGold": 292500,
+  "requiredMana": 131980,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 156,
+  "requiredGold": 296600,
+  "requiredMana": 133440,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 157,
+  "requiredGold": 300700,
+  "requiredMana": 134910,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 158,
+  "requiredGold": 304900,
+  "requiredMana": 136390,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 159,
+  "requiredGold": 309100,
+  "requiredMana": 137880,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 160,
+  "requiredGold": 313400,
+  "requiredMana": 139370,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 161,
+  "requiredGold": 317700,
+  "requiredMana": 140870,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 162,
+  "requiredGold": 322100,
+  "requiredMana": 142380,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 163,
+  "requiredGold": 326500,
+  "requiredMana": 143900,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 164,
+  "requiredGold": 330900,
+  "requiredMana": 145430,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 165,
+  "requiredGold": 335400,
+  "requiredMana": 146970,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 166,
+  "requiredGold": 339900,
+  "requiredMana": 148520,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 167,
+  "requiredGold": 344500,
+  "requiredMana": 150070,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 168,
+  "requiredGold": 349100,
+  "requiredMana": 151630,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 169,
+  "requiredGold": 353800,
+  "requiredMana": 153200,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 170,
+  "requiredGold": 358500,
+  "requiredMana": 154780,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 171,
+  "requiredGold": 363200,
+  "requiredMana": 156370,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 172,
+  "requiredGold": 368000,
+  "requiredMana": 157970,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 173,
+  "requiredGold": 372800,
+  "requiredMana": 159580,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 174,
+  "requiredGold": 377700,
+  "requiredMana": 161200,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 175,
+  "requiredGold": 382600,
+  "requiredMana": 162820,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 176,
+  "requiredGold": 387600,
+  "requiredMana": 164450,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 177,
+  "requiredGold": 392600,
+  "requiredMana": 166090,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 178,
+  "requiredGold": 397700,
+  "requiredMana": 167740,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 179,
+  "requiredGold": 402800,
+  "requiredMana": 169400,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 180,
+  "requiredGold": 408000,
+  "requiredMana": 171070,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 181,
+  "requiredGold": 413200,
+  "requiredMana": 172750,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 182,
+  "requiredGold": 418500,
+  "requiredMana": 174440,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 183,
+  "requiredGold": 423800,
+  "requiredMana": 176130,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 184,
+  "requiredGold": 429200,
+  "requiredMana": 177830,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 185,
+  "requiredGold": 434600,
+  "requiredMana": 179540,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 186,
+  "requiredGold": 440000,
+  "requiredMana": 181260,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 187,
+  "requiredGold": 445500,
+  "requiredMana": 182990,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 188,
+  "requiredGold": 451000,
+  "requiredMana": 184730,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 189,
+  "requiredGold": 456600,
+  "requiredMana": 186480,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 190,
+  "requiredGold": 462200,
+  "requiredMana": 188240,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 191,
+  "requiredGold": 467900,
+  "requiredMana": 190010,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 192,
+  "requiredGold": 473600,
+  "requiredMana": 191780,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 193,
+  "requiredGold": 479400,
+  "requiredMana": 193560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 194,
+  "requiredGold": 485200,
+  "requiredMana": 195350,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 195,
+  "requiredGold": 491100,
+  "requiredMana": 197150,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 196,
+  "requiredGold": 497000,
+  "requiredMana": 198960,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 197,
+  "requiredGold": 503000,
+  "requiredMana": 200780,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 198,
+  "requiredGold": 509000,
+  "requiredMana": 202610,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 199,
+  "requiredGold": 515100,
+  "requiredMana": 204450,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 3,
+  "level": 200,
+  "requiredGold": 0,
+  "requiredMana": 0,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 1,
+  "requiredGold": 7000,
+  "requiredMana": 4000,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 2,
+  "requiredGold": 7900,
+  "requiredMana": 4410,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 3,
+  "requiredGold": 8800,
+  "requiredMana": 4830,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 4,
+  "requiredGold": 9700,
+  "requiredMana": 5260,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 5,
+  "requiredGold": 10600,
+  "requiredMana": 5690,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 6,
+  "requiredGold": 11500,
+  "requiredMana": 6130,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 7,
+  "requiredGold": 12400,
+  "requiredMana": 6580,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 8,
+  "requiredGold": 13300,
+  "requiredMana": 7030,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 9,
+  "requiredGold": 14200,
+  "requiredMana": 7490,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 10,
+  "requiredGold": 15100,
+  "requiredMana": 7960,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 11,
+  "requiredGold": 16000,
+  "requiredMana": 8440,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 12,
+  "requiredGold": 16900,
+  "requiredMana": 8920,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 13,
+  "requiredGold": 17800,
+  "requiredMana": 9410,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 14,
+  "requiredGold": 18800,
+  "requiredMana": 9910,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 15,
+  "requiredGold": 19800,
+  "requiredMana": 10410,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 16,
+  "requiredGold": 20800,
+  "requiredMana": 10920,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 17,
+  "requiredGold": 21800,
+  "requiredMana": 11440,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 18,
+  "requiredGold": 22800,
+  "requiredMana": 11970,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 19,
+  "requiredGold": 23800,
+  "requiredMana": 12500,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 20,
+  "requiredGold": 24800,
+  "requiredMana": 13040,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 21,
+  "requiredGold": 25800,
+  "requiredMana": 13590,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 22,
+  "requiredGold": 26800,
+  "requiredMana": 14150,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 23,
+  "requiredGold": 27800,
+  "requiredMana": 14710,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 24,
+  "requiredGold": 28900,
+  "requiredMana": 15280,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 25,
+  "requiredGold": 30000,
+  "requiredMana": 15860,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 26,
+  "requiredGold": 31100,
+  "requiredMana": 16450,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 27,
+  "requiredGold": 32200,
+  "requiredMana": 17040,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 28,
+  "requiredGold": 33300,
+  "requiredMana": 17640,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 29,
+  "requiredGold": 34400,
+  "requiredMana": 18250,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 30,
+  "requiredGold": 35500,
+  "requiredMana": 18870,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 31,
+  "requiredGold": 36600,
+  "requiredMana": 19490,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 32,
+  "requiredGold": 37700,
+  "requiredMana": 20120,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 33,
+  "requiredGold": 38900,
+  "requiredMana": 20760,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 34,
+  "requiredGold": 40100,
+  "requiredMana": 21410,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 35,
+  "requiredGold": 41300,
+  "requiredMana": 22060,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 36,
+  "requiredGold": 42500,
+  "requiredMana": 22720,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 37,
+  "requiredGold": 43700,
+  "requiredMana": 23390,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 38,
+  "requiredGold": 44900,
+  "requiredMana": 24070,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 39,
+  "requiredGold": 46100,
+  "requiredMana": 24750,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 40,
+  "requiredGold": 47400,
+  "requiredMana": 25440,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 41,
+  "requiredGold": 48700,
+  "requiredMana": 26140,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 42,
+  "requiredGold": 50000,
+  "requiredMana": 26850,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 43,
+  "requiredGold": 51300,
+  "requiredMana": 27560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 44,
+  "requiredGold": 52600,
+  "requiredMana": 28280,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 45,
+  "requiredGold": 53900,
+  "requiredMana": 29010,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 46,
+  "requiredGold": 55300,
+  "requiredMana": 29750,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 47,
+  "requiredGold": 56700,
+  "requiredMana": 30500,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 48,
+  "requiredGold": 58100,
+  "requiredMana": 31250,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 49,
+  "requiredGold": 59500,
+  "requiredMana": 32010,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 50,
+  "requiredGold": 60900,
+  "requiredMana": 32780,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 51,
+  "requiredGold": 62400,
+  "requiredMana": 33560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 52,
+  "requiredGold": 63900,
+  "requiredMana": 34350,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 53,
+  "requiredGold": 65400,
+  "requiredMana": 35140,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 54,
+  "requiredGold": 66900,
+  "requiredMana": 35940,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 55,
+  "requiredGold": 68400,
+  "requiredMana": 36750,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 56,
+  "requiredGold": 70000,
+  "requiredMana": 37570,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 57,
+  "requiredGold": 71600,
+  "requiredMana": 38400,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 58,
+  "requiredGold": 73200,
+  "requiredMana": 39230,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 59,
+  "requiredGold": 74800,
+  "requiredMana": 40070,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 60,
+  "requiredGold": 76400,
+  "requiredMana": 40920,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 61,
+  "requiredGold": 78100,
+  "requiredMana": 41780,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 62,
+  "requiredGold": 79800,
+  "requiredMana": 42650,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 63,
+  "requiredGold": 81500,
+  "requiredMana": 43520,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 64,
+  "requiredGold": 83200,
+  "requiredMana": 44400,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 65,
+  "requiredGold": 85000,
+  "requiredMana": 45290,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 66,
+  "requiredGold": 86800,
+  "requiredMana": 46190,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 67,
+  "requiredGold": 88600,
+  "requiredMana": 47100,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 68,
+  "requiredGold": 90400,
+  "requiredMana": 48010,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 69,
+  "requiredGold": 92200,
+  "requiredMana": 48930,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 70,
+  "requiredGold": 94100,
+  "requiredMana": 49860,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 71,
+  "requiredGold": 96000,
+  "requiredMana": 50800,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 72,
+  "requiredGold": 97900,
+  "requiredMana": 51750,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 73,
+  "requiredGold": 99800,
+  "requiredMana": 52710,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 74,
+  "requiredGold": 101800,
+  "requiredMana": 53670,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 75,
+  "requiredGold": 103800,
+  "requiredMana": 54640,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 76,
+  "requiredGold": 105800,
+  "requiredMana": 55620,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 77,
+  "requiredGold": 107900,
+  "requiredMana": 56610,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 78,
+  "requiredGold": 110000,
+  "requiredMana": 57610,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 79,
+  "requiredGold": 112100,
+  "requiredMana": 58620,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 80,
+  "requiredGold": 114200,
+  "requiredMana": 59630,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 81,
+  "requiredGold": 116400,
+  "requiredMana": 60650,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 82,
+  "requiredGold": 118600,
+  "requiredMana": 61680,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 83,
+  "requiredGold": 120800,
+  "requiredMana": 62720,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 84,
+  "requiredGold": 123000,
+  "requiredMana": 63770,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 85,
+  "requiredGold": 125300,
+  "requiredMana": 64830,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 86,
+  "requiredGold": 127600,
+  "requiredMana": 65900,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 87,
+  "requiredGold": 129900,
+  "requiredMana": 66970,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 88,
+  "requiredGold": 132300,
+  "requiredMana": 68050,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 89,
+  "requiredGold": 134700,
+  "requiredMana": 69140,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 90,
+  "requiredGold": 137100,
+  "requiredMana": 70240,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 91,
+  "requiredGold": 139600,
+  "requiredMana": 71350,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 92,
+  "requiredGold": 142100,
+  "requiredMana": 72470,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 93,
+  "requiredGold": 144600,
+  "requiredMana": 73600,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 94,
+  "requiredGold": 147100,
+  "requiredMana": 74730,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 95,
+  "requiredGold": 149700,
+  "requiredMana": 75870,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 96,
+  "requiredGold": 152300,
+  "requiredMana": 77020,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 97,
+  "requiredGold": 154900,
+  "requiredMana": 78180,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 98,
+  "requiredGold": 157600,
+  "requiredMana": 79350,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 99,
+  "requiredGold": 160300,
+  "requiredMana": 80530,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 100,
+  "requiredGold": 163000,
+  "requiredMana": 81720,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 101,
+  "requiredGold": 165800,
+  "requiredMana": 82910,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 102,
+  "requiredGold": 168600,
+  "requiredMana": 84110,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 103,
+  "requiredGold": 171400,
+  "requiredMana": 85320,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 104,
+  "requiredGold": 174300,
+  "requiredMana": 86540,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 105,
+  "requiredGold": 177200,
+  "requiredMana": 87770,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 106,
+  "requiredGold": 180200,
+  "requiredMana": 89010,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 107,
+  "requiredGold": 183200,
+  "requiredMana": 90260,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 108,
+  "requiredGold": 186200,
+  "requiredMana": 91520,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 109,
+  "requiredGold": 189300,
+  "requiredMana": 92790,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 110,
+  "requiredGold": 192400,
+  "requiredMana": 94060,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 111,
+  "requiredGold": 195500,
+  "requiredMana": 95340,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 112,
+  "requiredGold": 198700,
+  "requiredMana": 96630,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 113,
+  "requiredGold": 201900,
+  "requiredMana": 97930,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 114,
+  "requiredGold": 205100,
+  "requiredMana": 99240,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 115,
+  "requiredGold": 208400,
+  "requiredMana": 100560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 116,
+  "requiredGold": 211700,
+  "requiredMana": 101890,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 117,
+  "requiredGold": 215100,
+  "requiredMana": 103230,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 118,
+  "requiredGold": 218500,
+  "requiredMana": 104580,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 119,
+  "requiredGold": 221900,
+  "requiredMana": 105940,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 120,
+  "requiredGold": 225400,
+  "requiredMana": 107310,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 121,
+  "requiredGold": 228900,
+  "requiredMana": 108680,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 122,
+  "requiredGold": 232500,
+  "requiredMana": 110060,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 123,
+  "requiredGold": 236100,
+  "requiredMana": 111450,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 124,
+  "requiredGold": 239700,
+  "requiredMana": 112850,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 125,
+  "requiredGold": 243400,
+  "requiredMana": 114260,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 126,
+  "requiredGold": 247100,
+  "requiredMana": 115680,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 127,
+  "requiredGold": 250900,
+  "requiredMana": 117110,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 128,
+  "requiredGold": 254700,
+  "requiredMana": 118550,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 129,
+  "requiredGold": 258500,
+  "requiredMana": 120000,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 130,
+  "requiredGold": 262400,
+  "requiredMana": 121460,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 131,
+  "requiredGold": 266300,
+  "requiredMana": 122930,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 132,
+  "requiredGold": 270300,
+  "requiredMana": 124410,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 133,
+  "requiredGold": 274300,
+  "requiredMana": 125900,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 134,
+  "requiredGold": 278400,
+  "requiredMana": 127400,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 135,
+  "requiredGold": 282500,
+  "requiredMana": 128900,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 136,
+  "requiredGold": 286700,
+  "requiredMana": 130410,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 137,
+  "requiredGold": 290900,
+  "requiredMana": 131930,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 138,
+  "requiredGold": 295100,
+  "requiredMana": 133460,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 139,
+  "requiredGold": 299400,
+  "requiredMana": 135000,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 140,
+  "requiredGold": 303700,
+  "requiredMana": 136550,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 141,
+  "requiredGold": 308100,
+  "requiredMana": 138110,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 142,
+  "requiredGold": 312500,
+  "requiredMana": 139680,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 143,
+  "requiredGold": 317000,
+  "requiredMana": 141260,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 144,
+  "requiredGold": 321500,
+  "requiredMana": 142850,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 145,
+  "requiredGold": 326100,
+  "requiredMana": 144450,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 146,
+  "requiredGold": 330700,
+  "requiredMana": 146060,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 147,
+  "requiredGold": 335400,
+  "requiredMana": 147680,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 148,
+  "requiredGold": 340100,
+  "requiredMana": 149310,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 149,
+  "requiredGold": 344900,
+  "requiredMana": 150950,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 150,
+  "requiredGold": 349700,
+  "requiredMana": 152600,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 151,
+  "requiredGold": 354600,
+  "requiredMana": 154260,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 152,
+  "requiredGold": 359500,
+  "requiredMana": 155930,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 153,
+  "requiredGold": 364500,
+  "requiredMana": 157610,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 154,
+  "requiredGold": 369500,
+  "requiredMana": 159300,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 155,
+  "requiredGold": 374600,
+  "requiredMana": 161000,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 156,
+  "requiredGold": 379700,
+  "requiredMana": 162710,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 157,
+  "requiredGold": 384900,
+  "requiredMana": 164430,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 158,
+  "requiredGold": 390100,
+  "requiredMana": 166160,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 159,
+  "requiredGold": 395400,
+  "requiredMana": 167900,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 160,
+  "requiredGold": 400700,
+  "requiredMana": 169650,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 161,
+  "requiredGold": 406100,
+  "requiredMana": 171410,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 162,
+  "requiredGold": 411500,
+  "requiredMana": 173180,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 163,
+  "requiredGold": 417000,
+  "requiredMana": 174960,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 164,
+  "requiredGold": 422500,
+  "requiredMana": 176750,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 165,
+  "requiredGold": 428100,
+  "requiredMana": 178550,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 166,
+  "requiredGold": 433700,
+  "requiredMana": 180360,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 167,
+  "requiredGold": 439400,
+  "requiredMana": 182180,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 168,
+  "requiredGold": 445100,
+  "requiredMana": 184010,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 169,
+  "requiredGold": 450900,
+  "requiredMana": 185850,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 170,
+  "requiredGold": 456700,
+  "requiredMana": 187700,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 171,
+  "requiredGold": 462600,
+  "requiredMana": 189560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 172,
+  "requiredGold": 468600,
+  "requiredMana": 191430,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 173,
+  "requiredGold": 474600,
+  "requiredMana": 193310,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 174,
+  "requiredGold": 480700,
+  "requiredMana": 195200,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 175,
+  "requiredGold": 486800,
+  "requiredMana": 197100,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 176,
+  "requiredGold": 493000,
+  "requiredMana": 199010,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 177,
+  "requiredGold": 499200,
+  "requiredMana": 200930,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 178,
+  "requiredGold": 505500,
+  "requiredMana": 202860,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 179,
+  "requiredGold": 511800,
+  "requiredMana": 204800,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 180,
+  "requiredGold": 518200,
+  "requiredMana": 206750,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 181,
+  "requiredGold": 524700,
+  "requiredMana": 208710,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 182,
+  "requiredGold": 531200,
+  "requiredMana": 210680,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 183,
+  "requiredGold": 537800,
+  "requiredMana": 212660,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 184,
+  "requiredGold": 544400,
+  "requiredMana": 214650,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 185,
+  "requiredGold": 551100,
+  "requiredMana": 216650,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 186,
+  "requiredGold": 557900,
+  "requiredMana": 218660,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 187,
+  "requiredGold": 564700,
+  "requiredMana": 220680,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 188,
+  "requiredGold": 571600,
+  "requiredMana": 222710,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 189,
+  "requiredGold": 578500,
+  "requiredMana": 224750,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 190,
+  "requiredGold": 585500,
+  "requiredMana": 226800,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 191,
+  "requiredGold": 592600,
+  "requiredMana": 228860,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 192,
+  "requiredGold": 599700,
+  "requiredMana": 230930,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 193,
+  "requiredGold": 606900,
+  "requiredMana": 233010,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 194,
+  "requiredGold": 614100,
+  "requiredMana": 235100,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 195,
+  "requiredGold": 621400,
+  "requiredMana": 237200,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 196,
+  "requiredGold": 628800,
+  "requiredMana": 239310,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 197,
+  "requiredGold": 636200,
+  "requiredMana": 241430,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 198,
+  "requiredGold": 643700,
+  "requiredMana": 243560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 199,
+  "requiredGold": 651300,
+  "requiredMana": 245700,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 4,
+  "level": 200,
+  "requiredGold": 0,
+  "requiredMana": 0,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 1,
+  "requiredGold": 9000,
+  "requiredMana": 5000,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 2,
+  "requiredGold": 10200,
+  "requiredMana": 5510,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 3,
+  "requiredGold": 11400,
+  "requiredMana": 6030,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 4,
+  "requiredGold": 12600,
+  "requiredMana": 6560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 5,
+  "requiredGold": 13800,
+  "requiredMana": 7090,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 6,
+  "requiredGold": 15000,
+  "requiredMana": 7630,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 7,
+  "requiredGold": 16200,
+  "requiredMana": 8180,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 8,
+  "requiredGold": 17400,
+  "requiredMana": 8730,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 9,
+  "requiredGold": 18600,
+  "requiredMana": 9290,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 10,
+  "requiredGold": 19800,
+  "requiredMana": 9860,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 11,
+  "requiredGold": 21000,
+  "requiredMana": 10440,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 12,
+  "requiredGold": 22200,
+  "requiredMana": 11020,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 13,
+  "requiredGold": 23400,
+  "requiredMana": 11610,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 14,
+  "requiredGold": 24600,
+  "requiredMana": 12210,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 15,
+  "requiredGold": 25800,
+  "requiredMana": 12810,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 16,
+  "requiredGold": 27100,
+  "requiredMana": 13420,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 17,
+  "requiredGold": 28400,
+  "requiredMana": 14040,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 18,
+  "requiredGold": 29700,
+  "requiredMana": 14670,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 19,
+  "requiredGold": 31000,
+  "requiredMana": 15300,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 20,
+  "requiredGold": 32300,
+  "requiredMana": 15940,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 21,
+  "requiredGold": 33600,
+  "requiredMana": 16590,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 22,
+  "requiredGold": 34900,
+  "requiredMana": 17250,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 23,
+  "requiredGold": 36200,
+  "requiredMana": 17910,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 24,
+  "requiredGold": 37500,
+  "requiredMana": 18580,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 25,
+  "requiredGold": 38900,
+  "requiredMana": 19260,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 26,
+  "requiredGold": 40300,
+  "requiredMana": 19950,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 27,
+  "requiredGold": 41700,
+  "requiredMana": 20640,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 28,
+  "requiredGold": 43100,
+  "requiredMana": 21340,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 29,
+  "requiredGold": 44500,
+  "requiredMana": 22050,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 30,
+  "requiredGold": 45900,
+  "requiredMana": 22770,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 31,
+  "requiredGold": 47300,
+  "requiredMana": 23490,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 32,
+  "requiredGold": 48800,
+  "requiredMana": 24220,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 33,
+  "requiredGold": 50300,
+  "requiredMana": 24960,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 34,
+  "requiredGold": 51800,
+  "requiredMana": 25710,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 35,
+  "requiredGold": 53300,
+  "requiredMana": 26460,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 36,
+  "requiredGold": 54800,
+  "requiredMana": 27220,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 37,
+  "requiredGold": 56400,
+  "requiredMana": 27990,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 38,
+  "requiredGold": 58000,
+  "requiredMana": 28770,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 39,
+  "requiredGold": 59600,
+  "requiredMana": 29560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 40,
+  "requiredGold": 61200,
+  "requiredMana": 30350,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 41,
+  "requiredGold": 62800,
+  "requiredMana": 31150,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 42,
+  "requiredGold": 64500,
+  "requiredMana": 31960,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 43,
+  "requiredGold": 66200,
+  "requiredMana": 32780,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 44,
+  "requiredGold": 67900,
+  "requiredMana": 33600,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 45,
+  "requiredGold": 69600,
+  "requiredMana": 34430,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 46,
+  "requiredGold": 71300,
+  "requiredMana": 35270,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 47,
+  "requiredGold": 73100,
+  "requiredMana": 36120,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 48,
+  "requiredGold": 74900,
+  "requiredMana": 36980,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 49,
+  "requiredGold": 76700,
+  "requiredMana": 37840,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 50,
+  "requiredGold": 78500,
+  "requiredMana": 38710,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 51,
+  "requiredGold": 80300,
+  "requiredMana": 39590,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 52,
+  "requiredGold": 82200,
+  "requiredMana": 40480,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 53,
+  "requiredGold": 84100,
+  "requiredMana": 41380,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 54,
+  "requiredGold": 86000,
+  "requiredMana": 42280,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 55,
+  "requiredGold": 87900,
+  "requiredMana": 43190,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 56,
+  "requiredGold": 89900,
+  "requiredMana": 44110,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 57,
+  "requiredGold": 91900,
+  "requiredMana": 45040,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 58,
+  "requiredGold": 93900,
+  "requiredMana": 45980,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 59,
+  "requiredGold": 96000,
+  "requiredMana": 46920,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 60,
+  "requiredGold": 98100,
+  "requiredMana": 47870,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 61,
+  "requiredGold": 100200,
+  "requiredMana": 48830,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 62,
+  "requiredGold": 102300,
+  "requiredMana": 49800,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 63,
+  "requiredGold": 104500,
+  "requiredMana": 50780,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 64,
+  "requiredGold": 106700,
+  "requiredMana": 51770,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 65,
+  "requiredGold": 108900,
+  "requiredMana": 52760,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 66,
+  "requiredGold": 111200,
+  "requiredMana": 53760,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 67,
+  "requiredGold": 113500,
+  "requiredMana": 54770,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 68,
+  "requiredGold": 115800,
+  "requiredMana": 55790,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 69,
+  "requiredGold": 118100,
+  "requiredMana": 56820,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 70,
+  "requiredGold": 120500,
+  "requiredMana": 57860,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 71,
+  "requiredGold": 122900,
+  "requiredMana": 58900,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 72,
+  "requiredGold": 125300,
+  "requiredMana": 59950,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 73,
+  "requiredGold": 127800,
+  "requiredMana": 61010,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 74,
+  "requiredGold": 130300,
+  "requiredMana": 62080,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 75,
+  "requiredGold": 132800,
+  "requiredMana": 63160,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 76,
+  "requiredGold": 135400,
+  "requiredMana": 64250,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 77,
+  "requiredGold": 138000,
+  "requiredMana": 65340,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 78,
+  "requiredGold": 140600,
+  "requiredMana": 66440,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 79,
+  "requiredGold": 143300,
+  "requiredMana": 67550,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 80,
+  "requiredGold": 146000,
+  "requiredMana": 68670,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 81,
+  "requiredGold": 148700,
+  "requiredMana": 69800,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 82,
+  "requiredGold": 151500,
+  "requiredMana": 70940,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 83,
+  "requiredGold": 154300,
+  "requiredMana": 72090,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 84,
+  "requiredGold": 157200,
+  "requiredMana": 73240,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 85,
+  "requiredGold": 160100,
+  "requiredMana": 74400,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 86,
+  "requiredGold": 163000,
+  "requiredMana": 75570,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 87,
+  "requiredGold": 166000,
+  "requiredMana": 76750,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 88,
+  "requiredGold": 169000,
+  "requiredMana": 77940,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 89,
+  "requiredGold": 172100,
+  "requiredMana": 79140,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 90,
+  "requiredGold": 175200,
+  "requiredMana": 80350,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 91,
+  "requiredGold": 178300,
+  "requiredMana": 81570,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 92,
+  "requiredGold": 181500,
+  "requiredMana": 82790,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 93,
+  "requiredGold": 184700,
+  "requiredMana": 84020,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 94,
+  "requiredGold": 188000,
+  "requiredMana": 85260,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 95,
+  "requiredGold": 191300,
+  "requiredMana": 86510,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 96,
+  "requiredGold": 194600,
+  "requiredMana": 87770,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 97,
+  "requiredGold": 198000,
+  "requiredMana": 89040,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 98,
+  "requiredGold": 201400,
+  "requiredMana": 90320,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 99,
+  "requiredGold": 204900,
+  "requiredMana": 91610,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 100,
+  "requiredGold": 208400,
+  "requiredMana": 92910,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 101,
+  "requiredGold": 211900,
+  "requiredMana": 94210,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 102,
+  "requiredGold": 215500,
+  "requiredMana": 95520,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 103,
+  "requiredGold": 219100,
+  "requiredMana": 96840,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 104,
+  "requiredGold": 222800,
+  "requiredMana": 98170,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 105,
+  "requiredGold": 226500,
+  "requiredMana": 99510,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 106,
+  "requiredGold": 230300,
+  "requiredMana": 100860,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 107,
+  "requiredGold": 234100,
+  "requiredMana": 102220,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 108,
+  "requiredGold": 238000,
+  "requiredMana": 103590,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 109,
+  "requiredGold": 241900,
+  "requiredMana": 104970,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 110,
+  "requiredGold": 245900,
+  "requiredMana": 106360,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 111,
+  "requiredGold": 249900,
+  "requiredMana": 107760,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 112,
+  "requiredGold": 254000,
+  "requiredMana": 109170,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 113,
+  "requiredGold": 258100,
+  "requiredMana": 110580,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 114,
+  "requiredGold": 262300,
+  "requiredMana": 112000,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 115,
+  "requiredGold": 266500,
+  "requiredMana": 113430,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 116,
+  "requiredGold": 270800,
+  "requiredMana": 114870,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 117,
+  "requiredGold": 275100,
+  "requiredMana": 116320,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 118,
+  "requiredGold": 279500,
+  "requiredMana": 117780,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 119,
+  "requiredGold": 283900,
+  "requiredMana": 119250,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 120,
+  "requiredGold": 288400,
+  "requiredMana": 120730,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 121,
+  "requiredGold": 292900,
+  "requiredMana": 122220,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 122,
+  "requiredGold": 297500,
+  "requiredMana": 123720,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 123,
+  "requiredGold": 302100,
+  "requiredMana": 125230,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 124,
+  "requiredGold": 306800,
+  "requiredMana": 126750,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 125,
+  "requiredGold": 311500,
+  "requiredMana": 128280,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 126,
+  "requiredGold": 316300,
+  "requiredMana": 129820,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 127,
+  "requiredGold": 321100,
+  "requiredMana": 131370,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 128,
+  "requiredGold": 326000,
+  "requiredMana": 132930,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 129,
+  "requiredGold": 330900,
+  "requiredMana": 134490,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 130,
+  "requiredGold": 335900,
+  "requiredMana": 136060,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 131,
+  "requiredGold": 340900,
+  "requiredMana": 137640,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 132,
+  "requiredGold": 346000,
+  "requiredMana": 139230,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 133,
+  "requiredGold": 351200,
+  "requiredMana": 140830,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 134,
+  "requiredGold": 356400,
+  "requiredMana": 142440,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 135,
+  "requiredGold": 361700,
+  "requiredMana": 144060,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 136,
+  "requiredGold": 367000,
+  "requiredMana": 145690,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 137,
+  "requiredGold": 372400,
+  "requiredMana": 147330,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 138,
+  "requiredGold": 377900,
+  "requiredMana": 148980,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 139,
+  "requiredGold": 383400,
+  "requiredMana": 150640,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 140,
+  "requiredGold": 389000,
+  "requiredMana": 152310,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 141,
+  "requiredGold": 394600,
+  "requiredMana": 153990,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 142,
+  "requiredGold": 400300,
+  "requiredMana": 155680,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 143,
+  "requiredGold": 406100,
+  "requiredMana": 157380,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 144,
+  "requiredGold": 411900,
+  "requiredMana": 159090,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 145,
+  "requiredGold": 417800,
+  "requiredMana": 160810,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 146,
+  "requiredGold": 423700,
+  "requiredMana": 162540,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 147,
+  "requiredGold": 429700,
+  "requiredMana": 164280,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 148,
+  "requiredGold": 435800,
+  "requiredMana": 166030,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 149,
+  "requiredGold": 441900,
+  "requiredMana": 167790,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 150,
+  "requiredGold": 448100,
+  "requiredMana": 169560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 151,
+  "requiredGold": 454300,
+  "requiredMana": 171340,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 152,
+  "requiredGold": 460600,
+  "requiredMana": 173130,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 153,
+  "requiredGold": 467000,
+  "requiredMana": 174930,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 154,
+  "requiredGold": 473400,
+  "requiredMana": 176740,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 155,
+  "requiredGold": 479900,
+  "requiredMana": 178560,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 156,
+  "requiredGold": 486500,
+  "requiredMana": 180390,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 157,
+  "requiredGold": 493100,
+  "requiredMana": 182230,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 158,
+  "requiredGold": 499800,
+  "requiredMana": 184080,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 159,
+  "requiredGold": 506600,
+  "requiredMana": 185940,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 160,
+  "requiredGold": 513400,
+  "requiredMana": 187810,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 161,
+  "requiredGold": 520300,
+  "requiredMana": 189690,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 162,
+  "requiredGold": 527300,
+  "requiredMana": 191580,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 163,
+  "requiredGold": 534300,
+  "requiredMana": 193480,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 164,
+  "requiredGold": 541400,
+  "requiredMana": 195390,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 165,
+  "requiredGold": 548600,
+  "requiredMana": 197310,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 166,
+  "requiredGold": 555900,
+  "requiredMana": 199240,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 167,
+  "requiredGold": 563200,
+  "requiredMana": 201180,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 168,
+  "requiredGold": 570600,
+  "requiredMana": 203130,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 169,
+  "requiredGold": 578100,
+  "requiredMana": 205090,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 170,
+  "requiredGold": 585600,
+  "requiredMana": 207060,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 171,
+  "requiredGold": 593200,
+  "requiredMana": 209040,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 172,
+  "requiredGold": 600900,
+  "requiredMana": 211030,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 173,
+  "requiredGold": 608700,
+  "requiredMana": 213030,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 174,
+  "requiredGold": 616500,
+  "requiredMana": 215050,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 175,
+  "requiredGold": 624400,
+  "requiredMana": 217080,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 176,
+  "requiredGold": 632400,
+  "requiredMana": 219120,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 177,
+  "requiredGold": 640400,
+  "requiredMana": 221170,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 178,
+  "requiredGold": 648500,
+  "requiredMana": 223230,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 179,
+  "requiredGold": 656700,
+  "requiredMana": 225300,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 180,
+  "requiredGold": 665000,
+  "requiredMana": 227380,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 181,
+  "requiredGold": 673300,
+  "requiredMana": 229470,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 182,
+  "requiredGold": 681700,
+  "requiredMana": 231570,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 183,
+  "requiredGold": 690200,
+  "requiredMana": 233680,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 184,
+  "requiredGold": 698800,
+  "requiredMana": 235800,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 185,
+  "requiredGold": 707500,
+  "requiredMana": 237930,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 186,
+  "requiredGold": 716200,
+  "requiredMana": 240070,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 187,
+  "requiredGold": 725000,
+  "requiredMana": 242220,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 188,
+  "requiredGold": 733900,
+  "requiredMana": 244380,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 189,
+  "requiredGold": 742900,
+  "requiredMana": 246550,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 190,
+  "requiredGold": 752000,
+  "requiredMana": 248740,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 191,
+  "requiredGold": 761100,
+  "requiredMana": 250940,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 192,
+  "requiredGold": 770300,
+  "requiredMana": 253150,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 193,
+  "requiredGold": 779600,
+  "requiredMana": 255370,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 194,
+  "requiredGold": 789000,
+  "requiredMana": 257600,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 195,
+  "requiredGold": 798500,
+  "requiredMana": 259840,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 196,
+  "requiredGold": 808000,
+  "requiredMana": 262090,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 197,
+  "requiredGold": 817600,
+  "requiredMana": 264350,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 198,
+  "requiredGold": 827300,
+  "requiredMana": 266620,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 199,
+  "requiredGold": 837100,
+  "requiredMana": 268900,
+  "requiredLunaStone": 0
+ },
+ {
+  "rarity": 5,
+  "level": 200,
+  "requiredGold": 0,
+  "requiredMana": 0,
+  "requiredLunaStone": 0
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "guildDonationRewardGroupMstId": 1,
+  "groupId": 1,
+  "sortOrder": 1,
+  "objectReceiveType": 23,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "guildDonationRewardGroupMstId": 2,
+  "groupId": 1,
+  "sortOrder": 2,
+  "objectReceiveType": 6,
+  "objectId": 3030006,
+  "num": 100
+ },
+ {
+  "guildDonationRewardGroupMstId": 3,
+  "groupId": 2,
+  "sortOrder": 1,
+  "objectReceiveType": 23,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "guildDonationRewardGroupMstId": 4,
+  "groupId": 2,
+  "sortOrder": 2,
+  "objectReceiveType": 6,
+  "objectId": 3030006,
+  "num": 10
+ }
+]

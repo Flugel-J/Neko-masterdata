@@ -1,0 +1,902 @@
+[
+ {
+  "cardLevelUpGroupMstId": 1,
+  "level": 1,
+  "exp": 500,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 1,
+  "level": 2,
+  "exp": 1021,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 1,
+  "level": 3,
+  "exp": 1554,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 1,
+  "level": 4,
+  "exp": 2101,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 1,
+  "level": 5,
+  "exp": 2664,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 1,
+  "level": 6,
+  "exp": 3243,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 1,
+  "level": 7,
+  "exp": 3840,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 1,
+  "level": 8,
+  "exp": 4457,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 1,
+  "level": 9,
+  "exp": 5095,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 1,
+  "level": 10,
+  "exp": 0,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 1,
+  "exp": 510,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 2,
+  "exp": 1031,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 3,
+  "exp": 1564,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 4,
+  "exp": 2111,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 5,
+  "exp": 2674,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 6,
+  "exp": 3253,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 7,
+  "exp": 3850,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 8,
+  "exp": 4467,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 9,
+  "exp": 5105,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 10,
+  "exp": 5765,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 11,
+  "exp": 6448,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 12,
+  "exp": 7157,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 13,
+  "exp": 7892,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 14,
+  "exp": 8656,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 15,
+  "exp": 9448,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 16,
+  "exp": 10271,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 17,
+  "exp": 11127,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 18,
+  "exp": 12015,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 19,
+  "exp": 12939,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 2,
+  "level": 20,
+  "exp": 0,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 1,
+  "exp": 510,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 2,
+  "exp": 1031,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 3,
+  "exp": 1564,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 4,
+  "exp": 2111,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 5,
+  "exp": 2674,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 6,
+  "exp": 3253,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 7,
+  "exp": 3850,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 8,
+  "exp": 4467,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 9,
+  "exp": 5105,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 10,
+  "exp": 5765,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 11,
+  "exp": 6448,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 12,
+  "exp": 7157,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 13,
+  "exp": 7892,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 14,
+  "exp": 8656,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 15,
+  "exp": 9448,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 16,
+  "exp": 10271,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 17,
+  "exp": 11127,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 18,
+  "exp": 12015,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 19,
+  "exp": 12939,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 20,
+  "exp": 13899,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 21,
+  "exp": 14897,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 22,
+  "exp": 15934,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 23,
+  "exp": 17011,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 24,
+  "exp": 18130,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 25,
+  "exp": 19293,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 26,
+  "exp": 20500,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 27,
+  "exp": 21753,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 28,
+  "exp": 23054,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 29,
+  "exp": 24404,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 3,
+  "level": 30,
+  "exp": 0,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 1,
+  "exp": 510,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 2,
+  "exp": 1031,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 3,
+  "exp": 1564,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 4,
+  "exp": 2111,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 5,
+  "exp": 2674,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 6,
+  "exp": 3253,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 7,
+  "exp": 3850,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 8,
+  "exp": 4467,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 9,
+  "exp": 5105,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 10,
+  "exp": 5765,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 11,
+  "exp": 6448,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 12,
+  "exp": 7157,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 13,
+  "exp": 7892,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 14,
+  "exp": 8656,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 15,
+  "exp": 9448,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 16,
+  "exp": 10271,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 17,
+  "exp": 11127,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 18,
+  "exp": 12015,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 19,
+  "exp": 12939,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 20,
+  "exp": 13899,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 21,
+  "exp": 14897,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 22,
+  "exp": 15934,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 23,
+  "exp": 17011,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 24,
+  "exp": 18130,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 25,
+  "exp": 19293,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 26,
+  "exp": 20500,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 27,
+  "exp": 21753,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 28,
+  "exp": 23054,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 29,
+  "exp": 24404,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 30,
+  "exp": 25804,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 31,
+  "exp": 27255,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 32,
+  "exp": 28760,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 33,
+  "exp": 30319,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 34,
+  "exp": 31935,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 35,
+  "exp": 33607,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 36,
+  "exp": 35338,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 37,
+  "exp": 37130,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 38,
+  "exp": 38982,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 39,
+  "exp": 40898,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 4,
+  "level": 40,
+  "exp": 0,
+  "bonusEffectCount": 4
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 1,
+  "exp": 500,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 2,
+  "exp": 1021,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 3,
+  "exp": 1554,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 4,
+  "exp": 2101,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 5,
+  "exp": 2664,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 6,
+  "exp": 3243,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 7,
+  "exp": 3840,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 8,
+  "exp": 4457,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 9,
+  "exp": 5095,
+  "bonusEffectCount": 0
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 10,
+  "exp": 5755,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 11,
+  "exp": 6439,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 12,
+  "exp": 7147,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 13,
+  "exp": 7883,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 14,
+  "exp": 8646,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 15,
+  "exp": 9438,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 16,
+  "exp": 10262,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 17,
+  "exp": 11117,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 18,
+  "exp": 12006,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 19,
+  "exp": 12929,
+  "bonusEffectCount": 1
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 20,
+  "exp": 13889,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 21,
+  "exp": 14887,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 22,
+  "exp": 15924,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 23,
+  "exp": 17001,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 24,
+  "exp": 18120,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 25,
+  "exp": 19283,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 26,
+  "exp": 20490,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 27,
+  "exp": 21743,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 28,
+  "exp": 23044,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 29,
+  "exp": 24394,
+  "bonusEffectCount": 2
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 30,
+  "exp": 25794,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 31,
+  "exp": 27246,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 32,
+  "exp": 28750,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 33,
+  "exp": 30310,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 34,
+  "exp": 31925,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 35,
+  "exp": 33597,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 36,
+  "exp": 35329,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 37,
+  "exp": 37120,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 38,
+  "exp": 38973,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 39,
+  "exp": 40888,
+  "bonusEffectCount": 3
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 40,
+  "exp": 42868,
+  "bonusEffectCount": 4
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 41,
+  "exp": 44914,
+  "bonusEffectCount": 4
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 42,
+  "exp": 47027,
+  "bonusEffectCount": 4
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 43,
+  "exp": 49208,
+  "bonusEffectCount": 4
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 44,
+  "exp": 51459,
+  "bonusEffectCount": 4
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 45,
+  "exp": 53782,
+  "bonusEffectCount": 4
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 46,
+  "exp": 56177,
+  "bonusEffectCount": 4
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 47,
+  "exp": 58646,
+  "bonusEffectCount": 4
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 48,
+  "exp": 61191,
+  "bonusEffectCount": 4
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 49,
+  "exp": 63813,
+  "bonusEffectCount": 4
+ },
+ {
+  "cardLevelUpGroupMstId": 5,
+  "level": 50,
+  "exp": 0,
+  "bonusEffectCount": 5
+ }
+]

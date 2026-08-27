@@ -1,0 +1,834 @@
+[
+ {
+  "vipContentsMstId": 101,
+  "vipRank": 1,
+  "name": "Nekos Status:+1%",
+  "contentsType": 16,
+  "contentsValue": 1,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 102,
+  "vipRank": 1,
+  "name": "Main Quest: Coins Earned +1%",
+  "contentsType": 21,
+  "contentsValue": 1,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 103,
+  "vipRank": 1,
+  "name": "Main Quest: Player EXP +1%",
+  "contentsType": 22,
+  "contentsValue": 1,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 201,
+  "vipRank": 2,
+  "name": "Nekos Status:+2%",
+  "contentsType": 16,
+  "contentsValue": 2,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 202,
+  "vipRank": 2,
+  "name": "Main Quest: Coins Earned +2%",
+  "contentsType": 21,
+  "contentsValue": 2,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 203,
+  "vipRank": 2,
+  "name": "Main Quest: Player EXP +2%",
+  "contentsType": 22,
+  "contentsValue": 2,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 301,
+  "vipRank": 3,
+  "name": "Nekos Status:+3%",
+  "contentsType": 16,
+  "contentsValue": 3,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 302,
+  "vipRank": 3,
+  "name": "Main Quest: Coins Earned +3%",
+  "contentsType": 21,
+  "contentsValue": 3,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 303,
+  "vipRank": 3,
+  "name": "Main Quest: Player EXP +3%",
+  "contentsType": 22,
+  "contentsValue": 3,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 304,
+  "vipRank": 3,
+  "name": "Auto Advance: Function Unlocked",
+  "contentsType": 27,
+  "contentsValue": 1,
+  "sortOrder": 4
+ },
+ {
+  "vipContentsMstId": 305,
+  "vipRank": 3,
+  "name": "Tower: Skip Clears +1",
+  "contentsType": 25,
+  "contentsValue": 1,
+  "sortOrder": 5
+ },
+ {
+  "vipContentsMstId": 401,
+  "vipRank": 4,
+  "name": "Nekos Status:+4%",
+  "contentsType": 16,
+  "contentsValue": 4,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 402,
+  "vipRank": 4,
+  "name": "Main Quest: Coins Earned +4%",
+  "contentsType": 21,
+  "contentsValue": 4,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 403,
+  "vipRank": 4,
+  "name": "Main Quest: Player EXP +4%",
+  "contentsType": 22,
+  "contentsValue": 4,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 404,
+  "vipRank": 4,
+  "name": "Auto Advance: Function Unlocked",
+  "contentsType": 27,
+  "contentsValue": 1,
+  "sortOrder": 4
+ },
+ {
+  "vipContentsMstId": 405,
+  "vipRank": 4,
+  "name": "Tower: Skip Clears +1",
+  "contentsType": 25,
+  "contentsValue": 1,
+  "sortOrder": 5
+ },
+ {
+  "vipContentsMstId": 501,
+  "vipRank": 5,
+  "name": "Nekos Status:+5%",
+  "contentsType": 16,
+  "contentsValue": 5,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 502,
+  "vipRank": 5,
+  "name": "Main Quest: Coins Earned +5%",
+  "contentsType": 21,
+  "contentsValue": 5,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 503,
+  "vipRank": 5,
+  "name": "Main Quest: Player EXP +5%",
+  "contentsType": 22,
+  "contentsValue": 5,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 504,
+  "vipRank": 5,
+  "name": "Auto Advance: Function Unlocked",
+  "contentsType": 27,
+  "contentsValue": 1,
+  "sortOrder": 4
+ },
+ {
+  "vipContentsMstId": 505,
+  "vipRank": 5,
+  "name": "Tower: Skip Clears +1",
+  "contentsType": 25,
+  "contentsValue": 1,
+  "sortOrder": 5
+ },
+ {
+  "vipContentsMstId": 506,
+  "vipRank": 5,
+  "name": "Sales Rewards: Max Time +5 Hours",
+  "contentsType": 23,
+  "contentsValue": 18000,
+  "sortOrder": 7
+ },
+ {
+  "vipContentsMstId": 507,
+  "vipRank": 5,
+  "name": "Missed Login Bonus Claims +1",
+  "contentsType": 20,
+  "contentsValue": 1,
+  "sortOrder": 8
+ },
+ {
+  "vipContentsMstId": 508,
+  "vipRank": 5,
+  "name": "Mystery House: Attempts +1",
+  "contentsType": 26,
+  "contentsValue": 1,
+  "sortOrder": 6
+ },
+ {
+  "vipContentsMstId": 601,
+  "vipRank": 6,
+  "name": "Nekos Status:+6%",
+  "contentsType": 16,
+  "contentsValue": 6,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 602,
+  "vipRank": 6,
+  "name": "Main Quest: Coins Earned +6%",
+  "contentsType": 21,
+  "contentsValue": 6,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 603,
+  "vipRank": 6,
+  "name": "Main Quest: Player EXP +6%",
+  "contentsType": 22,
+  "contentsValue": 6,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 604,
+  "vipRank": 6,
+  "name": "Auto Advance: Function Unlocked",
+  "contentsType": 27,
+  "contentsValue": 1,
+  "sortOrder": 4
+ },
+ {
+  "vipContentsMstId": 605,
+  "vipRank": 6,
+  "name": "Tower: Skip Clears +2",
+  "contentsType": 25,
+  "contentsValue": 2,
+  "sortOrder": 5
+ },
+ {
+  "vipContentsMstId": 606,
+  "vipRank": 6,
+  "name": "Sales Rewards: Max Time +5 Hours",
+  "contentsType": 23,
+  "contentsValue": 18000,
+  "sortOrder": 7
+ },
+ {
+  "vipContentsMstId": 607,
+  "vipRank": 6,
+  "name": "Missed Login Bonus Claims +1",
+  "contentsType": 20,
+  "contentsValue": 1,
+  "sortOrder": 8
+ },
+ {
+  "vipContentsMstId": 608,
+  "vipRank": 6,
+  "name": "Mystery House: Attempts +1",
+  "contentsType": 26,
+  "contentsValue": 1,
+  "sortOrder": 6
+ },
+ {
+  "vipContentsMstId": 701,
+  "vipRank": 7,
+  "name": "Nekos Status:+7%",
+  "contentsType": 16,
+  "contentsValue": 7,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 702,
+  "vipRank": 7,
+  "name": "Main Quest: Coins Earned +7%",
+  "contentsType": 21,
+  "contentsValue": 7,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 703,
+  "vipRank": 7,
+  "name": "Main Quest: Player EXP +7%",
+  "contentsType": 22,
+  "contentsValue": 7,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 704,
+  "vipRank": 7,
+  "name": "Auto Advance: Function Unlocked",
+  "contentsType": 27,
+  "contentsValue": 1,
+  "sortOrder": 4
+ },
+ {
+  "vipContentsMstId": 705,
+  "vipRank": 7,
+  "name": "Tower: Skip Clears +2",
+  "contentsType": 25,
+  "contentsValue": 2,
+  "sortOrder": 5
+ },
+ {
+  "vipContentsMstId": 706,
+  "vipRank": 7,
+  "name": "Sales Rewards: Max Time +5 Hours",
+  "contentsType": 23,
+  "contentsValue": 18000,
+  "sortOrder": 7
+ },
+ {
+  "vipContentsMstId": 707,
+  "vipRank": 7,
+  "name": "Missed Login Bonus Claims +1",
+  "contentsType": 20,
+  "contentsValue": 1,
+  "sortOrder": 8
+ },
+ {
+  "vipContentsMstId": 708,
+  "vipRank": 7,
+  "name": "Mystery House: Attempts +1",
+  "contentsType": 26,
+  "contentsValue": 1,
+  "sortOrder": 6
+ },
+ {
+  "vipContentsMstId": 801,
+  "vipRank": 8,
+  "name": "Nekos Status:+8%",
+  "contentsType": 16,
+  "contentsValue": 8,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 802,
+  "vipRank": 8,
+  "name": "Main Quest: Coins Earned +8%",
+  "contentsType": 21,
+  "contentsValue": 8,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 803,
+  "vipRank": 8,
+  "name": "Main Quest: Player EXP +8%",
+  "contentsType": 22,
+  "contentsValue": 8,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 804,
+  "vipRank": 8,
+  "name": "Auto Advance: Function Unlocked",
+  "contentsType": 27,
+  "contentsValue": 1,
+  "sortOrder": 4
+ },
+ {
+  "vipContentsMstId": 805,
+  "vipRank": 8,
+  "name": "Tower: Skip Clears +2",
+  "contentsType": 25,
+  "contentsValue": 2,
+  "sortOrder": 5
+ },
+ {
+  "vipContentsMstId": 806,
+  "vipRank": 8,
+  "name": "Sales Rewards: Max Time +5 Hours",
+  "contentsType": 23,
+  "contentsValue": 18000,
+  "sortOrder": 7
+ },
+ {
+  "vipContentsMstId": 807,
+  "vipRank": 8,
+  "name": "Missed Login Bonus Claims +1",
+  "contentsType": 20,
+  "contentsValue": 1,
+  "sortOrder": 8
+ },
+ {
+  "vipContentsMstId": 808,
+  "vipRank": 8,
+  "name": "Mystery House: Attempts +2",
+  "contentsType": 26,
+  "contentsValue": 2,
+  "sortOrder": 6
+ },
+ {
+  "vipContentsMstId": 901,
+  "vipRank": 9,
+  "name": "Nekos Status:+9%",
+  "contentsType": 16,
+  "contentsValue": 9,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 902,
+  "vipRank": 9,
+  "name": "Main Quest: Coins Earned +9%",
+  "contentsType": 21,
+  "contentsValue": 9,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 903,
+  "vipRank": 9,
+  "name": "Main Quest: Player EXP +9%",
+  "contentsType": 22,
+  "contentsValue": 9,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 904,
+  "vipRank": 9,
+  "name": "Auto Advance: Function Unlocked",
+  "contentsType": 27,
+  "contentsValue": 1,
+  "sortOrder": 4
+ },
+ {
+  "vipContentsMstId": 905,
+  "vipRank": 9,
+  "name": "Tower: Skip Clears +2",
+  "contentsType": 25,
+  "contentsValue": 2,
+  "sortOrder": 5
+ },
+ {
+  "vipContentsMstId": 906,
+  "vipRank": 9,
+  "name": "Sales Rewards: Max Time +5 Hours",
+  "contentsType": 23,
+  "contentsValue": 18000,
+  "sortOrder": 7
+ },
+ {
+  "vipContentsMstId": 907,
+  "vipRank": 9,
+  "name": "Missed Login Bonus Claims +1",
+  "contentsType": 20,
+  "contentsValue": 1,
+  "sortOrder": 8
+ },
+ {
+  "vipContentsMstId": 908,
+  "vipRank": 9,
+  "name": "Mystery House: Attempts +2",
+  "contentsType": 26,
+  "contentsValue": 2,
+  "sortOrder": 6
+ },
+ {
+  "vipContentsMstId": 1001,
+  "vipRank": 10,
+  "name": "Nekos Status:+10%",
+  "contentsType": 16,
+  "contentsValue": 10,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 1002,
+  "vipRank": 10,
+  "name": "Main Quest: Coins Earned +10%",
+  "contentsType": 21,
+  "contentsValue": 10,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 1003,
+  "vipRank": 10,
+  "name": "Main Quest: Player EXP +10%",
+  "contentsType": 22,
+  "contentsValue": 10,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 1004,
+  "vipRank": 10,
+  "name": "Auto Advance: Function Unlocked",
+  "contentsType": 27,
+  "contentsValue": 1,
+  "sortOrder": 4
+ },
+ {
+  "vipContentsMstId": 1005,
+  "vipRank": 10,
+  "name": "Tower: Skip Clears +2",
+  "contentsType": 25,
+  "contentsValue": 2,
+  "sortOrder": 5
+ },
+ {
+  "vipContentsMstId": 1006,
+  "vipRank": 10,
+  "name": "Sales Rewards: Max Time +10 Hours",
+  "contentsType": 23,
+  "contentsValue": 36000,
+  "sortOrder": 7
+ },
+ {
+  "vipContentsMstId": 1007,
+  "vipRank": 10,
+  "name": "Missed Login Bonus Claims +2",
+  "contentsType": 20,
+  "contentsValue": 2,
+  "sortOrder": 8
+ },
+ {
+  "vipContentsMstId": 1008,
+  "vipRank": 10,
+  "name": "Mystery House: Attempts +2",
+  "contentsType": 26,
+  "contentsValue": 2,
+  "sortOrder": 6
+ },
+ {
+  "vipContentsMstId": 1101,
+  "vipRank": 11,
+  "name": "Nekos Status:+12%",
+  "contentsType": 16,
+  "contentsValue": 12,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 1102,
+  "vipRank": 11,
+  "name": "Main Quest: Coins Earned +12%",
+  "contentsType": 21,
+  "contentsValue": 12,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 1103,
+  "vipRank": 11,
+  "name": "Main Quest: Player EXP +12%",
+  "contentsType": 22,
+  "contentsValue": 12,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 1104,
+  "vipRank": 11,
+  "name": "Auto Advance: Function Unlocked",
+  "contentsType": 27,
+  "contentsValue": 1,
+  "sortOrder": 4
+ },
+ {
+  "vipContentsMstId": 1105,
+  "vipRank": 11,
+  "name": "Tower: Skip Clears +2",
+  "contentsType": 25,
+  "contentsValue": 2,
+  "sortOrder": 5
+ },
+ {
+  "vipContentsMstId": 1106,
+  "vipRank": 11,
+  "name": "Sales Rewards: Max Time +10 Hours",
+  "contentsType": 23,
+  "contentsValue": 36000,
+  "sortOrder": 7
+ },
+ {
+  "vipContentsMstId": 1107,
+  "vipRank": 11,
+  "name": "Missed Login Bonus Claims +2",
+  "contentsType": 20,
+  "contentsValue": 2,
+  "sortOrder": 8
+ },
+ {
+  "vipContentsMstId": 1108,
+  "vipRank": 11,
+  "name": "Mystery House: Attempts +2",
+  "contentsType": 26,
+  "contentsValue": 2,
+  "sortOrder": 6
+ },
+ {
+  "vipContentsMstId": 1201,
+  "vipRank": 12,
+  "name": "Nekos Status:+14%",
+  "contentsType": 16,
+  "contentsValue": 14,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 1202,
+  "vipRank": 12,
+  "name": "Main Quest: Coins Earned +14%",
+  "contentsType": 21,
+  "contentsValue": 14,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 1203,
+  "vipRank": 12,
+  "name": "Main Quest: Player EXP +14%",
+  "contentsType": 22,
+  "contentsValue": 14,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 1204,
+  "vipRank": 12,
+  "name": "Auto Advance: Function Unlocked",
+  "contentsType": 27,
+  "contentsValue": 1,
+  "sortOrder": 4
+ },
+ {
+  "vipContentsMstId": 1205,
+  "vipRank": 12,
+  "name": "Tower: Skip Clears +2",
+  "contentsType": 25,
+  "contentsValue": 2,
+  "sortOrder": 5
+ },
+ {
+  "vipContentsMstId": 1206,
+  "vipRank": 12,
+  "name": "Sales Rewards: Max Time +10 Hours",
+  "contentsType": 23,
+  "contentsValue": 36000,
+  "sortOrder": 7
+ },
+ {
+  "vipContentsMstId": 1207,
+  "vipRank": 12,
+  "name": "Missed Login Bonus Claims +2",
+  "contentsType": 20,
+  "contentsValue": 2,
+  "sortOrder": 8
+ },
+ {
+  "vipContentsMstId": 1208,
+  "vipRank": 12,
+  "name": "Mystery House: Attempts +2",
+  "contentsType": 26,
+  "contentsValue": 2,
+  "sortOrder": 6
+ },
+ {
+  "vipContentsMstId": 1301,
+  "vipRank": 13,
+  "name": "Nekos Status:+16%",
+  "contentsType": 16,
+  "contentsValue": 16,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 1302,
+  "vipRank": 13,
+  "name": "Main Quest: Coins Earned +16%",
+  "contentsType": 21,
+  "contentsValue": 16,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 1303,
+  "vipRank": 13,
+  "name": "Main Quest: Player EXP +16%",
+  "contentsType": 22,
+  "contentsValue": 16,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 1304,
+  "vipRank": 13,
+  "name": "Auto Advance: Function Unlocked",
+  "contentsType": 27,
+  "contentsValue": 1,
+  "sortOrder": 4
+ },
+ {
+  "vipContentsMstId": 1305,
+  "vipRank": 13,
+  "name": "Tower: Skip Clears +2",
+  "contentsType": 25,
+  "contentsValue": 2,
+  "sortOrder": 5
+ },
+ {
+  "vipContentsMstId": 1306,
+  "vipRank": 13,
+  "name": "Sales Rewards: Max Time +10 Hours",
+  "contentsType": 23,
+  "contentsValue": 36000,
+  "sortOrder": 7
+ },
+ {
+  "vipContentsMstId": 1307,
+  "vipRank": 13,
+  "name": "Missed Login Bonus Claims +2",
+  "contentsType": 20,
+  "contentsValue": 2,
+  "sortOrder": 8
+ },
+ {
+  "vipContentsMstId": 1308,
+  "vipRank": 13,
+  "name": "Mystery House: Attempts +2",
+  "contentsType": 26,
+  "contentsValue": 2,
+  "sortOrder": 6
+ },
+ {
+  "vipContentsMstId": 1401,
+  "vipRank": 14,
+  "name": "Nekos Status:+18%",
+  "contentsType": 16,
+  "contentsValue": 18,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 1402,
+  "vipRank": 14,
+  "name": "Main Quest: Coins Earned +18%",
+  "contentsType": 21,
+  "contentsValue": 18,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 1403,
+  "vipRank": 14,
+  "name": "Main Quest: Player EXP +18%",
+  "contentsType": 22,
+  "contentsValue": 18,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 1404,
+  "vipRank": 14,
+  "name": "Auto Advance: Function Unlocked",
+  "contentsType": 27,
+  "contentsValue": 1,
+  "sortOrder": 4
+ },
+ {
+  "vipContentsMstId": 1405,
+  "vipRank": 14,
+  "name": "Tower: Skip Clears +2",
+  "contentsType": 25,
+  "contentsValue": 2,
+  "sortOrder": 5
+ },
+ {
+  "vipContentsMstId": 1406,
+  "vipRank": 14,
+  "name": "Sales Rewards: Max Time +10 Hours",
+  "contentsType": 23,
+  "contentsValue": 36000,
+  "sortOrder": 7
+ },
+ {
+  "vipContentsMstId": 1407,
+  "vipRank": 14,
+  "name": "Missed Login Bonus Claims +2",
+  "contentsType": 20,
+  "contentsValue": 2,
+  "sortOrder": 8
+ },
+ {
+  "vipContentsMstId": 1408,
+  "vipRank": 14,
+  "name": "Mystery House: Attempts +2",
+  "contentsType": 26,
+  "contentsValue": 2,
+  "sortOrder": 6
+ },
+ {
+  "vipContentsMstId": 1501,
+  "vipRank": 15,
+  "name": "Nekos Status:+20%",
+  "contentsType": 16,
+  "contentsValue": 20,
+  "sortOrder": 1
+ },
+ {
+  "vipContentsMstId": 1502,
+  "vipRank": 15,
+  "name": "Main Quest: Coins Earned +20%",
+  "contentsType": 21,
+  "contentsValue": 20,
+  "sortOrder": 2
+ },
+ {
+  "vipContentsMstId": 1503,
+  "vipRank": 15,
+  "name": "Main Quest: Player EXP +20%",
+  "contentsType": 22,
+  "contentsValue": 20,
+  "sortOrder": 3
+ },
+ {
+  "vipContentsMstId": 1504,
+  "vipRank": 15,
+  "name": "Auto Advance: Function Unlocked",
+  "contentsType": 27,
+  "contentsValue": 1,
+  "sortOrder": 4
+ },
+ {
+  "vipContentsMstId": 1505,
+  "vipRank": 15,
+  "name": "Tower: Skip Clears +2",
+  "contentsType": 25,
+  "contentsValue": 2,
+  "sortOrder": 5
+ },
+ {
+  "vipContentsMstId": 1506,
+  "vipRank": 15,
+  "name": "Sales Rewards: Max Time +10 Hours",
+  "contentsType": 23,
+  "contentsValue": 36000,
+  "sortOrder": 7
+ },
+ {
+  "vipContentsMstId": 1507,
+  "vipRank": 15,
+  "name": "Missed Login Bonus Claims +2",
+  "contentsType": 20,
+  "contentsValue": 2,
+  "sortOrder": 8
+ },
+ {
+  "vipContentsMstId": 1508,
+  "vipRank": 15,
+  "name": "Mystery House: Attempts +2",
+  "contentsType": 26,
+  "contentsValue": 2,
+  "sortOrder": 6
+ }
+]

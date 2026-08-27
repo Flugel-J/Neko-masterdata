@@ -1,0 +1,172 @@
+[
+ {
+  "shopPaymentMissionMstId": 1001,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 1,
+  "targetValue": 100,
+  "shopPaymentMissionRewardGroupId": 1,
+  "description": "[Daily] Purchase 100 JPY or more",
+  "resetType": 1
+ },
+ {
+  "shopPaymentMissionMstId": 1002,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 1,
+  "targetValue": 300,
+  "shopPaymentMissionRewardGroupId": 2,
+  "description": "[Daily] Purchase 300 JPY or more",
+  "resetType": 1
+ },
+ {
+  "shopPaymentMissionMstId": 2001,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 2,
+  "targetValue": 160,
+  "shopPaymentMissionRewardGroupId": 3,
+  "description": "Purchase a total of 160 JPY or more",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 2002,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 2,
+  "targetValue": 960,
+  "shopPaymentMissionRewardGroupId": 4,
+  "description": "Purchase a total of 960 JPY or more",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 3001,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 3,
+  "targetValue": 1,
+  "shopPaymentMissionRewardGroupId": 3001,
+  "description": "Purchase for a total of 1 day",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 3002,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 3,
+  "targetValue": 2,
+  "shopPaymentMissionRewardGroupId": 3002,
+  "description": "Purchase for a total of 2 days",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 3003,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 3,
+  "targetValue": 3,
+  "shopPaymentMissionRewardGroupId": 5,
+  "description": "Complete purchases on a total of 3 days",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 3004,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 3,
+  "targetValue": 5,
+  "shopPaymentMissionRewardGroupId": 5,
+  "description": "Make a purchase on 5 different days.",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 3005,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 3,
+  "targetValue": 7,
+  "shopPaymentMissionRewardGroupId": 5,
+  "description": "Purchase for a total of 7 days",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 3006,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 3,
+  "targetValue": 14,
+  "shopPaymentMissionRewardGroupId": 5,
+  "description": "Purchase for a total of 14 days",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 3007,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 3,
+  "targetValue": 30,
+  "shopPaymentMissionRewardGroupId": 5,
+  "description": "Purchase for a total of 30 days",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 3008,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 3,
+  "targetValue": 50,
+  "shopPaymentMissionRewardGroupId": 5,
+  "description": "Purchase for a total of 50 days",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 3009,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 3,
+  "targetValue": 100,
+  "shopPaymentMissionRewardGroupId": 5,
+  "description": "Purchase for a total of 100 days",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 3010,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 3,
+  "targetValue": 150,
+  "shopPaymentMissionRewardGroupId": 5,
+  "description": "Purchase for a total of 150 days",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 3011,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 3,
+  "targetValue": 200,
+  "shopPaymentMissionRewardGroupId": 5,
+  "description": "Purchase for a total of 200 days",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 3012,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 3,
+  "targetValue": 300,
+  "shopPaymentMissionRewardGroupId": 5,
+  "description": "Purchase for a total of 300 days",
+  "resetType": 0
+ },
+ {
+  "shopPaymentMissionMstId": 3013,
+  "shopPaymentCategoryMstId": 4,
+  "shopPaymentTabMstId": 401,
+  "shopPaymentMissionType": 3,
+  "targetValue": 365,
+  "shopPaymentMissionRewardGroupId": 5,
+  "description": "Purchase for a total of 365 days",
+  "resetType": 0
+ }
+]

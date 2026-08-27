@@ -1,0 +1,1640 @@
+[
+ {
+  "gardenFurnitureOpenConditionMstId": 1,
+  "gardenFurnitureMstId": 201001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 2,
+  "gardenFurnitureMstId": 201002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 3,
+  "gardenFurnitureMstId": 201003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 4,
+  "gardenFurnitureMstId": 201004,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 0
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 5,
+  "gardenFurnitureMstId": 201005,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 6,
+  "gardenFurnitureMstId": 205001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 7,
+  "gardenFurnitureMstId": 205002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 8,
+  "gardenFurnitureMstId": 208001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 9,
+  "gardenFurnitureMstId": 208002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 10,
+  "gardenFurnitureMstId": 208003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 11,
+  "gardenFurnitureMstId": 208004,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 12,
+  "gardenFurnitureMstId": 209001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 13,
+  "gardenFurnitureMstId": 208005,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 14,
+  "gardenFurnitureMstId": 210001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 15,
+  "gardenFurnitureMstId": 210002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 16,
+  "gardenFurnitureMstId": 210003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 17,
+  "gardenFurnitureMstId": 202001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 18,
+  "gardenFurnitureMstId": 205003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 19,
+  "gardenFurnitureMstId": 203001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 20,
+  "gardenFurnitureMstId": 203002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 21,
+  "gardenFurnitureMstId": 207001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 22,
+  "gardenFurnitureMstId": 204001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 23,
+  "gardenFurnitureMstId": 204002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 24,
+  "gardenFurnitureMstId": 207002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 25,
+  "gardenFurnitureMstId": 207003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 26,
+  "gardenFurnitureMstId": 207004,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 27,
+  "gardenFurnitureMstId": 207005,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 28,
+  "gardenFurnitureMstId": 208006,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 29,
+  "gardenFurnitureMstId": 208007,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 30,
+  "gardenFurnitureMstId": 208008,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 31,
+  "gardenFurnitureMstId": 209002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 32,
+  "gardenFurnitureMstId": 205004,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 33,
+  "gardenFurnitureMstId": 207006,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 34,
+  "gardenFurnitureMstId": 207007,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 35,
+  "gardenFurnitureMstId": 207008,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 36,
+  "gardenFurnitureMstId": 205005,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 37,
+  "gardenFurnitureMstId": 204003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 38,
+  "gardenFurnitureMstId": 210004,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 39,
+  "gardenFurnitureMstId": 210005,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 40,
+  "gardenFurnitureMstId": 211001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 41,
+  "gardenFurnitureMstId": 211002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 42,
+  "gardenFurnitureMstId": 208009,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 43,
+  "gardenFurnitureMstId": 209003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 44,
+  "gardenFurnitureMstId": 211003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 45,
+  "gardenFurnitureMstId": 208010,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 46,
+  "gardenFurnitureMstId": 212001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 47,
+  "gardenFurnitureMstId": 210006,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 48,
+  "gardenFurnitureMstId": 209004,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 49,
+  "gardenFurnitureMstId": 208011,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 50,
+  "gardenFurnitureMstId": 214001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 51,
+  "gardenFurnitureMstId": 215001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 52,
+  "gardenFurnitureMstId": 207009,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 53,
+  "gardenFurnitureMstId": 207010,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 54,
+  "gardenFurnitureMstId": 216001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 55,
+  "gardenFurnitureMstId": 217001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 56,
+  "gardenFurnitureMstId": 214002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 57,
+  "gardenFurnitureMstId": 301001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 58,
+  "gardenFurnitureMstId": 302001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 59,
+  "gardenFurnitureMstId": 303001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 60,
+  "gardenFurnitureMstId": 304001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 61,
+  "gardenFurnitureMstId": 305001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 62,
+  "gardenFurnitureMstId": 306001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 63,
+  "gardenFurnitureMstId": 307001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 64,
+  "gardenFurnitureMstId": 308001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 65,
+  "gardenFurnitureMstId": 309001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 66,
+  "gardenFurnitureMstId": 310001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 67,
+  "gardenFurnitureMstId": 311001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 68,
+  "gardenFurnitureMstId": 312001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 69,
+  "gardenFurnitureMstId": 313001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 70,
+  "gardenFurnitureMstId": 314001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 71,
+  "gardenFurnitureMstId": 315001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 72,
+  "gardenFurnitureMstId": 301002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 73,
+  "gardenFurnitureMstId": 302003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 74,
+  "gardenFurnitureMstId": 303003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 75,
+  "gardenFurnitureMstId": 304003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 76,
+  "gardenFurnitureMstId": 305002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 77,
+  "gardenFurnitureMstId": 306003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 78,
+  "gardenFurnitureMstId": 307002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 79,
+  "gardenFurnitureMstId": 314002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 0
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 80,
+  "gardenFurnitureMstId": 315002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 0
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 81,
+  "gardenFurnitureMstId": 101001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 82,
+  "gardenFurnitureMstId": 102001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 83,
+  "gardenFurnitureMstId": 103001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 84,
+  "gardenFurnitureMstId": 104001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 85,
+  "gardenFurnitureMstId": 105001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 86,
+  "gardenFurnitureMstId": 106001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 87,
+  "gardenFurnitureMstId": 107001,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 88,
+  "gardenFurnitureMstId": 209005,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 5
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 89,
+  "gardenFurnitureMstId": 205006,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 5
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 90,
+  "gardenFurnitureMstId": 201006,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 5
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 91,
+  "gardenFurnitureMstId": 201007,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 5
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 92,
+  "gardenFurnitureMstId": 201008,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 5
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 93,
+  "gardenFurnitureMstId": 201009,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 5
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 94,
+  "gardenFurnitureMstId": 208012,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 5
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 95,
+  "gardenFurnitureMstId": 208013,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 5
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 96,
+  "gardenFurnitureMstId": 210007,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 21
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 97,
+  "gardenFurnitureMstId": 210008,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 21
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 98,
+  "gardenFurnitureMstId": 210009,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 21
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 99,
+  "gardenFurnitureMstId": 208014,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 21
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 100,
+  "gardenFurnitureMstId": 205007,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 21
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 101,
+  "gardenFurnitureMstId": 208015,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 21
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 102,
+  "gardenFurnitureMstId": 101002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 21
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 103,
+  "gardenFurnitureMstId": 303009,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 21
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 104,
+  "gardenFurnitureMstId": 302013,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 21
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 105,
+  "gardenFurnitureMstId": 208035,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 5
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 106,
+  "gardenFurnitureMstId": 209006,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 107,
+  "gardenFurnitureMstId": 205008,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 108,
+  "gardenFurnitureMstId": 201010,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 109,
+  "gardenFurnitureMstId": 201011,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 110,
+  "gardenFurnitureMstId": 201012,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 111,
+  "gardenFurnitureMstId": 201013,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 112,
+  "gardenFurnitureMstId": 208016,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 113,
+  "gardenFurnitureMstId": 208017,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 114,
+  "gardenFurnitureMstId": 208018,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 65
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 115,
+  "gardenFurnitureMstId": 210010,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 116,
+  "gardenFurnitureMstId": 210011,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 117,
+  "gardenFurnitureMstId": 210012,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 118,
+  "gardenFurnitureMstId": 208019,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 119,
+  "gardenFurnitureMstId": 205009,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 120,
+  "gardenFurnitureMstId": 208020,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 121,
+  "gardenFurnitureMstId": 209007,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 122,
+  "gardenFurnitureMstId": 202002,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 123,
+  "gardenFurnitureMstId": 203003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 124,
+  "gardenFurnitureMstId": 204004,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 125,
+  "gardenFurnitureMstId": 204005,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 126,
+  "gardenFurnitureMstId": 207011,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 127,
+  "gardenFurnitureMstId": 208021,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 128,
+  "gardenFurnitureMstId": 207012,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 129,
+  "gardenFurnitureMstId": 207013,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 130,
+  "gardenFurnitureMstId": 207014,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 131,
+  "gardenFurnitureMstId": 208022,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 132,
+  "gardenFurnitureMstId": 208023,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 133,
+  "gardenFurnitureMstId": 203004,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 80
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 134,
+  "gardenFurnitureMstId": 207015,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 135,
+  "gardenFurnitureMstId": 205010,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 136,
+  "gardenFurnitureMstId": 211004,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 137,
+  "gardenFurnitureMstId": 211005,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 138,
+  "gardenFurnitureMstId": 205011,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 139,
+  "gardenFurnitureMstId": 205012,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 140,
+  "gardenFurnitureMstId": 207016,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 141,
+  "gardenFurnitureMstId": 207017,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 142,
+  "gardenFurnitureMstId": 207018,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 143,
+  "gardenFurnitureMstId": 210013,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 144,
+  "gardenFurnitureMstId": 210014,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 145,
+  "gardenFurnitureMstId": 208024,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 146,
+  "gardenFurnitureMstId": 209008,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 147,
+  "gardenFurnitureMstId": 204006,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 148,
+  "gardenFurnitureMstId": 101003,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 100
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 149,
+  "gardenFurnitureMstId": 209009,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 28
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 150,
+  "gardenFurnitureMstId": 205013,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 28
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 151,
+  "gardenFurnitureMstId": 201014,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 28
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 152,
+  "gardenFurnitureMstId": 201015,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 28
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 153,
+  "gardenFurnitureMstId": 201016,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 28
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 154,
+  "gardenFurnitureMstId": 201017,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 28
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 155,
+  "gardenFurnitureMstId": 208025,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 28
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 156,
+  "gardenFurnitureMstId": 208026,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 28
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 157,
+  "gardenFurnitureMstId": 208027,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 28
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 158,
+  "gardenFurnitureMstId": 210015,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 35
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 159,
+  "gardenFurnitureMstId": 210016,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 35
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 160,
+  "gardenFurnitureMstId": 210017,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 35
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 161,
+  "gardenFurnitureMstId": 208028,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 35
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 162,
+  "gardenFurnitureMstId": 205014,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 35
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 163,
+  "gardenFurnitureMstId": 208029,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 35
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 164,
+  "gardenFurnitureMstId": 101004,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 35
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 165,
+  "gardenFurnitureMstId": 303011,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 35
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 166,
+  "gardenFurnitureMstId": 302015,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 35
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 167,
+  "gardenFurnitureMstId": 209010,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 45
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 168,
+  "gardenFurnitureMstId": 205015,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 45
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 169,
+  "gardenFurnitureMstId": 201018,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 45
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 170,
+  "gardenFurnitureMstId": 201019,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 45
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 171,
+  "gardenFurnitureMstId": 201020,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 45
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 172,
+  "gardenFurnitureMstId": 201021,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 45
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 173,
+  "gardenFurnitureMstId": 208030,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 45
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 174,
+  "gardenFurnitureMstId": 208031,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 45
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 175,
+  "gardenFurnitureMstId": 208032,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 45
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 176,
+  "gardenFurnitureMstId": 210018,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 55
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 177,
+  "gardenFurnitureMstId": 210019,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 55
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 178,
+  "gardenFurnitureMstId": 210020,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 55
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 179,
+  "gardenFurnitureMstId": 208033,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 55
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 180,
+  "gardenFurnitureMstId": 205016,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 55
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 181,
+  "gardenFurnitureMstId": 208034,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 55
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 182,
+  "gardenFurnitureMstId": 101005,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 55
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 183,
+  "gardenFurnitureMstId": 303013,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 55
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 184,
+  "gardenFurnitureMstId": 302017,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 55
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 185,
+  "gardenFurnitureMstId": 201026,
+  "conditionType": 12,
+  "conditionValue": 0,
+  "conditionNum": 0
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 186,
+  "gardenFurnitureMstId": 302003,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 187,
+  "gardenFurnitureMstId": 303003,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 188,
+  "gardenFurnitureMstId": 304003,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 189,
+  "gardenFurnitureMstId": 305002,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 190,
+  "gardenFurnitureMstId": 306003,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 191,
+  "gardenFurnitureMstId": 307002,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 192,
+  "gardenFurnitureMstId": 209006,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 193,
+  "gardenFurnitureMstId": 205008,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 194,
+  "gardenFurnitureMstId": 201010,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 195,
+  "gardenFurnitureMstId": 201011,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 196,
+  "gardenFurnitureMstId": 201012,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 197,
+  "gardenFurnitureMstId": 201013,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 198,
+  "gardenFurnitureMstId": 208016,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 199,
+  "gardenFurnitureMstId": 208017,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 200,
+  "gardenFurnitureMstId": 208018,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 201,
+  "gardenFurnitureMstId": 210010,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 202,
+  "gardenFurnitureMstId": 210011,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 203,
+  "gardenFurnitureMstId": 210012,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 204,
+  "gardenFurnitureMstId": 208019,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 205,
+  "gardenFurnitureMstId": 205009,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 206,
+  "gardenFurnitureMstId": 208020,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 207,
+  "gardenFurnitureMstId": 209007,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 208,
+  "gardenFurnitureMstId": 202002,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 209,
+  "gardenFurnitureMstId": 203003,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 210,
+  "gardenFurnitureMstId": 204004,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 211,
+  "gardenFurnitureMstId": 204005,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 212,
+  "gardenFurnitureMstId": 207011,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 213,
+  "gardenFurnitureMstId": 208021,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 214,
+  "gardenFurnitureMstId": 207012,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 215,
+  "gardenFurnitureMstId": 207013,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 216,
+  "gardenFurnitureMstId": 207014,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 217,
+  "gardenFurnitureMstId": 208022,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 218,
+  "gardenFurnitureMstId": 208023,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 219,
+  "gardenFurnitureMstId": 203004,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 220,
+  "gardenFurnitureMstId": 207015,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 221,
+  "gardenFurnitureMstId": 205010,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 222,
+  "gardenFurnitureMstId": 211004,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 223,
+  "gardenFurnitureMstId": 211005,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 224,
+  "gardenFurnitureMstId": 205011,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 225,
+  "gardenFurnitureMstId": 205012,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 226,
+  "gardenFurnitureMstId": 207016,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 227,
+  "gardenFurnitureMstId": 207017,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 228,
+  "gardenFurnitureMstId": 207018,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 229,
+  "gardenFurnitureMstId": 210013,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 230,
+  "gardenFurnitureMstId": 210014,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 231,
+  "gardenFurnitureMstId": 208024,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 232,
+  "gardenFurnitureMstId": 209008,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 233,
+  "gardenFurnitureMstId": 204006,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ },
+ {
+  "gardenFurnitureOpenConditionMstId": 234,
+  "gardenFurnitureMstId": 101003,
+  "conditionType": 13,
+  "conditionValue": 11020605,
+  "conditionNum": 1
+ }
+]

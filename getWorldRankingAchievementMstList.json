@@ -1,0 +1,2266 @@
+[
+ {
+  "worldRankingAchievementMstId": 100101,
+  "worldRankingMstId": 1001,
+  "sortOrder": 1,
+  "name": "Reach a Neko Rating of 50000 first.",
+  "threshold": 50000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100102,
+  "worldRankingMstId": 1001,
+  "sortOrder": 2,
+  "name": "Reach a Neko Rating of 80000 first.",
+  "threshold": 80000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100103,
+  "worldRankingMstId": 1001,
+  "sortOrder": 3,
+  "name": "Reach a Neko Rating of 110K first.",
+  "threshold": 110000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100104,
+  "worldRankingMstId": 1001,
+  "sortOrder": 4,
+  "name": "Reach a Neko Rating of 140K first.",
+  "threshold": 140000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100105,
+  "worldRankingMstId": 1001,
+  "sortOrder": 5,
+  "name": "Reach a Neko Rating of 170K first.",
+  "threshold": 170000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100106,
+  "worldRankingMstId": 1001,
+  "sortOrder": 6,
+  "name": "Reach a Neko Rating of 200K first.",
+  "threshold": 200000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100107,
+  "worldRankingMstId": 1001,
+  "sortOrder": 7,
+  "name": "Reach a Neko Rating of 230K first.",
+  "threshold": 230000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100108,
+  "worldRankingMstId": 1001,
+  "sortOrder": 8,
+  "name": "Reach a Neko Rating of 260K first.",
+  "threshold": 260000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100109,
+  "worldRankingMstId": 1001,
+  "sortOrder": 9,
+  "name": "Reach a Neko Rating of 290K first.",
+  "threshold": 290000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100110,
+  "worldRankingMstId": 1001,
+  "sortOrder": 10,
+  "name": "Reach a Neko Rating of 320K first.",
+  "threshold": 320000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100111,
+  "worldRankingMstId": 1001,
+  "sortOrder": 11,
+  "name": "Reach a Neko Rating of 350K first.",
+  "threshold": 350000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100112,
+  "worldRankingMstId": 1001,
+  "sortOrder": 12,
+  "name": "Reach a Neko Rating of 380K first.",
+  "threshold": 380000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100113,
+  "worldRankingMstId": 1001,
+  "sortOrder": 13,
+  "name": "Reach a Neko Rating of 410K first.",
+  "threshold": 410000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100114,
+  "worldRankingMstId": 1001,
+  "sortOrder": 14,
+  "name": "Reach a Neko Rating of 440K first.",
+  "threshold": 440000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100115,
+  "worldRankingMstId": 1001,
+  "sortOrder": 15,
+  "name": "Reach a Neko Rating of 470K first.",
+  "threshold": 470000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100116,
+  "worldRankingMstId": 1001,
+  "sortOrder": 16,
+  "name": "Reach a Neko Rating of 500K first.",
+  "threshold": 500000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100201,
+  "worldRankingMstId": 1002,
+  "sortOrder": 1,
+  "name": "Reach a Neko Rating of 50000 first.",
+  "threshold": 50000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100202,
+  "worldRankingMstId": 1002,
+  "sortOrder": 2,
+  "name": "Reach a Neko Rating of 80000 first.",
+  "threshold": 80000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100203,
+  "worldRankingMstId": 1002,
+  "sortOrder": 3,
+  "name": "Reach a Neko Rating of 110K first.",
+  "threshold": 110000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100204,
+  "worldRankingMstId": 1002,
+  "sortOrder": 4,
+  "name": "Reach a Neko Rating of 140K first.",
+  "threshold": 140000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100205,
+  "worldRankingMstId": 1002,
+  "sortOrder": 5,
+  "name": "Reach a Neko Rating of 170K first.",
+  "threshold": 170000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100206,
+  "worldRankingMstId": 1002,
+  "sortOrder": 6,
+  "name": "Reach a Neko Rating of 200K first.",
+  "threshold": 200000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100207,
+  "worldRankingMstId": 1002,
+  "sortOrder": 7,
+  "name": "Reach a Neko Rating of 230K first.",
+  "threshold": 230000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100208,
+  "worldRankingMstId": 1002,
+  "sortOrder": 8,
+  "name": "Reach a Neko Rating of 260K first.",
+  "threshold": 260000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100209,
+  "worldRankingMstId": 1002,
+  "sortOrder": 9,
+  "name": "Reach a Neko Rating of 290K first.",
+  "threshold": 290000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100210,
+  "worldRankingMstId": 1002,
+  "sortOrder": 10,
+  "name": "Reach a Neko Rating of 320K first.",
+  "threshold": 320000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100211,
+  "worldRankingMstId": 1002,
+  "sortOrder": 11,
+  "name": "Reach a Neko Rating of 350K first.",
+  "threshold": 350000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100212,
+  "worldRankingMstId": 1002,
+  "sortOrder": 12,
+  "name": "Reach a Neko Rating of 380K first.",
+  "threshold": 380000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100213,
+  "worldRankingMstId": 1002,
+  "sortOrder": 13,
+  "name": "Reach a Neko Rating of 410K first.",
+  "threshold": 410000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100214,
+  "worldRankingMstId": 1002,
+  "sortOrder": 14,
+  "name": "Reach a Neko Rating of 440K first.",
+  "threshold": 440000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100215,
+  "worldRankingMstId": 1002,
+  "sortOrder": 15,
+  "name": "Reach a Neko Rating of 470K first.",
+  "threshold": 470000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100216,
+  "worldRankingMstId": 1002,
+  "sortOrder": 16,
+  "name": "Reach a Neko Rating of 500K first.",
+  "threshold": 500000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100301,
+  "worldRankingMstId": 1003,
+  "sortOrder": 1,
+  "name": "Reach a Neko Rating of 50000 first.",
+  "threshold": 50000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100302,
+  "worldRankingMstId": 1003,
+  "sortOrder": 2,
+  "name": "Reach a Neko Rating of 80000 first.",
+  "threshold": 80000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100303,
+  "worldRankingMstId": 1003,
+  "sortOrder": 3,
+  "name": "Reach a Neko Rating of 110K first.",
+  "threshold": 110000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100304,
+  "worldRankingMstId": 1003,
+  "sortOrder": 4,
+  "name": "Reach a Neko Rating of 140K first.",
+  "threshold": 140000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100305,
+  "worldRankingMstId": 1003,
+  "sortOrder": 5,
+  "name": "Reach a Neko Rating of 170K first.",
+  "threshold": 170000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100306,
+  "worldRankingMstId": 1003,
+  "sortOrder": 6,
+  "name": "Reach a Neko Rating of 200K first.",
+  "threshold": 200000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100307,
+  "worldRankingMstId": 1003,
+  "sortOrder": 7,
+  "name": "Reach a Neko Rating of 230K first.",
+  "threshold": 230000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100308,
+  "worldRankingMstId": 1003,
+  "sortOrder": 8,
+  "name": "Reach a Neko Rating of 260K first.",
+  "threshold": 260000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100309,
+  "worldRankingMstId": 1003,
+  "sortOrder": 9,
+  "name": "Reach a Neko Rating of 290K first.",
+  "threshold": 290000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100310,
+  "worldRankingMstId": 1003,
+  "sortOrder": 10,
+  "name": "Reach a Neko Rating of 320K first.",
+  "threshold": 320000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100311,
+  "worldRankingMstId": 1003,
+  "sortOrder": 11,
+  "name": "Reach a Neko Rating of 350K first.",
+  "threshold": 350000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100312,
+  "worldRankingMstId": 1003,
+  "sortOrder": 12,
+  "name": "Reach a Neko Rating of 380K first.",
+  "threshold": 380000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100313,
+  "worldRankingMstId": 1003,
+  "sortOrder": 13,
+  "name": "Reach a Neko Rating of 410K first.",
+  "threshold": 410000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100314,
+  "worldRankingMstId": 1003,
+  "sortOrder": 14,
+  "name": "Reach a Neko Rating of 440K first.",
+  "threshold": 440000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100315,
+  "worldRankingMstId": 1003,
+  "sortOrder": 15,
+  "name": "Reach a Neko Rating of 470K first.",
+  "threshold": 470000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100316,
+  "worldRankingMstId": 1003,
+  "sortOrder": 16,
+  "name": "Reach a Neko Rating of 500K first.",
+  "threshold": 500000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100401,
+  "worldRankingMstId": 1004,
+  "sortOrder": 1,
+  "name": "Reach a Neko Rating of 50000 first.",
+  "threshold": 50000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100402,
+  "worldRankingMstId": 1004,
+  "sortOrder": 2,
+  "name": "Reach a Neko Rating of 80000 first.",
+  "threshold": 80000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100403,
+  "worldRankingMstId": 1004,
+  "sortOrder": 3,
+  "name": "Reach a Neko Rating of 110K first.",
+  "threshold": 110000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100404,
+  "worldRankingMstId": 1004,
+  "sortOrder": 4,
+  "name": "Reach a Neko Rating of 140K first.",
+  "threshold": 140000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100405,
+  "worldRankingMstId": 1004,
+  "sortOrder": 5,
+  "name": "Reach a Neko Rating of 170K first.",
+  "threshold": 170000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100406,
+  "worldRankingMstId": 1004,
+  "sortOrder": 6,
+  "name": "Reach a Neko Rating of 200K first.",
+  "threshold": 200000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100407,
+  "worldRankingMstId": 1004,
+  "sortOrder": 7,
+  "name": "Reach a Neko Rating of 230K first.",
+  "threshold": 230000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100408,
+  "worldRankingMstId": 1004,
+  "sortOrder": 8,
+  "name": "Reach a Neko Rating of 260K first.",
+  "threshold": 260000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100409,
+  "worldRankingMstId": 1004,
+  "sortOrder": 9,
+  "name": "Reach a Neko Rating of 290K first.",
+  "threshold": 290000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100410,
+  "worldRankingMstId": 1004,
+  "sortOrder": 10,
+  "name": "Reach a Neko Rating of 320K first.",
+  "threshold": 320000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100411,
+  "worldRankingMstId": 1004,
+  "sortOrder": 11,
+  "name": "Reach a Neko Rating of 350K first.",
+  "threshold": 350000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100412,
+  "worldRankingMstId": 1004,
+  "sortOrder": 12,
+  "name": "Reach a Neko Rating of 380K first.",
+  "threshold": 380000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100413,
+  "worldRankingMstId": 1004,
+  "sortOrder": 13,
+  "name": "Reach a Neko Rating of 410K first.",
+  "threshold": 410000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100414,
+  "worldRankingMstId": 1004,
+  "sortOrder": 14,
+  "name": "Reach a Neko Rating of 440K first.",
+  "threshold": 440000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100415,
+  "worldRankingMstId": 1004,
+  "sortOrder": 15,
+  "name": "Reach a Neko Rating of 470K first.",
+  "threshold": 470000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100416,
+  "worldRankingMstId": 1004,
+  "sortOrder": 16,
+  "name": "Reach a Neko Rating of 500K first.",
+  "threshold": 500000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100501,
+  "worldRankingMstId": 1005,
+  "sortOrder": 1,
+  "name": "Reach Soleil Arc: Stage 50 first.",
+  "threshold": 50,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100502,
+  "worldRankingMstId": 1005,
+  "sortOrder": 2,
+  "name": "Reach Soleil Arc: Stage 100 first.",
+  "threshold": 100,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100503,
+  "worldRankingMstId": 1005,
+  "sortOrder": 3,
+  "name": "Reach Soleil Arc: Stage 150 first.",
+  "threshold": 150,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100504,
+  "worldRankingMstId": 1005,
+  "sortOrder": 4,
+  "name": "Reach Soleil Arc: Stage 200 first.",
+  "threshold": 200,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100505,
+  "worldRankingMstId": 1005,
+  "sortOrder": 5,
+  "name": "Reach Soleil Arc: Stage 250 first.",
+  "threshold": 250,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100506,
+  "worldRankingMstId": 1005,
+  "sortOrder": 6,
+  "name": "Reach Soleil Arc: Stage 300 first.",
+  "threshold": 300,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100507,
+  "worldRankingMstId": 1005,
+  "sortOrder": 7,
+  "name": "Reach Floor 50 of the Main Tower first.",
+  "threshold": 50,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100601,
+  "worldRankingMstId": 1006,
+  "sortOrder": 1,
+  "name": "Reach Floor 10 of the Main Tower first.",
+  "threshold": 10,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100602,
+  "worldRankingMstId": 1006,
+  "sortOrder": 2,
+  "name": "Reach Floor 20 of the Main Tower first.",
+  "threshold": 20,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100603,
+  "worldRankingMstId": 1006,
+  "sortOrder": 3,
+  "name": "Reach Floor 30 of the Main Tower first.",
+  "threshold": 30,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100604,
+  "worldRankingMstId": 1006,
+  "sortOrder": 4,
+  "name": "Reach Floor 40 of the Main Tower first.",
+  "threshold": 40,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100605,
+  "worldRankingMstId": 1006,
+  "sortOrder": 5,
+  "name": "Reach Floor 50 of the Main Tower first.",
+  "threshold": 50,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100606,
+  "worldRankingMstId": 1006,
+  "sortOrder": 6,
+  "name": "Reach Floor 60 of the Main Tower first.",
+  "threshold": 60,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100607,
+  "worldRankingMstId": 1006,
+  "sortOrder": 7,
+  "name": "Reach Floor 70 of the Main Tower first.",
+  "threshold": 70,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100608,
+  "worldRankingMstId": 1006,
+  "sortOrder": 8,
+  "name": "Reach Floor 80 of the Main Tower first.",
+  "threshold": 80,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100609,
+  "worldRankingMstId": 1006,
+  "sortOrder": 9,
+  "name": "Reach Floor 90 of the Main Tower first.",
+  "threshold": 90,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100610,
+  "worldRankingMstId": 1006,
+  "sortOrder": 10,
+  "name": "Reach Floor 100 of the Main Tower first.",
+  "threshold": 100,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100611,
+  "worldRankingMstId": 1006,
+  "sortOrder": 11,
+  "name": "Reach Floor 110 of the Main Tower first.",
+  "threshold": 110,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100612,
+  "worldRankingMstId": 1006,
+  "sortOrder": 12,
+  "name": "Reach Floor 120 of the Main Tower first.",
+  "threshold": 120,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100613,
+  "worldRankingMstId": 1006,
+  "sortOrder": 13,
+  "name": "Reach Floor 130 of the Main Tower first.",
+  "threshold": 130,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100614,
+  "worldRankingMstId": 1006,
+  "sortOrder": 14,
+  "name": "Reach Floor 140 of the Main Tower first.",
+  "threshold": 140,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100615,
+  "worldRankingMstId": 1006,
+  "sortOrder": 15,
+  "name": "Reach Floor 150 of the Main Tower first.",
+  "threshold": 150,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100616,
+  "worldRankingMstId": 1006,
+  "sortOrder": 16,
+  "name": "Reach Floor 160 of the Main Tower first.",
+  "threshold": 160,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100617,
+  "worldRankingMstId": 1006,
+  "sortOrder": 17,
+  "name": "Reach Floor 170 of the Main Tower first.",
+  "threshold": 170,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100618,
+  "worldRankingMstId": 1006,
+  "sortOrder": 18,
+  "name": "Reach Floor 180 of the Main Tower first.",
+  "threshold": 180,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100619,
+  "worldRankingMstId": 1006,
+  "sortOrder": 19,
+  "name": "Reach Floor 190 of the Main Tower first.",
+  "threshold": 190,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100620,
+  "worldRankingMstId": 1006,
+  "sortOrder": 20,
+  "name": "Reach Floor 200 of the Main Tower first.",
+  "threshold": 200,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100621,
+  "worldRankingMstId": 1006,
+  "sortOrder": 21,
+  "name": "Reach Floor 210 of the Main Tower first.",
+  "threshold": 210,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100622,
+  "worldRankingMstId": 1006,
+  "sortOrder": 22,
+  "name": "Reach Floor 220 of the Main Tower first.",
+  "threshold": 220,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100623,
+  "worldRankingMstId": 1006,
+  "sortOrder": 23,
+  "name": "Reach Floor 230 of the Main Tower first.",
+  "threshold": 230,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100624,
+  "worldRankingMstId": 1006,
+  "sortOrder": 24,
+  "name": "Reach Floor 240 of the Main Tower first.",
+  "threshold": 240,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100625,
+  "worldRankingMstId": 1006,
+  "sortOrder": 25,
+  "name": "Reach Floor 250 of the Main Tower first.",
+  "threshold": 250,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100626,
+  "worldRankingMstId": 1006,
+  "sortOrder": 26,
+  "name": "Reach Floor 260 of the Main Tower first.",
+  "threshold": 260,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100627,
+  "worldRankingMstId": 1006,
+  "sortOrder": 27,
+  "name": "Reach Floor 270 of the Main Tower first.",
+  "threshold": 270,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100628,
+  "worldRankingMstId": 1006,
+  "sortOrder": 28,
+  "name": "Reach Floor 280 of the Main Tower first.",
+  "threshold": 280,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100629,
+  "worldRankingMstId": 1006,
+  "sortOrder": 29,
+  "name": "Reach Floor 290 of the Main Tower first.",
+  "threshold": 290,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100630,
+  "worldRankingMstId": 1006,
+  "sortOrder": 30,
+  "name": "Reach Floor 300 of the Main Tower first.",
+  "threshold": 300,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100701,
+  "worldRankingMstId": 1007,
+  "sortOrder": 1,
+  "name": "Reach Floor 10 of the Sweet Tower first.",
+  "threshold": 10,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100702,
+  "worldRankingMstId": 1007,
+  "sortOrder": 2,
+  "name": "Reach Floor 20 of the Sweet Tower first.",
+  "threshold": 20,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100703,
+  "worldRankingMstId": 1007,
+  "sortOrder": 3,
+  "name": "Reach Floor 30 of the Sweet Tower first.",
+  "threshold": 30,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100704,
+  "worldRankingMstId": 1007,
+  "sortOrder": 4,
+  "name": "Reach Floor 40 of the Sweet Tower first.",
+  "threshold": 40,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100705,
+  "worldRankingMstId": 1007,
+  "sortOrder": 5,
+  "name": "Reach Floor 50 of the Sweet Tower first.",
+  "threshold": 50,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100706,
+  "worldRankingMstId": 1007,
+  "sortOrder": 6,
+  "name": "Reach Floor 60 of the Sweet Tower first.",
+  "threshold": 60,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100707,
+  "worldRankingMstId": 1007,
+  "sortOrder": 7,
+  "name": "Reach Floor 70 of the Sweet Tower first.",
+  "threshold": 70,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100708,
+  "worldRankingMstId": 1007,
+  "sortOrder": 8,
+  "name": "Reach Floor 80 of the Sweet Tower first.",
+  "threshold": 80,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100709,
+  "worldRankingMstId": 1007,
+  "sortOrder": 9,
+  "name": "Reach Floor 90 of the Sweet Tower first.",
+  "threshold": 90,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100710,
+  "worldRankingMstId": 1007,
+  "sortOrder": 10,
+  "name": "Reach Floor 100 of the Sweet Tower first.",
+  "threshold": 100,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100711,
+  "worldRankingMstId": 1007,
+  "sortOrder": 11,
+  "name": "Reach Floor 110 of the Sweet Tower first.",
+  "threshold": 110,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100712,
+  "worldRankingMstId": 1007,
+  "sortOrder": 12,
+  "name": "Reach Floor 120 of the Sweet Tower first.",
+  "threshold": 120,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100713,
+  "worldRankingMstId": 1007,
+  "sortOrder": 13,
+  "name": "Reach Floor 130 of the Sweet Tower first.",
+  "threshold": 130,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100714,
+  "worldRankingMstId": 1007,
+  "sortOrder": 14,
+  "name": "Reach Floor 140 of the Sweet Tower first.",
+  "threshold": 140,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100715,
+  "worldRankingMstId": 1007,
+  "sortOrder": 15,
+  "name": "Reach Floor 150 of the Sweet Tower first.",
+  "threshold": 150,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100716,
+  "worldRankingMstId": 1007,
+  "sortOrder": 16,
+  "name": "Reach Floor 160 of the Sweet Tower first.",
+  "threshold": 160,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100717,
+  "worldRankingMstId": 1007,
+  "sortOrder": 17,
+  "name": "Reach Floor 170 of the Sweet Tower first.",
+  "threshold": 170,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100718,
+  "worldRankingMstId": 1007,
+  "sortOrder": 18,
+  "name": "Reach Floor 180 of the Sweet Tower first.",
+  "threshold": 180,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100719,
+  "worldRankingMstId": 1007,
+  "sortOrder": 19,
+  "name": "Reach Floor 190 of the Sweet Tower first.",
+  "threshold": 190,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100720,
+  "worldRankingMstId": 1007,
+  "sortOrder": 20,
+  "name": "Reach Floor 200 of the Sweet Tower first.",
+  "threshold": 200,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100721,
+  "worldRankingMstId": 1007,
+  "sortOrder": 21,
+  "name": "Reach Floor 210 of the Sweet Tower first.",
+  "threshold": 210,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100722,
+  "worldRankingMstId": 1007,
+  "sortOrder": 22,
+  "name": "Reach Floor 220 of the Sweet Tower first.",
+  "threshold": 220,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100723,
+  "worldRankingMstId": 1007,
+  "sortOrder": 23,
+  "name": "Reach Floor 230 of the Sweet Tower first.",
+  "threshold": 230,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100724,
+  "worldRankingMstId": 1007,
+  "sortOrder": 24,
+  "name": "Reach Floor 240 of the Sweet Tower first.",
+  "threshold": 240,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100725,
+  "worldRankingMstId": 1007,
+  "sortOrder": 25,
+  "name": "Reach Floor 250 of the Sweet Tower first.",
+  "threshold": 250,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100726,
+  "worldRankingMstId": 1007,
+  "sortOrder": 26,
+  "name": "Reach Floor 260 of the Sweet Tower first.",
+  "threshold": 260,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100727,
+  "worldRankingMstId": 1007,
+  "sortOrder": 27,
+  "name": "Reach Floor 270 of the Sweet Tower first.",
+  "threshold": 270,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100728,
+  "worldRankingMstId": 1007,
+  "sortOrder": 28,
+  "name": "Reach Floor 280 of the Sweet Tower first.",
+  "threshold": 280,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100729,
+  "worldRankingMstId": 1007,
+  "sortOrder": 29,
+  "name": "Reach Floor 290 of the Sweet Tower first.",
+  "threshold": 290,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100730,
+  "worldRankingMstId": 1007,
+  "sortOrder": 30,
+  "name": "Reach Floor 300 of the Sweet Tower first.",
+  "threshold": 300,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100801,
+  "worldRankingMstId": 1008,
+  "sortOrder": 1,
+  "name": "Reach Floor 10 of the Pop Tower first.",
+  "threshold": 10,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100802,
+  "worldRankingMstId": 1008,
+  "sortOrder": 2,
+  "name": "Reach Floor 20 of the Pop Tower first.",
+  "threshold": 20,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100803,
+  "worldRankingMstId": 1008,
+  "sortOrder": 3,
+  "name": "Reach Floor 30 of the Pop Tower first.",
+  "threshold": 30,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100804,
+  "worldRankingMstId": 1008,
+  "sortOrder": 4,
+  "name": "Reach Floor 40 of the Pop Tower first.",
+  "threshold": 40,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100805,
+  "worldRankingMstId": 1008,
+  "sortOrder": 5,
+  "name": "Reach Floor 50 of the Pop Tower first.",
+  "threshold": 50,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100806,
+  "worldRankingMstId": 1008,
+  "sortOrder": 6,
+  "name": "Reach Floor 60 of the Pop Tower first.",
+  "threshold": 60,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100807,
+  "worldRankingMstId": 1008,
+  "sortOrder": 7,
+  "name": "Reach Floor 70 of the Pop Tower first.",
+  "threshold": 70,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100808,
+  "worldRankingMstId": 1008,
+  "sortOrder": 8,
+  "name": "Reach Floor 80 of the Pop Tower first.",
+  "threshold": 80,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100809,
+  "worldRankingMstId": 1008,
+  "sortOrder": 9,
+  "name": "Reach Floor 90 of the Pop Tower first.",
+  "threshold": 90,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100810,
+  "worldRankingMstId": 1008,
+  "sortOrder": 10,
+  "name": "Reach Floor 100 of the Pop Tower first.",
+  "threshold": 100,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100811,
+  "worldRankingMstId": 1008,
+  "sortOrder": 11,
+  "name": "Reach Floor 110 of the Pop Tower first.",
+  "threshold": 110,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100812,
+  "worldRankingMstId": 1008,
+  "sortOrder": 12,
+  "name": "Reach Floor 120 of the Pop Tower first.",
+  "threshold": 120,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100813,
+  "worldRankingMstId": 1008,
+  "sortOrder": 13,
+  "name": "Reach Floor 130 of the Pop Tower first.",
+  "threshold": 130,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100814,
+  "worldRankingMstId": 1008,
+  "sortOrder": 14,
+  "name": "Reach Floor 140 of the Pop Tower first.",
+  "threshold": 140,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100815,
+  "worldRankingMstId": 1008,
+  "sortOrder": 15,
+  "name": "Reach Floor 150 of the Pop Tower first.",
+  "threshold": 150,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100816,
+  "worldRankingMstId": 1008,
+  "sortOrder": 16,
+  "name": "Reach Floor 160 of the Pop Tower first.",
+  "threshold": 160,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100817,
+  "worldRankingMstId": 1008,
+  "sortOrder": 17,
+  "name": "Reach Floor 170 of the Pop Tower first.",
+  "threshold": 170,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100818,
+  "worldRankingMstId": 1008,
+  "sortOrder": 18,
+  "name": "Reach Floor 180 of the Pop Tower first.",
+  "threshold": 180,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100819,
+  "worldRankingMstId": 1008,
+  "sortOrder": 19,
+  "name": "Reach Floor 190 of the Pop Tower first.",
+  "threshold": 190,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100820,
+  "worldRankingMstId": 1008,
+  "sortOrder": 20,
+  "name": "Reach Floor 200 of the Pop Tower first.",
+  "threshold": 200,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100821,
+  "worldRankingMstId": 1008,
+  "sortOrder": 21,
+  "name": "Reach Floor 210 of the Pop Tower first.",
+  "threshold": 210,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100822,
+  "worldRankingMstId": 1008,
+  "sortOrder": 22,
+  "name": "Reach Floor 220 of the Pop Tower first.",
+  "threshold": 220,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100823,
+  "worldRankingMstId": 1008,
+  "sortOrder": 23,
+  "name": "Reach Floor 230 of the Pop Tower first.",
+  "threshold": 230,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100824,
+  "worldRankingMstId": 1008,
+  "sortOrder": 24,
+  "name": "Reach Floor 240 of the Pop Tower first.",
+  "threshold": 240,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100825,
+  "worldRankingMstId": 1008,
+  "sortOrder": 25,
+  "name": "Reach Floor 250 of the Pop Tower first.",
+  "threshold": 250,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100826,
+  "worldRankingMstId": 1008,
+  "sortOrder": 26,
+  "name": "Reach Floor 260 of the Pop Tower first.",
+  "threshold": 260,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100827,
+  "worldRankingMstId": 1008,
+  "sortOrder": 27,
+  "name": "Reach Floor 270 of the Pop Tower first.",
+  "threshold": 270,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100828,
+  "worldRankingMstId": 1008,
+  "sortOrder": 28,
+  "name": "Reach Floor 280 of the Pop Tower first.",
+  "threshold": 280,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100829,
+  "worldRankingMstId": 1008,
+  "sortOrder": 29,
+  "name": "Reach Floor 290 of the Pop Tower first.",
+  "threshold": 290,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100830,
+  "worldRankingMstId": 1008,
+  "sortOrder": 30,
+  "name": "Reach Floor 300 of the Pop Tower first.",
+  "threshold": 300,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100901,
+  "worldRankingMstId": 1009,
+  "sortOrder": 1,
+  "name": "Reach Floor 10 of the Passion Tower first.",
+  "threshold": 10,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100902,
+  "worldRankingMstId": 1009,
+  "sortOrder": 2,
+  "name": "Reach Floor 20 of the Passion Tower first.",
+  "threshold": 20,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100903,
+  "worldRankingMstId": 1009,
+  "sortOrder": 3,
+  "name": "Reach Floor 30 of the Passion Tower first.",
+  "threshold": 30,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100904,
+  "worldRankingMstId": 1009,
+  "sortOrder": 4,
+  "name": "Reach Floor 40 of the Passion Tower first.",
+  "threshold": 40,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100905,
+  "worldRankingMstId": 1009,
+  "sortOrder": 5,
+  "name": "Reach Floor 50 of the Passion Tower first.",
+  "threshold": 50,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100906,
+  "worldRankingMstId": 1009,
+  "sortOrder": 6,
+  "name": "Reach Floor 60 of the Passion Tower first.",
+  "threshold": 60,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100907,
+  "worldRankingMstId": 1009,
+  "sortOrder": 7,
+  "name": "Reach Floor 70 of the Passion Tower first.",
+  "threshold": 70,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100908,
+  "worldRankingMstId": 1009,
+  "sortOrder": 8,
+  "name": "Reach Floor 80 of the Passion Tower first.",
+  "threshold": 80,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100909,
+  "worldRankingMstId": 1009,
+  "sortOrder": 9,
+  "name": "Reach Floor 90 of the Passion Tower first.",
+  "threshold": 90,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100910,
+  "worldRankingMstId": 1009,
+  "sortOrder": 10,
+  "name": "Reach Floor 100 of the Passion Tower first.",
+  "threshold": 100,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100911,
+  "worldRankingMstId": 1009,
+  "sortOrder": 11,
+  "name": "Reach Floor 110 of the Passion Tower first.",
+  "threshold": 110,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100912,
+  "worldRankingMstId": 1009,
+  "sortOrder": 12,
+  "name": "Reach Floor 120 of the Passion Tower first.",
+  "threshold": 120,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100913,
+  "worldRankingMstId": 1009,
+  "sortOrder": 13,
+  "name": "Reach Floor 130 of the Passion Tower first.",
+  "threshold": 130,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100914,
+  "worldRankingMstId": 1009,
+  "sortOrder": 14,
+  "name": "Reach Floor 140 of the Passion Tower first.",
+  "threshold": 140,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100915,
+  "worldRankingMstId": 1009,
+  "sortOrder": 15,
+  "name": "Reach Floor 150 of the Passion Tower first.",
+  "threshold": 150,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100916,
+  "worldRankingMstId": 1009,
+  "sortOrder": 16,
+  "name": "Reach Floor 160 of the Passion Tower first.",
+  "threshold": 160,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100917,
+  "worldRankingMstId": 1009,
+  "sortOrder": 17,
+  "name": "Reach Floor 170 of the Passion Tower first.",
+  "threshold": 170,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100918,
+  "worldRankingMstId": 1009,
+  "sortOrder": 18,
+  "name": "Reach Floor 180 of the Passion Tower first.",
+  "threshold": 180,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100919,
+  "worldRankingMstId": 1009,
+  "sortOrder": 19,
+  "name": "Reach Floor 190 of the Passion Tower first.",
+  "threshold": 190,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100920,
+  "worldRankingMstId": 1009,
+  "sortOrder": 20,
+  "name": "Reach Floor 200 of the Passion Tower first.",
+  "threshold": 200,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100921,
+  "worldRankingMstId": 1009,
+  "sortOrder": 21,
+  "name": "Reach Floor 210 of the Passion Tower first.",
+  "threshold": 210,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100922,
+  "worldRankingMstId": 1009,
+  "sortOrder": 22,
+  "name": "Reach Floor 220 of the Passion Tower first.",
+  "threshold": 220,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100923,
+  "worldRankingMstId": 1009,
+  "sortOrder": 23,
+  "name": "Reach Floor 230 of the Passion Tower first.",
+  "threshold": 230,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100924,
+  "worldRankingMstId": 1009,
+  "sortOrder": 24,
+  "name": "Reach Floor 240 of the Passion Tower first.",
+  "threshold": 240,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100925,
+  "worldRankingMstId": 1009,
+  "sortOrder": 25,
+  "name": "Reach Floor 250 of the Passion Tower first.",
+  "threshold": 250,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100926,
+  "worldRankingMstId": 1009,
+  "sortOrder": 26,
+  "name": "Reach Floor 260 of the Passion Tower first.",
+  "threshold": 260,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100927,
+  "worldRankingMstId": 1009,
+  "sortOrder": 27,
+  "name": "Reach Floor 270 of the Passion Tower first.",
+  "threshold": 270,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100928,
+  "worldRankingMstId": 1009,
+  "sortOrder": 28,
+  "name": "Reach Floor 280 of the Passion Tower first.",
+  "threshold": 280,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100929,
+  "worldRankingMstId": 1009,
+  "sortOrder": 29,
+  "name": "Reach Floor 290 of the Passion Tower first.",
+  "threshold": 290,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 100930,
+  "worldRankingMstId": 1009,
+  "sortOrder": 30,
+  "name": "Reach Floor 300 of the Passion Tower first.",
+  "threshold": 300,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 101001,
+  "worldRankingMstId": 1010,
+  "sortOrder": 1,
+  "name": "Reach Area 2 first.",
+  "threshold": 2,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 101002,
+  "worldRankingMstId": 1010,
+  "sortOrder": 1,
+  "name": "Reach Area 3 first.",
+  "threshold": 3,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 101003,
+  "worldRankingMstId": 1010,
+  "sortOrder": 1,
+  "name": "Reach Area 4 first.",
+  "threshold": 4,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 101004,
+  "worldRankingMstId": 1010,
+  "sortOrder": 1,
+  "name": "Reach Area 5 first.",
+  "threshold": 5,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 101005,
+  "worldRankingMstId": 1010,
+  "sortOrder": 1,
+  "name": "Reach Area 6 first.",
+  "threshold": 6,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 101006,
+  "worldRankingMstId": 1010,
+  "sortOrder": 1,
+  "name": "Reach Area 7 first.",
+  "threshold": 7,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 101007,
+  "worldRankingMstId": 1010,
+  "sortOrder": 1,
+  "name": "Reach Area 8 first.",
+  "threshold": 8,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 101008,
+  "worldRankingMstId": 1010,
+  "sortOrder": 1,
+  "name": "Reach Area 9 first.",
+  "threshold": 9,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 101009,
+  "worldRankingMstId": 1010,
+  "sortOrder": 1,
+  "name": "Reach Area 10 first.",
+  "threshold": 10,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200101,
+  "worldRankingMstId": 2001,
+  "sortOrder": 1,
+  "name": "Rach a total Neko Rank of 30 first.",
+  "threshold": 30,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200102,
+  "worldRankingMstId": 2001,
+  "sortOrder": 2,
+  "name": "Rach a total Neko Rank of 60 first.",
+  "threshold": 60,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200103,
+  "worldRankingMstId": 2001,
+  "sortOrder": 3,
+  "name": "Rach a total Neko Rank of 90 first.",
+  "threshold": 90,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200104,
+  "worldRankingMstId": 2001,
+  "sortOrder": 4,
+  "name": "Rach a total Neko Rank of 120 first.",
+  "threshold": 120,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200105,
+  "worldRankingMstId": 2001,
+  "sortOrder": 5,
+  "name": "Rach a total Neko Rank of 150 first.",
+  "threshold": 150,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200106,
+  "worldRankingMstId": 2001,
+  "sortOrder": 6,
+  "name": "Rach a total Neko Rank of 180 first.",
+  "threshold": 180,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200107,
+  "worldRankingMstId": 2001,
+  "sortOrder": 7,
+  "name": "Rach a total Neko Rank of 210 first.",
+  "threshold": 210,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200108,
+  "worldRankingMstId": 2001,
+  "sortOrder": 8,
+  "name": "Rach a total Neko Rank of 240 first.",
+  "threshold": 240,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200109,
+  "worldRankingMstId": 2001,
+  "sortOrder": 9,
+  "name": "Rach a total Neko Rank of 270 first.",
+  "threshold": 270,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200110,
+  "worldRankingMstId": 2001,
+  "sortOrder": 10,
+  "name": "Rach a total Neko Rank of 300 first.",
+  "threshold": 300,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200111,
+  "worldRankingMstId": 2001,
+  "sortOrder": 11,
+  "name": "Rach a total Neko Rank of 330 first.",
+  "threshold": 330,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200112,
+  "worldRankingMstId": 2001,
+  "sortOrder": 12,
+  "name": "Rach a total Neko Rank of 360 first.",
+  "threshold": 360,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200113,
+  "worldRankingMstId": 2001,
+  "sortOrder": 13,
+  "name": "Rach a total Neko Rank of 390 first.",
+  "threshold": 390,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200201,
+  "worldRankingMstId": 2002,
+  "sortOrder": 1,
+  "name": "Rach a total Neko Rank of 5 first.",
+  "threshold": 5,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200202,
+  "worldRankingMstId": 2002,
+  "sortOrder": 2,
+  "name": "Rach a total Neko Rank of 10 first.",
+  "threshold": 10,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200203,
+  "worldRankingMstId": 2002,
+  "sortOrder": 3,
+  "name": "Rach a total Neko Rank of 15 first.",
+  "threshold": 15,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200204,
+  "worldRankingMstId": 2002,
+  "sortOrder": 4,
+  "name": "Rach a total Neko Rank of 20 first.",
+  "threshold": 20,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200205,
+  "worldRankingMstId": 2002,
+  "sortOrder": 5,
+  "name": "Rach a total Neko Rank of 25 first.",
+  "threshold": 25,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200206,
+  "worldRankingMstId": 2002,
+  "sortOrder": 6,
+  "name": "Rach a total Neko Rank of 30 first.",
+  "threshold": 30,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200207,
+  "worldRankingMstId": 2002,
+  "sortOrder": 7,
+  "name": "Rach a total Neko Rank of 35 first.",
+  "threshold": 35,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200208,
+  "worldRankingMstId": 2002,
+  "sortOrder": 8,
+  "name": "Rach a total Neko Rank of 40 first.",
+  "threshold": 40,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200209,
+  "worldRankingMstId": 2002,
+  "sortOrder": 9,
+  "name": "Rach a total Neko Rank of 45 first.",
+  "threshold": 45,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200210,
+  "worldRankingMstId": 2002,
+  "sortOrder": 10,
+  "name": "Rach a total Neko Rank of 50 first.",
+  "threshold": 50,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200211,
+  "worldRankingMstId": 2002,
+  "sortOrder": 11,
+  "name": "Rach a total Neko Rank of 55 first.",
+  "threshold": 55,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200212,
+  "worldRankingMstId": 2002,
+  "sortOrder": 12,
+  "name": "Rach a total Neko Rank of 60 first.",
+  "threshold": 60,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200213,
+  "worldRankingMstId": 2002,
+  "sortOrder": 13,
+  "name": "Rach a total Neko Rank of 65 first.",
+  "threshold": 65,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200214,
+  "worldRankingMstId": 2002,
+  "sortOrder": 14,
+  "name": "Rach a total Neko Rank of 70 first.",
+  "threshold": 70,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200301,
+  "worldRankingMstId": 2003,
+  "sortOrder": 1,
+  "name": "Rach a total Neko Rank of 5 first.",
+  "threshold": 5,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200302,
+  "worldRankingMstId": 2003,
+  "sortOrder": 2,
+  "name": "Rach a total Neko Rank of 10 first.",
+  "threshold": 10,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200303,
+  "worldRankingMstId": 2003,
+  "sortOrder": 3,
+  "name": "Rach a total Neko Rank of 15 first.",
+  "threshold": 15,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200304,
+  "worldRankingMstId": 2003,
+  "sortOrder": 4,
+  "name": "Rach a total Neko Rank of 20 first.",
+  "threshold": 20,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200305,
+  "worldRankingMstId": 2003,
+  "sortOrder": 5,
+  "name": "Rach a total Neko Rank of 25 first.",
+  "threshold": 25,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200306,
+  "worldRankingMstId": 2003,
+  "sortOrder": 6,
+  "name": "Rach a total Neko Rank of 30 first.",
+  "threshold": 30,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200307,
+  "worldRankingMstId": 2003,
+  "sortOrder": 7,
+  "name": "Rach a total Neko Rank of 35 first.",
+  "threshold": 35,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200308,
+  "worldRankingMstId": 2003,
+  "sortOrder": 8,
+  "name": "Rach a total Neko Rank of 40 first.",
+  "threshold": 40,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200401,
+  "worldRankingMstId": 2004,
+  "sortOrder": 1,
+  "name": "Rach a total Neko Rank of 5 first.",
+  "threshold": 5,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200402,
+  "worldRankingMstId": 2004,
+  "sortOrder": 2,
+  "name": "Rach a total Neko Rank of 10 first.",
+  "threshold": 10,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200403,
+  "worldRankingMstId": 2004,
+  "sortOrder": 3,
+  "name": "Rach a total Neko Rank of 15 first.",
+  "threshold": 15,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200404,
+  "worldRankingMstId": 2004,
+  "sortOrder": 4,
+  "name": "Rach a total Neko Rank of 20 first.",
+  "threshold": 20,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200405,
+  "worldRankingMstId": 2004,
+  "sortOrder": 5,
+  "name": "Rach a total Neko Rank of 25 first.",
+  "threshold": 25,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200406,
+  "worldRankingMstId": 2004,
+  "sortOrder": 6,
+  "name": "Rach a total Neko Rank of 30 first.",
+  "threshold": 30,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200407,
+  "worldRankingMstId": 2004,
+  "sortOrder": 7,
+  "name": "Rach a total Neko Rank of 35 first.",
+  "threshold": 35,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200408,
+  "worldRankingMstId": 2004,
+  "sortOrder": 8,
+  "name": "Rach a total Neko Rank of 40 first.",
+  "threshold": 40,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200501,
+  "worldRankingMstId": 2005,
+  "sortOrder": 1,
+  "name": "Rach a total Neko Rank of 5 first.",
+  "threshold": 5,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200502,
+  "worldRankingMstId": 2005,
+  "sortOrder": 2,
+  "name": "Rach a total Neko Rank of 10 first.",
+  "threshold": 10,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200503,
+  "worldRankingMstId": 2005,
+  "sortOrder": 3,
+  "name": "Rach a total Neko Rank of 15 first.",
+  "threshold": 15,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200504,
+  "worldRankingMstId": 2005,
+  "sortOrder": 4,
+  "name": "Rach a total Neko Rank of 20 first.",
+  "threshold": 20,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200505,
+  "worldRankingMstId": 2005,
+  "sortOrder": 5,
+  "name": "Rach a total Neko Rank of 25 first.",
+  "threshold": 25,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200506,
+  "worldRankingMstId": 2005,
+  "sortOrder": 6,
+  "name": "Rach a total Neko Rank of 30 first.",
+  "threshold": 30,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200507,
+  "worldRankingMstId": 2005,
+  "sortOrder": 7,
+  "name": "Rach a total Neko Rank of 35 first.",
+  "threshold": 35,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200508,
+  "worldRankingMstId": 2005,
+  "sortOrder": 8,
+  "name": "Rach a total Neko Rank of 40 first.",
+  "threshold": 40,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200601,
+  "worldRankingMstId": 2006,
+  "sortOrder": 1,
+  "name": "Rach a total Neko Rank of 5 first.",
+  "threshold": 5,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200602,
+  "worldRankingMstId": 2006,
+  "sortOrder": 2,
+  "name": "Rach a total Neko Rank of 10 first.",
+  "threshold": 10,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200603,
+  "worldRankingMstId": 2006,
+  "sortOrder": 3,
+  "name": "Rach a total Neko Rank of 15 first.",
+  "threshold": 15,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200604,
+  "worldRankingMstId": 2006,
+  "sortOrder": 4,
+  "name": "Rach a total Neko Rank of 20 first.",
+  "threshold": 20,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200605,
+  "worldRankingMstId": 2006,
+  "sortOrder": 5,
+  "name": "Rach a total Neko Rank of 25 first.",
+  "threshold": 25,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200606,
+  "worldRankingMstId": 2006,
+  "sortOrder": 6,
+  "name": "Rach a total Neko Rank of 30 first.",
+  "threshold": 30,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200607,
+  "worldRankingMstId": 2006,
+  "sortOrder": 7,
+  "name": "Rach a total Neko Rank of 35 first.",
+  "threshold": 35,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200608,
+  "worldRankingMstId": 2006,
+  "sortOrder": 8,
+  "name": "Rach a total Neko Rank of 40 first.",
+  "threshold": 40,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200701,
+  "worldRankingMstId": 2007,
+  "sortOrder": 1,
+  "name": "Rach a total Neko Rank of 5 first.",
+  "threshold": 5,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200702,
+  "worldRankingMstId": 2007,
+  "sortOrder": 2,
+  "name": "Rach a total Neko Rank of 10 first.",
+  "threshold": 10,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200703,
+  "worldRankingMstId": 2007,
+  "sortOrder": 3,
+  "name": "Rach a total Neko Rank of 15 first.",
+  "threshold": 15,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200704,
+  "worldRankingMstId": 2007,
+  "sortOrder": 4,
+  "name": "Rach a total Neko Rank of 20 first.",
+  "threshold": 20,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200705,
+  "worldRankingMstId": 2007,
+  "sortOrder": 5,
+  "name": "Rach a total Neko Rank of 25 first.",
+  "threshold": 25,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200706,
+  "worldRankingMstId": 2007,
+  "sortOrder": 6,
+  "name": "Rach a total Neko Rank of 30 first.",
+  "threshold": 30,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200707,
+  "worldRankingMstId": 2007,
+  "sortOrder": 7,
+  "name": "Rach a total Neko Rank of 35 first.",
+  "threshold": 35,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 200708,
+  "worldRankingMstId": 2007,
+  "sortOrder": 8,
+  "name": "Rach a total Neko Rank of 40 first.",
+  "threshold": 40,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300101,
+  "worldRankingMstId": 3001,
+  "sortOrder": 1,
+  "name": "Reach a Total Rating of 600K first.",
+  "threshold": 600000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300102,
+  "worldRankingMstId": 3001,
+  "sortOrder": 2,
+  "name": "Reach a Total Rating of 850K first.",
+  "threshold": 850000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300103,
+  "worldRankingMstId": 3001,
+  "sortOrder": 3,
+  "name": "Reach a Total Rating of 1M first.",
+  "threshold": 1000000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300104,
+  "worldRankingMstId": 3001,
+  "sortOrder": 4,
+  "name": "Reach a Total Rating of 1.3M first.",
+  "threshold": 1300000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300105,
+  "worldRankingMstId": 3001,
+  "sortOrder": 5,
+  "name": "Reach a Total Rating of 1.6M first.",
+  "threshold": 1600000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300106,
+  "worldRankingMstId": 3001,
+  "sortOrder": 6,
+  "name": "Reach a Total Rating of 2M first.",
+  "threshold": 2000000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300107,
+  "worldRankingMstId": 3001,
+  "sortOrder": 7,
+  "name": "Reach a Total Rating of 2.5M first.",
+  "threshold": 2500000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300108,
+  "worldRankingMstId": 3001,
+  "sortOrder": 8,
+  "name": "Reach a Total Rating of 3M first.",
+  "threshold": 3000000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300109,
+  "worldRankingMstId": 3001,
+  "sortOrder": 9,
+  "name": "Reach a Total Rating of 3.5M first.",
+  "threshold": 3500000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300110,
+  "worldRankingMstId": 3001,
+  "sortOrder": 10,
+  "name": "Reach a Total Rating of 4M first.",
+  "threshold": 4000000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300111,
+  "worldRankingMstId": 3001,
+  "sortOrder": 11,
+  "name": "Reach a Total Rating of 5M first.",
+  "threshold": 5000000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300112,
+  "worldRankingMstId": 3001,
+  "sortOrder": 12,
+  "name": "Reach a Total Rating of 5.5M first.",
+  "threshold": 5500000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300113,
+  "worldRankingMstId": 3001,
+  "sortOrder": 13,
+  "name": "Reach a Total Rating of 6M first.",
+  "threshold": 6000000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300114,
+  "worldRankingMstId": 3001,
+  "sortOrder": 14,
+  "name": "Reach a Total Rating of 7M first.",
+  "threshold": 7000000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300115,
+  "worldRankingMstId": 3001,
+  "sortOrder": 15,
+  "name": "Reach a Total Rating of 8M first.",
+  "threshold": 8000000,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 300116,
+  "worldRankingMstId": 3001,
+  "sortOrder": 16,
+  "name": "Reach a Total Rating of 10M first.",
+  "threshold": 10000000,
+  "worldRankingRewardGroupId": 100001014
+ }
+]

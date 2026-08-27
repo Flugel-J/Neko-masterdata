@@ -1,0 +1,29 @@
+[
+ {
+  "likeRewardMstId": 1,
+  "rewardGroupId": 1,
+  "likeType": 1,
+  "commonValue": 1,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "likeRewardMstId": 2,
+  "rewardGroupId": 1,
+  "likeType": 1,
+  "commonValue": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "likeRewardMstId": 3,
+  "rewardGroupId": 1,
+  "likeType": 1,
+  "commonValue": 3,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000
+ }
+]

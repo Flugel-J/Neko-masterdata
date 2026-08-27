@@ -1,0 +1,104 @@
+[
+ {
+  "characterUniqueMstId": 10101,
+  "objectReceiveType": 15,
+  "objectId": 1010101,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 10102,
+  "objectReceiveType": 15,
+  "objectId": 1010201,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 10202,
+  "objectReceiveType": 15,
+  "objectId": 1020201,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 10209,
+  "objectReceiveType": 15,
+  "objectId": 1020901,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 10212,
+  "objectReceiveType": 15,
+  "objectId": 1021201,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 10302,
+  "objectReceiveType": 15,
+  "objectId": 1030201,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 10401,
+  "objectReceiveType": 15,
+  "objectId": 1040101,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 10402,
+  "objectReceiveType": 15,
+  "objectId": 1040201,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 10501,
+  "objectReceiveType": 15,
+  "objectId": 1050101,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 10502,
+  "objectReceiveType": 15,
+  "objectId": 1050201,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 10503,
+  "objectReceiveType": 15,
+  "objectId": 1050301,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 10601,
+  "objectReceiveType": 15,
+  "objectId": 1060101,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 10605,
+  "objectReceiveType": 15,
+  "objectId": 1060501,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 19903,
+  "objectReceiveType": 15,
+  "objectId": 1990301,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 19904,
+  "objectReceiveType": 15,
+  "objectId": 1990401,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 19905,
+  "objectReceiveType": 15,
+  "objectId": 1990501,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 19910,
+  "objectReceiveType": 15,
+  "objectId": 1991001,
+  "num": 25
+ }
+]

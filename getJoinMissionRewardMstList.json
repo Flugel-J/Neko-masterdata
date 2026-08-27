@@ -1,0 +1,56 @@
+[
+ {
+  "joinMissionRewardMstId": 1,
+  "rewardGroupId": 1,
+  "joinMissionType": 1,
+  "commonValue": 5,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 50
+ },
+ {
+  "joinMissionRewardMstId": 2,
+  "rewardGroupId": 1,
+  "joinMissionType": 1,
+  "commonValue": 10,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 100
+ },
+ {
+  "joinMissionRewardMstId": 3,
+  "rewardGroupId": 1,
+  "joinMissionType": 1,
+  "commonValue": 20,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 200
+ },
+ {
+  "joinMissionRewardMstId": 4,
+  "rewardGroupId": 1,
+  "joinMissionType": 1,
+  "commonValue": 30,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 300
+ },
+ {
+  "joinMissionRewardMstId": 5,
+  "rewardGroupId": 1,
+  "joinMissionType": 1,
+  "commonValue": 40,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 400
+ },
+ {
+  "joinMissionRewardMstId": 6,
+  "rewardGroupId": 1,
+  "joinMissionType": 1,
+  "commonValue": 50,
+  "objectReceiveType": 6,
+  "objectId": 3030008,
+  "num": 500
+ }
+]

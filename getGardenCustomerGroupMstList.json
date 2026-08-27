@@ -1,0 +1,62 @@
+[
+ {
+  "gardenCustomerGroupMstId": 1,
+  "groupId": 1,
+  "gardenCustomerMstId": 1
+ },
+ {
+  "gardenCustomerGroupMstId": 2,
+  "groupId": 2,
+  "gardenCustomerMstId": 2
+ },
+ {
+  "gardenCustomerGroupMstId": 3,
+  "groupId": 3,
+  "gardenCustomerMstId": 3
+ },
+ {
+  "gardenCustomerGroupMstId": 4,
+  "groupId": 4,
+  "gardenCustomerMstId": 4
+ },
+ {
+  "gardenCustomerGroupMstId": 5,
+  "groupId": 5,
+  "gardenCustomerMstId": 1
+ },
+ {
+  "gardenCustomerGroupMstId": 6,
+  "groupId": 5,
+  "gardenCustomerMstId": 2
+ },
+ {
+  "gardenCustomerGroupMstId": 7,
+  "groupId": 6,
+  "gardenCustomerMstId": 3
+ },
+ {
+  "gardenCustomerGroupMstId": 8,
+  "groupId": 6,
+  "gardenCustomerMstId": 4
+ },
+ {
+  "gardenCustomerGroupMstId": 9,
+  "groupId": 7,
+  "gardenCustomerMstId": 1
+ },
+ {
+  "gardenCustomerGroupMstId": 10,
+  "groupId": 7,
+  "gardenCustomerMstId": 3
+ },
+ {
+  "gardenCustomerGroupMstId": 11,
+  "groupId": 8,
+  "gardenCustomerMstId": 2
+ },
+ {
+  "gardenCustomerGroupMstId": 12,
+  "groupId": 8,
+  "gardenCustomerMstId": 4
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "gardenCustomerMstId": 1,
+  "resourceId": 49903,
+  "name": "None",
+  "customerType": 0
+ },
+ {
+  "gardenCustomerMstId": 2,
+  "resourceId": 49902,
+  "name": "None",
+  "customerType": 0
+ },
+ {
+  "gardenCustomerMstId": 3,
+  "resourceId": 49901,
+  "name": "None",
+  "customerType": 0
+ },
+ {
+  "gardenCustomerMstId": 4,
+  "resourceId": 49905,
+  "name": "None",
+  "customerType": 0
+ }
+]

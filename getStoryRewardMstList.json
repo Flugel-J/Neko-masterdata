@@ -1,0 +1,226 @@
+[
+ {
+  "storyRewardMstId": 1001,
+  "rewardGroupId": 1001,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 1002,
+  "rewardGroupId": 1002,
+  "sortOrder": 1,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "storyRewardMstId": 1003,
+  "rewardGroupId": 1003,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 1004,
+  "rewardGroupId": 1004,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 1005,
+  "rewardGroupId": 1005,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 2001,
+  "rewardGroupId": 2001,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 1,
+  "num": 20
+ },
+ {
+  "storyRewardMstId": 3001,
+  "rewardGroupId": 3001,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 3002,
+  "rewardGroupId": 3002,
+  "sortOrder": 1,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "storyRewardMstId": 3003,
+  "rewardGroupId": 3003,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 1000010501,
+  "rewardGroupId": 10000105,
+  "sortOrder": 1,
+  "objectReceiveType": 29,
+  "objectId": 1601,
+  "num": 1
+ },
+ {
+  "storyRewardMstId": 1000010502,
+  "rewardGroupId": 10000105,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 1000020501,
+  "rewardGroupId": 10000205,
+  "sortOrder": 1,
+  "objectReceiveType": 29,
+  "objectId": 1603,
+  "num": 1
+ },
+ {
+  "storyRewardMstId": 1000020502,
+  "rewardGroupId": 10000205,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 1000030501,
+  "rewardGroupId": 10000305,
+  "sortOrder": 1,
+  "objectReceiveType": 29,
+  "objectId": 1604,
+  "num": 1
+ },
+ {
+  "storyRewardMstId": 1000030502,
+  "rewardGroupId": 10000305,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 1000040501,
+  "rewardGroupId": 10000405,
+  "sortOrder": 1,
+  "objectReceiveType": 29,
+  "objectId": 1607,
+  "num": 1
+ },
+ {
+  "storyRewardMstId": 1000040502,
+  "rewardGroupId": 10000405,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 1000050501,
+  "rewardGroupId": 10000505,
+  "sortOrder": 1,
+  "objectReceiveType": 29,
+  "objectId": 1610,
+  "num": 1
+ },
+ {
+  "storyRewardMstId": 1000050502,
+  "rewardGroupId": 10000505,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 1101060301,
+  "rewardGroupId": 11010603,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 1101060302,
+  "rewardGroupId": 11010603,
+  "sortOrder": 2,
+  "objectReceiveType": 19,
+  "objectId": 10003,
+  "num": 1
+ },
+ {
+  "storyRewardMstId": 1102020301,
+  "rewardGroupId": 11020203,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 1102020302,
+  "rewardGroupId": 11020203,
+  "sortOrder": 2,
+  "objectReceiveType": 29,
+  "objectId": 1307,
+  "num": 1
+ },
+ {
+  "storyRewardMstId": 1102020303,
+  "rewardGroupId": 11020203,
+  "sortOrder": 3,
+  "objectReceiveType": 29,
+  "objectId": 1301,
+  "num": 1
+ },
+ {
+  "storyRewardMstId": 1102020304,
+  "rewardGroupId": 11020203,
+  "sortOrder": 4,
+  "objectReceiveType": 29,
+  "objectId": 1308,
+  "num": 1
+ },
+ {
+  "storyRewardMstId": 1102020305,
+  "rewardGroupId": 11020203,
+  "sortOrder": 5,
+  "objectReceiveType": 29,
+  "objectId": 1309,
+  "num": 1
+ },
+ {
+  "storyRewardMstId": 1102060201,
+  "rewardGroupId": 11020602,
+  "sortOrder": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "storyRewardMstId": 1102060202,
+  "rewardGroupId": 11020602,
+  "sortOrder": 2,
+  "objectReceiveType": 19,
+  "objectId": 10004,
+  "num": 1
+ }
+]

@@ -1,0 +1,1002 @@
+[
+ {
+  "level": 1,
+  "orderRequestCount": 4,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 500,
+  "rarity2Weight": 500,
+  "rarity3Weight": 0,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 2,
+  "orderRequestCount": 4,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 500,
+  "rarity2Weight": 500,
+  "rarity3Weight": 0,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 3,
+  "orderRequestCount": 4,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 500,
+  "rarity2Weight": 500,
+  "rarity3Weight": 0,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 4,
+  "orderRequestCount": 4,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 500,
+  "rarity2Weight": 500,
+  "rarity3Weight": 0,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 5,
+  "orderRequestCount": 4,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 500,
+  "rarity2Weight": 500,
+  "rarity3Weight": 0,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 6,
+  "orderRequestCount": 4,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 500,
+  "rarity2Weight": 500,
+  "rarity3Weight": 0,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 7,
+  "orderRequestCount": 4,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 500,
+  "rarity2Weight": 500,
+  "rarity3Weight": 0,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 8,
+  "orderRequestCount": 4,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 500,
+  "rarity2Weight": 500,
+  "rarity3Weight": 0,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 9,
+  "orderRequestCount": 4,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 500,
+  "rarity2Weight": 500,
+  "rarity3Weight": 0,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 10,
+  "orderRequestCount": 5,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 460,
+  "rarity2Weight": 460,
+  "rarity3Weight": 80,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 11,
+  "orderRequestCount": 5,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 460,
+  "rarity2Weight": 460,
+  "rarity3Weight": 80,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 12,
+  "orderRequestCount": 5,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 460,
+  "rarity2Weight": 460,
+  "rarity3Weight": 80,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 13,
+  "orderRequestCount": 5,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 460,
+  "rarity2Weight": 460,
+  "rarity3Weight": 80,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 14,
+  "orderRequestCount": 5,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 460,
+  "rarity2Weight": 460,
+  "rarity3Weight": 80,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 15,
+  "orderRequestCount": 5,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 460,
+  "rarity2Weight": 460,
+  "rarity3Weight": 80,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 16,
+  "orderRequestCount": 5,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 460,
+  "rarity2Weight": 460,
+  "rarity3Weight": 80,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 17,
+  "orderRequestCount": 5,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 460,
+  "rarity2Weight": 460,
+  "rarity3Weight": 80,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 18,
+  "orderRequestCount": 5,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 460,
+  "rarity2Weight": 460,
+  "rarity3Weight": 80,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 19,
+  "orderRequestCount": 5,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 460,
+  "rarity2Weight": 460,
+  "rarity3Weight": 80,
+  "rarity4Weight": 0,
+  "rarity5Weight": 0
+ },
+ {
+  "level": 20,
+  "orderRequestCount": 6,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 800,
+  "rarity3Weight": 145,
+  "rarity4Weight": 50,
+  "rarity5Weight": 5
+ },
+ {
+  "level": 21,
+  "orderRequestCount": 6,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 800,
+  "rarity3Weight": 145,
+  "rarity4Weight": 50,
+  "rarity5Weight": 5
+ },
+ {
+  "level": 22,
+  "orderRequestCount": 6,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 800,
+  "rarity3Weight": 145,
+  "rarity4Weight": 50,
+  "rarity5Weight": 5
+ },
+ {
+  "level": 23,
+  "orderRequestCount": 6,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 800,
+  "rarity3Weight": 145,
+  "rarity4Weight": 50,
+  "rarity5Weight": 5
+ },
+ {
+  "level": 24,
+  "orderRequestCount": 6,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 800,
+  "rarity3Weight": 145,
+  "rarity4Weight": 50,
+  "rarity5Weight": 5
+ },
+ {
+  "level": 25,
+  "orderRequestCount": 6,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 800,
+  "rarity3Weight": 145,
+  "rarity4Weight": 50,
+  "rarity5Weight": 5
+ },
+ {
+  "level": 26,
+  "orderRequestCount": 6,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 800,
+  "rarity3Weight": 145,
+  "rarity4Weight": 50,
+  "rarity5Weight": 5
+ },
+ {
+  "level": 27,
+  "orderRequestCount": 6,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 800,
+  "rarity3Weight": 145,
+  "rarity4Weight": 50,
+  "rarity5Weight": 5
+ },
+ {
+  "level": 28,
+  "orderRequestCount": 6,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 800,
+  "rarity3Weight": 145,
+  "rarity4Weight": 50,
+  "rarity5Weight": 5
+ },
+ {
+  "level": 29,
+  "orderRequestCount": 6,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 800,
+  "rarity3Weight": 145,
+  "rarity4Weight": 50,
+  "rarity5Weight": 5
+ },
+ {
+  "level": 30,
+  "orderRequestCount": 7,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 500,
+  "rarity3Weight": 300,
+  "rarity4Weight": 150,
+  "rarity5Weight": 50
+ },
+ {
+  "level": 31,
+  "orderRequestCount": 7,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 500,
+  "rarity3Weight": 300,
+  "rarity4Weight": 150,
+  "rarity5Weight": 50
+ },
+ {
+  "level": 32,
+  "orderRequestCount": 7,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 500,
+  "rarity3Weight": 300,
+  "rarity4Weight": 150,
+  "rarity5Weight": 50
+ },
+ {
+  "level": 33,
+  "orderRequestCount": 7,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 500,
+  "rarity3Weight": 300,
+  "rarity4Weight": 150,
+  "rarity5Weight": 50
+ },
+ {
+  "level": 34,
+  "orderRequestCount": 7,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 500,
+  "rarity3Weight": 300,
+  "rarity4Weight": 150,
+  "rarity5Weight": 50
+ },
+ {
+  "level": 35,
+  "orderRequestCount": 7,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 0,
+  "rarity2Weight": 500,
+  "rarity3Weight": 300,
+  "rarity4Weight": 150,
+  "rarity5Weight": 50
+ },
+ {
+  "level": 36,
+  "orderRequestCount": 7,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 450,
+  "rarity2Weight": 375,
+  "rarity3Weight": 130,
+  "rarity4Weight": 30,
+  "rarity5Weight": 15
+ },
+ {
+  "level": 37,
+  "orderRequestCount": 7,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 450,
+  "rarity2Weight": 375,
+  "rarity3Weight": 130,
+  "rarity4Weight": 30,
+  "rarity5Weight": 15
+ },
+ {
+  "level": 38,
+  "orderRequestCount": 7,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 450,
+  "rarity2Weight": 375,
+  "rarity3Weight": 130,
+  "rarity4Weight": 30,
+  "rarity5Weight": 15
+ },
+ {
+  "level": 39,
+  "orderRequestCount": 7,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 450,
+  "rarity2Weight": 375,
+  "rarity3Weight": 130,
+  "rarity4Weight": 30,
+  "rarity5Weight": 15
+ },
+ {
+  "level": 40,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 440,
+  "rarity2Weight": 360,
+  "rarity3Weight": 140,
+  "rarity4Weight": 40,
+  "rarity5Weight": 20
+ },
+ {
+  "level": 41,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 440,
+  "rarity2Weight": 360,
+  "rarity3Weight": 140,
+  "rarity4Weight": 40,
+  "rarity5Weight": 20
+ },
+ {
+  "level": 42,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 440,
+  "rarity2Weight": 360,
+  "rarity3Weight": 140,
+  "rarity4Weight": 40,
+  "rarity5Weight": 20
+ },
+ {
+  "level": 43,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 440,
+  "rarity2Weight": 360,
+  "rarity3Weight": 140,
+  "rarity4Weight": 40,
+  "rarity5Weight": 20
+ },
+ {
+  "level": 44,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 440,
+  "rarity2Weight": 360,
+  "rarity3Weight": 140,
+  "rarity4Weight": 40,
+  "rarity5Weight": 20
+ },
+ {
+  "level": 45,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 440,
+  "rarity2Weight": 360,
+  "rarity3Weight": 140,
+  "rarity4Weight": 40,
+  "rarity5Weight": 20
+ },
+ {
+  "level": 46,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 440,
+  "rarity2Weight": 360,
+  "rarity3Weight": 140,
+  "rarity4Weight": 40,
+  "rarity5Weight": 20
+ },
+ {
+  "level": 47,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 440,
+  "rarity2Weight": 360,
+  "rarity3Weight": 140,
+  "rarity4Weight": 40,
+  "rarity5Weight": 20
+ },
+ {
+  "level": 48,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 440,
+  "rarity2Weight": 360,
+  "rarity3Weight": 140,
+  "rarity4Weight": 40,
+  "rarity5Weight": 20
+ },
+ {
+  "level": 49,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 440,
+  "rarity2Weight": 360,
+  "rarity3Weight": 140,
+  "rarity4Weight": 40,
+  "rarity5Weight": 20
+ },
+ {
+  "level": 50,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 420,
+  "rarity2Weight": 355,
+  "rarity3Weight": 150,
+  "rarity4Weight": 50,
+  "rarity5Weight": 25
+ },
+ {
+  "level": 51,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 420,
+  "rarity2Weight": 355,
+  "rarity3Weight": 150,
+  "rarity4Weight": 50,
+  "rarity5Weight": 25
+ },
+ {
+  "level": 52,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 420,
+  "rarity2Weight": 355,
+  "rarity3Weight": 150,
+  "rarity4Weight": 50,
+  "rarity5Weight": 25
+ },
+ {
+  "level": 53,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 420,
+  "rarity2Weight": 355,
+  "rarity3Weight": 150,
+  "rarity4Weight": 50,
+  "rarity5Weight": 25
+ },
+ {
+  "level": 54,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 420,
+  "rarity2Weight": 355,
+  "rarity3Weight": 150,
+  "rarity4Weight": 50,
+  "rarity5Weight": 25
+ },
+ {
+  "level": 55,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 420,
+  "rarity2Weight": 355,
+  "rarity3Weight": 150,
+  "rarity4Weight": 50,
+  "rarity5Weight": 25
+ },
+ {
+  "level": 56,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 420,
+  "rarity2Weight": 355,
+  "rarity3Weight": 150,
+  "rarity4Weight": 50,
+  "rarity5Weight": 25
+ },
+ {
+  "level": 57,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 420,
+  "rarity2Weight": 355,
+  "rarity3Weight": 150,
+  "rarity4Weight": 50,
+  "rarity5Weight": 25
+ },
+ {
+  "level": 58,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 420,
+  "rarity2Weight": 355,
+  "rarity3Weight": 150,
+  "rarity4Weight": 50,
+  "rarity5Weight": 25
+ },
+ {
+  "level": 59,
+  "orderRequestCount": 8,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 420,
+  "rarity2Weight": 355,
+  "rarity3Weight": 150,
+  "rarity4Weight": 50,
+  "rarity5Weight": 25
+ },
+ {
+  "level": 60,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 410,
+  "rarity2Weight": 340,
+  "rarity3Weight": 160,
+  "rarity4Weight": 60,
+  "rarity5Weight": 30
+ },
+ {
+  "level": 61,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 410,
+  "rarity2Weight": 340,
+  "rarity3Weight": 160,
+  "rarity4Weight": 60,
+  "rarity5Weight": 30
+ },
+ {
+  "level": 62,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 410,
+  "rarity2Weight": 340,
+  "rarity3Weight": 160,
+  "rarity4Weight": 60,
+  "rarity5Weight": 30
+ },
+ {
+  "level": 63,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 410,
+  "rarity2Weight": 340,
+  "rarity3Weight": 160,
+  "rarity4Weight": 60,
+  "rarity5Weight": 30
+ },
+ {
+  "level": 64,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 410,
+  "rarity2Weight": 340,
+  "rarity3Weight": 160,
+  "rarity4Weight": 60,
+  "rarity5Weight": 30
+ },
+ {
+  "level": 65,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 410,
+  "rarity2Weight": 340,
+  "rarity3Weight": 160,
+  "rarity4Weight": 60,
+  "rarity5Weight": 30
+ },
+ {
+  "level": 66,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 410,
+  "rarity2Weight": 340,
+  "rarity3Weight": 160,
+  "rarity4Weight": 60,
+  "rarity5Weight": 30
+ },
+ {
+  "level": 67,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 410,
+  "rarity2Weight": 340,
+  "rarity3Weight": 160,
+  "rarity4Weight": 60,
+  "rarity5Weight": 30
+ },
+ {
+  "level": 68,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 410,
+  "rarity2Weight": 340,
+  "rarity3Weight": 160,
+  "rarity4Weight": 60,
+  "rarity5Weight": 30
+ },
+ {
+  "level": 69,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 410,
+  "rarity2Weight": 340,
+  "rarity3Weight": 160,
+  "rarity4Weight": 60,
+  "rarity5Weight": 30
+ },
+ {
+  "level": 70,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 390,
+  "rarity2Weight": 335,
+  "rarity3Weight": 170,
+  "rarity4Weight": 70,
+  "rarity5Weight": 35
+ },
+ {
+  "level": 71,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 390,
+  "rarity2Weight": 335,
+  "rarity3Weight": 170,
+  "rarity4Weight": 70,
+  "rarity5Weight": 35
+ },
+ {
+  "level": 72,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 390,
+  "rarity2Weight": 335,
+  "rarity3Weight": 170,
+  "rarity4Weight": 70,
+  "rarity5Weight": 35
+ },
+ {
+  "level": 73,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 390,
+  "rarity2Weight": 335,
+  "rarity3Weight": 170,
+  "rarity4Weight": 70,
+  "rarity5Weight": 35
+ },
+ {
+  "level": 74,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 390,
+  "rarity2Weight": 335,
+  "rarity3Weight": 170,
+  "rarity4Weight": 70,
+  "rarity5Weight": 35
+ },
+ {
+  "level": 75,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 390,
+  "rarity2Weight": 335,
+  "rarity3Weight": 170,
+  "rarity4Weight": 70,
+  "rarity5Weight": 35
+ },
+ {
+  "level": 76,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 390,
+  "rarity2Weight": 335,
+  "rarity3Weight": 170,
+  "rarity4Weight": 70,
+  "rarity5Weight": 35
+ },
+ {
+  "level": 77,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 390,
+  "rarity2Weight": 335,
+  "rarity3Weight": 170,
+  "rarity4Weight": 70,
+  "rarity5Weight": 35
+ },
+ {
+  "level": 78,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 390,
+  "rarity2Weight": 335,
+  "rarity3Weight": 170,
+  "rarity4Weight": 70,
+  "rarity5Weight": 35
+ },
+ {
+  "level": 79,
+  "orderRequestCount": 9,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 390,
+  "rarity2Weight": 335,
+  "rarity3Weight": 170,
+  "rarity4Weight": 70,
+  "rarity5Weight": 35
+ },
+ {
+  "level": 80,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 380,
+  "rarity2Weight": 320,
+  "rarity3Weight": 180,
+  "rarity4Weight": 80,
+  "rarity5Weight": 40
+ },
+ {
+  "level": 81,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 380,
+  "rarity2Weight": 320,
+  "rarity3Weight": 180,
+  "rarity4Weight": 80,
+  "rarity5Weight": 40
+ },
+ {
+  "level": 82,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 380,
+  "rarity2Weight": 320,
+  "rarity3Weight": 180,
+  "rarity4Weight": 80,
+  "rarity5Weight": 40
+ },
+ {
+  "level": 83,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 380,
+  "rarity2Weight": 320,
+  "rarity3Weight": 180,
+  "rarity4Weight": 80,
+  "rarity5Weight": 40
+ },
+ {
+  "level": 84,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 380,
+  "rarity2Weight": 320,
+  "rarity3Weight": 180,
+  "rarity4Weight": 80,
+  "rarity5Weight": 40
+ },
+ {
+  "level": 85,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 380,
+  "rarity2Weight": 320,
+  "rarity3Weight": 180,
+  "rarity4Weight": 80,
+  "rarity5Weight": 40
+ },
+ {
+  "level": 86,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 380,
+  "rarity2Weight": 320,
+  "rarity3Weight": 180,
+  "rarity4Weight": 80,
+  "rarity5Weight": 40
+ },
+ {
+  "level": 87,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 380,
+  "rarity2Weight": 320,
+  "rarity3Weight": 180,
+  "rarity4Weight": 80,
+  "rarity5Weight": 40
+ },
+ {
+  "level": 88,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 380,
+  "rarity2Weight": 320,
+  "rarity3Weight": 180,
+  "rarity4Weight": 80,
+  "rarity5Weight": 40
+ },
+ {
+  "level": 89,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 380,
+  "rarity2Weight": 320,
+  "rarity3Weight": 180,
+  "rarity4Weight": 80,
+  "rarity5Weight": 40
+ },
+ {
+  "level": 90,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 360,
+  "rarity2Weight": 315,
+  "rarity3Weight": 190,
+  "rarity4Weight": 90,
+  "rarity5Weight": 45
+ },
+ {
+  "level": 91,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 360,
+  "rarity2Weight": 315,
+  "rarity3Weight": 190,
+  "rarity4Weight": 90,
+  "rarity5Weight": 45
+ },
+ {
+  "level": 92,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 360,
+  "rarity2Weight": 315,
+  "rarity3Weight": 190,
+  "rarity4Weight": 90,
+  "rarity5Weight": 45
+ },
+ {
+  "level": 93,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 360,
+  "rarity2Weight": 315,
+  "rarity3Weight": 190,
+  "rarity4Weight": 90,
+  "rarity5Weight": 45
+ },
+ {
+  "level": 94,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 360,
+  "rarity2Weight": 315,
+  "rarity3Weight": 190,
+  "rarity4Weight": 90,
+  "rarity5Weight": 45
+ },
+ {
+  "level": 95,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 360,
+  "rarity2Weight": 315,
+  "rarity3Weight": 190,
+  "rarity4Weight": 90,
+  "rarity5Weight": 45
+ },
+ {
+  "level": 96,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 360,
+  "rarity2Weight": 315,
+  "rarity3Weight": 190,
+  "rarity4Weight": 90,
+  "rarity5Weight": 45
+ },
+ {
+  "level": 97,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 360,
+  "rarity2Weight": 315,
+  "rarity3Weight": 190,
+  "rarity4Weight": 90,
+  "rarity5Weight": 45
+ },
+ {
+  "level": 98,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 360,
+  "rarity2Weight": 315,
+  "rarity3Weight": 190,
+  "rarity4Weight": 90,
+  "rarity5Weight": 45
+ },
+ {
+  "level": 99,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 360,
+  "rarity2Weight": 315,
+  "rarity3Weight": 190,
+  "rarity4Weight": 90,
+  "rarity5Weight": 45
+ },
+ {
+  "level": 100,
+  "orderRequestCount": 10,
+  "freeRefreshCount": 1,
+  "rarity1Weight": 350,
+  "rarity2Weight": 300,
+  "rarity3Weight": 200,
+  "rarity4Weight": 100,
+  "rarity5Weight": 50
+ }
+]

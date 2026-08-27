@@ -1,0 +1,706 @@
+[
+ {
+  "rhythmGameRewardMstId": 1000101,
+  "rhythmGameMstId": 10001,
+  "name": "Achieve a Score Rank of S",
+  "conditionType": 2,
+  "conditionCount": 1,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000102,
+  "rhythmGameMstId": 10001,
+  "name": "Achieve a Score Rank of A",
+  "conditionType": 2,
+  "conditionCount": 2,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000103,
+  "rhythmGameMstId": 10001,
+  "name": "Achieve a Score Rank of B",
+  "conditionType": 2,
+  "conditionCount": 3,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000104,
+  "rhythmGameMstId": 10001,
+  "name": "Achieve a Score Rank of C",
+  "conditionType": 2,
+  "conditionCount": 4,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000105,
+  "rhythmGameMstId": 10001,
+  "name": "Achieve 50 Combos",
+  "conditionType": 4,
+  "conditionCount": 50,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000106,
+  "rhythmGameMstId": 10001,
+  "name": "Achieve 100 Combos",
+  "conditionType": 4,
+  "conditionCount": 100,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000107,
+  "rhythmGameMstId": 10001,
+  "name": "Achieve 200 Combos",
+  "conditionType": 4,
+  "conditionCount": 200,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000108,
+  "rhythmGameMstId": 10001,
+  "name": "Achieve 300 Combos",
+  "conditionType": 4,
+  "conditionCount": 300,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000109,
+  "rhythmGameMstId": 10003,
+  "name": "Achieve a Score Rank of S",
+  "conditionType": 2,
+  "conditionCount": 1,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000110,
+  "rhythmGameMstId": 10003,
+  "name": "Achieve a Score Rank of A",
+  "conditionType": 2,
+  "conditionCount": 2,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000111,
+  "rhythmGameMstId": 10003,
+  "name": "Achieve a Score Rank of B",
+  "conditionType": 2,
+  "conditionCount": 3,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000112,
+  "rhythmGameMstId": 10003,
+  "name": "Achieve a Score Rank of C",
+  "conditionType": 2,
+  "conditionCount": 4,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000113,
+  "rhythmGameMstId": 10003,
+  "name": "Achieve 50 Combos",
+  "conditionType": 4,
+  "conditionCount": 50,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000114,
+  "rhythmGameMstId": 10003,
+  "name": "Achieve 100 Combos",
+  "conditionType": 4,
+  "conditionCount": 100,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000115,
+  "rhythmGameMstId": 10003,
+  "name": "Achieve 200 Combos",
+  "conditionType": 4,
+  "conditionCount": 200,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000116,
+  "rhythmGameMstId": 10003,
+  "name": "Achieve 300 Combos",
+  "conditionType": 4,
+  "conditionCount": 300,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000117,
+  "rhythmGameMstId": 20001,
+  "name": "Achieve a Score Rank of S",
+  "conditionType": 2,
+  "conditionCount": 1,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000118,
+  "rhythmGameMstId": 20001,
+  "name": "Achieve a Score Rank of A",
+  "conditionType": 2,
+  "conditionCount": 2,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000119,
+  "rhythmGameMstId": 20001,
+  "name": "Achieve a Score Rank of B",
+  "conditionType": 2,
+  "conditionCount": 3,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000120,
+  "rhythmGameMstId": 20001,
+  "name": "Achieve a Score Rank of C",
+  "conditionType": 2,
+  "conditionCount": 4,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000121,
+  "rhythmGameMstId": 20001,
+  "name": "Achieve 50 Combos",
+  "conditionType": 4,
+  "conditionCount": 50,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000122,
+  "rhythmGameMstId": 20001,
+  "name": "Achieve 100 Combos",
+  "conditionType": 4,
+  "conditionCount": 100,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000123,
+  "rhythmGameMstId": 20001,
+  "name": "Achieve 200 Combos",
+  "conditionType": 4,
+  "conditionCount": 200,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000124,
+  "rhythmGameMstId": 20001,
+  "name": "Achieve 300 Combos",
+  "conditionType": 4,
+  "conditionCount": 300,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000125,
+  "rhythmGameMstId": 20002,
+  "name": "Achieve a Score Rank of S",
+  "conditionType": 2,
+  "conditionCount": 1,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000126,
+  "rhythmGameMstId": 20002,
+  "name": "Achieve a Score Rank of A",
+  "conditionType": 2,
+  "conditionCount": 2,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000127,
+  "rhythmGameMstId": 20002,
+  "name": "Achieve a Score Rank of B",
+  "conditionType": 2,
+  "conditionCount": 3,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000128,
+  "rhythmGameMstId": 20002,
+  "name": "Achieve a Score Rank of C",
+  "conditionType": 2,
+  "conditionCount": 4,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000129,
+  "rhythmGameMstId": 20002,
+  "name": "Achieve 50 Combos",
+  "conditionType": 4,
+  "conditionCount": 50,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000130,
+  "rhythmGameMstId": 20002,
+  "name": "Achieve 100 Combos",
+  "conditionType": 4,
+  "conditionCount": 100,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000131,
+  "rhythmGameMstId": 20002,
+  "name": "Achieve 200 Combos",
+  "conditionType": 4,
+  "conditionCount": 200,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000132,
+  "rhythmGameMstId": 20002,
+  "name": "Achieve 300 Combos",
+  "conditionType": 4,
+  "conditionCount": 300,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000133,
+  "rhythmGameMstId": 20003,
+  "name": "Achieve a Score Rank of S",
+  "conditionType": 2,
+  "conditionCount": 1,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000134,
+  "rhythmGameMstId": 20003,
+  "name": "Achieve a Score Rank of A",
+  "conditionType": 2,
+  "conditionCount": 2,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000135,
+  "rhythmGameMstId": 20003,
+  "name": "Achieve a Score Rank of B",
+  "conditionType": 2,
+  "conditionCount": 3,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000136,
+  "rhythmGameMstId": 20003,
+  "name": "Achieve a Score Rank of C",
+  "conditionType": 2,
+  "conditionCount": 4,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000137,
+  "rhythmGameMstId": 20003,
+  "name": "Achieve 50 Combos",
+  "conditionType": 4,
+  "conditionCount": 50,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000138,
+  "rhythmGameMstId": 20003,
+  "name": "Achieve 100 Combos",
+  "conditionType": 4,
+  "conditionCount": 100,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000139,
+  "rhythmGameMstId": 20003,
+  "name": "Achieve 200 Combos",
+  "conditionType": 4,
+  "conditionCount": 200,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000140,
+  "rhythmGameMstId": 20003,
+  "name": "Achieve 300 Combos",
+  "conditionType": 4,
+  "conditionCount": 300,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000141,
+  "rhythmGameMstId": 20004,
+  "name": "Achieve a Score Rank of S",
+  "conditionType": 2,
+  "conditionCount": 1,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000142,
+  "rhythmGameMstId": 20004,
+  "name": "Achieve a Score Rank of A",
+  "conditionType": 2,
+  "conditionCount": 2,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000143,
+  "rhythmGameMstId": 20004,
+  "name": "Achieve a Score Rank of B",
+  "conditionType": 2,
+  "conditionCount": 3,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000144,
+  "rhythmGameMstId": 20004,
+  "name": "Achieve a Score Rank of C",
+  "conditionType": 2,
+  "conditionCount": 4,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000145,
+  "rhythmGameMstId": 20004,
+  "name": "Achieve 50 Combos",
+  "conditionType": 4,
+  "conditionCount": 50,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000146,
+  "rhythmGameMstId": 20004,
+  "name": "Achieve 100 Combos",
+  "conditionType": 4,
+  "conditionCount": 100,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000147,
+  "rhythmGameMstId": 20004,
+  "name": "Achieve 200 Combos",
+  "conditionType": 4,
+  "conditionCount": 200,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000148,
+  "rhythmGameMstId": 20004,
+  "name": "Achieve 300 Combos",
+  "conditionType": 4,
+  "conditionCount": 300,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000149,
+  "rhythmGameMstId": 20005,
+  "name": "Achieve a Score Rank of S",
+  "conditionType": 2,
+  "conditionCount": 1,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000150,
+  "rhythmGameMstId": 20005,
+  "name": "Achieve a Score Rank of A",
+  "conditionType": 2,
+  "conditionCount": 2,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000151,
+  "rhythmGameMstId": 20005,
+  "name": "Achieve a Score Rank of B",
+  "conditionType": 2,
+  "conditionCount": 3,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000152,
+  "rhythmGameMstId": 20005,
+  "name": "Achieve a Score Rank of C",
+  "conditionType": 2,
+  "conditionCount": 4,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000153,
+  "rhythmGameMstId": 20005,
+  "name": "Achieve 50 Combos",
+  "conditionType": 4,
+  "conditionCount": 50,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000154,
+  "rhythmGameMstId": 20005,
+  "name": "Achieve 100 Combos",
+  "conditionType": 4,
+  "conditionCount": 100,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000155,
+  "rhythmGameMstId": 20005,
+  "name": "Achieve 200 Combos",
+  "conditionType": 4,
+  "conditionCount": 200,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000156,
+  "rhythmGameMstId": 20005,
+  "name": "Achieve 300 Combos",
+  "conditionType": 4,
+  "conditionCount": 300,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000157,
+  "rhythmGameMstId": 20006,
+  "name": "Achieve a Score Rank of S",
+  "conditionType": 2,
+  "conditionCount": 1,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000158,
+  "rhythmGameMstId": 20006,
+  "name": "Achieve a Score Rank of A",
+  "conditionType": 2,
+  "conditionCount": 2,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000159,
+  "rhythmGameMstId": 20006,
+  "name": "Achieve a Score Rank of B",
+  "conditionType": 2,
+  "conditionCount": 3,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000160,
+  "rhythmGameMstId": 20006,
+  "name": "Achieve a Score Rank of C",
+  "conditionType": 2,
+  "conditionCount": 4,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000161,
+  "rhythmGameMstId": 20006,
+  "name": "Achieve 50 Combos",
+  "conditionType": 4,
+  "conditionCount": 50,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000162,
+  "rhythmGameMstId": 20006,
+  "name": "Achieve 100 Combos",
+  "conditionType": 4,
+  "conditionCount": 100,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000163,
+  "rhythmGameMstId": 20006,
+  "name": "Achieve 200 Combos",
+  "conditionType": 4,
+  "conditionCount": 200,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000164,
+  "rhythmGameMstId": 20006,
+  "name": "Achieve 300 Combos",
+  "conditionType": 4,
+  "conditionCount": 300,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000165,
+  "rhythmGameMstId": 20007,
+  "name": "Achieve a Score Rank of S",
+  "conditionType": 2,
+  "conditionCount": 1,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000166,
+  "rhythmGameMstId": 20007,
+  "name": "Achieve a Score Rank of A",
+  "conditionType": 2,
+  "conditionCount": 2,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000167,
+  "rhythmGameMstId": 20007,
+  "name": "Achieve a Score Rank of B",
+  "conditionType": 2,
+  "conditionCount": 3,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000168,
+  "rhythmGameMstId": 20007,
+  "name": "Achieve a Score Rank of C",
+  "conditionType": 2,
+  "conditionCount": 4,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000169,
+  "rhythmGameMstId": 20007,
+  "name": "Achieve 50 Combos",
+  "conditionType": 4,
+  "conditionCount": 50,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000170,
+  "rhythmGameMstId": 20007,
+  "name": "Achieve 100 Combos",
+  "conditionType": 4,
+  "conditionCount": 100,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000171,
+  "rhythmGameMstId": 20007,
+  "name": "Achieve 200 Combos",
+  "conditionType": 4,
+  "conditionCount": 200,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000172,
+  "rhythmGameMstId": 20007,
+  "name": "Achieve 250 Combos",
+  "conditionType": 4,
+  "conditionCount": 250,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000173,
+  "rhythmGameMstId": 20008,
+  "name": "Achieve a Score Rank of S",
+  "conditionType": 2,
+  "conditionCount": 1,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000174,
+  "rhythmGameMstId": 20008,
+  "name": "Achieve a Score Rank of A",
+  "conditionType": 2,
+  "conditionCount": 2,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000175,
+  "rhythmGameMstId": 20008,
+  "name": "Achieve a Score Rank of B",
+  "conditionType": 2,
+  "conditionCount": 3,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000176,
+  "rhythmGameMstId": 20008,
+  "name": "Achieve a Score Rank of C",
+  "conditionType": 2,
+  "conditionCount": 4,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000177,
+  "rhythmGameMstId": 20008,
+  "name": "Achieve 80 Combos",
+  "conditionType": 4,
+  "conditionCount": 80,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000178,
+  "rhythmGameMstId": 20008,
+  "name": "Achieve 120 Combos",
+  "conditionType": 4,
+  "conditionCount": 120,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000179,
+  "rhythmGameMstId": 20008,
+  "name": "Achieve 200 Combos",
+  "conditionType": 4,
+  "conditionCount": 200,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000180,
+  "rhythmGameMstId": 20008,
+  "name": "Achieve 280 Combos",
+  "conditionType": 4,
+  "conditionCount": 280,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000181,
+  "rhythmGameMstId": 10004,
+  "name": "Achieve a Score Rank of S",
+  "conditionType": 2,
+  "conditionCount": 1,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ },
+ {
+  "rhythmGameRewardMstId": 1000182,
+  "rhythmGameMstId": 10004,
+  "name": "Achieve a Score Rank of A",
+  "conditionType": 2,
+  "conditionCount": 2,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000183,
+  "rhythmGameMstId": 10004,
+  "name": "Achieve a Score Rank of B",
+  "conditionType": 2,
+  "conditionCount": 3,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000184,
+  "rhythmGameMstId": 10004,
+  "name": "Achieve a Score Rank of C",
+  "conditionType": 2,
+  "conditionCount": 4,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000185,
+  "rhythmGameMstId": 10004,
+  "name": "Achieve 80 Combos",
+  "conditionType": 4,
+  "conditionCount": 80,
+  "rhythmGameRewardItemGroupMstId": 1000107
+ },
+ {
+  "rhythmGameRewardMstId": 1000186,
+  "rhythmGameMstId": 10004,
+  "name": "Achieve 120 Combos",
+  "conditionType": 4,
+  "conditionCount": 120,
+  "rhythmGameRewardItemGroupMstId": 1000105
+ },
+ {
+  "rhythmGameRewardMstId": 1000187,
+  "rhythmGameMstId": 10004,
+  "name": "Achieve 190 Combos",
+  "conditionType": 4,
+  "conditionCount": 190,
+  "rhythmGameRewardItemGroupMstId": 1000103
+ },
+ {
+  "rhythmGameRewardMstId": 1000188,
+  "rhythmGameMstId": 10004,
+  "name": "Achieve 260 Combos",
+  "conditionType": 4,
+  "conditionCount": 260,
+  "rhythmGameRewardItemGroupMstId": 1000101
+ }
+]

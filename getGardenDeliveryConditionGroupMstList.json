@@ -1,0 +1,674 @@
+[
+ {
+  "gardenDeliveryConditionGroupMstId": 1,
+  "groupId": 1,
+  "conditionType": 1,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 2,
+  "groupId": 1,
+  "conditionType": 2,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 3,
+  "groupId": 2,
+  "conditionType": 2,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 4,
+  "groupId": 2,
+  "conditionType": 3,
+  "conditionValue": 1
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 5,
+  "groupId": 3,
+  "conditionType": 1,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 6,
+  "groupId": 3,
+  "conditionType": 2,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 8,
+  "groupId": 4,
+  "conditionType": 1,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 9,
+  "groupId": 4,
+  "conditionType": 3,
+  "conditionValue": 1
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 11,
+  "groupId": 5,
+  "conditionType": 1,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 12,
+  "groupId": 5,
+  "conditionType": 2,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 13,
+  "groupId": 5,
+  "conditionType": 3,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 14,
+  "groupId": 6,
+  "conditionType": 1,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 15,
+  "groupId": 6,
+  "conditionType": 2,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 17,
+  "groupId": 7,
+  "conditionType": 2,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 18,
+  "groupId": 7,
+  "conditionType": 3,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 20,
+  "groupId": 8,
+  "conditionType": 1,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 21,
+  "groupId": 8,
+  "conditionType": 3,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 22,
+  "groupId": 8,
+  "conditionType": 4,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 23,
+  "groupId": 9,
+  "conditionType": 1,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 24,
+  "groupId": 9,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 25,
+  "groupId": 9,
+  "conditionType": 3,
+  "conditionValue": 1
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 26,
+  "groupId": 9,
+  "conditionType": 4,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 27,
+  "groupId": 10,
+  "conditionType": 1,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 28,
+  "groupId": 10,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 29,
+  "groupId": 10,
+  "conditionType": 3,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 30,
+  "groupId": 10,
+  "conditionType": 4,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 31,
+  "groupId": 11,
+  "conditionType": 1,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 32,
+  "groupId": 11,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 33,
+  "groupId": 11,
+  "conditionType": 3,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 34,
+  "groupId": 11,
+  "conditionType": 4,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 35,
+  "groupId": 12,
+  "conditionType": 1,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 36,
+  "groupId": 12,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 37,
+  "groupId": 12,
+  "conditionType": 3,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 38,
+  "groupId": 12,
+  "conditionType": 4,
+  "conditionValue": 7
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 39,
+  "groupId": 13,
+  "conditionType": 1,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 40,
+  "groupId": 13,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 41,
+  "groupId": 13,
+  "conditionType": 3,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 42,
+  "groupId": 13,
+  "conditionType": 4,
+  "conditionValue": 7
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 43,
+  "groupId": 14,
+  "conditionType": 1,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 44,
+  "groupId": 14,
+  "conditionType": 2,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 45,
+  "groupId": 15,
+  "conditionType": 2,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 46,
+  "groupId": 15,
+  "conditionType": 3,
+  "conditionValue": 1
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 47,
+  "groupId": 16,
+  "conditionType": 1,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 48,
+  "groupId": 16,
+  "conditionType": 2,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 50,
+  "groupId": 17,
+  "conditionType": 1,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 51,
+  "groupId": 17,
+  "conditionType": 3,
+  "conditionValue": 1
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 53,
+  "groupId": 18,
+  "conditionType": 1,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 54,
+  "groupId": 18,
+  "conditionType": 2,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 55,
+  "groupId": 18,
+  "conditionType": 3,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 56,
+  "groupId": 19,
+  "conditionType": 1,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 57,
+  "groupId": 19,
+  "conditionType": 2,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 59,
+  "groupId": 20,
+  "conditionType": 2,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 60,
+  "groupId": 20,
+  "conditionType": 3,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 62,
+  "groupId": 21,
+  "conditionType": 1,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 63,
+  "groupId": 21,
+  "conditionType": 3,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 65,
+  "groupId": 22,
+  "conditionType": 1,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 66,
+  "groupId": 22,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 67,
+  "groupId": 22,
+  "conditionType": 3,
+  "conditionValue": 1
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 68,
+  "groupId": 22,
+  "conditionType": 4,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 69,
+  "groupId": 23,
+  "conditionType": 1,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 70,
+  "groupId": 23,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 71,
+  "groupId": 23,
+  "conditionType": 3,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 72,
+  "groupId": 23,
+  "conditionType": 4,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 73,
+  "groupId": 24,
+  "conditionType": 1,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 74,
+  "groupId": 24,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 75,
+  "groupId": 24,
+  "conditionType": 3,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 76,
+  "groupId": 24,
+  "conditionType": 4,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 77,
+  "groupId": 25,
+  "conditionType": 1,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 78,
+  "groupId": 25,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 79,
+  "groupId": 25,
+  "conditionType": 3,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 80,
+  "groupId": 25,
+  "conditionType": 4,
+  "conditionValue": 7
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 81,
+  "groupId": 26,
+  "conditionType": 1,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 82,
+  "groupId": 26,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 83,
+  "groupId": 26,
+  "conditionType": 3,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 84,
+  "groupId": 26,
+  "conditionType": 4,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 85,
+  "groupId": 27,
+  "conditionType": 1,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 86,
+  "groupId": 27,
+  "conditionType": 2,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 87,
+  "groupId": 28,
+  "conditionType": 2,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 88,
+  "groupId": 28,
+  "conditionType": 3,
+  "conditionValue": 1
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 89,
+  "groupId": 29,
+  "conditionType": 1,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 90,
+  "groupId": 29,
+  "conditionType": 2,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 92,
+  "groupId": 30,
+  "conditionType": 1,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 93,
+  "groupId": 30,
+  "conditionType": 3,
+  "conditionValue": 1
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 95,
+  "groupId": 31,
+  "conditionType": 1,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 96,
+  "groupId": 31,
+  "conditionType": 2,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 97,
+  "groupId": 31,
+  "conditionType": 3,
+  "conditionValue": 6
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 98,
+  "groupId": 32,
+  "conditionType": 1,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 99,
+  "groupId": 32,
+  "conditionType": 2,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 101,
+  "groupId": 33,
+  "conditionType": 2,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 102,
+  "groupId": 33,
+  "conditionType": 3,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 104,
+  "groupId": 34,
+  "conditionType": 1,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 105,
+  "groupId": 34,
+  "conditionType": 3,
+  "conditionValue": 6
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 107,
+  "groupId": 35,
+  "conditionType": 1,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 108,
+  "groupId": 35,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 109,
+  "groupId": 35,
+  "conditionType": 3,
+  "conditionValue": 1
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 110,
+  "groupId": 35,
+  "conditionType": 4,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 111,
+  "groupId": 36,
+  "conditionType": 1,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 112,
+  "groupId": 36,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 113,
+  "groupId": 36,
+  "conditionType": 3,
+  "conditionValue": 3
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 114,
+  "groupId": 36,
+  "conditionType": 4,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 115,
+  "groupId": 37,
+  "conditionType": 1,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 116,
+  "groupId": 37,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 117,
+  "groupId": 37,
+  "conditionType": 3,
+  "conditionValue": 6
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 118,
+  "groupId": 37,
+  "conditionType": 4,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 119,
+  "groupId": 38,
+  "conditionType": 1,
+  "conditionValue": 4
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 120,
+  "groupId": 38,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 121,
+  "groupId": 38,
+  "conditionType": 3,
+  "conditionValue": 1
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 122,
+  "groupId": 38,
+  "conditionType": 4,
+  "conditionValue": 7
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 123,
+  "groupId": 39,
+  "conditionType": 1,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 124,
+  "groupId": 39,
+  "conditionType": 2,
+  "conditionValue": 5
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 125,
+  "groupId": 39,
+  "conditionType": 3,
+  "conditionValue": 2
+ },
+ {
+  "gardenDeliveryConditionGroupMstId": 126,
+  "groupId": 39,
+  "conditionType": 4,
+  "conditionValue": 6
+ }
+]

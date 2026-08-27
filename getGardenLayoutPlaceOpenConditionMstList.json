@@ -1,0 +1,530 @@
+[
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 1,
+  "gardenFurnitureLayoutPlaceMstId": 1,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 2,
+  "gardenFurnitureLayoutPlaceMstId": 2,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 3,
+  "gardenFurnitureLayoutPlaceMstId": 3,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 4,
+  "gardenFurnitureLayoutPlaceMstId": 4,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 5,
+  "gardenFurnitureLayoutPlaceMstId": 5,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 6,
+  "gardenFurnitureLayoutPlaceMstId": 6,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 7,
+  "gardenFurnitureLayoutPlaceMstId": 7,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 8,
+  "gardenFurnitureLayoutPlaceMstId": 8,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 9,
+  "gardenFurnitureLayoutPlaceMstId": 9,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 10,
+  "gardenFurnitureLayoutPlaceMstId": 10,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 11,
+  "gardenFurnitureLayoutPlaceMstId": 11,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 12,
+  "gardenFurnitureLayoutPlaceMstId": 12,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 13,
+  "gardenFurnitureLayoutPlaceMstId": 13,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 14,
+  "gardenFurnitureLayoutPlaceMstId": 14,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 15,
+  "gardenFurnitureLayoutPlaceMstId": 15,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 16,
+  "gardenFurnitureLayoutPlaceMstId": 16,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 17,
+  "gardenFurnitureLayoutPlaceMstId": 17,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 18,
+  "gardenFurnitureLayoutPlaceMstId": 18,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 19,
+  "gardenFurnitureLayoutPlaceMstId": 19,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 20,
+  "gardenFurnitureLayoutPlaceMstId": 20,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 21,
+  "gardenFurnitureLayoutPlaceMstId": 21,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 22,
+  "gardenFurnitureLayoutPlaceMstId": 22,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 24,
+  "gardenFurnitureLayoutPlaceMstId": 24,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 25,
+  "gardenFurnitureLayoutPlaceMstId": 25,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 26,
+  "gardenFurnitureLayoutPlaceMstId": 26,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 27,
+  "gardenFurnitureLayoutPlaceMstId": 27,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 28,
+  "gardenFurnitureLayoutPlaceMstId": 28,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 29,
+  "gardenFurnitureLayoutPlaceMstId": 29,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 30,
+  "gardenFurnitureLayoutPlaceMstId": 30,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 31,
+  "gardenFurnitureLayoutPlaceMstId": 31,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 32,
+  "gardenFurnitureLayoutPlaceMstId": 32,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 33,
+  "gardenFurnitureLayoutPlaceMstId": 33,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 34,
+  "gardenFurnitureLayoutPlaceMstId": 34,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 35,
+  "gardenFurnitureLayoutPlaceMstId": 35,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 37,
+  "gardenFurnitureLayoutPlaceMstId": 37,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 41,
+  "gardenFurnitureLayoutPlaceMstId": 41,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 42,
+  "gardenFurnitureLayoutPlaceMstId": 42,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 43,
+  "gardenFurnitureLayoutPlaceMstId": 43,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 44,
+  "gardenFurnitureLayoutPlaceMstId": 44,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 45,
+  "gardenFurnitureLayoutPlaceMstId": 45,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 46,
+  "gardenFurnitureLayoutPlaceMstId": 46,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 47,
+  "gardenFurnitureLayoutPlaceMstId": 47,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 48,
+  "gardenFurnitureLayoutPlaceMstId": 48,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 49,
+  "gardenFurnitureLayoutPlaceMstId": 49,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 50,
+  "gardenFurnitureLayoutPlaceMstId": 50,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 51,
+  "gardenFurnitureLayoutPlaceMstId": 51,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 52,
+  "gardenFurnitureLayoutPlaceMstId": 52,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 53,
+  "gardenFurnitureLayoutPlaceMstId": 53,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 54,
+  "gardenFurnitureLayoutPlaceMstId": 54,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 55,
+  "gardenFurnitureLayoutPlaceMstId": 55,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 56,
+  "gardenFurnitureLayoutPlaceMstId": 56,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 57,
+  "gardenFurnitureLayoutPlaceMstId": 57,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 58,
+  "gardenFurnitureLayoutPlaceMstId": 58,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 59,
+  "gardenFurnitureLayoutPlaceMstId": 59,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 60,
+  "gardenFurnitureLayoutPlaceMstId": 60,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 61,
+  "gardenFurnitureLayoutPlaceMstId": 61,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 62,
+  "gardenFurnitureLayoutPlaceMstId": 62,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 63,
+  "gardenFurnitureLayoutPlaceMstId": 63,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 64,
+  "gardenFurnitureLayoutPlaceMstId": 64,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 65,
+  "gardenFurnitureLayoutPlaceMstId": 65,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 66,
+  "gardenFurnitureLayoutPlaceMstId": 66,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 67,
+  "gardenFurnitureLayoutPlaceMstId": 67,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 68,
+  "gardenFurnitureLayoutPlaceMstId": 68,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 69,
+  "gardenFurnitureLayoutPlaceMstId": 69,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 70,
+  "gardenFurnitureLayoutPlaceMstId": 70,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 71,
+  "gardenFurnitureLayoutPlaceMstId": 71,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 72,
+  "gardenFurnitureLayoutPlaceMstId": 72,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 73,
+  "gardenFurnitureLayoutPlaceMstId": 73,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 74,
+  "gardenFurnitureLayoutPlaceMstId": 74,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 75,
+  "gardenFurnitureLayoutPlaceMstId": 75,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 76,
+  "gardenFurnitureLayoutPlaceMstId": 76,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 77,
+  "gardenFurnitureLayoutPlaceMstId": 77,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 78,
+  "gardenFurnitureLayoutPlaceMstId": 78,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 79,
+  "gardenFurnitureLayoutPlaceMstId": 79,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 80,
+  "gardenFurnitureLayoutPlaceMstId": 80,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 81,
+  "gardenFurnitureLayoutPlaceMstId": 81,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 82,
+  "gardenFurnitureLayoutPlaceMstId": 82,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 83,
+  "gardenFurnitureLayoutPlaceMstId": 83,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 84,
+  "gardenFurnitureLayoutPlaceMstId": 84,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 85,
+  "gardenFurnitureLayoutPlaceMstId": 85,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 86,
+  "gardenFurnitureLayoutPlaceMstId": 86,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 87,
+  "gardenFurnitureLayoutPlaceMstId": 87,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 88,
+  "gardenFurnitureLayoutPlaceMstId": 88,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 89,
+  "gardenFurnitureLayoutPlaceMstId": 89,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 90,
+  "gardenFurnitureLayoutPlaceMstId": 90,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 91,
+  "gardenFurnitureLayoutPlaceMstId": 91,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 92,
+  "gardenFurnitureLayoutPlaceMstId": 92,
+  "openType": 2,
+  "openParameter": 1
+ },
+ {
+  "gardenLayoutPlaceOpenConditionMstId": 93,
+  "gardenFurnitureLayoutPlaceMstId": 93,
+  "openType": 2,
+  "openParameter": 1
+ }
+]

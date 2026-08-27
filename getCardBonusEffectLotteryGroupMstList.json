@@ -1,0 +1,482 @@
+[
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 2011
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 2012
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 2013
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 2014
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 2015
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 2016
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 4011
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 4012
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 4013
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 4014
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 4015
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 4016
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 6011
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 6012
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 6013
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 6014
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 6015
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 6016
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 8011
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 8012
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 8013
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 8014
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 8015
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 1,
+  "cardBonusEffectMstId": 8016
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 2021
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 2022
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 2023
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 2024
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 2025
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 2026
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 4021
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 4022
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 4023
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 4024
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 4025
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 4026
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 6021
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 6022
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 6023
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 6024
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 6025
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 6026
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 8021
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 8022
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 8023
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 8024
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 8025
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 2,
+  "cardBonusEffectMstId": 8026
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 2031
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 2032
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 2033
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 2034
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 2035
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 2036
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 4031
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 4032
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 4033
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 4034
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 4035
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 4036
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 6031
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 6032
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 6033
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 6034
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 6035
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 6036
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 8031
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 8032
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 8033
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 8034
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 8035
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 3,
+  "cardBonusEffectMstId": 8036
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 2041
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 2042
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 2043
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 2044
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 2045
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 2046
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 4041
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 4042
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 4043
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 4044
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 4045
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 4046
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 6041
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 6042
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 6043
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 6044
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 6045
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 6046
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 8041
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 8042
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 8043
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 8044
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 8045
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 4,
+  "cardBonusEffectMstId": 8046
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 2051
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 2052
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 2053
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 2054
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 2055
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 2056
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 4051
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 4052
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 4053
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 4054
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 4055
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 4056
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 6051
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 6052
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 6053
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 6054
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 6055
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 6056
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 8051
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 8052
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 8053
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 8054
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 8055
+ },
+ {
+  "cardBonusEffectLotteryGroupMstId": 5,
+  "cardBonusEffectMstId": 8056
+ }
+]

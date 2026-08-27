@@ -1,0 +1,82 @@
+[
+ {
+  "vipRankMstId": 1,
+  "vipRank": 0,
+  "rankUpExp": 0
+ },
+ {
+  "vipRankMstId": 2,
+  "vipRank": 1,
+  "rankUpExp": 100
+ },
+ {
+  "vipRankMstId": 3,
+  "vipRank": 2,
+  "rankUpExp": 1500
+ },
+ {
+  "vipRankMstId": 4,
+  "vipRank": 3,
+  "rankUpExp": 5000
+ },
+ {
+  "vipRankMstId": 5,
+  "vipRank": 4,
+  "rankUpExp": 10000
+ },
+ {
+  "vipRankMstId": 6,
+  "vipRank": 5,
+  "rankUpExp": 30000
+ },
+ {
+  "vipRankMstId": 7,
+  "vipRank": 6,
+  "rankUpExp": 50000
+ },
+ {
+  "vipRankMstId": 8,
+  "vipRank": 7,
+  "rankUpExp": 70000
+ },
+ {
+  "vipRankMstId": 9,
+  "vipRank": 8,
+  "rankUpExp": 100000
+ },
+ {
+  "vipRankMstId": 10,
+  "vipRank": 9,
+  "rankUpExp": 150000
+ },
+ {
+  "vipRankMstId": 11,
+  "vipRank": 10,
+  "rankUpExp": 300000
+ },
+ {
+  "vipRankMstId": 12,
+  "vipRank": 11,
+  "rankUpExp": 500000
+ },
+ {
+  "vipRankMstId": 13,
+  "vipRank": 12,
+  "rankUpExp": 750000
+ },
+ {
+  "vipRankMstId": 14,
+  "vipRank": 13,
+  "rankUpExp": 1500000
+ },
+ {
+  "vipRankMstId": 15,
+  "vipRank": 14,
+  "rankUpExp": 2000000
+ },
+ {
+  "vipRankMstId": 16,
+  "vipRank": 15,
+  "rankUpExp": 4000000
+ }
+]

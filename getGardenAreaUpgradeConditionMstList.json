@@ -1,0 +1,1472 @@
+[
+ {
+  "gardenAreaUpgradeConditionMstId": 1,
+  "upgradeStage": 1,
+  "areaType": 1,
+  "requiredShopLevel": 1
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 2,
+  "upgradeStage": 1,
+  "areaType": 2,
+  "requiredShopLevel": 1
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 3,
+  "upgradeStage": 1,
+  "areaType": 3,
+  "requiredShopLevel": 1
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 4,
+  "upgradeStage": 1,
+  "areaType": 4,
+  "requiredShopLevel": 1
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 5,
+  "upgradeStage": 1,
+  "areaType": 5,
+  "requiredShopLevel": 1
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 6,
+  "upgradeStage": 1,
+  "areaType": 6,
+  "requiredShopLevel": 1
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 7,
+  "upgradeStage": 1,
+  "areaType": 7,
+  "requiredShopLevel": 1
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 8,
+  "upgradeStage": 2,
+  "areaType": 1,
+  "requiredShopLevel": 2
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 9,
+  "upgradeStage": 2,
+  "areaType": 2,
+  "requiredShopLevel": 2
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 10,
+  "upgradeStage": 2,
+  "areaType": 3,
+  "requiredShopLevel": 2
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 11,
+  "upgradeStage": 2,
+  "areaType": 4,
+  "requiredShopLevel": 2
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 12,
+  "upgradeStage": 2,
+  "areaType": 5,
+  "requiredShopLevel": 2
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 13,
+  "upgradeStage": 2,
+  "areaType": 6,
+  "requiredShopLevel": 2
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 14,
+  "upgradeStage": 2,
+  "areaType": 7,
+  "requiredShopLevel": 2
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 15,
+  "upgradeStage": 3,
+  "areaType": 1,
+  "requiredShopLevel": 3
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 16,
+  "upgradeStage": 3,
+  "areaType": 2,
+  "requiredShopLevel": 3
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 17,
+  "upgradeStage": 3,
+  "areaType": 3,
+  "requiredShopLevel": 3
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 18,
+  "upgradeStage": 3,
+  "areaType": 4,
+  "requiredShopLevel": 3
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 19,
+  "upgradeStage": 3,
+  "areaType": 5,
+  "requiredShopLevel": 3
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 20,
+  "upgradeStage": 3,
+  "areaType": 6,
+  "requiredShopLevel": 3
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 21,
+  "upgradeStage": 3,
+  "areaType": 7,
+  "requiredShopLevel": 3
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 22,
+  "upgradeStage": 4,
+  "areaType": 1,
+  "requiredShopLevel": 4
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 23,
+  "upgradeStage": 4,
+  "areaType": 2,
+  "requiredShopLevel": 4
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 24,
+  "upgradeStage": 4,
+  "areaType": 3,
+  "requiredShopLevel": 4
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 25,
+  "upgradeStage": 4,
+  "areaType": 4,
+  "requiredShopLevel": 4
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 26,
+  "upgradeStage": 4,
+  "areaType": 5,
+  "requiredShopLevel": 4
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 27,
+  "upgradeStage": 4,
+  "areaType": 6,
+  "requiredShopLevel": 4
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 28,
+  "upgradeStage": 4,
+  "areaType": 7,
+  "requiredShopLevel": 4
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 29,
+  "upgradeStage": 5,
+  "areaType": 1,
+  "requiredShopLevel": 5
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 30,
+  "upgradeStage": 5,
+  "areaType": 2,
+  "requiredShopLevel": 5
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 31,
+  "upgradeStage": 5,
+  "areaType": 3,
+  "requiredShopLevel": 5
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 32,
+  "upgradeStage": 5,
+  "areaType": 4,
+  "requiredShopLevel": 5
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 33,
+  "upgradeStage": 5,
+  "areaType": 5,
+  "requiredShopLevel": 5
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 34,
+  "upgradeStage": 5,
+  "areaType": 6,
+  "requiredShopLevel": 5
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 35,
+  "upgradeStage": 5,
+  "areaType": 7,
+  "requiredShopLevel": 5
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 36,
+  "upgradeStage": 6,
+  "areaType": 1,
+  "requiredShopLevel": 6
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 37,
+  "upgradeStage": 6,
+  "areaType": 2,
+  "requiredShopLevel": 6
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 38,
+  "upgradeStage": 6,
+  "areaType": 3,
+  "requiredShopLevel": 6
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 39,
+  "upgradeStage": 6,
+  "areaType": 4,
+  "requiredShopLevel": 6
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 40,
+  "upgradeStage": 6,
+  "areaType": 5,
+  "requiredShopLevel": 6
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 41,
+  "upgradeStage": 6,
+  "areaType": 6,
+  "requiredShopLevel": 6
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 42,
+  "upgradeStage": 6,
+  "areaType": 7,
+  "requiredShopLevel": 6
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 43,
+  "upgradeStage": 7,
+  "areaType": 1,
+  "requiredShopLevel": 7
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 44,
+  "upgradeStage": 7,
+  "areaType": 2,
+  "requiredShopLevel": 7
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 45,
+  "upgradeStage": 7,
+  "areaType": 3,
+  "requiredShopLevel": 7
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 46,
+  "upgradeStage": 7,
+  "areaType": 4,
+  "requiredShopLevel": 7
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 47,
+  "upgradeStage": 7,
+  "areaType": 5,
+  "requiredShopLevel": 7
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 48,
+  "upgradeStage": 7,
+  "areaType": 6,
+  "requiredShopLevel": 7
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 49,
+  "upgradeStage": 7,
+  "areaType": 7,
+  "requiredShopLevel": 7
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 50,
+  "upgradeStage": 8,
+  "areaType": 1,
+  "requiredShopLevel": 8
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 51,
+  "upgradeStage": 8,
+  "areaType": 2,
+  "requiredShopLevel": 8
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 52,
+  "upgradeStage": 8,
+  "areaType": 3,
+  "requiredShopLevel": 8
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 53,
+  "upgradeStage": 8,
+  "areaType": 4,
+  "requiredShopLevel": 8
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 54,
+  "upgradeStage": 8,
+  "areaType": 5,
+  "requiredShopLevel": 8
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 55,
+  "upgradeStage": 8,
+  "areaType": 6,
+  "requiredShopLevel": 8
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 56,
+  "upgradeStage": 8,
+  "areaType": 7,
+  "requiredShopLevel": 8
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 57,
+  "upgradeStage": 9,
+  "areaType": 1,
+  "requiredShopLevel": 9
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 58,
+  "upgradeStage": 9,
+  "areaType": 2,
+  "requiredShopLevel": 9
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 59,
+  "upgradeStage": 9,
+  "areaType": 3,
+  "requiredShopLevel": 9
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 60,
+  "upgradeStage": 9,
+  "areaType": 4,
+  "requiredShopLevel": 9
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 61,
+  "upgradeStage": 9,
+  "areaType": 5,
+  "requiredShopLevel": 9
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 62,
+  "upgradeStage": 9,
+  "areaType": 6,
+  "requiredShopLevel": 9
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 63,
+  "upgradeStage": 9,
+  "areaType": 7,
+  "requiredShopLevel": 9
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 64,
+  "upgradeStage": 10,
+  "areaType": 1,
+  "requiredShopLevel": 10
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 65,
+  "upgradeStage": 10,
+  "areaType": 2,
+  "requiredShopLevel": 10
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 66,
+  "upgradeStage": 10,
+  "areaType": 3,
+  "requiredShopLevel": 10
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 67,
+  "upgradeStage": 10,
+  "areaType": 4,
+  "requiredShopLevel": 10
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 68,
+  "upgradeStage": 10,
+  "areaType": 5,
+  "requiredShopLevel": 10
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 69,
+  "upgradeStage": 10,
+  "areaType": 6,
+  "requiredShopLevel": 10
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 70,
+  "upgradeStage": 10,
+  "areaType": 7,
+  "requiredShopLevel": 10
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 71,
+  "upgradeStage": 11,
+  "areaType": 1,
+  "requiredShopLevel": 11
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 72,
+  "upgradeStage": 11,
+  "areaType": 2,
+  "requiredShopLevel": 11
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 73,
+  "upgradeStage": 11,
+  "areaType": 3,
+  "requiredShopLevel": 11
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 74,
+  "upgradeStage": 11,
+  "areaType": 4,
+  "requiredShopLevel": 11
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 75,
+  "upgradeStage": 11,
+  "areaType": 5,
+  "requiredShopLevel": 11
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 76,
+  "upgradeStage": 11,
+  "areaType": 6,
+  "requiredShopLevel": 11
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 77,
+  "upgradeStage": 11,
+  "areaType": 7,
+  "requiredShopLevel": 11
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 78,
+  "upgradeStage": 12,
+  "areaType": 1,
+  "requiredShopLevel": 12
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 79,
+  "upgradeStage": 12,
+  "areaType": 2,
+  "requiredShopLevel": 12
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 80,
+  "upgradeStage": 12,
+  "areaType": 3,
+  "requiredShopLevel": 12
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 81,
+  "upgradeStage": 12,
+  "areaType": 4,
+  "requiredShopLevel": 12
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 82,
+  "upgradeStage": 12,
+  "areaType": 5,
+  "requiredShopLevel": 12
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 83,
+  "upgradeStage": 12,
+  "areaType": 6,
+  "requiredShopLevel": 12
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 84,
+  "upgradeStage": 12,
+  "areaType": 7,
+  "requiredShopLevel": 12
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 85,
+  "upgradeStage": 13,
+  "areaType": 1,
+  "requiredShopLevel": 13
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 86,
+  "upgradeStage": 13,
+  "areaType": 2,
+  "requiredShopLevel": 13
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 87,
+  "upgradeStage": 13,
+  "areaType": 3,
+  "requiredShopLevel": 13
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 88,
+  "upgradeStage": 13,
+  "areaType": 4,
+  "requiredShopLevel": 13
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 89,
+  "upgradeStage": 13,
+  "areaType": 5,
+  "requiredShopLevel": 13
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 90,
+  "upgradeStage": 13,
+  "areaType": 6,
+  "requiredShopLevel": 13
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 91,
+  "upgradeStage": 13,
+  "areaType": 7,
+  "requiredShopLevel": 13
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 92,
+  "upgradeStage": 14,
+  "areaType": 1,
+  "requiredShopLevel": 14
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 93,
+  "upgradeStage": 14,
+  "areaType": 2,
+  "requiredShopLevel": 14
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 94,
+  "upgradeStage": 14,
+  "areaType": 3,
+  "requiredShopLevel": 14
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 95,
+  "upgradeStage": 14,
+  "areaType": 4,
+  "requiredShopLevel": 14
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 96,
+  "upgradeStage": 14,
+  "areaType": 5,
+  "requiredShopLevel": 14
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 97,
+  "upgradeStage": 14,
+  "areaType": 6,
+  "requiredShopLevel": 14
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 98,
+  "upgradeStage": 14,
+  "areaType": 7,
+  "requiredShopLevel": 14
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 99,
+  "upgradeStage": 15,
+  "areaType": 1,
+  "requiredShopLevel": 15
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 100,
+  "upgradeStage": 15,
+  "areaType": 2,
+  "requiredShopLevel": 15
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 101,
+  "upgradeStage": 15,
+  "areaType": 3,
+  "requiredShopLevel": 15
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 102,
+  "upgradeStage": 15,
+  "areaType": 4,
+  "requiredShopLevel": 15
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 103,
+  "upgradeStage": 15,
+  "areaType": 5,
+  "requiredShopLevel": 15
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 104,
+  "upgradeStage": 15,
+  "areaType": 6,
+  "requiredShopLevel": 15
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 105,
+  "upgradeStage": 15,
+  "areaType": 7,
+  "requiredShopLevel": 15
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 106,
+  "upgradeStage": 16,
+  "areaType": 1,
+  "requiredShopLevel": 16
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 107,
+  "upgradeStage": 16,
+  "areaType": 2,
+  "requiredShopLevel": 16
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 108,
+  "upgradeStage": 16,
+  "areaType": 3,
+  "requiredShopLevel": 16
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 109,
+  "upgradeStage": 16,
+  "areaType": 4,
+  "requiredShopLevel": 16
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 110,
+  "upgradeStage": 16,
+  "areaType": 5,
+  "requiredShopLevel": 16
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 111,
+  "upgradeStage": 16,
+  "areaType": 6,
+  "requiredShopLevel": 16
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 112,
+  "upgradeStage": 16,
+  "areaType": 7,
+  "requiredShopLevel": 16
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 113,
+  "upgradeStage": 17,
+  "areaType": 1,
+  "requiredShopLevel": 17
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 114,
+  "upgradeStage": 17,
+  "areaType": 2,
+  "requiredShopLevel": 17
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 115,
+  "upgradeStage": 17,
+  "areaType": 3,
+  "requiredShopLevel": 17
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 116,
+  "upgradeStage": 17,
+  "areaType": 4,
+  "requiredShopLevel": 17
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 117,
+  "upgradeStage": 17,
+  "areaType": 5,
+  "requiredShopLevel": 17
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 118,
+  "upgradeStage": 17,
+  "areaType": 6,
+  "requiredShopLevel": 17
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 119,
+  "upgradeStage": 17,
+  "areaType": 7,
+  "requiredShopLevel": 17
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 120,
+  "upgradeStage": 18,
+  "areaType": 1,
+  "requiredShopLevel": 18
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 121,
+  "upgradeStage": 18,
+  "areaType": 2,
+  "requiredShopLevel": 18
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 122,
+  "upgradeStage": 18,
+  "areaType": 3,
+  "requiredShopLevel": 18
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 123,
+  "upgradeStage": 18,
+  "areaType": 4,
+  "requiredShopLevel": 18
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 124,
+  "upgradeStage": 18,
+  "areaType": 5,
+  "requiredShopLevel": 18
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 125,
+  "upgradeStage": 18,
+  "areaType": 6,
+  "requiredShopLevel": 18
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 126,
+  "upgradeStage": 18,
+  "areaType": 7,
+  "requiredShopLevel": 18
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 127,
+  "upgradeStage": 19,
+  "areaType": 1,
+  "requiredShopLevel": 19
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 128,
+  "upgradeStage": 19,
+  "areaType": 2,
+  "requiredShopLevel": 19
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 129,
+  "upgradeStage": 19,
+  "areaType": 3,
+  "requiredShopLevel": 19
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 130,
+  "upgradeStage": 19,
+  "areaType": 4,
+  "requiredShopLevel": 19
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 131,
+  "upgradeStage": 19,
+  "areaType": 5,
+  "requiredShopLevel": 19
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 132,
+  "upgradeStage": 19,
+  "areaType": 6,
+  "requiredShopLevel": 19
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 133,
+  "upgradeStage": 19,
+  "areaType": 7,
+  "requiredShopLevel": 19
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 134,
+  "upgradeStage": 20,
+  "areaType": 1,
+  "requiredShopLevel": 20
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 135,
+  "upgradeStage": 20,
+  "areaType": 2,
+  "requiredShopLevel": 20
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 136,
+  "upgradeStage": 20,
+  "areaType": 3,
+  "requiredShopLevel": 20
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 137,
+  "upgradeStage": 20,
+  "areaType": 4,
+  "requiredShopLevel": 20
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 138,
+  "upgradeStage": 20,
+  "areaType": 5,
+  "requiredShopLevel": 20
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 139,
+  "upgradeStage": 20,
+  "areaType": 6,
+  "requiredShopLevel": 20
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 140,
+  "upgradeStage": 20,
+  "areaType": 7,
+  "requiredShopLevel": 20
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 141,
+  "upgradeStage": 21,
+  "areaType": 1,
+  "requiredShopLevel": 21
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 142,
+  "upgradeStage": 21,
+  "areaType": 2,
+  "requiredShopLevel": 21
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 143,
+  "upgradeStage": 21,
+  "areaType": 3,
+  "requiredShopLevel": 21
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 144,
+  "upgradeStage": 21,
+  "areaType": 4,
+  "requiredShopLevel": 21
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 145,
+  "upgradeStage": 21,
+  "areaType": 5,
+  "requiredShopLevel": 21
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 146,
+  "upgradeStage": 21,
+  "areaType": 6,
+  "requiredShopLevel": 21
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 147,
+  "upgradeStage": 21,
+  "areaType": 7,
+  "requiredShopLevel": 21
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 148,
+  "upgradeStage": 22,
+  "areaType": 1,
+  "requiredShopLevel": 22
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 149,
+  "upgradeStage": 22,
+  "areaType": 2,
+  "requiredShopLevel": 22
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 150,
+  "upgradeStage": 22,
+  "areaType": 3,
+  "requiredShopLevel": 22
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 151,
+  "upgradeStage": 22,
+  "areaType": 4,
+  "requiredShopLevel": 22
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 152,
+  "upgradeStage": 22,
+  "areaType": 5,
+  "requiredShopLevel": 22
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 153,
+  "upgradeStage": 22,
+  "areaType": 6,
+  "requiredShopLevel": 22
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 154,
+  "upgradeStage": 22,
+  "areaType": 7,
+  "requiredShopLevel": 22
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 155,
+  "upgradeStage": 23,
+  "areaType": 1,
+  "requiredShopLevel": 23
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 156,
+  "upgradeStage": 23,
+  "areaType": 2,
+  "requiredShopLevel": 23
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 157,
+  "upgradeStage": 23,
+  "areaType": 3,
+  "requiredShopLevel": 23
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 158,
+  "upgradeStage": 23,
+  "areaType": 4,
+  "requiredShopLevel": 23
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 159,
+  "upgradeStage": 23,
+  "areaType": 5,
+  "requiredShopLevel": 23
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 160,
+  "upgradeStage": 23,
+  "areaType": 6,
+  "requiredShopLevel": 23
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 161,
+  "upgradeStage": 23,
+  "areaType": 7,
+  "requiredShopLevel": 23
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 162,
+  "upgradeStage": 24,
+  "areaType": 1,
+  "requiredShopLevel": 24
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 163,
+  "upgradeStage": 24,
+  "areaType": 2,
+  "requiredShopLevel": 24
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 164,
+  "upgradeStage": 24,
+  "areaType": 3,
+  "requiredShopLevel": 24
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 165,
+  "upgradeStage": 24,
+  "areaType": 4,
+  "requiredShopLevel": 24
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 166,
+  "upgradeStage": 24,
+  "areaType": 5,
+  "requiredShopLevel": 24
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 167,
+  "upgradeStage": 24,
+  "areaType": 6,
+  "requiredShopLevel": 24
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 168,
+  "upgradeStage": 24,
+  "areaType": 7,
+  "requiredShopLevel": 24
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 169,
+  "upgradeStage": 25,
+  "areaType": 1,
+  "requiredShopLevel": 25
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 170,
+  "upgradeStage": 25,
+  "areaType": 2,
+  "requiredShopLevel": 25
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 171,
+  "upgradeStage": 25,
+  "areaType": 3,
+  "requiredShopLevel": 25
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 172,
+  "upgradeStage": 25,
+  "areaType": 4,
+  "requiredShopLevel": 25
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 173,
+  "upgradeStage": 25,
+  "areaType": 5,
+  "requiredShopLevel": 25
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 174,
+  "upgradeStage": 25,
+  "areaType": 6,
+  "requiredShopLevel": 25
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 175,
+  "upgradeStage": 25,
+  "areaType": 7,
+  "requiredShopLevel": 25
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 176,
+  "upgradeStage": 26,
+  "areaType": 1,
+  "requiredShopLevel": 26
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 177,
+  "upgradeStage": 26,
+  "areaType": 2,
+  "requiredShopLevel": 26
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 178,
+  "upgradeStage": 26,
+  "areaType": 3,
+  "requiredShopLevel": 26
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 179,
+  "upgradeStage": 26,
+  "areaType": 4,
+  "requiredShopLevel": 26
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 180,
+  "upgradeStage": 26,
+  "areaType": 5,
+  "requiredShopLevel": 26
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 181,
+  "upgradeStage": 26,
+  "areaType": 6,
+  "requiredShopLevel": 26
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 182,
+  "upgradeStage": 26,
+  "areaType": 7,
+  "requiredShopLevel": 26
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 183,
+  "upgradeStage": 27,
+  "areaType": 1,
+  "requiredShopLevel": 27
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 184,
+  "upgradeStage": 27,
+  "areaType": 2,
+  "requiredShopLevel": 27
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 185,
+  "upgradeStage": 27,
+  "areaType": 3,
+  "requiredShopLevel": 27
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 186,
+  "upgradeStage": 27,
+  "areaType": 4,
+  "requiredShopLevel": 27
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 187,
+  "upgradeStage": 27,
+  "areaType": 5,
+  "requiredShopLevel": 27
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 188,
+  "upgradeStage": 27,
+  "areaType": 6,
+  "requiredShopLevel": 27
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 189,
+  "upgradeStage": 27,
+  "areaType": 7,
+  "requiredShopLevel": 27
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 190,
+  "upgradeStage": 28,
+  "areaType": 1,
+  "requiredShopLevel": 28
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 191,
+  "upgradeStage": 28,
+  "areaType": 2,
+  "requiredShopLevel": 28
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 192,
+  "upgradeStage": 28,
+  "areaType": 3,
+  "requiredShopLevel": 28
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 193,
+  "upgradeStage": 28,
+  "areaType": 4,
+  "requiredShopLevel": 28
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 194,
+  "upgradeStage": 28,
+  "areaType": 5,
+  "requiredShopLevel": 28
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 195,
+  "upgradeStage": 28,
+  "areaType": 6,
+  "requiredShopLevel": 28
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 196,
+  "upgradeStage": 28,
+  "areaType": 7,
+  "requiredShopLevel": 28
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 197,
+  "upgradeStage": 29,
+  "areaType": 1,
+  "requiredShopLevel": 29
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 198,
+  "upgradeStage": 29,
+  "areaType": 2,
+  "requiredShopLevel": 29
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 199,
+  "upgradeStage": 29,
+  "areaType": 3,
+  "requiredShopLevel": 29
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 200,
+  "upgradeStage": 29,
+  "areaType": 4,
+  "requiredShopLevel": 29
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 201,
+  "upgradeStage": 29,
+  "areaType": 5,
+  "requiredShopLevel": 29
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 202,
+  "upgradeStage": 29,
+  "areaType": 6,
+  "requiredShopLevel": 29
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 203,
+  "upgradeStage": 29,
+  "areaType": 7,
+  "requiredShopLevel": 29
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 204,
+  "upgradeStage": 30,
+  "areaType": 1,
+  "requiredShopLevel": 30
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 205,
+  "upgradeStage": 30,
+  "areaType": 2,
+  "requiredShopLevel": 30
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 206,
+  "upgradeStage": 30,
+  "areaType": 3,
+  "requiredShopLevel": 30
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 207,
+  "upgradeStage": 30,
+  "areaType": 4,
+  "requiredShopLevel": 30
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 208,
+  "upgradeStage": 30,
+  "areaType": 5,
+  "requiredShopLevel": 30
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 209,
+  "upgradeStage": 30,
+  "areaType": 6,
+  "requiredShopLevel": 30
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 210,
+  "upgradeStage": 30,
+  "areaType": 7,
+  "requiredShopLevel": 30
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 211,
+  "upgradeStage": 31,
+  "areaType": 1,
+  "requiredShopLevel": 31
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 212,
+  "upgradeStage": 31,
+  "areaType": 2,
+  "requiredShopLevel": 31
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 213,
+  "upgradeStage": 31,
+  "areaType": 3,
+  "requiredShopLevel": 31
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 214,
+  "upgradeStage": 31,
+  "areaType": 4,
+  "requiredShopLevel": 31
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 215,
+  "upgradeStage": 31,
+  "areaType": 5,
+  "requiredShopLevel": 31
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 216,
+  "upgradeStage": 31,
+  "areaType": 6,
+  "requiredShopLevel": 31
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 217,
+  "upgradeStage": 31,
+  "areaType": 7,
+  "requiredShopLevel": 31
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 218,
+  "upgradeStage": 32,
+  "areaType": 1,
+  "requiredShopLevel": 32
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 219,
+  "upgradeStage": 32,
+  "areaType": 2,
+  "requiredShopLevel": 32
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 220,
+  "upgradeStage": 32,
+  "areaType": 3,
+  "requiredShopLevel": 32
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 221,
+  "upgradeStage": 32,
+  "areaType": 4,
+  "requiredShopLevel": 32
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 222,
+  "upgradeStage": 32,
+  "areaType": 5,
+  "requiredShopLevel": 32
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 223,
+  "upgradeStage": 32,
+  "areaType": 6,
+  "requiredShopLevel": 32
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 224,
+  "upgradeStage": 32,
+  "areaType": 7,
+  "requiredShopLevel": 32
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 225,
+  "upgradeStage": 33,
+  "areaType": 1,
+  "requiredShopLevel": 33
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 226,
+  "upgradeStage": 33,
+  "areaType": 2,
+  "requiredShopLevel": 33
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 227,
+  "upgradeStage": 33,
+  "areaType": 3,
+  "requiredShopLevel": 33
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 228,
+  "upgradeStage": 33,
+  "areaType": 4,
+  "requiredShopLevel": 33
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 229,
+  "upgradeStage": 33,
+  "areaType": 5,
+  "requiredShopLevel": 33
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 230,
+  "upgradeStage": 33,
+  "areaType": 6,
+  "requiredShopLevel": 33
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 231,
+  "upgradeStage": 33,
+  "areaType": 7,
+  "requiredShopLevel": 33
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 232,
+  "upgradeStage": 34,
+  "areaType": 1,
+  "requiredShopLevel": 34
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 233,
+  "upgradeStage": 34,
+  "areaType": 2,
+  "requiredShopLevel": 34
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 234,
+  "upgradeStage": 34,
+  "areaType": 3,
+  "requiredShopLevel": 34
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 235,
+  "upgradeStage": 34,
+  "areaType": 4,
+  "requiredShopLevel": 34
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 236,
+  "upgradeStage": 34,
+  "areaType": 5,
+  "requiredShopLevel": 34
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 237,
+  "upgradeStage": 34,
+  "areaType": 6,
+  "requiredShopLevel": 34
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 238,
+  "upgradeStage": 34,
+  "areaType": 7,
+  "requiredShopLevel": 34
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 239,
+  "upgradeStage": 35,
+  "areaType": 1,
+  "requiredShopLevel": 35
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 240,
+  "upgradeStage": 35,
+  "areaType": 2,
+  "requiredShopLevel": 35
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 241,
+  "upgradeStage": 35,
+  "areaType": 3,
+  "requiredShopLevel": 35
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 242,
+  "upgradeStage": 35,
+  "areaType": 4,
+  "requiredShopLevel": 35
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 243,
+  "upgradeStage": 35,
+  "areaType": 5,
+  "requiredShopLevel": 35
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 244,
+  "upgradeStage": 35,
+  "areaType": 6,
+  "requiredShopLevel": 35
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 245,
+  "upgradeStage": 35,
+  "areaType": 7,
+  "requiredShopLevel": 35
+ }
+]

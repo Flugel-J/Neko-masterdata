@@ -1,0 +1,488 @@
+[
+ {
+  "live2dIllustMstId": 1,
+  "live2dFileName": "10101_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 2,
+  "live2dFileName": "10101_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 101010110
+ },
+ {
+  "live2dIllustMstId": 3,
+  "live2dFileName": "10102_01_S01",
+  "characterMstId": 1010201,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 4,
+  "live2dFileName": "10103_01_S01",
+  "characterMstId": 1010301,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 5,
+  "live2dFileName": "10104_01_S01",
+  "characterMstId": 1010401,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 6,
+  "live2dFileName": "10105_01_S01",
+  "characterMstId": 1010501,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 7,
+  "live2dFileName": "10106_01_S01",
+  "characterMstId": 1010601,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 8,
+  "live2dFileName": "10107_01_S01",
+  "characterMstId": 1010701,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 9,
+  "live2dFileName": "10201_01_S01",
+  "characterMstId": 1020101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 10,
+  "live2dFileName": "10202_01_S01",
+  "characterMstId": 1020201,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 11,
+  "live2dFileName": "10203_01_S01",
+  "characterMstId": 1020301,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 12,
+  "live2dFileName": "10204_01_S01",
+  "characterMstId": 1020401,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 13,
+  "live2dFileName": "10205_01_S01",
+  "characterMstId": 1020501,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 14,
+  "live2dFileName": "10301_01_S01",
+  "characterMstId": 1030101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 15,
+  "live2dFileName": "10302_01_S01",
+  "characterMstId": 1030201,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 16,
+  "live2dFileName": "10303_01_S01",
+  "characterMstId": 1030301,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 17,
+  "live2dFileName": "10304_01_S01",
+  "characterMstId": 1030401,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 18,
+  "live2dFileName": "10307_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 19,
+  "live2dFileName": "10308_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 20,
+  "live2dFileName": "10311_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 21,
+  "live2dFileName": "10401_01_S01",
+  "characterMstId": 1040101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 22,
+  "live2dFileName": "10402_01_S01",
+  "characterMstId": 1040201,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 23,
+  "live2dFileName": "10403_01_S01",
+  "characterMstId": 1040301,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 24,
+  "live2dFileName": "10404_01_S01",
+  "characterMstId": 1040401,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 25,
+  "live2dFileName": "10406_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 26,
+  "live2dFileName": "10407_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 27,
+  "live2dFileName": "10501_01_S01",
+  "characterMstId": 1050101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 28,
+  "live2dFileName": "10502_01_S01",
+  "characterMstId": 1050201,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 29,
+  "live2dFileName": "10503_01_S01",
+  "characterMstId": 1050301,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 30,
+  "live2dFileName": "10504_01_S01",
+  "characterMstId": 1050401,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 31,
+  "live2dFileName": "10509_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 32,
+  "live2dFileName": "10511_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 33,
+  "live2dFileName": "10601_01_S01",
+  "characterMstId": 1060101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 34,
+  "live2dFileName": "10602_01_S01",
+  "characterMstId": 1060201,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 35,
+  "live2dFileName": "10603_01_S01",
+  "characterMstId": 1060301,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 36,
+  "live2dFileName": "10604_01_S01",
+  "characterMstId": 1060401,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 37,
+  "live2dFileName": "10611_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 38,
+  "live2dFileName": "19901_01_S01",
+  "characterMstId": 1990101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 39,
+  "live2dFileName": "19902_01_S01",
+  "characterMstId": 1990201,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 40,
+  "live2dFileName": "19903_01_S01",
+  "characterMstId": 1990301,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 41,
+  "live2dFileName": "19904_01_S01",
+  "characterMstId": 1990401,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 42,
+  "live2dFileName": "19905_01_S01",
+  "characterMstId": 1990501,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 43,
+  "live2dFileName": "19906_01_S01",
+  "characterMstId": 1990601,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 44,
+  "live2dFileName": "19907_01_S01",
+  "characterMstId": 1990701,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 45,
+  "live2dFileName": "19908_01_S01",
+  "characterMstId": 1990801,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 46,
+  "live2dFileName": "19909_01_S01",
+  "characterMstId": 1990901,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 47,
+  "live2dFileName": "19910_01_S01",
+  "characterMstId": 1991001,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 48,
+  "live2dFileName": "19911_01_S01",
+  "characterMstId": 1991101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 49,
+  "live2dFileName": "19912_01_S01",
+  "characterMstId": 1991201,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 50,
+  "live2dFileName": "19913_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 51,
+  "live2dFileName": "19914_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 52,
+  "live2dFileName": "19915_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 53,
+  "live2dFileName": "19916_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 54,
+  "live2dFileName": "19917_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 55,
+  "live2dFileName": "19918_01_S01",
+  "characterMstId": 1010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 56,
+  "live2dFileName": "20101_01_S01",
+  "characterMstId": 2010101,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 57,
+  "live2dFileName": "10102_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 101020110
+ },
+ {
+  "live2dIllustMstId": 58,
+  "live2dFileName": "10106_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 101060110
+ },
+ {
+  "live2dIllustMstId": 59,
+  "live2dFileName": "10107_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 101070110
+ },
+ {
+  "live2dIllustMstId": 60,
+  "live2dFileName": "20101_01_S01",
+  "characterMstId": 2000000,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 61,
+  "live2dFileName": "10103_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 101030110
+ },
+ {
+  "live2dIllustMstId": 62,
+  "live2dFileName": "10403_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 104030110
+ },
+ {
+  "live2dIllustMstId": 63,
+  "live2dFileName": "10605_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 106050110
+ },
+ {
+  "live2dIllustMstId": 64,
+  "live2dFileName": "10605_01_S01",
+  "characterMstId": 1060501,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 65,
+  "live2dFileName": "10206_01_S01",
+  "characterMstId": 1020601,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 66,
+  "live2dFileName": "10405_01_S01",
+  "characterMstId": 1040501,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 67,
+  "live2dFileName": "10603_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 106030110
+ },
+ {
+  "live2dIllustMstId": 68,
+  "live2dFileName": "10503_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 105030110
+ },
+ {
+  "live2dIllustMstId": 69,
+  "live2dFileName": "10405_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 104050110
+ },
+ {
+  "live2dIllustMstId": 70,
+  "live2dFileName": "10207_01_S01",
+  "characterMstId": 1020701,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 71,
+  "live2dFileName": "10210_01_S01",
+  "characterMstId": 1021001,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 72,
+  "live2dFileName": "10205_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 102050110
+ },
+ {
+  "live2dIllustMstId": 73,
+  "live2dFileName": "10206_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 102060110
+ },
+ {
+  "live2dIllustMstId": 74,
+  "live2dFileName": "10210_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 102100110
+ },
+ {
+  "live2dIllustMstId": 75,
+  "live2dFileName": "10209_01_S01",
+  "characterMstId": 1020901,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 76,
+  "live2dFileName": "10212_01_S01",
+  "characterMstId": 1021201,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 77,
+  "live2dFileName": "10103_51_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 101030120
+ },
+ {
+  "live2dIllustMstId": 78,
+  "live2dFileName": "10104_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 101040110
+ },
+ {
+  "live2dIllustMstId": 79,
+  "live2dFileName": "10212_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 102120110
+ },
+ {
+  "live2dIllustMstId": 80,
+  "live2dFileName": "10105_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 101050110
+ },
+ {
+  "live2dIllustMstId": 81,
+  "live2dFileName": "10208_01_S01",
+  "characterMstId": 1020801,
+  "characterSkinMstId": 0
+ }
+]

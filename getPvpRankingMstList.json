@@ -1,0 +1,86 @@
+[
+ {
+  "pvpRankingMstId": 1,
+  "pvpRankingGroupId": 1,
+  "minRanking": 1,
+  "dailyRewardGroupId": 2001,
+  "seasonRewardGroupId": 1001
+ },
+ {
+  "pvpRankingMstId": 2,
+  "pvpRankingGroupId": 1,
+  "minRanking": 2,
+  "dailyRewardGroupId": 2002,
+  "seasonRewardGroupId": 1002
+ },
+ {
+  "pvpRankingMstId": 3,
+  "pvpRankingGroupId": 1,
+  "minRanking": 3,
+  "dailyRewardGroupId": 2003,
+  "seasonRewardGroupId": 1003
+ },
+ {
+  "pvpRankingMstId": 4,
+  "pvpRankingGroupId": 1,
+  "minRanking": 6,
+  "dailyRewardGroupId": 2004,
+  "seasonRewardGroupId": 1004
+ },
+ {
+  "pvpRankingMstId": 5,
+  "pvpRankingGroupId": 1,
+  "minRanking": 10,
+  "dailyRewardGroupId": 2005,
+  "seasonRewardGroupId": 1005
+ },
+ {
+  "pvpRankingMstId": 6,
+  "pvpRankingGroupId": 1,
+  "minRanking": 20,
+  "dailyRewardGroupId": 2006,
+  "seasonRewardGroupId": 1006
+ },
+ {
+  "pvpRankingMstId": 7,
+  "pvpRankingGroupId": 1,
+  "minRanking": 50,
+  "dailyRewardGroupId": 2007,
+  "seasonRewardGroupId": 1007
+ },
+ {
+  "pvpRankingMstId": 8,
+  "pvpRankingGroupId": 1,
+  "minRanking": 100,
+  "dailyRewardGroupId": 2008,
+  "seasonRewardGroupId": 1008
+ },
+ {
+  "pvpRankingMstId": 9,
+  "pvpRankingGroupId": 1,
+  "minRanking": 300,
+  "dailyRewardGroupId": 2009,
+  "seasonRewardGroupId": 1009
+ },
+ {
+  "pvpRankingMstId": 10,
+  "pvpRankingGroupId": 1,
+  "minRanking": 500,
+  "dailyRewardGroupId": 2010,
+  "seasonRewardGroupId": 1010
+ },
+ {
+  "pvpRankingMstId": 11,
+  "pvpRankingGroupId": 1,
+  "minRanking": 1000,
+  "dailyRewardGroupId": 2011,
+  "seasonRewardGroupId": 1011
+ },
+ {
+  "pvpRankingMstId": 12,
+  "pvpRankingGroupId": 1,
+  "minRanking": 99999,
+  "dailyRewardGroupId": 2012,
+  "seasonRewardGroupId": 1012
+ }
+]

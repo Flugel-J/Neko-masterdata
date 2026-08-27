@@ -1,0 +1,72 @@
+[
+ {
+  "itemMstId": 3020102,
+  "targetObjectReceiveType": 6,
+  "targetObjectId": 3020001,
+  "rate": 1,
+  "convertType": 1
+ },
+ {
+  "itemMstId": 3020103,
+  "targetObjectReceiveType": 6,
+  "targetObjectId": 3020001,
+  "rate": 1,
+  "convertType": 1
+ },
+ {
+  "itemMstId": 3020104,
+  "targetObjectReceiveType": 6,
+  "targetObjectId": 3020001,
+  "rate": 1,
+  "convertType": 1
+ },
+ {
+  "itemMstId": 3020105,
+  "targetObjectReceiveType": 6,
+  "targetObjectId": 3020001,
+  "rate": 1,
+  "convertType": 1
+ },
+ {
+  "itemMstId": 3020106,
+  "targetObjectReceiveType": 6,
+  "targetObjectId": 3020001,
+  "rate": 1,
+  "convertType": 1
+ },
+ {
+  "itemMstId": 3020107,
+  "targetObjectReceiveType": 6,
+  "targetObjectId": 3020001,
+  "rate": 1,
+  "convertType": 1
+ },
+ {
+  "itemMstId": 3020108,
+  "targetObjectReceiveType": 6,
+  "targetObjectId": 3020001,
+  "rate": 1,
+  "convertType": 1
+ },
+ {
+  "itemMstId": 3020109,
+  "targetObjectReceiveType": 6,
+  "targetObjectId": 3020001,
+  "rate": 1,
+  "convertType": 1
+ },
+ {
+  "itemMstId": 3020110,
+  "targetObjectReceiveType": 6,
+  "targetObjectId": 3020001,
+  "rate": 1,
+  "convertType": 1
+ },
+ {
+  "itemMstId": 3020111,
+  "targetObjectReceiveType": 6,
+  "targetObjectId": 3020001,
+  "rate": 1,
+  "convertType": 1
+ }
+]

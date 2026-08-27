@@ -1,0 +1,4802 @@
+[
+ {
+  "gardenDeliveryRandomEventMstId": 1,
+  "userRank": 1,
+  "eventType": 1,
+  "eventId": 90000001,
+  "rewardGroupId": 1,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 2,
+  "userRank": 1,
+  "eventType": 1,
+  "eventId": 90000002,
+  "rewardGroupId": 2,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 3,
+  "userRank": 1,
+  "eventType": 1,
+  "eventId": 90000003,
+  "rewardGroupId": 3,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 4,
+  "userRank": 2,
+  "eventType": 1,
+  "eventId": 90000001,
+  "rewardGroupId": 1,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 5,
+  "userRank": 2,
+  "eventType": 1,
+  "eventId": 90000002,
+  "rewardGroupId": 2,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 6,
+  "userRank": 2,
+  "eventType": 1,
+  "eventId": 90000003,
+  "rewardGroupId": 3,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 7,
+  "userRank": 3,
+  "eventType": 1,
+  "eventId": 90000001,
+  "rewardGroupId": 1,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 8,
+  "userRank": 3,
+  "eventType": 1,
+  "eventId": 90000002,
+  "rewardGroupId": 2,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 9,
+  "userRank": 3,
+  "eventType": 1,
+  "eventId": 90000003,
+  "rewardGroupId": 3,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 10,
+  "userRank": 4,
+  "eventType": 1,
+  "eventId": 90000001,
+  "rewardGroupId": 1,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 11,
+  "userRank": 4,
+  "eventType": 1,
+  "eventId": 90000002,
+  "rewardGroupId": 2,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 12,
+  "userRank": 4,
+  "eventType": 1,
+  "eventId": 90000003,
+  "rewardGroupId": 3,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 13,
+  "userRank": 5,
+  "eventType": 1,
+  "eventId": 90000001,
+  "rewardGroupId": 1,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 14,
+  "userRank": 5,
+  "eventType": 1,
+  "eventId": 90000002,
+  "rewardGroupId": 2,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 15,
+  "userRank": 5,
+  "eventType": 1,
+  "eventId": 90000003,
+  "rewardGroupId": 3,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 16,
+  "userRank": 6,
+  "eventType": 1,
+  "eventId": 90000001,
+  "rewardGroupId": 1,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 17,
+  "userRank": 6,
+  "eventType": 1,
+  "eventId": 90000002,
+  "rewardGroupId": 2,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 18,
+  "userRank": 6,
+  "eventType": 1,
+  "eventId": 90000003,
+  "rewardGroupId": 3,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 19,
+  "userRank": 7,
+  "eventType": 1,
+  "eventId": 90000001,
+  "rewardGroupId": 1,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 20,
+  "userRank": 7,
+  "eventType": 1,
+  "eventId": 90000002,
+  "rewardGroupId": 2,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 21,
+  "userRank": 7,
+  "eventType": 1,
+  "eventId": 90000003,
+  "rewardGroupId": 3,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 22,
+  "userRank": 8,
+  "eventType": 1,
+  "eventId": 90000001,
+  "rewardGroupId": 1,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 23,
+  "userRank": 8,
+  "eventType": 1,
+  "eventId": 90000002,
+  "rewardGroupId": 2,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 24,
+  "userRank": 8,
+  "eventType": 1,
+  "eventId": 90000003,
+  "rewardGroupId": 3,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 25,
+  "userRank": 9,
+  "eventType": 1,
+  "eventId": 90000001,
+  "rewardGroupId": 1,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 26,
+  "userRank": 9,
+  "eventType": 1,
+  "eventId": 90000002,
+  "rewardGroupId": 2,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 27,
+  "userRank": 9,
+  "eventType": 1,
+  "eventId": 90000003,
+  "rewardGroupId": 3,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 28,
+  "userRank": 10,
+  "eventType": 1,
+  "eventId": 90000001,
+  "rewardGroupId": 1,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 29,
+  "userRank": 10,
+  "eventType": 1,
+  "eventId": 90000002,
+  "rewardGroupId": 2,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 30,
+  "userRank": 10,
+  "eventType": 1,
+  "eventId": 90000003,
+  "rewardGroupId": 3,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 31,
+  "userRank": 11,
+  "eventType": 1,
+  "eventId": 90000004,
+  "rewardGroupId": 4,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 32,
+  "userRank": 11,
+  "eventType": 1,
+  "eventId": 90000005,
+  "rewardGroupId": 5,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 33,
+  "userRank": 11,
+  "eventType": 1,
+  "eventId": 90000006,
+  "rewardGroupId": 6,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 34,
+  "userRank": 12,
+  "eventType": 1,
+  "eventId": 90000004,
+  "rewardGroupId": 4,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 35,
+  "userRank": 12,
+  "eventType": 1,
+  "eventId": 90000005,
+  "rewardGroupId": 5,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 36,
+  "userRank": 12,
+  "eventType": 1,
+  "eventId": 90000006,
+  "rewardGroupId": 6,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 37,
+  "userRank": 13,
+  "eventType": 1,
+  "eventId": 90000004,
+  "rewardGroupId": 4,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 38,
+  "userRank": 13,
+  "eventType": 1,
+  "eventId": 90000005,
+  "rewardGroupId": 5,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 39,
+  "userRank": 13,
+  "eventType": 1,
+  "eventId": 90000006,
+  "rewardGroupId": 6,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 40,
+  "userRank": 14,
+  "eventType": 1,
+  "eventId": 90000004,
+  "rewardGroupId": 4,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 41,
+  "userRank": 14,
+  "eventType": 1,
+  "eventId": 90000005,
+  "rewardGroupId": 5,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 42,
+  "userRank": 14,
+  "eventType": 1,
+  "eventId": 90000006,
+  "rewardGroupId": 6,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 43,
+  "userRank": 15,
+  "eventType": 1,
+  "eventId": 90000004,
+  "rewardGroupId": 4,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 44,
+  "userRank": 15,
+  "eventType": 1,
+  "eventId": 90000005,
+  "rewardGroupId": 5,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 45,
+  "userRank": 15,
+  "eventType": 1,
+  "eventId": 90000006,
+  "rewardGroupId": 6,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 46,
+  "userRank": 16,
+  "eventType": 1,
+  "eventId": 90000004,
+  "rewardGroupId": 4,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 47,
+  "userRank": 16,
+  "eventType": 1,
+  "eventId": 90000005,
+  "rewardGroupId": 5,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 48,
+  "userRank": 16,
+  "eventType": 1,
+  "eventId": 90000006,
+  "rewardGroupId": 6,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 49,
+  "userRank": 17,
+  "eventType": 1,
+  "eventId": 90000004,
+  "rewardGroupId": 4,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 50,
+  "userRank": 17,
+  "eventType": 1,
+  "eventId": 90000005,
+  "rewardGroupId": 5,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 51,
+  "userRank": 17,
+  "eventType": 1,
+  "eventId": 90000006,
+  "rewardGroupId": 6,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 52,
+  "userRank": 18,
+  "eventType": 1,
+  "eventId": 90000004,
+  "rewardGroupId": 4,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 53,
+  "userRank": 18,
+  "eventType": 1,
+  "eventId": 90000005,
+  "rewardGroupId": 5,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 54,
+  "userRank": 18,
+  "eventType": 1,
+  "eventId": 90000006,
+  "rewardGroupId": 6,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 55,
+  "userRank": 19,
+  "eventType": 1,
+  "eventId": 90000004,
+  "rewardGroupId": 4,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 56,
+  "userRank": 19,
+  "eventType": 1,
+  "eventId": 90000005,
+  "rewardGroupId": 5,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 57,
+  "userRank": 19,
+  "eventType": 1,
+  "eventId": 90000006,
+  "rewardGroupId": 6,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 58,
+  "userRank": 20,
+  "eventType": 1,
+  "eventId": 90000004,
+  "rewardGroupId": 4,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 59,
+  "userRank": 20,
+  "eventType": 1,
+  "eventId": 90000005,
+  "rewardGroupId": 5,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 60,
+  "userRank": 20,
+  "eventType": 1,
+  "eventId": 90000006,
+  "rewardGroupId": 6,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 61,
+  "userRank": 21,
+  "eventType": 1,
+  "eventId": 90000010,
+  "rewardGroupId": 13,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 62,
+  "userRank": 21,
+  "eventType": 1,
+  "eventId": 90000011,
+  "rewardGroupId": 14,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 63,
+  "userRank": 21,
+  "eventType": 1,
+  "eventId": 90000012,
+  "rewardGroupId": 15,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 64,
+  "userRank": 22,
+  "eventType": 1,
+  "eventId": 90000010,
+  "rewardGroupId": 13,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 65,
+  "userRank": 22,
+  "eventType": 1,
+  "eventId": 90000011,
+  "rewardGroupId": 14,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 66,
+  "userRank": 22,
+  "eventType": 1,
+  "eventId": 90000012,
+  "rewardGroupId": 15,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 67,
+  "userRank": 23,
+  "eventType": 1,
+  "eventId": 90000010,
+  "rewardGroupId": 13,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 68,
+  "userRank": 23,
+  "eventType": 1,
+  "eventId": 90000011,
+  "rewardGroupId": 14,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 69,
+  "userRank": 23,
+  "eventType": 1,
+  "eventId": 90000012,
+  "rewardGroupId": 15,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 70,
+  "userRank": 24,
+  "eventType": 1,
+  "eventId": 90000010,
+  "rewardGroupId": 13,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 71,
+  "userRank": 24,
+  "eventType": 1,
+  "eventId": 90000011,
+  "rewardGroupId": 14,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 72,
+  "userRank": 24,
+  "eventType": 1,
+  "eventId": 90000012,
+  "rewardGroupId": 15,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 73,
+  "userRank": 25,
+  "eventType": 1,
+  "eventId": 90000010,
+  "rewardGroupId": 13,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 74,
+  "userRank": 25,
+  "eventType": 1,
+  "eventId": 90000011,
+  "rewardGroupId": 14,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 75,
+  "userRank": 25,
+  "eventType": 1,
+  "eventId": 90000012,
+  "rewardGroupId": 15,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 76,
+  "userRank": 26,
+  "eventType": 1,
+  "eventId": 90000010,
+  "rewardGroupId": 13,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 77,
+  "userRank": 26,
+  "eventType": 1,
+  "eventId": 90000011,
+  "rewardGroupId": 14,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 78,
+  "userRank": 26,
+  "eventType": 1,
+  "eventId": 90000012,
+  "rewardGroupId": 15,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 79,
+  "userRank": 27,
+  "eventType": 1,
+  "eventId": 90000010,
+  "rewardGroupId": 13,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 80,
+  "userRank": 27,
+  "eventType": 1,
+  "eventId": 90000011,
+  "rewardGroupId": 14,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 81,
+  "userRank": 27,
+  "eventType": 1,
+  "eventId": 90000012,
+  "rewardGroupId": 15,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 82,
+  "userRank": 28,
+  "eventType": 1,
+  "eventId": 90000010,
+  "rewardGroupId": 13,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 83,
+  "userRank": 28,
+  "eventType": 1,
+  "eventId": 90000011,
+  "rewardGroupId": 14,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 84,
+  "userRank": 28,
+  "eventType": 1,
+  "eventId": 90000012,
+  "rewardGroupId": 15,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 85,
+  "userRank": 29,
+  "eventType": 1,
+  "eventId": 90000010,
+  "rewardGroupId": 13,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 86,
+  "userRank": 29,
+  "eventType": 1,
+  "eventId": 90000011,
+  "rewardGroupId": 14,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 87,
+  "userRank": 29,
+  "eventType": 1,
+  "eventId": 90000012,
+  "rewardGroupId": 15,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 88,
+  "userRank": 30,
+  "eventType": 1,
+  "eventId": 90000010,
+  "rewardGroupId": 13,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 89,
+  "userRank": 30,
+  "eventType": 1,
+  "eventId": 90000011,
+  "rewardGroupId": 14,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 90,
+  "userRank": 30,
+  "eventType": 1,
+  "eventId": 90000012,
+  "rewardGroupId": 15,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 91,
+  "userRank": 31,
+  "eventType": 1,
+  "eventId": 90000013,
+  "rewardGroupId": 16,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 92,
+  "userRank": 31,
+  "eventType": 1,
+  "eventId": 90000014,
+  "rewardGroupId": 17,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 93,
+  "userRank": 31,
+  "eventType": 1,
+  "eventId": 90000015,
+  "rewardGroupId": 18,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 94,
+  "userRank": 32,
+  "eventType": 1,
+  "eventId": 90000013,
+  "rewardGroupId": 16,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 95,
+  "userRank": 32,
+  "eventType": 1,
+  "eventId": 90000014,
+  "rewardGroupId": 17,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 96,
+  "userRank": 32,
+  "eventType": 1,
+  "eventId": 90000015,
+  "rewardGroupId": 18,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 97,
+  "userRank": 33,
+  "eventType": 1,
+  "eventId": 90000013,
+  "rewardGroupId": 16,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 98,
+  "userRank": 33,
+  "eventType": 1,
+  "eventId": 90000014,
+  "rewardGroupId": 17,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 99,
+  "userRank": 33,
+  "eventType": 1,
+  "eventId": 90000015,
+  "rewardGroupId": 18,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 100,
+  "userRank": 34,
+  "eventType": 1,
+  "eventId": 90000013,
+  "rewardGroupId": 16,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 101,
+  "userRank": 34,
+  "eventType": 1,
+  "eventId": 90000014,
+  "rewardGroupId": 17,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 102,
+  "userRank": 34,
+  "eventType": 1,
+  "eventId": 90000015,
+  "rewardGroupId": 18,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 103,
+  "userRank": 35,
+  "eventType": 1,
+  "eventId": 90000013,
+  "rewardGroupId": 16,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 104,
+  "userRank": 35,
+  "eventType": 1,
+  "eventId": 90000014,
+  "rewardGroupId": 17,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 105,
+  "userRank": 35,
+  "eventType": 1,
+  "eventId": 90000015,
+  "rewardGroupId": 18,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 106,
+  "userRank": 36,
+  "eventType": 1,
+  "eventId": 90000013,
+  "rewardGroupId": 16,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 107,
+  "userRank": 36,
+  "eventType": 1,
+  "eventId": 90000014,
+  "rewardGroupId": 17,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 108,
+  "userRank": 36,
+  "eventType": 1,
+  "eventId": 90000015,
+  "rewardGroupId": 18,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 109,
+  "userRank": 37,
+  "eventType": 1,
+  "eventId": 90000013,
+  "rewardGroupId": 16,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 110,
+  "userRank": 37,
+  "eventType": 1,
+  "eventId": 90000014,
+  "rewardGroupId": 17,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 111,
+  "userRank": 37,
+  "eventType": 1,
+  "eventId": 90000015,
+  "rewardGroupId": 18,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 112,
+  "userRank": 38,
+  "eventType": 1,
+  "eventId": 90000013,
+  "rewardGroupId": 16,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 113,
+  "userRank": 38,
+  "eventType": 1,
+  "eventId": 90000014,
+  "rewardGroupId": 17,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 114,
+  "userRank": 38,
+  "eventType": 1,
+  "eventId": 90000015,
+  "rewardGroupId": 18,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 115,
+  "userRank": 39,
+  "eventType": 1,
+  "eventId": 90000013,
+  "rewardGroupId": 16,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 116,
+  "userRank": 39,
+  "eventType": 1,
+  "eventId": 90000014,
+  "rewardGroupId": 17,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 117,
+  "userRank": 39,
+  "eventType": 1,
+  "eventId": 90000015,
+  "rewardGroupId": 18,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 118,
+  "userRank": 40,
+  "eventType": 1,
+  "eventId": 90000013,
+  "rewardGroupId": 16,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 119,
+  "userRank": 40,
+  "eventType": 1,
+  "eventId": 90000014,
+  "rewardGroupId": 17,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 120,
+  "userRank": 40,
+  "eventType": 1,
+  "eventId": 90000015,
+  "rewardGroupId": 18,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 121,
+  "userRank": 41,
+  "eventType": 1,
+  "eventId": 90000016,
+  "rewardGroupId": 19,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 122,
+  "userRank": 41,
+  "eventType": 1,
+  "eventId": 90000017,
+  "rewardGroupId": 20,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 123,
+  "userRank": 41,
+  "eventType": 1,
+  "eventId": 90000018,
+  "rewardGroupId": 21,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 124,
+  "userRank": 42,
+  "eventType": 1,
+  "eventId": 90000016,
+  "rewardGroupId": 19,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 125,
+  "userRank": 42,
+  "eventType": 1,
+  "eventId": 90000017,
+  "rewardGroupId": 20,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 126,
+  "userRank": 42,
+  "eventType": 1,
+  "eventId": 90000018,
+  "rewardGroupId": 21,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 127,
+  "userRank": 43,
+  "eventType": 1,
+  "eventId": 90000016,
+  "rewardGroupId": 19,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 128,
+  "userRank": 43,
+  "eventType": 1,
+  "eventId": 90000017,
+  "rewardGroupId": 20,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 129,
+  "userRank": 43,
+  "eventType": 1,
+  "eventId": 90000018,
+  "rewardGroupId": 21,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 130,
+  "userRank": 44,
+  "eventType": 1,
+  "eventId": 90000016,
+  "rewardGroupId": 19,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 131,
+  "userRank": 44,
+  "eventType": 1,
+  "eventId": 90000017,
+  "rewardGroupId": 20,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 132,
+  "userRank": 44,
+  "eventType": 1,
+  "eventId": 90000018,
+  "rewardGroupId": 21,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 133,
+  "userRank": 45,
+  "eventType": 1,
+  "eventId": 90000016,
+  "rewardGroupId": 19,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 134,
+  "userRank": 45,
+  "eventType": 1,
+  "eventId": 90000017,
+  "rewardGroupId": 20,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 135,
+  "userRank": 45,
+  "eventType": 1,
+  "eventId": 90000018,
+  "rewardGroupId": 21,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 136,
+  "userRank": 46,
+  "eventType": 1,
+  "eventId": 90000016,
+  "rewardGroupId": 19,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 137,
+  "userRank": 46,
+  "eventType": 1,
+  "eventId": 90000017,
+  "rewardGroupId": 20,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 138,
+  "userRank": 46,
+  "eventType": 1,
+  "eventId": 90000018,
+  "rewardGroupId": 21,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 139,
+  "userRank": 47,
+  "eventType": 1,
+  "eventId": 90000016,
+  "rewardGroupId": 19,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 140,
+  "userRank": 47,
+  "eventType": 1,
+  "eventId": 90000017,
+  "rewardGroupId": 20,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 141,
+  "userRank": 47,
+  "eventType": 1,
+  "eventId": 90000018,
+  "rewardGroupId": 21,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 142,
+  "userRank": 48,
+  "eventType": 1,
+  "eventId": 90000016,
+  "rewardGroupId": 19,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 143,
+  "userRank": 48,
+  "eventType": 1,
+  "eventId": 90000017,
+  "rewardGroupId": 20,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 144,
+  "userRank": 48,
+  "eventType": 1,
+  "eventId": 90000018,
+  "rewardGroupId": 21,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 145,
+  "userRank": 49,
+  "eventType": 1,
+  "eventId": 90000016,
+  "rewardGroupId": 19,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 146,
+  "userRank": 49,
+  "eventType": 1,
+  "eventId": 90000017,
+  "rewardGroupId": 20,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 147,
+  "userRank": 49,
+  "eventType": 1,
+  "eventId": 90000018,
+  "rewardGroupId": 21,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 148,
+  "userRank": 50,
+  "eventType": 1,
+  "eventId": 90000016,
+  "rewardGroupId": 19,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 149,
+  "userRank": 50,
+  "eventType": 1,
+  "eventId": 90000017,
+  "rewardGroupId": 20,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 150,
+  "userRank": 50,
+  "eventType": 1,
+  "eventId": 90000018,
+  "rewardGroupId": 21,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 151,
+  "userRank": 51,
+  "eventType": 1,
+  "eventId": 90000019,
+  "rewardGroupId": 22,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 152,
+  "userRank": 51,
+  "eventType": 1,
+  "eventId": 90000020,
+  "rewardGroupId": 23,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 153,
+  "userRank": 51,
+  "eventType": 1,
+  "eventId": 90000021,
+  "rewardGroupId": 24,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 154,
+  "userRank": 52,
+  "eventType": 1,
+  "eventId": 90000019,
+  "rewardGroupId": 22,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 155,
+  "userRank": 52,
+  "eventType": 1,
+  "eventId": 90000020,
+  "rewardGroupId": 23,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 156,
+  "userRank": 52,
+  "eventType": 1,
+  "eventId": 90000021,
+  "rewardGroupId": 24,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 157,
+  "userRank": 53,
+  "eventType": 1,
+  "eventId": 90000019,
+  "rewardGroupId": 22,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 158,
+  "userRank": 53,
+  "eventType": 1,
+  "eventId": 90000020,
+  "rewardGroupId": 23,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 159,
+  "userRank": 53,
+  "eventType": 1,
+  "eventId": 90000021,
+  "rewardGroupId": 24,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 160,
+  "userRank": 54,
+  "eventType": 1,
+  "eventId": 90000019,
+  "rewardGroupId": 22,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 161,
+  "userRank": 54,
+  "eventType": 1,
+  "eventId": 90000020,
+  "rewardGroupId": 23,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 162,
+  "userRank": 54,
+  "eventType": 1,
+  "eventId": 90000021,
+  "rewardGroupId": 24,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 163,
+  "userRank": 55,
+  "eventType": 1,
+  "eventId": 90000019,
+  "rewardGroupId": 22,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 164,
+  "userRank": 55,
+  "eventType": 1,
+  "eventId": 90000020,
+  "rewardGroupId": 23,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 165,
+  "userRank": 55,
+  "eventType": 1,
+  "eventId": 90000021,
+  "rewardGroupId": 24,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 166,
+  "userRank": 56,
+  "eventType": 1,
+  "eventId": 90000019,
+  "rewardGroupId": 22,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 167,
+  "userRank": 56,
+  "eventType": 1,
+  "eventId": 90000020,
+  "rewardGroupId": 23,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 168,
+  "userRank": 56,
+  "eventType": 1,
+  "eventId": 90000021,
+  "rewardGroupId": 24,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 169,
+  "userRank": 57,
+  "eventType": 1,
+  "eventId": 90000019,
+  "rewardGroupId": 22,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 170,
+  "userRank": 57,
+  "eventType": 1,
+  "eventId": 90000020,
+  "rewardGroupId": 23,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 171,
+  "userRank": 57,
+  "eventType": 1,
+  "eventId": 90000021,
+  "rewardGroupId": 24,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 172,
+  "userRank": 58,
+  "eventType": 1,
+  "eventId": 90000019,
+  "rewardGroupId": 22,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 173,
+  "userRank": 58,
+  "eventType": 1,
+  "eventId": 90000020,
+  "rewardGroupId": 23,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 174,
+  "userRank": 58,
+  "eventType": 1,
+  "eventId": 90000021,
+  "rewardGroupId": 24,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 175,
+  "userRank": 59,
+  "eventType": 1,
+  "eventId": 90000019,
+  "rewardGroupId": 22,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 176,
+  "userRank": 59,
+  "eventType": 1,
+  "eventId": 90000020,
+  "rewardGroupId": 23,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 177,
+  "userRank": 59,
+  "eventType": 1,
+  "eventId": 90000021,
+  "rewardGroupId": 24,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 178,
+  "userRank": 60,
+  "eventType": 1,
+  "eventId": 90000019,
+  "rewardGroupId": 22,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 179,
+  "userRank": 60,
+  "eventType": 1,
+  "eventId": 90000020,
+  "rewardGroupId": 23,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 180,
+  "userRank": 60,
+  "eventType": 1,
+  "eventId": 90000021,
+  "rewardGroupId": 24,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 181,
+  "userRank": 61,
+  "eventType": 1,
+  "eventId": 90000022,
+  "rewardGroupId": 25,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 182,
+  "userRank": 61,
+  "eventType": 1,
+  "eventId": 90000023,
+  "rewardGroupId": 26,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 183,
+  "userRank": 61,
+  "eventType": 1,
+  "eventId": 90000024,
+  "rewardGroupId": 27,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 184,
+  "userRank": 62,
+  "eventType": 1,
+  "eventId": 90000022,
+  "rewardGroupId": 25,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 185,
+  "userRank": 62,
+  "eventType": 1,
+  "eventId": 90000023,
+  "rewardGroupId": 26,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 186,
+  "userRank": 62,
+  "eventType": 1,
+  "eventId": 90000024,
+  "rewardGroupId": 27,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 187,
+  "userRank": 63,
+  "eventType": 1,
+  "eventId": 90000022,
+  "rewardGroupId": 25,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 188,
+  "userRank": 63,
+  "eventType": 1,
+  "eventId": 90000023,
+  "rewardGroupId": 26,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 189,
+  "userRank": 63,
+  "eventType": 1,
+  "eventId": 90000024,
+  "rewardGroupId": 27,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 190,
+  "userRank": 64,
+  "eventType": 1,
+  "eventId": 90000022,
+  "rewardGroupId": 25,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 191,
+  "userRank": 64,
+  "eventType": 1,
+  "eventId": 90000023,
+  "rewardGroupId": 26,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 192,
+  "userRank": 64,
+  "eventType": 1,
+  "eventId": 90000024,
+  "rewardGroupId": 27,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 193,
+  "userRank": 65,
+  "eventType": 1,
+  "eventId": 90000022,
+  "rewardGroupId": 25,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 194,
+  "userRank": 65,
+  "eventType": 1,
+  "eventId": 90000023,
+  "rewardGroupId": 26,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 195,
+  "userRank": 65,
+  "eventType": 1,
+  "eventId": 90000024,
+  "rewardGroupId": 27,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 196,
+  "userRank": 66,
+  "eventType": 1,
+  "eventId": 90000022,
+  "rewardGroupId": 25,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 197,
+  "userRank": 66,
+  "eventType": 1,
+  "eventId": 90000023,
+  "rewardGroupId": 26,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 198,
+  "userRank": 66,
+  "eventType": 1,
+  "eventId": 90000024,
+  "rewardGroupId": 27,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 199,
+  "userRank": 67,
+  "eventType": 1,
+  "eventId": 90000022,
+  "rewardGroupId": 25,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 200,
+  "userRank": 67,
+  "eventType": 1,
+  "eventId": 90000023,
+  "rewardGroupId": 26,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 201,
+  "userRank": 67,
+  "eventType": 1,
+  "eventId": 90000024,
+  "rewardGroupId": 27,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 202,
+  "userRank": 68,
+  "eventType": 1,
+  "eventId": 90000022,
+  "rewardGroupId": 25,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 203,
+  "userRank": 68,
+  "eventType": 1,
+  "eventId": 90000023,
+  "rewardGroupId": 26,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 204,
+  "userRank": 68,
+  "eventType": 1,
+  "eventId": 90000024,
+  "rewardGroupId": 27,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 205,
+  "userRank": 69,
+  "eventType": 1,
+  "eventId": 90000022,
+  "rewardGroupId": 25,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 206,
+  "userRank": 69,
+  "eventType": 1,
+  "eventId": 90000023,
+  "rewardGroupId": 26,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 207,
+  "userRank": 69,
+  "eventType": 1,
+  "eventId": 90000024,
+  "rewardGroupId": 27,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 208,
+  "userRank": 70,
+  "eventType": 1,
+  "eventId": 90000022,
+  "rewardGroupId": 25,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 209,
+  "userRank": 70,
+  "eventType": 1,
+  "eventId": 90000023,
+  "rewardGroupId": 26,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 210,
+  "userRank": 70,
+  "eventType": 1,
+  "eventId": 90000024,
+  "rewardGroupId": 27,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 211,
+  "userRank": 71,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 212,
+  "userRank": 71,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 213,
+  "userRank": 71,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 214,
+  "userRank": 72,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 215,
+  "userRank": 72,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 216,
+  "userRank": 72,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 217,
+  "userRank": 73,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 218,
+  "userRank": 73,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 219,
+  "userRank": 73,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 220,
+  "userRank": 74,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 221,
+  "userRank": 74,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 222,
+  "userRank": 74,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 223,
+  "userRank": 75,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 224,
+  "userRank": 75,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 225,
+  "userRank": 75,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 226,
+  "userRank": 76,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 227,
+  "userRank": 76,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 228,
+  "userRank": 76,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 229,
+  "userRank": 77,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 230,
+  "userRank": 77,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 231,
+  "userRank": 77,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 232,
+  "userRank": 78,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 233,
+  "userRank": 78,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 234,
+  "userRank": 78,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 235,
+  "userRank": 79,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 236,
+  "userRank": 79,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 237,
+  "userRank": 79,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 238,
+  "userRank": 80,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 239,
+  "userRank": 80,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 240,
+  "userRank": 80,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 241,
+  "userRank": 81,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 242,
+  "userRank": 81,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 243,
+  "userRank": 81,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 244,
+  "userRank": 82,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 245,
+  "userRank": 82,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 246,
+  "userRank": 82,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 247,
+  "userRank": 83,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 248,
+  "userRank": 83,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 249,
+  "userRank": 83,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 250,
+  "userRank": 84,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 251,
+  "userRank": 84,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 252,
+  "userRank": 84,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 253,
+  "userRank": 85,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 254,
+  "userRank": 85,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 255,
+  "userRank": 85,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 256,
+  "userRank": 86,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 257,
+  "userRank": 86,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 258,
+  "userRank": 86,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 259,
+  "userRank": 87,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 260,
+  "userRank": 87,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 261,
+  "userRank": 87,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 262,
+  "userRank": 88,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 263,
+  "userRank": 88,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 264,
+  "userRank": 88,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 265,
+  "userRank": 89,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 266,
+  "userRank": 89,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 267,
+  "userRank": 89,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 268,
+  "userRank": 90,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 269,
+  "userRank": 90,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 270,
+  "userRank": 90,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 271,
+  "userRank": 91,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 272,
+  "userRank": 91,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 273,
+  "userRank": 91,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 274,
+  "userRank": 92,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 275,
+  "userRank": 92,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 276,
+  "userRank": 92,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 277,
+  "userRank": 93,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 278,
+  "userRank": 93,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 279,
+  "userRank": 93,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 280,
+  "userRank": 94,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 281,
+  "userRank": 94,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 282,
+  "userRank": 94,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 283,
+  "userRank": 95,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 284,
+  "userRank": 95,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 285,
+  "userRank": 95,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 286,
+  "userRank": 96,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 287,
+  "userRank": 96,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 288,
+  "userRank": 96,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 289,
+  "userRank": 97,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 290,
+  "userRank": 97,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 291,
+  "userRank": 97,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 292,
+  "userRank": 98,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 293,
+  "userRank": 98,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 294,
+  "userRank": 98,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 295,
+  "userRank": 99,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 296,
+  "userRank": 99,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 297,
+  "userRank": 99,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 298,
+  "userRank": 100,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 299,
+  "userRank": 100,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 300,
+  "userRank": 100,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 301,
+  "userRank": 101,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 302,
+  "userRank": 101,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 303,
+  "userRank": 101,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 304,
+  "userRank": 102,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 305,
+  "userRank": 102,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 306,
+  "userRank": 102,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 307,
+  "userRank": 103,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 308,
+  "userRank": 103,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 309,
+  "userRank": 103,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 310,
+  "userRank": 104,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 311,
+  "userRank": 104,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 312,
+  "userRank": 104,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 313,
+  "userRank": 105,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 314,
+  "userRank": 105,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 315,
+  "userRank": 105,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 316,
+  "userRank": 106,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 317,
+  "userRank": 106,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 318,
+  "userRank": 106,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 319,
+  "userRank": 107,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 320,
+  "userRank": 107,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 321,
+  "userRank": 107,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 322,
+  "userRank": 108,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 323,
+  "userRank": 108,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 324,
+  "userRank": 108,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 325,
+  "userRank": 109,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 326,
+  "userRank": 109,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 327,
+  "userRank": 109,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 328,
+  "userRank": 110,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 329,
+  "userRank": 110,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 330,
+  "userRank": 110,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 331,
+  "userRank": 111,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 332,
+  "userRank": 111,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 333,
+  "userRank": 111,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 334,
+  "userRank": 112,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 335,
+  "userRank": 112,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 336,
+  "userRank": 112,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 337,
+  "userRank": 113,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 338,
+  "userRank": 113,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 339,
+  "userRank": 113,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 340,
+  "userRank": 114,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 341,
+  "userRank": 114,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 342,
+  "userRank": 114,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 343,
+  "userRank": 115,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 344,
+  "userRank": 115,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 345,
+  "userRank": 115,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 346,
+  "userRank": 116,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 347,
+  "userRank": 116,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 348,
+  "userRank": 116,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 349,
+  "userRank": 117,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 350,
+  "userRank": 117,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 351,
+  "userRank": 117,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 352,
+  "userRank": 118,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 353,
+  "userRank": 118,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 354,
+  "userRank": 118,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 355,
+  "userRank": 119,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 356,
+  "userRank": 119,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 357,
+  "userRank": 119,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 358,
+  "userRank": 120,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 359,
+  "userRank": 120,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 360,
+  "userRank": 120,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 361,
+  "userRank": 121,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 362,
+  "userRank": 121,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 363,
+  "userRank": 121,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 364,
+  "userRank": 122,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 365,
+  "userRank": 122,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 366,
+  "userRank": 122,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 367,
+  "userRank": 123,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 368,
+  "userRank": 123,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 369,
+  "userRank": 123,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 370,
+  "userRank": 124,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 371,
+  "userRank": 124,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 372,
+  "userRank": 124,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 373,
+  "userRank": 125,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 374,
+  "userRank": 125,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 375,
+  "userRank": 125,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 376,
+  "userRank": 126,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 377,
+  "userRank": 126,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 378,
+  "userRank": 126,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 379,
+  "userRank": 127,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 380,
+  "userRank": 127,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 381,
+  "userRank": 127,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 382,
+  "userRank": 128,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 383,
+  "userRank": 128,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 384,
+  "userRank": 128,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 385,
+  "userRank": 129,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 386,
+  "userRank": 129,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 387,
+  "userRank": 129,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 388,
+  "userRank": 130,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 389,
+  "userRank": 130,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 390,
+  "userRank": 130,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 391,
+  "userRank": 131,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 392,
+  "userRank": 131,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 393,
+  "userRank": 131,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 394,
+  "userRank": 132,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 395,
+  "userRank": 132,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 396,
+  "userRank": 132,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 397,
+  "userRank": 133,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 398,
+  "userRank": 133,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 399,
+  "userRank": 133,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 400,
+  "userRank": 134,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 401,
+  "userRank": 134,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 402,
+  "userRank": 134,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 403,
+  "userRank": 135,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 404,
+  "userRank": 135,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 405,
+  "userRank": 135,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 406,
+  "userRank": 136,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 407,
+  "userRank": 136,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 408,
+  "userRank": 136,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 409,
+  "userRank": 137,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 410,
+  "userRank": 137,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 411,
+  "userRank": 137,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 412,
+  "userRank": 138,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 413,
+  "userRank": 138,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 414,
+  "userRank": 138,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 415,
+  "userRank": 139,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 416,
+  "userRank": 139,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 417,
+  "userRank": 139,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 418,
+  "userRank": 140,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 419,
+  "userRank": 140,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 420,
+  "userRank": 140,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 421,
+  "userRank": 141,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 422,
+  "userRank": 141,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 423,
+  "userRank": 141,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 424,
+  "userRank": 142,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 425,
+  "userRank": 142,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 426,
+  "userRank": 142,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 427,
+  "userRank": 143,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 428,
+  "userRank": 143,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 429,
+  "userRank": 143,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 430,
+  "userRank": 144,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 431,
+  "userRank": 144,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 432,
+  "userRank": 144,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 433,
+  "userRank": 145,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 434,
+  "userRank": 145,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 435,
+  "userRank": 145,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 436,
+  "userRank": 146,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 437,
+  "userRank": 146,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 438,
+  "userRank": 146,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 439,
+  "userRank": 147,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 440,
+  "userRank": 147,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 441,
+  "userRank": 147,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 442,
+  "userRank": 148,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 443,
+  "userRank": 148,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 444,
+  "userRank": 148,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 445,
+  "userRank": 149,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 446,
+  "userRank": 149,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 447,
+  "userRank": 149,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 448,
+  "userRank": 150,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 449,
+  "userRank": 150,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 450,
+  "userRank": 150,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 451,
+  "userRank": 151,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 452,
+  "userRank": 151,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 453,
+  "userRank": 151,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 454,
+  "userRank": 152,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 455,
+  "userRank": 152,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 456,
+  "userRank": 152,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 457,
+  "userRank": 153,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 458,
+  "userRank": 153,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 459,
+  "userRank": 153,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 460,
+  "userRank": 154,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 461,
+  "userRank": 154,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 462,
+  "userRank": 154,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 463,
+  "userRank": 155,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 464,
+  "userRank": 155,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 465,
+  "userRank": 155,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 466,
+  "userRank": 156,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 467,
+  "userRank": 156,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 468,
+  "userRank": 156,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 469,
+  "userRank": 157,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 470,
+  "userRank": 157,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 471,
+  "userRank": 157,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 472,
+  "userRank": 158,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 473,
+  "userRank": 158,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 474,
+  "userRank": 158,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 475,
+  "userRank": 159,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 476,
+  "userRank": 159,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 477,
+  "userRank": 159,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 478,
+  "userRank": 160,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 479,
+  "userRank": 160,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 480,
+  "userRank": 160,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 481,
+  "userRank": 161,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 482,
+  "userRank": 161,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 483,
+  "userRank": 161,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 484,
+  "userRank": 162,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 485,
+  "userRank": 162,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 486,
+  "userRank": 162,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 487,
+  "userRank": 163,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 488,
+  "userRank": 163,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 489,
+  "userRank": 163,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 490,
+  "userRank": 164,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 491,
+  "userRank": 164,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 492,
+  "userRank": 164,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 493,
+  "userRank": 165,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 494,
+  "userRank": 165,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 495,
+  "userRank": 165,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 496,
+  "userRank": 166,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 497,
+  "userRank": 166,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 498,
+  "userRank": 166,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 499,
+  "userRank": 167,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 500,
+  "userRank": 167,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 501,
+  "userRank": 167,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 502,
+  "userRank": 168,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 503,
+  "userRank": 168,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 504,
+  "userRank": 168,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 505,
+  "userRank": 169,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 506,
+  "userRank": 169,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 507,
+  "userRank": 169,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 508,
+  "userRank": 170,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 509,
+  "userRank": 170,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 510,
+  "userRank": 170,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 511,
+  "userRank": 171,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 512,
+  "userRank": 171,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 513,
+  "userRank": 171,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 514,
+  "userRank": 172,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 515,
+  "userRank": 172,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 516,
+  "userRank": 172,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 517,
+  "userRank": 173,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 518,
+  "userRank": 173,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 519,
+  "userRank": 173,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 520,
+  "userRank": 174,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 521,
+  "userRank": 174,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 522,
+  "userRank": 174,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 523,
+  "userRank": 175,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 524,
+  "userRank": 175,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 525,
+  "userRank": 175,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 526,
+  "userRank": 176,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 527,
+  "userRank": 176,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 528,
+  "userRank": 176,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 529,
+  "userRank": 177,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 530,
+  "userRank": 177,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 531,
+  "userRank": 177,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 532,
+  "userRank": 178,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 533,
+  "userRank": 178,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 534,
+  "userRank": 178,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 535,
+  "userRank": 179,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 536,
+  "userRank": 179,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 537,
+  "userRank": 179,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 538,
+  "userRank": 180,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 539,
+  "userRank": 180,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 540,
+  "userRank": 180,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 541,
+  "userRank": 181,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 542,
+  "userRank": 181,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 543,
+  "userRank": 181,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 544,
+  "userRank": 182,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 545,
+  "userRank": 182,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 546,
+  "userRank": 182,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 547,
+  "userRank": 183,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 548,
+  "userRank": 183,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 549,
+  "userRank": 183,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 550,
+  "userRank": 184,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 551,
+  "userRank": 184,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 552,
+  "userRank": 184,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 553,
+  "userRank": 185,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 554,
+  "userRank": 185,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 555,
+  "userRank": 185,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 556,
+  "userRank": 186,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 557,
+  "userRank": 186,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 558,
+  "userRank": 186,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 559,
+  "userRank": 187,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 560,
+  "userRank": 187,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 561,
+  "userRank": 187,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 562,
+  "userRank": 188,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 563,
+  "userRank": 188,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 564,
+  "userRank": 188,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 565,
+  "userRank": 189,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 566,
+  "userRank": 189,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 567,
+  "userRank": 189,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 568,
+  "userRank": 190,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 569,
+  "userRank": 190,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 570,
+  "userRank": 190,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 571,
+  "userRank": 191,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 572,
+  "userRank": 191,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 573,
+  "userRank": 191,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 574,
+  "userRank": 192,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 575,
+  "userRank": 192,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 576,
+  "userRank": 192,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 577,
+  "userRank": 193,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 578,
+  "userRank": 193,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 579,
+  "userRank": 193,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 580,
+  "userRank": 194,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 581,
+  "userRank": 194,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 582,
+  "userRank": 194,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 583,
+  "userRank": 195,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 584,
+  "userRank": 195,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 585,
+  "userRank": 195,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 586,
+  "userRank": 196,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 587,
+  "userRank": 196,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 588,
+  "userRank": 196,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 589,
+  "userRank": 197,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 590,
+  "userRank": 197,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 591,
+  "userRank": 197,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 592,
+  "userRank": 198,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 593,
+  "userRank": 198,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 594,
+  "userRank": 198,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 595,
+  "userRank": 199,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 596,
+  "userRank": 199,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 597,
+  "userRank": 199,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 598,
+  "userRank": 200,
+  "eventType": 1,
+  "eventId": 90000025,
+  "rewardGroupId": 28,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 599,
+  "userRank": 200,
+  "eventType": 1,
+  "eventId": 90000026,
+  "rewardGroupId": 29,
+  "weight": 40
+ },
+ {
+  "gardenDeliveryRandomEventMstId": 600,
+  "userRank": 200,
+  "eventType": 1,
+  "eventId": 90000027,
+  "rewardGroupId": 30,
+  "weight": 20
+ }
+]

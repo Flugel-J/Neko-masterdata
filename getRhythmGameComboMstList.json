@@ -1,0 +1,74 @@
+[
+ {
+  "rhythmGameComboMstId": 1,
+  "comboCountStart": 1,
+  "comboCountEnd": 20,
+  "scoreMulti": 100
+ },
+ {
+  "rhythmGameComboMstId": 2,
+  "comboCountStart": 21,
+  "comboCountEnd": 50,
+  "scoreMulti": 101
+ },
+ {
+  "rhythmGameComboMstId": 3,
+  "comboCountStart": 51,
+  "comboCountEnd": 100,
+  "scoreMulti": 102
+ },
+ {
+  "rhythmGameComboMstId": 4,
+  "comboCountStart": 101,
+  "comboCountEnd": 150,
+  "scoreMulti": 103
+ },
+ {
+  "rhythmGameComboMstId": 5,
+  "comboCountStart": 151,
+  "comboCountEnd": 200,
+  "scoreMulti": 104
+ },
+ {
+  "rhythmGameComboMstId": 6,
+  "comboCountStart": 201,
+  "comboCountEnd": 250,
+  "scoreMulti": 105
+ },
+ {
+  "rhythmGameComboMstId": 7,
+  "comboCountStart": 251,
+  "comboCountEnd": 300,
+  "scoreMulti": 106
+ },
+ {
+  "rhythmGameComboMstId": 8,
+  "comboCountStart": 301,
+  "comboCountEnd": 400,
+  "scoreMulti": 107
+ },
+ {
+  "rhythmGameComboMstId": 9,
+  "comboCountStart": 401,
+  "comboCountEnd": 500,
+  "scoreMulti": 108
+ },
+ {
+  "rhythmGameComboMstId": 10,
+  "comboCountStart": 501,
+  "comboCountEnd": 600,
+  "scoreMulti": 109
+ },
+ {
+  "rhythmGameComboMstId": 11,
+  "comboCountStart": 601,
+  "comboCountEnd": 700,
+  "scoreMulti": 110
+ },
+ {
+  "rhythmGameComboMstId": 12,
+  "comboCountStart": 701,
+  "comboCountEnd": 9999,
+  "scoreMulti": 111
+ }
+]

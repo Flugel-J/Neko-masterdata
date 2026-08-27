@@ -1,0 +1,26 @@
+[
+ {
+  "rank": 1,
+  "pointMin": 200,
+  "pointMax": 290,
+  "resultExp": 100
+ },
+ {
+  "rank": 2,
+  "pointMin": 150,
+  "pointMax": 199,
+  "resultExp": 100
+ },
+ {
+  "rank": 3,
+  "pointMin": 50,
+  "pointMax": 149,
+  "resultExp": 100
+ },
+ {
+  "rank": 4,
+  "pointMin": 0,
+  "pointMax": 49,
+  "resultExp": 100
+ }
+]

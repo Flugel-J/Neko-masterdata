@@ -1,0 +1,162 @@
+[
+ {
+  "guildDonationMstId": 1,
+  "donateTimes": 1,
+  "payType": 1,
+  "payItemId": 0,
+  "donateAmount": 10,
+  "rewardGroupId": 1
+ },
+ {
+  "guildDonationMstId": 2,
+  "donateTimes": 2,
+  "payType": 1,
+  "payItemId": 0,
+  "donateAmount": 10,
+  "rewardGroupId": 1
+ },
+ {
+  "guildDonationMstId": 3,
+  "donateTimes": 3,
+  "payType": 1,
+  "payItemId": 0,
+  "donateAmount": 10,
+  "rewardGroupId": 1
+ },
+ {
+  "guildDonationMstId": 4,
+  "donateTimes": 4,
+  "payType": 1,
+  "payItemId": 0,
+  "donateAmount": 10,
+  "rewardGroupId": 1
+ },
+ {
+  "guildDonationMstId": 5,
+  "donateTimes": 5,
+  "payType": 1,
+  "payItemId": 0,
+  "donateAmount": 10,
+  "rewardGroupId": 1
+ },
+ {
+  "guildDonationMstId": 6,
+  "donateTimes": 6,
+  "payType": 1,
+  "payItemId": 0,
+  "donateAmount": 10,
+  "rewardGroupId": 1
+ },
+ {
+  "guildDonationMstId": 7,
+  "donateTimes": 7,
+  "payType": 1,
+  "payItemId": 0,
+  "donateAmount": 10,
+  "rewardGroupId": 1
+ },
+ {
+  "guildDonationMstId": 8,
+  "donateTimes": 8,
+  "payType": 1,
+  "payItemId": 0,
+  "donateAmount": 10,
+  "rewardGroupId": 1
+ },
+ {
+  "guildDonationMstId": 9,
+  "donateTimes": 9,
+  "payType": 1,
+  "payItemId": 0,
+  "donateAmount": 10,
+  "rewardGroupId": 1
+ },
+ {
+  "guildDonationMstId": 10,
+  "donateTimes": 10,
+  "payType": 1,
+  "payItemId": 0,
+  "donateAmount": 10,
+  "rewardGroupId": 1
+ },
+ {
+  "guildDonationMstId": 11,
+  "donateTimes": 1,
+  "payType": 2,
+  "payItemId": 0,
+  "donateAmount": 1000,
+  "rewardGroupId": 2
+ },
+ {
+  "guildDonationMstId": 12,
+  "donateTimes": 2,
+  "payType": 2,
+  "payItemId": 0,
+  "donateAmount": 1000,
+  "rewardGroupId": 2
+ },
+ {
+  "guildDonationMstId": 13,
+  "donateTimes": 3,
+  "payType": 2,
+  "payItemId": 0,
+  "donateAmount": 1000,
+  "rewardGroupId": 2
+ },
+ {
+  "guildDonationMstId": 14,
+  "donateTimes": 4,
+  "payType": 2,
+  "payItemId": 0,
+  "donateAmount": 1000,
+  "rewardGroupId": 2
+ },
+ {
+  "guildDonationMstId": 15,
+  "donateTimes": 5,
+  "payType": 2,
+  "payItemId": 0,
+  "donateAmount": 1000,
+  "rewardGroupId": 2
+ },
+ {
+  "guildDonationMstId": 16,
+  "donateTimes": 6,
+  "payType": 2,
+  "payItemId": 0,
+  "donateAmount": 1000,
+  "rewardGroupId": 2
+ },
+ {
+  "guildDonationMstId": 17,
+  "donateTimes": 7,
+  "payType": 2,
+  "payItemId": 0,
+  "donateAmount": 1000,
+  "rewardGroupId": 2
+ },
+ {
+  "guildDonationMstId": 18,
+  "donateTimes": 8,
+  "payType": 2,
+  "payItemId": 0,
+  "donateAmount": 1000,
+  "rewardGroupId": 2
+ },
+ {
+  "guildDonationMstId": 19,
+  "donateTimes": 9,
+  "payType": 2,
+  "payItemId": 0,
+  "donateAmount": 1000,
+  "rewardGroupId": 2
+ },
+ {
+  "guildDonationMstId": 20,
+  "donateTimes": 10,
+  "payType": 2,
+  "payItemId": 0,
+  "donateAmount": 1000,
+  "rewardGroupId": 2
+ }
+]

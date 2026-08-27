@@ -1,0 +1,992 @@
+[
+ {
+  "guildRaidBossDefeatRewardMstId": 1,
+  "guildRaidLevel": 1,
+  "rewardGroupId": 10103001
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 2,
+  "guildRaidLevel": 2,
+  "rewardGroupId": 10103002
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 3,
+  "guildRaidLevel": 3,
+  "rewardGroupId": 10103003
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 4,
+  "guildRaidLevel": 4,
+  "rewardGroupId": 10103004
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 5,
+  "guildRaidLevel": 5,
+  "rewardGroupId": 10103005
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 6,
+  "guildRaidLevel": 6,
+  "rewardGroupId": 10103006
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 7,
+  "guildRaidLevel": 7,
+  "rewardGroupId": 10103007
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 8,
+  "guildRaidLevel": 8,
+  "rewardGroupId": 10103008
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 9,
+  "guildRaidLevel": 9,
+  "rewardGroupId": 10103009
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 10,
+  "guildRaidLevel": 10,
+  "rewardGroupId": 10103010
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 11,
+  "guildRaidLevel": 11,
+  "rewardGroupId": 10103011
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 12,
+  "guildRaidLevel": 12,
+  "rewardGroupId": 10103012
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 13,
+  "guildRaidLevel": 13,
+  "rewardGroupId": 10103013
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 14,
+  "guildRaidLevel": 14,
+  "rewardGroupId": 10103014
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 15,
+  "guildRaidLevel": 15,
+  "rewardGroupId": 10103015
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 16,
+  "guildRaidLevel": 16,
+  "rewardGroupId": 10103016
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 17,
+  "guildRaidLevel": 17,
+  "rewardGroupId": 10103017
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 18,
+  "guildRaidLevel": 18,
+  "rewardGroupId": 10103018
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 19,
+  "guildRaidLevel": 19,
+  "rewardGroupId": 10103019
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 20,
+  "guildRaidLevel": 20,
+  "rewardGroupId": 10103020
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 21,
+  "guildRaidLevel": 21,
+  "rewardGroupId": 10103021
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 22,
+  "guildRaidLevel": 22,
+  "rewardGroupId": 10103022
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 23,
+  "guildRaidLevel": 23,
+  "rewardGroupId": 10103023
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 24,
+  "guildRaidLevel": 24,
+  "rewardGroupId": 10103024
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 25,
+  "guildRaidLevel": 25,
+  "rewardGroupId": 10103025
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 26,
+  "guildRaidLevel": 26,
+  "rewardGroupId": 10103026
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 27,
+  "guildRaidLevel": 27,
+  "rewardGroupId": 10103027
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 28,
+  "guildRaidLevel": 28,
+  "rewardGroupId": 10103028
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 29,
+  "guildRaidLevel": 29,
+  "rewardGroupId": 10103029
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 30,
+  "guildRaidLevel": 30,
+  "rewardGroupId": 10103030
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 31,
+  "guildRaidLevel": 31,
+  "rewardGroupId": 10103031
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 32,
+  "guildRaidLevel": 32,
+  "rewardGroupId": 10103032
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 33,
+  "guildRaidLevel": 33,
+  "rewardGroupId": 10103033
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 34,
+  "guildRaidLevel": 34,
+  "rewardGroupId": 10103034
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 35,
+  "guildRaidLevel": 35,
+  "rewardGroupId": 10103035
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 36,
+  "guildRaidLevel": 36,
+  "rewardGroupId": 10103036
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 37,
+  "guildRaidLevel": 37,
+  "rewardGroupId": 10103037
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 38,
+  "guildRaidLevel": 38,
+  "rewardGroupId": 10103038
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 39,
+  "guildRaidLevel": 39,
+  "rewardGroupId": 10103039
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 40,
+  "guildRaidLevel": 40,
+  "rewardGroupId": 10103040
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 41,
+  "guildRaidLevel": 41,
+  "rewardGroupId": 10103041
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 42,
+  "guildRaidLevel": 42,
+  "rewardGroupId": 10103042
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 43,
+  "guildRaidLevel": 43,
+  "rewardGroupId": 10103043
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 44,
+  "guildRaidLevel": 44,
+  "rewardGroupId": 10103044
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 45,
+  "guildRaidLevel": 45,
+  "rewardGroupId": 10103045
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 46,
+  "guildRaidLevel": 46,
+  "rewardGroupId": 10103046
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 47,
+  "guildRaidLevel": 47,
+  "rewardGroupId": 10103047
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 48,
+  "guildRaidLevel": 48,
+  "rewardGroupId": 10103048
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 49,
+  "guildRaidLevel": 49,
+  "rewardGroupId": 10103049
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 50,
+  "guildRaidLevel": 50,
+  "rewardGroupId": 10103050
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 51,
+  "guildRaidLevel": 51,
+  "rewardGroupId": 10103051
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 52,
+  "guildRaidLevel": 52,
+  "rewardGroupId": 10103052
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 53,
+  "guildRaidLevel": 53,
+  "rewardGroupId": 10103053
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 54,
+  "guildRaidLevel": 54,
+  "rewardGroupId": 10103054
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 55,
+  "guildRaidLevel": 55,
+  "rewardGroupId": 10103055
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 56,
+  "guildRaidLevel": 56,
+  "rewardGroupId": 10103056
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 57,
+  "guildRaidLevel": 57,
+  "rewardGroupId": 10103057
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 58,
+  "guildRaidLevel": 58,
+  "rewardGroupId": 10103058
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 59,
+  "guildRaidLevel": 59,
+  "rewardGroupId": 10103059
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 60,
+  "guildRaidLevel": 60,
+  "rewardGroupId": 10103060
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 61,
+  "guildRaidLevel": 61,
+  "rewardGroupId": 10103061
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 62,
+  "guildRaidLevel": 62,
+  "rewardGroupId": 10103062
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 63,
+  "guildRaidLevel": 63,
+  "rewardGroupId": 10103063
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 64,
+  "guildRaidLevel": 64,
+  "rewardGroupId": 10103064
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 65,
+  "guildRaidLevel": 65,
+  "rewardGroupId": 10103065
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 66,
+  "guildRaidLevel": 66,
+  "rewardGroupId": 10103066
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 67,
+  "guildRaidLevel": 67,
+  "rewardGroupId": 10103067
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 68,
+  "guildRaidLevel": 68,
+  "rewardGroupId": 10103068
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 69,
+  "guildRaidLevel": 69,
+  "rewardGroupId": 10103069
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 70,
+  "guildRaidLevel": 70,
+  "rewardGroupId": 10103070
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 71,
+  "guildRaidLevel": 71,
+  "rewardGroupId": 10103071
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 72,
+  "guildRaidLevel": 72,
+  "rewardGroupId": 10103072
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 73,
+  "guildRaidLevel": 73,
+  "rewardGroupId": 10103073
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 74,
+  "guildRaidLevel": 74,
+  "rewardGroupId": 10103074
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 75,
+  "guildRaidLevel": 75,
+  "rewardGroupId": 10103075
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 76,
+  "guildRaidLevel": 76,
+  "rewardGroupId": 10103076
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 77,
+  "guildRaidLevel": 77,
+  "rewardGroupId": 10103077
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 78,
+  "guildRaidLevel": 78,
+  "rewardGroupId": 10103078
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 79,
+  "guildRaidLevel": 79,
+  "rewardGroupId": 10103079
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 80,
+  "guildRaidLevel": 80,
+  "rewardGroupId": 10103080
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 81,
+  "guildRaidLevel": 81,
+  "rewardGroupId": 10103081
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 82,
+  "guildRaidLevel": 82,
+  "rewardGroupId": 10103082
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 83,
+  "guildRaidLevel": 83,
+  "rewardGroupId": 10103083
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 84,
+  "guildRaidLevel": 84,
+  "rewardGroupId": 10103084
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 85,
+  "guildRaidLevel": 85,
+  "rewardGroupId": 10103085
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 86,
+  "guildRaidLevel": 86,
+  "rewardGroupId": 10103086
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 87,
+  "guildRaidLevel": 87,
+  "rewardGroupId": 10103087
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 88,
+  "guildRaidLevel": 88,
+  "rewardGroupId": 10103088
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 89,
+  "guildRaidLevel": 89,
+  "rewardGroupId": 10103089
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 90,
+  "guildRaidLevel": 90,
+  "rewardGroupId": 10103090
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 91,
+  "guildRaidLevel": 91,
+  "rewardGroupId": 10103091
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 92,
+  "guildRaidLevel": 92,
+  "rewardGroupId": 10103092
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 93,
+  "guildRaidLevel": 93,
+  "rewardGroupId": 10103093
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 94,
+  "guildRaidLevel": 94,
+  "rewardGroupId": 10103094
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 95,
+  "guildRaidLevel": 95,
+  "rewardGroupId": 10103095
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 96,
+  "guildRaidLevel": 96,
+  "rewardGroupId": 10103096
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 97,
+  "guildRaidLevel": 97,
+  "rewardGroupId": 10103097
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 98,
+  "guildRaidLevel": 98,
+  "rewardGroupId": 10103098
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 99,
+  "guildRaidLevel": 99,
+  "rewardGroupId": 10103099
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 100,
+  "guildRaidLevel": 1,
+  "rewardGroupId": 20103001
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 101,
+  "guildRaidLevel": 2,
+  "rewardGroupId": 20103002
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 102,
+  "guildRaidLevel": 3,
+  "rewardGroupId": 20103003
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 103,
+  "guildRaidLevel": 4,
+  "rewardGroupId": 20103004
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 104,
+  "guildRaidLevel": 5,
+  "rewardGroupId": 20103005
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 105,
+  "guildRaidLevel": 6,
+  "rewardGroupId": 20103006
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 106,
+  "guildRaidLevel": 7,
+  "rewardGroupId": 20103007
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 107,
+  "guildRaidLevel": 8,
+  "rewardGroupId": 20103008
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 108,
+  "guildRaidLevel": 9,
+  "rewardGroupId": 20103009
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 109,
+  "guildRaidLevel": 10,
+  "rewardGroupId": 20103010
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 110,
+  "guildRaidLevel": 11,
+  "rewardGroupId": 20103011
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 111,
+  "guildRaidLevel": 12,
+  "rewardGroupId": 20103012
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 112,
+  "guildRaidLevel": 13,
+  "rewardGroupId": 20103013
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 113,
+  "guildRaidLevel": 14,
+  "rewardGroupId": 20103014
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 114,
+  "guildRaidLevel": 15,
+  "rewardGroupId": 20103015
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 115,
+  "guildRaidLevel": 16,
+  "rewardGroupId": 20103016
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 116,
+  "guildRaidLevel": 17,
+  "rewardGroupId": 20103017
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 117,
+  "guildRaidLevel": 18,
+  "rewardGroupId": 20103018
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 118,
+  "guildRaidLevel": 19,
+  "rewardGroupId": 20103019
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 119,
+  "guildRaidLevel": 20,
+  "rewardGroupId": 20103020
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 120,
+  "guildRaidLevel": 21,
+  "rewardGroupId": 20103021
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 121,
+  "guildRaidLevel": 22,
+  "rewardGroupId": 20103022
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 122,
+  "guildRaidLevel": 23,
+  "rewardGroupId": 20103023
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 123,
+  "guildRaidLevel": 24,
+  "rewardGroupId": 20103024
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 124,
+  "guildRaidLevel": 25,
+  "rewardGroupId": 20103025
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 125,
+  "guildRaidLevel": 26,
+  "rewardGroupId": 20103026
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 126,
+  "guildRaidLevel": 27,
+  "rewardGroupId": 20103027
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 127,
+  "guildRaidLevel": 28,
+  "rewardGroupId": 20103028
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 128,
+  "guildRaidLevel": 29,
+  "rewardGroupId": 20103029
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 129,
+  "guildRaidLevel": 30,
+  "rewardGroupId": 20103030
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 130,
+  "guildRaidLevel": 31,
+  "rewardGroupId": 20103031
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 131,
+  "guildRaidLevel": 32,
+  "rewardGroupId": 20103032
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 132,
+  "guildRaidLevel": 33,
+  "rewardGroupId": 20103033
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 133,
+  "guildRaidLevel": 34,
+  "rewardGroupId": 20103034
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 134,
+  "guildRaidLevel": 35,
+  "rewardGroupId": 20103035
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 135,
+  "guildRaidLevel": 36,
+  "rewardGroupId": 20103036
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 136,
+  "guildRaidLevel": 37,
+  "rewardGroupId": 20103037
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 137,
+  "guildRaidLevel": 38,
+  "rewardGroupId": 20103038
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 138,
+  "guildRaidLevel": 39,
+  "rewardGroupId": 20103039
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 139,
+  "guildRaidLevel": 40,
+  "rewardGroupId": 20103040
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 140,
+  "guildRaidLevel": 41,
+  "rewardGroupId": 20103041
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 141,
+  "guildRaidLevel": 42,
+  "rewardGroupId": 20103042
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 142,
+  "guildRaidLevel": 43,
+  "rewardGroupId": 20103043
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 143,
+  "guildRaidLevel": 44,
+  "rewardGroupId": 20103044
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 144,
+  "guildRaidLevel": 45,
+  "rewardGroupId": 20103045
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 145,
+  "guildRaidLevel": 46,
+  "rewardGroupId": 20103046
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 146,
+  "guildRaidLevel": 47,
+  "rewardGroupId": 20103047
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 147,
+  "guildRaidLevel": 48,
+  "rewardGroupId": 20103048
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 148,
+  "guildRaidLevel": 49,
+  "rewardGroupId": 20103049
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 149,
+  "guildRaidLevel": 50,
+  "rewardGroupId": 20103050
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 150,
+  "guildRaidLevel": 51,
+  "rewardGroupId": 20103051
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 151,
+  "guildRaidLevel": 52,
+  "rewardGroupId": 20103052
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 152,
+  "guildRaidLevel": 53,
+  "rewardGroupId": 20103053
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 153,
+  "guildRaidLevel": 54,
+  "rewardGroupId": 20103054
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 154,
+  "guildRaidLevel": 55,
+  "rewardGroupId": 20103055
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 155,
+  "guildRaidLevel": 56,
+  "rewardGroupId": 20103056
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 156,
+  "guildRaidLevel": 57,
+  "rewardGroupId": 20103057
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 157,
+  "guildRaidLevel": 58,
+  "rewardGroupId": 20103058
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 158,
+  "guildRaidLevel": 59,
+  "rewardGroupId": 20103059
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 159,
+  "guildRaidLevel": 60,
+  "rewardGroupId": 20103060
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 160,
+  "guildRaidLevel": 61,
+  "rewardGroupId": 20103061
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 161,
+  "guildRaidLevel": 62,
+  "rewardGroupId": 20103062
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 162,
+  "guildRaidLevel": 63,
+  "rewardGroupId": 20103063
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 163,
+  "guildRaidLevel": 64,
+  "rewardGroupId": 20103064
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 164,
+  "guildRaidLevel": 65,
+  "rewardGroupId": 20103065
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 165,
+  "guildRaidLevel": 66,
+  "rewardGroupId": 20103066
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 166,
+  "guildRaidLevel": 67,
+  "rewardGroupId": 20103067
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 167,
+  "guildRaidLevel": 68,
+  "rewardGroupId": 20103068
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 168,
+  "guildRaidLevel": 69,
+  "rewardGroupId": 20103069
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 169,
+  "guildRaidLevel": 70,
+  "rewardGroupId": 20103070
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 170,
+  "guildRaidLevel": 71,
+  "rewardGroupId": 20103071
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 171,
+  "guildRaidLevel": 72,
+  "rewardGroupId": 20103072
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 172,
+  "guildRaidLevel": 73,
+  "rewardGroupId": 20103073
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 173,
+  "guildRaidLevel": 74,
+  "rewardGroupId": 20103074
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 174,
+  "guildRaidLevel": 75,
+  "rewardGroupId": 20103075
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 175,
+  "guildRaidLevel": 76,
+  "rewardGroupId": 20103076
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 176,
+  "guildRaidLevel": 77,
+  "rewardGroupId": 20103077
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 177,
+  "guildRaidLevel": 78,
+  "rewardGroupId": 20103078
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 178,
+  "guildRaidLevel": 79,
+  "rewardGroupId": 20103079
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 179,
+  "guildRaidLevel": 80,
+  "rewardGroupId": 20103080
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 180,
+  "guildRaidLevel": 81,
+  "rewardGroupId": 20103081
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 181,
+  "guildRaidLevel": 82,
+  "rewardGroupId": 20103082
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 182,
+  "guildRaidLevel": 83,
+  "rewardGroupId": 20103083
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 183,
+  "guildRaidLevel": 84,
+  "rewardGroupId": 20103084
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 184,
+  "guildRaidLevel": 85,
+  "rewardGroupId": 20103085
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 185,
+  "guildRaidLevel": 86,
+  "rewardGroupId": 20103086
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 186,
+  "guildRaidLevel": 87,
+  "rewardGroupId": 20103087
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 187,
+  "guildRaidLevel": 88,
+  "rewardGroupId": 20103088
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 188,
+  "guildRaidLevel": 89,
+  "rewardGroupId": 20103089
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 189,
+  "guildRaidLevel": 90,
+  "rewardGroupId": 20103090
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 190,
+  "guildRaidLevel": 91,
+  "rewardGroupId": 20103091
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 191,
+  "guildRaidLevel": 92,
+  "rewardGroupId": 20103092
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 192,
+  "guildRaidLevel": 93,
+  "rewardGroupId": 20103093
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 193,
+  "guildRaidLevel": 94,
+  "rewardGroupId": 20103094
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 194,
+  "guildRaidLevel": 95,
+  "rewardGroupId": 20103095
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 195,
+  "guildRaidLevel": 96,
+  "rewardGroupId": 20103096
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 196,
+  "guildRaidLevel": 97,
+  "rewardGroupId": 20103097
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 197,
+  "guildRaidLevel": 98,
+  "rewardGroupId": 20103098
+ },
+ {
+  "guildRaidBossDefeatRewardMstId": 198,
+  "guildRaidLevel": 99,
+  "rewardGroupId": 20103099
+ }
+]

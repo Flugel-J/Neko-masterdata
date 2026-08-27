@@ -1,0 +1,788 @@
+[
+ {
+  "gardenFurnitureSizeMstId": 0,
+  "description": "なし(特殊)",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 1,
+  "description": "1x1",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 2,
+  "description": "1x2",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 2,
+  "description": "1x2",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 3,
+  "description": "2x1",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 3,
+  "description": "2x1",
+  "sizeX": 1,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 4,
+  "description": "2x2",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 4,
+  "description": "2x2",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 4,
+  "description": "2x2",
+  "sizeX": 1,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 4,
+  "description": "2x2",
+  "sizeX": 1,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 5,
+  "description": "2x3(L時)(無効)",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 5,
+  "description": "2x3(L時)(無効)",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 5,
+  "description": "2x3(L時)(無効)",
+  "sizeX": 0,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 5,
+  "description": "2x3(L時)(無効)",
+  "sizeX": 1,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 6,
+  "description": "2x3(7時)(無効)",
+  "sizeX": 0,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 6,
+  "description": "2x3(7時)(無効)",
+  "sizeX": 1,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 6,
+  "description": "2x3(7時)(無効)",
+  "sizeX": 1,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 6,
+  "description": "2x3(7時)(無効)",
+  "sizeX": 1,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 7,
+  "description": "3x1",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 7,
+  "description": "3x1",
+  "sizeX": 1,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 7,
+  "description": "3x1",
+  "sizeX": 2,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 8,
+  "description": "1x4",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 8,
+  "description": "1x4",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 8,
+  "description": "1x4",
+  "sizeX": 0,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 8,
+  "description": "1x4",
+  "sizeX": 0,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 9,
+  "description": "2x4",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 9,
+  "description": "2x4",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 9,
+  "description": "2x4",
+  "sizeX": 0,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 9,
+  "description": "2x4",
+  "sizeX": 0,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 9,
+  "description": "2x4",
+  "sizeX": 1,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 9,
+  "description": "2x4",
+  "sizeX": 1,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 9,
+  "description": "2x4",
+  "sizeX": 1,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 9,
+  "description": "2x4",
+  "sizeX": 1,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 10,
+  "description": "1x5",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 10,
+  "description": "1x5",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 10,
+  "description": "1x5",
+  "sizeX": 0,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 10,
+  "description": "1x5",
+  "sizeX": 0,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 10,
+  "description": "1x5",
+  "sizeX": 0,
+  "sizeY": 4
+ },
+ {
+  "gardenFurnitureSizeMstId": 11,
+  "description": "1x3",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 11,
+  "description": "1x3",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 11,
+  "description": "1x3",
+  "sizeX": 0,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 12,
+  "description": "1x6",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 12,
+  "description": "1x6",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 12,
+  "description": "1x6",
+  "sizeX": 0,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 12,
+  "description": "1x6",
+  "sizeX": 0,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 12,
+  "description": "1x6",
+  "sizeX": 0,
+  "sizeY": 4
+ },
+ {
+  "gardenFurnitureSizeMstId": 12,
+  "description": "1x6",
+  "sizeX": 0,
+  "sizeY": 5
+ },
+ {
+  "gardenFurnitureSizeMstId": 13,
+  "description": "2x3",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 13,
+  "description": "2x3",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 13,
+  "description": "2x3",
+  "sizeX": 0,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 13,
+  "description": "2x3",
+  "sizeX": 1,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 13,
+  "description": "2x3",
+  "sizeX": 1,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 13,
+  "description": "2x3",
+  "sizeX": 1,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 14,
+  "description": "3x2",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 14,
+  "description": "3x2",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 14,
+  "description": "3x2",
+  "sizeX": 1,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 14,
+  "description": "3x2",
+  "sizeX": 1,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 14,
+  "description": "3x2",
+  "sizeX": 2,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 14,
+  "description": "3x2",
+  "sizeX": 2,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 15,
+  "description": "3x3",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 15,
+  "description": "3x3",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 15,
+  "description": "3x3",
+  "sizeX": 0,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 15,
+  "description": "3x3",
+  "sizeX": 1,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 15,
+  "description": "3x3",
+  "sizeX": 1,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 15,
+  "description": "3x3",
+  "sizeX": 1,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 15,
+  "description": "3x3",
+  "sizeX": 2,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 15,
+  "description": "3x3",
+  "sizeX": 2,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 15,
+  "description": "3x3",
+  "sizeX": 2,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 16,
+  "description": "8×1",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 16,
+  "description": "8×1",
+  "sizeX": 1,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 16,
+  "description": "8×1",
+  "sizeX": 2,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 16,
+  "description": "8×1",
+  "sizeX": 3,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 16,
+  "description": "8×1",
+  "sizeX": 4,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 16,
+  "description": "8×1",
+  "sizeX": 5,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 16,
+  "description": "8×1",
+  "sizeX": 6,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 16,
+  "description": "8×1",
+  "sizeX": 7,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 0,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 0,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 0,
+  "sizeY": 4
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 0,
+  "sizeY": 5
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 0,
+  "sizeY": 6
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 0,
+  "sizeY": 7
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 1,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 1,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 1,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 1,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 1,
+  "sizeY": 4
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 1,
+  "sizeY": 5
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 1,
+  "sizeY": 6
+ },
+ {
+  "gardenFurnitureSizeMstId": 17,
+  "description": "2×8",
+  "sizeX": 1,
+  "sizeY": 7
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 0,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 0,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 1,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 1,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 1,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 1,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 2,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 2,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 2,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 2,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 3,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 3,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 3,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 18,
+  "description": "4×4",
+  "sizeX": 3,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 0,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 0,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 0,
+  "sizeY": 4
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 1,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 1,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 1,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 1,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 1,
+  "sizeY": 4
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 2,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 2,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 2,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 2,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 19,
+  "description": "3×5",
+  "sizeX": 2,
+  "sizeY": 4
+ },
+ {
+  "gardenFurnitureSizeMstId": 20,
+  "description": "coming soon...",
+  "sizeX": 0,
+  "sizeY": 0
+ },
+ {
+  "gardenFurnitureSizeMstId": 20,
+  "description": "coming soon...",
+  "sizeX": 0,
+  "sizeY": 1
+ },
+ {
+  "gardenFurnitureSizeMstId": 20,
+  "description": "coming soon...",
+  "sizeX": 0,
+  "sizeY": 2
+ },
+ {
+  "gardenFurnitureSizeMstId": 20,
+  "description": "coming soon...",
+  "sizeX": 0,
+  "sizeY": 3
+ },
+ {
+  "gardenFurnitureSizeMstId": 20,
+  "description": "coming soon...",
+  "sizeX": 0,
+  "sizeY": 4
+ },
+ {
+  "gardenFurnitureSizeMstId": 20,
+  "description": "coming soon...",
+  "sizeX": 0,
+  "sizeY": 5
+ },
+ {
+  "gardenFurnitureSizeMstId": 20,
+  "description": "coming soon...",
+  "sizeX": 0,
+  "sizeY": 6
+ },
+ {
+  "gardenFurnitureSizeMstId": 20,
+  "description": "coming soon...",
+  "sizeX": 0,
+  "sizeY": 7
+ }
+]

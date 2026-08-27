@@ -1,0 +1,32 @@
+[
+ {
+  "eventShareMstId": 100,
+  "eventMstId": 100001,
+  "dailyReceiveCount": 20,
+  "rewardGroupId": 1
+ },
+ {
+  "eventShareMstId": 101,
+  "eventMstId": 100002,
+  "dailyReceiveCount": 20,
+  "rewardGroupId": 1
+ },
+ {
+  "eventShareMstId": 102,
+  "eventMstId": 100003,
+  "dailyReceiveCount": 20,
+  "rewardGroupId": 1
+ },
+ {
+  "eventShareMstId": 103,
+  "eventMstId": 100004,
+  "dailyReceiveCount": 20,
+  "rewardGroupId": 1
+ },
+ {
+  "eventShareMstId": 104,
+  "eventMstId": 100005,
+  "dailyReceiveCount": 20,
+  "rewardGroupId": 1
+ }
+]

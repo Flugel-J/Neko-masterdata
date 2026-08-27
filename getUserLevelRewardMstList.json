@@ -1,0 +1,4181 @@
+[
+ {
+  "userLevelRewardMstId": 1,
+  "rewardGroupId": 1,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 2,
+  "rewardGroupId": 1,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 10000
+ },
+ {
+  "userLevelRewardMstId": 3,
+  "rewardGroupId": 1,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 10000
+ },
+ {
+  "userLevelRewardMstId": 4,
+  "rewardGroupId": 2,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 5,
+  "rewardGroupId": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 20000
+ },
+ {
+  "userLevelRewardMstId": 6,
+  "rewardGroupId": 2,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 20000
+ },
+ {
+  "userLevelRewardMstId": 7,
+  "rewardGroupId": 3,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 8,
+  "rewardGroupId": 3,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 30000
+ },
+ {
+  "userLevelRewardMstId": 9,
+  "rewardGroupId": 3,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 30000
+ },
+ {
+  "userLevelRewardMstId": 10,
+  "rewardGroupId": 4,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 11,
+  "rewardGroupId": 4,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 40000
+ },
+ {
+  "userLevelRewardMstId": 12,
+  "rewardGroupId": 4,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 40000
+ },
+ {
+  "userLevelRewardMstId": 13,
+  "rewardGroupId": 5,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 14,
+  "rewardGroupId": 5,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 50000
+ },
+ {
+  "userLevelRewardMstId": 15,
+  "rewardGroupId": 5,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 50000
+ },
+ {
+  "userLevelRewardMstId": 16,
+  "rewardGroupId": 6,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 17,
+  "rewardGroupId": 6,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 60000
+ },
+ {
+  "userLevelRewardMstId": 18,
+  "rewardGroupId": 6,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 60000
+ },
+ {
+  "userLevelRewardMstId": 19,
+  "rewardGroupId": 7,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 20,
+  "rewardGroupId": 7,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 70000
+ },
+ {
+  "userLevelRewardMstId": 21,
+  "rewardGroupId": 7,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 70000
+ },
+ {
+  "userLevelRewardMstId": 22,
+  "rewardGroupId": 8,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 23,
+  "rewardGroupId": 8,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 80000
+ },
+ {
+  "userLevelRewardMstId": 24,
+  "rewardGroupId": 8,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 80000
+ },
+ {
+  "userLevelRewardMstId": 25,
+  "rewardGroupId": 9,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 26,
+  "rewardGroupId": 9,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 90000
+ },
+ {
+  "userLevelRewardMstId": 27,
+  "rewardGroupId": 9,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 90000
+ },
+ {
+  "userLevelRewardMstId": 28,
+  "rewardGroupId": 10,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 29,
+  "rewardGroupId": 10,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 100000
+ },
+ {
+  "userLevelRewardMstId": 30,
+  "rewardGroupId": 10,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 100000
+ },
+ {
+  "userLevelRewardMstId": 31,
+  "rewardGroupId": 11,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 32,
+  "rewardGroupId": 11,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 110000
+ },
+ {
+  "userLevelRewardMstId": 33,
+  "rewardGroupId": 11,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 110000
+ },
+ {
+  "userLevelRewardMstId": 34,
+  "rewardGroupId": 12,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 35,
+  "rewardGroupId": 12,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 120000
+ },
+ {
+  "userLevelRewardMstId": 36,
+  "rewardGroupId": 12,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 120000
+ },
+ {
+  "userLevelRewardMstId": 37,
+  "rewardGroupId": 13,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 38,
+  "rewardGroupId": 13,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 130000
+ },
+ {
+  "userLevelRewardMstId": 39,
+  "rewardGroupId": 13,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 130000
+ },
+ {
+  "userLevelRewardMstId": 40,
+  "rewardGroupId": 14,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 41,
+  "rewardGroupId": 14,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 140000
+ },
+ {
+  "userLevelRewardMstId": 42,
+  "rewardGroupId": 14,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 140000
+ },
+ {
+  "userLevelRewardMstId": 43,
+  "rewardGroupId": 15,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 44,
+  "rewardGroupId": 15,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 150000
+ },
+ {
+  "userLevelRewardMstId": 45,
+  "rewardGroupId": 15,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 150000
+ },
+ {
+  "userLevelRewardMstId": 46,
+  "rewardGroupId": 16,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 47,
+  "rewardGroupId": 16,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 160000
+ },
+ {
+  "userLevelRewardMstId": 48,
+  "rewardGroupId": 16,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 160000
+ },
+ {
+  "userLevelRewardMstId": 49,
+  "rewardGroupId": 17,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 50,
+  "rewardGroupId": 17,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 170000
+ },
+ {
+  "userLevelRewardMstId": 51,
+  "rewardGroupId": 17,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 170000
+ },
+ {
+  "userLevelRewardMstId": 52,
+  "rewardGroupId": 18,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 53,
+  "rewardGroupId": 18,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 180000
+ },
+ {
+  "userLevelRewardMstId": 54,
+  "rewardGroupId": 18,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 180000
+ },
+ {
+  "userLevelRewardMstId": 55,
+  "rewardGroupId": 19,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 56,
+  "rewardGroupId": 19,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 190000
+ },
+ {
+  "userLevelRewardMstId": 57,
+  "rewardGroupId": 19,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 190000
+ },
+ {
+  "userLevelRewardMstId": 58,
+  "rewardGroupId": 20,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 59,
+  "rewardGroupId": 20,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 200000
+ },
+ {
+  "userLevelRewardMstId": 60,
+  "rewardGroupId": 20,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 200000
+ },
+ {
+  "userLevelRewardMstId": 61,
+  "rewardGroupId": 21,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 62,
+  "rewardGroupId": 21,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 210000
+ },
+ {
+  "userLevelRewardMstId": 63,
+  "rewardGroupId": 21,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 210000
+ },
+ {
+  "userLevelRewardMstId": 64,
+  "rewardGroupId": 22,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 65,
+  "rewardGroupId": 22,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 220000
+ },
+ {
+  "userLevelRewardMstId": 66,
+  "rewardGroupId": 22,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 220000
+ },
+ {
+  "userLevelRewardMstId": 67,
+  "rewardGroupId": 23,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 68,
+  "rewardGroupId": 23,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 230000
+ },
+ {
+  "userLevelRewardMstId": 69,
+  "rewardGroupId": 23,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 230000
+ },
+ {
+  "userLevelRewardMstId": 70,
+  "rewardGroupId": 24,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 71,
+  "rewardGroupId": 24,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 240000
+ },
+ {
+  "userLevelRewardMstId": 72,
+  "rewardGroupId": 24,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 240000
+ },
+ {
+  "userLevelRewardMstId": 73,
+  "rewardGroupId": 25,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 74,
+  "rewardGroupId": 25,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 250000
+ },
+ {
+  "userLevelRewardMstId": 75,
+  "rewardGroupId": 25,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 250000
+ },
+ {
+  "userLevelRewardMstId": 76,
+  "rewardGroupId": 26,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 77,
+  "rewardGroupId": 26,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 260000
+ },
+ {
+  "userLevelRewardMstId": 78,
+  "rewardGroupId": 26,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 260000
+ },
+ {
+  "userLevelRewardMstId": 79,
+  "rewardGroupId": 27,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 80,
+  "rewardGroupId": 27,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 270000
+ },
+ {
+  "userLevelRewardMstId": 81,
+  "rewardGroupId": 27,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 270000
+ },
+ {
+  "userLevelRewardMstId": 82,
+  "rewardGroupId": 28,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 83,
+  "rewardGroupId": 28,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 280000
+ },
+ {
+  "userLevelRewardMstId": 84,
+  "rewardGroupId": 28,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 280000
+ },
+ {
+  "userLevelRewardMstId": 85,
+  "rewardGroupId": 29,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 86,
+  "rewardGroupId": 29,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 290000
+ },
+ {
+  "userLevelRewardMstId": 87,
+  "rewardGroupId": 29,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 290000
+ },
+ {
+  "userLevelRewardMstId": 88,
+  "rewardGroupId": 30,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 89,
+  "rewardGroupId": 30,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 300000
+ },
+ {
+  "userLevelRewardMstId": 90,
+  "rewardGroupId": 30,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 300000
+ },
+ {
+  "userLevelRewardMstId": 91,
+  "rewardGroupId": 31,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 92,
+  "rewardGroupId": 31,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 310000
+ },
+ {
+  "userLevelRewardMstId": 93,
+  "rewardGroupId": 31,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 310000
+ },
+ {
+  "userLevelRewardMstId": 94,
+  "rewardGroupId": 32,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 95,
+  "rewardGroupId": 32,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 320000
+ },
+ {
+  "userLevelRewardMstId": 96,
+  "rewardGroupId": 32,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 320000
+ },
+ {
+  "userLevelRewardMstId": 97,
+  "rewardGroupId": 33,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 98,
+  "rewardGroupId": 33,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 330000
+ },
+ {
+  "userLevelRewardMstId": 99,
+  "rewardGroupId": 33,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 330000
+ },
+ {
+  "userLevelRewardMstId": 100,
+  "rewardGroupId": 34,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 101,
+  "rewardGroupId": 34,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 340000
+ },
+ {
+  "userLevelRewardMstId": 102,
+  "rewardGroupId": 34,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 340000
+ },
+ {
+  "userLevelRewardMstId": 103,
+  "rewardGroupId": 35,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 104,
+  "rewardGroupId": 35,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 350000
+ },
+ {
+  "userLevelRewardMstId": 105,
+  "rewardGroupId": 35,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 350000
+ },
+ {
+  "userLevelRewardMstId": 106,
+  "rewardGroupId": 36,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 107,
+  "rewardGroupId": 36,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 360000
+ },
+ {
+  "userLevelRewardMstId": 108,
+  "rewardGroupId": 36,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 360000
+ },
+ {
+  "userLevelRewardMstId": 109,
+  "rewardGroupId": 37,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 110,
+  "rewardGroupId": 37,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 370000
+ },
+ {
+  "userLevelRewardMstId": 111,
+  "rewardGroupId": 37,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 370000
+ },
+ {
+  "userLevelRewardMstId": 112,
+  "rewardGroupId": 38,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 113,
+  "rewardGroupId": 38,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 380000
+ },
+ {
+  "userLevelRewardMstId": 114,
+  "rewardGroupId": 38,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 380000
+ },
+ {
+  "userLevelRewardMstId": 115,
+  "rewardGroupId": 39,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 116,
+  "rewardGroupId": 39,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 390000
+ },
+ {
+  "userLevelRewardMstId": 117,
+  "rewardGroupId": 39,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 390000
+ },
+ {
+  "userLevelRewardMstId": 118,
+  "rewardGroupId": 40,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 119,
+  "rewardGroupId": 40,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 400000
+ },
+ {
+  "userLevelRewardMstId": 120,
+  "rewardGroupId": 40,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 400000
+ },
+ {
+  "userLevelRewardMstId": 121,
+  "rewardGroupId": 41,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 122,
+  "rewardGroupId": 41,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 410000
+ },
+ {
+  "userLevelRewardMstId": 123,
+  "rewardGroupId": 41,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 410000
+ },
+ {
+  "userLevelRewardMstId": 124,
+  "rewardGroupId": 42,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 125,
+  "rewardGroupId": 42,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 420000
+ },
+ {
+  "userLevelRewardMstId": 126,
+  "rewardGroupId": 42,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 420000
+ },
+ {
+  "userLevelRewardMstId": 127,
+  "rewardGroupId": 43,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 128,
+  "rewardGroupId": 43,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 430000
+ },
+ {
+  "userLevelRewardMstId": 129,
+  "rewardGroupId": 43,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 430000
+ },
+ {
+  "userLevelRewardMstId": 130,
+  "rewardGroupId": 44,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 131,
+  "rewardGroupId": 44,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 440000
+ },
+ {
+  "userLevelRewardMstId": 132,
+  "rewardGroupId": 44,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 440000
+ },
+ {
+  "userLevelRewardMstId": 133,
+  "rewardGroupId": 45,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 134,
+  "rewardGroupId": 45,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 450000
+ },
+ {
+  "userLevelRewardMstId": 135,
+  "rewardGroupId": 45,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 450000
+ },
+ {
+  "userLevelRewardMstId": 136,
+  "rewardGroupId": 46,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 137,
+  "rewardGroupId": 46,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 460000
+ },
+ {
+  "userLevelRewardMstId": 138,
+  "rewardGroupId": 46,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 460000
+ },
+ {
+  "userLevelRewardMstId": 139,
+  "rewardGroupId": 47,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 140,
+  "rewardGroupId": 47,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 470000
+ },
+ {
+  "userLevelRewardMstId": 141,
+  "rewardGroupId": 47,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 470000
+ },
+ {
+  "userLevelRewardMstId": 142,
+  "rewardGroupId": 48,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 143,
+  "rewardGroupId": 48,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 480000
+ },
+ {
+  "userLevelRewardMstId": 144,
+  "rewardGroupId": 48,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 480000
+ },
+ {
+  "userLevelRewardMstId": 145,
+  "rewardGroupId": 49,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 146,
+  "rewardGroupId": 49,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 490000
+ },
+ {
+  "userLevelRewardMstId": 147,
+  "rewardGroupId": 49,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 490000
+ },
+ {
+  "userLevelRewardMstId": 148,
+  "rewardGroupId": 50,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 149,
+  "rewardGroupId": 50,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 500000
+ },
+ {
+  "userLevelRewardMstId": 150,
+  "rewardGroupId": 50,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 500000
+ },
+ {
+  "userLevelRewardMstId": 151,
+  "rewardGroupId": 51,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 152,
+  "rewardGroupId": 51,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 510000
+ },
+ {
+  "userLevelRewardMstId": 153,
+  "rewardGroupId": 51,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 510000
+ },
+ {
+  "userLevelRewardMstId": 154,
+  "rewardGroupId": 52,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 155,
+  "rewardGroupId": 52,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 520000
+ },
+ {
+  "userLevelRewardMstId": 156,
+  "rewardGroupId": 52,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 520000
+ },
+ {
+  "userLevelRewardMstId": 157,
+  "rewardGroupId": 53,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 158,
+  "rewardGroupId": 53,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 530000
+ },
+ {
+  "userLevelRewardMstId": 159,
+  "rewardGroupId": 53,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 530000
+ },
+ {
+  "userLevelRewardMstId": 160,
+  "rewardGroupId": 54,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 161,
+  "rewardGroupId": 54,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 540000
+ },
+ {
+  "userLevelRewardMstId": 162,
+  "rewardGroupId": 54,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 540000
+ },
+ {
+  "userLevelRewardMstId": 163,
+  "rewardGroupId": 55,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 164,
+  "rewardGroupId": 55,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 550000
+ },
+ {
+  "userLevelRewardMstId": 165,
+  "rewardGroupId": 55,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 550000
+ },
+ {
+  "userLevelRewardMstId": 166,
+  "rewardGroupId": 56,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 167,
+  "rewardGroupId": 56,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 560000
+ },
+ {
+  "userLevelRewardMstId": 168,
+  "rewardGroupId": 56,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 560000
+ },
+ {
+  "userLevelRewardMstId": 169,
+  "rewardGroupId": 57,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 170,
+  "rewardGroupId": 57,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 570000
+ },
+ {
+  "userLevelRewardMstId": 171,
+  "rewardGroupId": 57,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 570000
+ },
+ {
+  "userLevelRewardMstId": 172,
+  "rewardGroupId": 58,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 173,
+  "rewardGroupId": 58,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 580000
+ },
+ {
+  "userLevelRewardMstId": 174,
+  "rewardGroupId": 58,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 580000
+ },
+ {
+  "userLevelRewardMstId": 175,
+  "rewardGroupId": 59,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 176,
+  "rewardGroupId": 59,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 590000
+ },
+ {
+  "userLevelRewardMstId": 177,
+  "rewardGroupId": 59,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 590000
+ },
+ {
+  "userLevelRewardMstId": 178,
+  "rewardGroupId": 60,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 179,
+  "rewardGroupId": 60,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 600000
+ },
+ {
+  "userLevelRewardMstId": 180,
+  "rewardGroupId": 60,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 600000
+ },
+ {
+  "userLevelRewardMstId": 181,
+  "rewardGroupId": 61,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 182,
+  "rewardGroupId": 61,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 610000
+ },
+ {
+  "userLevelRewardMstId": 183,
+  "rewardGroupId": 61,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 610000
+ },
+ {
+  "userLevelRewardMstId": 184,
+  "rewardGroupId": 62,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 185,
+  "rewardGroupId": 62,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 620000
+ },
+ {
+  "userLevelRewardMstId": 186,
+  "rewardGroupId": 62,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 620000
+ },
+ {
+  "userLevelRewardMstId": 187,
+  "rewardGroupId": 63,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 188,
+  "rewardGroupId": 63,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 630000
+ },
+ {
+  "userLevelRewardMstId": 189,
+  "rewardGroupId": 63,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 630000
+ },
+ {
+  "userLevelRewardMstId": 190,
+  "rewardGroupId": 64,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 191,
+  "rewardGroupId": 64,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 640000
+ },
+ {
+  "userLevelRewardMstId": 192,
+  "rewardGroupId": 64,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 640000
+ },
+ {
+  "userLevelRewardMstId": 193,
+  "rewardGroupId": 65,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 194,
+  "rewardGroupId": 65,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 650000
+ },
+ {
+  "userLevelRewardMstId": 195,
+  "rewardGroupId": 65,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 650000
+ },
+ {
+  "userLevelRewardMstId": 196,
+  "rewardGroupId": 66,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 197,
+  "rewardGroupId": 66,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 660000
+ },
+ {
+  "userLevelRewardMstId": 198,
+  "rewardGroupId": 66,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 660000
+ },
+ {
+  "userLevelRewardMstId": 199,
+  "rewardGroupId": 67,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 200,
+  "rewardGroupId": 67,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 670000
+ },
+ {
+  "userLevelRewardMstId": 201,
+  "rewardGroupId": 67,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 670000
+ },
+ {
+  "userLevelRewardMstId": 202,
+  "rewardGroupId": 68,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 203,
+  "rewardGroupId": 68,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 680000
+ },
+ {
+  "userLevelRewardMstId": 204,
+  "rewardGroupId": 68,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 680000
+ },
+ {
+  "userLevelRewardMstId": 205,
+  "rewardGroupId": 69,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 206,
+  "rewardGroupId": 69,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 690000
+ },
+ {
+  "userLevelRewardMstId": 207,
+  "rewardGroupId": 69,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 690000
+ },
+ {
+  "userLevelRewardMstId": 208,
+  "rewardGroupId": 70,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 209,
+  "rewardGroupId": 70,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 700000
+ },
+ {
+  "userLevelRewardMstId": 210,
+  "rewardGroupId": 70,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 700000
+ },
+ {
+  "userLevelRewardMstId": 211,
+  "rewardGroupId": 71,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 212,
+  "rewardGroupId": 71,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 710000
+ },
+ {
+  "userLevelRewardMstId": 213,
+  "rewardGroupId": 71,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 710000
+ },
+ {
+  "userLevelRewardMstId": 214,
+  "rewardGroupId": 72,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 215,
+  "rewardGroupId": 72,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 720000
+ },
+ {
+  "userLevelRewardMstId": 216,
+  "rewardGroupId": 72,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 720000
+ },
+ {
+  "userLevelRewardMstId": 217,
+  "rewardGroupId": 73,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 218,
+  "rewardGroupId": 73,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 730000
+ },
+ {
+  "userLevelRewardMstId": 219,
+  "rewardGroupId": 73,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 730000
+ },
+ {
+  "userLevelRewardMstId": 220,
+  "rewardGroupId": 74,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 221,
+  "rewardGroupId": 74,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 740000
+ },
+ {
+  "userLevelRewardMstId": 222,
+  "rewardGroupId": 74,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 740000
+ },
+ {
+  "userLevelRewardMstId": 223,
+  "rewardGroupId": 75,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 224,
+  "rewardGroupId": 75,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 750000
+ },
+ {
+  "userLevelRewardMstId": 225,
+  "rewardGroupId": 75,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 750000
+ },
+ {
+  "userLevelRewardMstId": 226,
+  "rewardGroupId": 76,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 227,
+  "rewardGroupId": 76,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 760000
+ },
+ {
+  "userLevelRewardMstId": 228,
+  "rewardGroupId": 76,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 760000
+ },
+ {
+  "userLevelRewardMstId": 229,
+  "rewardGroupId": 77,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 230,
+  "rewardGroupId": 77,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 770000
+ },
+ {
+  "userLevelRewardMstId": 231,
+  "rewardGroupId": 77,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 770000
+ },
+ {
+  "userLevelRewardMstId": 232,
+  "rewardGroupId": 78,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 233,
+  "rewardGroupId": 78,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 780000
+ },
+ {
+  "userLevelRewardMstId": 234,
+  "rewardGroupId": 78,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 780000
+ },
+ {
+  "userLevelRewardMstId": 235,
+  "rewardGroupId": 79,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 236,
+  "rewardGroupId": 79,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 790000
+ },
+ {
+  "userLevelRewardMstId": 237,
+  "rewardGroupId": 79,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 790000
+ },
+ {
+  "userLevelRewardMstId": 238,
+  "rewardGroupId": 80,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 239,
+  "rewardGroupId": 80,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 800000
+ },
+ {
+  "userLevelRewardMstId": 240,
+  "rewardGroupId": 80,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 800000
+ },
+ {
+  "userLevelRewardMstId": 241,
+  "rewardGroupId": 81,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 242,
+  "rewardGroupId": 81,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 810000
+ },
+ {
+  "userLevelRewardMstId": 243,
+  "rewardGroupId": 81,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 810000
+ },
+ {
+  "userLevelRewardMstId": 244,
+  "rewardGroupId": 82,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 245,
+  "rewardGroupId": 82,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 820000
+ },
+ {
+  "userLevelRewardMstId": 246,
+  "rewardGroupId": 82,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 820000
+ },
+ {
+  "userLevelRewardMstId": 247,
+  "rewardGroupId": 83,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 248,
+  "rewardGroupId": 83,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 830000
+ },
+ {
+  "userLevelRewardMstId": 249,
+  "rewardGroupId": 83,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 830000
+ },
+ {
+  "userLevelRewardMstId": 250,
+  "rewardGroupId": 84,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 251,
+  "rewardGroupId": 84,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 840000
+ },
+ {
+  "userLevelRewardMstId": 252,
+  "rewardGroupId": 84,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 840000
+ },
+ {
+  "userLevelRewardMstId": 253,
+  "rewardGroupId": 85,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 254,
+  "rewardGroupId": 85,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 850000
+ },
+ {
+  "userLevelRewardMstId": 255,
+  "rewardGroupId": 85,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 850000
+ },
+ {
+  "userLevelRewardMstId": 256,
+  "rewardGroupId": 86,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 257,
+  "rewardGroupId": 86,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 860000
+ },
+ {
+  "userLevelRewardMstId": 258,
+  "rewardGroupId": 86,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 860000
+ },
+ {
+  "userLevelRewardMstId": 259,
+  "rewardGroupId": 87,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 260,
+  "rewardGroupId": 87,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 870000
+ },
+ {
+  "userLevelRewardMstId": 261,
+  "rewardGroupId": 87,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 870000
+ },
+ {
+  "userLevelRewardMstId": 262,
+  "rewardGroupId": 88,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 263,
+  "rewardGroupId": 88,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 880000
+ },
+ {
+  "userLevelRewardMstId": 264,
+  "rewardGroupId": 88,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 880000
+ },
+ {
+  "userLevelRewardMstId": 265,
+  "rewardGroupId": 89,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 266,
+  "rewardGroupId": 89,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 890000
+ },
+ {
+  "userLevelRewardMstId": 267,
+  "rewardGroupId": 89,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 890000
+ },
+ {
+  "userLevelRewardMstId": 268,
+  "rewardGroupId": 90,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 269,
+  "rewardGroupId": 90,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 900000
+ },
+ {
+  "userLevelRewardMstId": 270,
+  "rewardGroupId": 90,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 900000
+ },
+ {
+  "userLevelRewardMstId": 271,
+  "rewardGroupId": 91,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 272,
+  "rewardGroupId": 91,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 910000
+ },
+ {
+  "userLevelRewardMstId": 273,
+  "rewardGroupId": 91,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 910000
+ },
+ {
+  "userLevelRewardMstId": 274,
+  "rewardGroupId": 92,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 275,
+  "rewardGroupId": 92,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 920000
+ },
+ {
+  "userLevelRewardMstId": 276,
+  "rewardGroupId": 92,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 920000
+ },
+ {
+  "userLevelRewardMstId": 277,
+  "rewardGroupId": 93,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 278,
+  "rewardGroupId": 93,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 930000
+ },
+ {
+  "userLevelRewardMstId": 279,
+  "rewardGroupId": 93,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 930000
+ },
+ {
+  "userLevelRewardMstId": 280,
+  "rewardGroupId": 94,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 281,
+  "rewardGroupId": 94,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 940000
+ },
+ {
+  "userLevelRewardMstId": 282,
+  "rewardGroupId": 94,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 940000
+ },
+ {
+  "userLevelRewardMstId": 283,
+  "rewardGroupId": 95,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 284,
+  "rewardGroupId": 95,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 950000
+ },
+ {
+  "userLevelRewardMstId": 285,
+  "rewardGroupId": 95,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 950000
+ },
+ {
+  "userLevelRewardMstId": 286,
+  "rewardGroupId": 96,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 287,
+  "rewardGroupId": 96,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 960000
+ },
+ {
+  "userLevelRewardMstId": 288,
+  "rewardGroupId": 96,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 960000
+ },
+ {
+  "userLevelRewardMstId": 289,
+  "rewardGroupId": 97,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 290,
+  "rewardGroupId": 97,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 970000
+ },
+ {
+  "userLevelRewardMstId": 291,
+  "rewardGroupId": 97,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 970000
+ },
+ {
+  "userLevelRewardMstId": 292,
+  "rewardGroupId": 98,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 293,
+  "rewardGroupId": 98,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 980000
+ },
+ {
+  "userLevelRewardMstId": 294,
+  "rewardGroupId": 98,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 980000
+ },
+ {
+  "userLevelRewardMstId": 295,
+  "rewardGroupId": 99,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 296,
+  "rewardGroupId": 99,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 990000
+ },
+ {
+  "userLevelRewardMstId": 297,
+  "rewardGroupId": 99,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 990000
+ },
+ {
+  "userLevelRewardMstId": 298,
+  "rewardGroupId": 100,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 299,
+  "rewardGroupId": 100,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000000
+ },
+ {
+  "userLevelRewardMstId": 300,
+  "rewardGroupId": 100,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1000000
+ },
+ {
+  "userLevelRewardMstId": 301,
+  "rewardGroupId": 101,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 302,
+  "rewardGroupId": 101,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1010000
+ },
+ {
+  "userLevelRewardMstId": 303,
+  "rewardGroupId": 101,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1010000
+ },
+ {
+  "userLevelRewardMstId": 304,
+  "rewardGroupId": 102,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 305,
+  "rewardGroupId": 102,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1020000
+ },
+ {
+  "userLevelRewardMstId": 306,
+  "rewardGroupId": 102,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1020000
+ },
+ {
+  "userLevelRewardMstId": 307,
+  "rewardGroupId": 103,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 308,
+  "rewardGroupId": 103,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1030000
+ },
+ {
+  "userLevelRewardMstId": 309,
+  "rewardGroupId": 103,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1030000
+ },
+ {
+  "userLevelRewardMstId": 310,
+  "rewardGroupId": 104,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 311,
+  "rewardGroupId": 104,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1040000
+ },
+ {
+  "userLevelRewardMstId": 312,
+  "rewardGroupId": 104,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1040000
+ },
+ {
+  "userLevelRewardMstId": 313,
+  "rewardGroupId": 105,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 314,
+  "rewardGroupId": 105,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1050000
+ },
+ {
+  "userLevelRewardMstId": 315,
+  "rewardGroupId": 105,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1050000
+ },
+ {
+  "userLevelRewardMstId": 316,
+  "rewardGroupId": 106,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 317,
+  "rewardGroupId": 106,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1060000
+ },
+ {
+  "userLevelRewardMstId": 318,
+  "rewardGroupId": 106,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1060000
+ },
+ {
+  "userLevelRewardMstId": 319,
+  "rewardGroupId": 107,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 320,
+  "rewardGroupId": 107,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1070000
+ },
+ {
+  "userLevelRewardMstId": 321,
+  "rewardGroupId": 107,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1070000
+ },
+ {
+  "userLevelRewardMstId": 322,
+  "rewardGroupId": 108,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 323,
+  "rewardGroupId": 108,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1080000
+ },
+ {
+  "userLevelRewardMstId": 324,
+  "rewardGroupId": 108,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1080000
+ },
+ {
+  "userLevelRewardMstId": 325,
+  "rewardGroupId": 109,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 326,
+  "rewardGroupId": 109,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1090000
+ },
+ {
+  "userLevelRewardMstId": 327,
+  "rewardGroupId": 109,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1090000
+ },
+ {
+  "userLevelRewardMstId": 328,
+  "rewardGroupId": 110,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 329,
+  "rewardGroupId": 110,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1100000
+ },
+ {
+  "userLevelRewardMstId": 330,
+  "rewardGroupId": 110,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1100000
+ },
+ {
+  "userLevelRewardMstId": 331,
+  "rewardGroupId": 111,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 332,
+  "rewardGroupId": 111,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1110000
+ },
+ {
+  "userLevelRewardMstId": 333,
+  "rewardGroupId": 111,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1110000
+ },
+ {
+  "userLevelRewardMstId": 334,
+  "rewardGroupId": 112,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 335,
+  "rewardGroupId": 112,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1120000
+ },
+ {
+  "userLevelRewardMstId": 336,
+  "rewardGroupId": 112,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1120000
+ },
+ {
+  "userLevelRewardMstId": 337,
+  "rewardGroupId": 113,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 338,
+  "rewardGroupId": 113,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1130000
+ },
+ {
+  "userLevelRewardMstId": 339,
+  "rewardGroupId": 113,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1130000
+ },
+ {
+  "userLevelRewardMstId": 340,
+  "rewardGroupId": 114,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 341,
+  "rewardGroupId": 114,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1140000
+ },
+ {
+  "userLevelRewardMstId": 342,
+  "rewardGroupId": 114,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1140000
+ },
+ {
+  "userLevelRewardMstId": 343,
+  "rewardGroupId": 115,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 344,
+  "rewardGroupId": 115,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1150000
+ },
+ {
+  "userLevelRewardMstId": 345,
+  "rewardGroupId": 115,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1150000
+ },
+ {
+  "userLevelRewardMstId": 346,
+  "rewardGroupId": 116,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 347,
+  "rewardGroupId": 116,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1160000
+ },
+ {
+  "userLevelRewardMstId": 348,
+  "rewardGroupId": 116,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1160000
+ },
+ {
+  "userLevelRewardMstId": 349,
+  "rewardGroupId": 117,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 350,
+  "rewardGroupId": 117,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1170000
+ },
+ {
+  "userLevelRewardMstId": 351,
+  "rewardGroupId": 117,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1170000
+ },
+ {
+  "userLevelRewardMstId": 352,
+  "rewardGroupId": 118,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 353,
+  "rewardGroupId": 118,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1180000
+ },
+ {
+  "userLevelRewardMstId": 354,
+  "rewardGroupId": 118,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1180000
+ },
+ {
+  "userLevelRewardMstId": 355,
+  "rewardGroupId": 119,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 356,
+  "rewardGroupId": 119,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1190000
+ },
+ {
+  "userLevelRewardMstId": 357,
+  "rewardGroupId": 119,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1190000
+ },
+ {
+  "userLevelRewardMstId": 358,
+  "rewardGroupId": 120,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 359,
+  "rewardGroupId": 120,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1200000
+ },
+ {
+  "userLevelRewardMstId": 360,
+  "rewardGroupId": 120,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1200000
+ },
+ {
+  "userLevelRewardMstId": 361,
+  "rewardGroupId": 121,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 362,
+  "rewardGroupId": 121,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1210000
+ },
+ {
+  "userLevelRewardMstId": 363,
+  "rewardGroupId": 121,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1210000
+ },
+ {
+  "userLevelRewardMstId": 364,
+  "rewardGroupId": 122,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 365,
+  "rewardGroupId": 122,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1220000
+ },
+ {
+  "userLevelRewardMstId": 366,
+  "rewardGroupId": 122,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1220000
+ },
+ {
+  "userLevelRewardMstId": 367,
+  "rewardGroupId": 123,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 368,
+  "rewardGroupId": 123,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1230000
+ },
+ {
+  "userLevelRewardMstId": 369,
+  "rewardGroupId": 123,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1230000
+ },
+ {
+  "userLevelRewardMstId": 370,
+  "rewardGroupId": 124,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 371,
+  "rewardGroupId": 124,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1240000
+ },
+ {
+  "userLevelRewardMstId": 372,
+  "rewardGroupId": 124,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1240000
+ },
+ {
+  "userLevelRewardMstId": 373,
+  "rewardGroupId": 125,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 374,
+  "rewardGroupId": 125,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1250000
+ },
+ {
+  "userLevelRewardMstId": 375,
+  "rewardGroupId": 125,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1250000
+ },
+ {
+  "userLevelRewardMstId": 376,
+  "rewardGroupId": 126,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 377,
+  "rewardGroupId": 126,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1260000
+ },
+ {
+  "userLevelRewardMstId": 378,
+  "rewardGroupId": 126,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1260000
+ },
+ {
+  "userLevelRewardMstId": 379,
+  "rewardGroupId": 127,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 380,
+  "rewardGroupId": 127,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1270000
+ },
+ {
+  "userLevelRewardMstId": 381,
+  "rewardGroupId": 127,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1270000
+ },
+ {
+  "userLevelRewardMstId": 382,
+  "rewardGroupId": 128,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 383,
+  "rewardGroupId": 128,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1280000
+ },
+ {
+  "userLevelRewardMstId": 384,
+  "rewardGroupId": 128,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1280000
+ },
+ {
+  "userLevelRewardMstId": 385,
+  "rewardGroupId": 129,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 386,
+  "rewardGroupId": 129,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1290000
+ },
+ {
+  "userLevelRewardMstId": 387,
+  "rewardGroupId": 129,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1290000
+ },
+ {
+  "userLevelRewardMstId": 388,
+  "rewardGroupId": 130,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 389,
+  "rewardGroupId": 130,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1300000
+ },
+ {
+  "userLevelRewardMstId": 390,
+  "rewardGroupId": 130,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1300000
+ },
+ {
+  "userLevelRewardMstId": 391,
+  "rewardGroupId": 131,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 392,
+  "rewardGroupId": 131,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1310000
+ },
+ {
+  "userLevelRewardMstId": 393,
+  "rewardGroupId": 131,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1310000
+ },
+ {
+  "userLevelRewardMstId": 394,
+  "rewardGroupId": 132,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 395,
+  "rewardGroupId": 132,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1320000
+ },
+ {
+  "userLevelRewardMstId": 396,
+  "rewardGroupId": 132,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1320000
+ },
+ {
+  "userLevelRewardMstId": 397,
+  "rewardGroupId": 133,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 398,
+  "rewardGroupId": 133,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1330000
+ },
+ {
+  "userLevelRewardMstId": 399,
+  "rewardGroupId": 133,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1330000
+ },
+ {
+  "userLevelRewardMstId": 400,
+  "rewardGroupId": 134,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 401,
+  "rewardGroupId": 134,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1340000
+ },
+ {
+  "userLevelRewardMstId": 402,
+  "rewardGroupId": 134,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1340000
+ },
+ {
+  "userLevelRewardMstId": 403,
+  "rewardGroupId": 135,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 404,
+  "rewardGroupId": 135,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1350000
+ },
+ {
+  "userLevelRewardMstId": 405,
+  "rewardGroupId": 135,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1350000
+ },
+ {
+  "userLevelRewardMstId": 406,
+  "rewardGroupId": 136,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 407,
+  "rewardGroupId": 136,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1360000
+ },
+ {
+  "userLevelRewardMstId": 408,
+  "rewardGroupId": 136,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1360000
+ },
+ {
+  "userLevelRewardMstId": 409,
+  "rewardGroupId": 137,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 410,
+  "rewardGroupId": 137,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1370000
+ },
+ {
+  "userLevelRewardMstId": 411,
+  "rewardGroupId": 137,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1370000
+ },
+ {
+  "userLevelRewardMstId": 412,
+  "rewardGroupId": 138,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 413,
+  "rewardGroupId": 138,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1380000
+ },
+ {
+  "userLevelRewardMstId": 414,
+  "rewardGroupId": 138,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1380000
+ },
+ {
+  "userLevelRewardMstId": 415,
+  "rewardGroupId": 139,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 416,
+  "rewardGroupId": 139,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1390000
+ },
+ {
+  "userLevelRewardMstId": 417,
+  "rewardGroupId": 139,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1390000
+ },
+ {
+  "userLevelRewardMstId": 418,
+  "rewardGroupId": 140,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 419,
+  "rewardGroupId": 140,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1400000
+ },
+ {
+  "userLevelRewardMstId": 420,
+  "rewardGroupId": 140,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1400000
+ },
+ {
+  "userLevelRewardMstId": 421,
+  "rewardGroupId": 141,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 422,
+  "rewardGroupId": 141,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1410000
+ },
+ {
+  "userLevelRewardMstId": 423,
+  "rewardGroupId": 141,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1410000
+ },
+ {
+  "userLevelRewardMstId": 424,
+  "rewardGroupId": 142,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 425,
+  "rewardGroupId": 142,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1420000
+ },
+ {
+  "userLevelRewardMstId": 426,
+  "rewardGroupId": 142,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1420000
+ },
+ {
+  "userLevelRewardMstId": 427,
+  "rewardGroupId": 143,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 428,
+  "rewardGroupId": 143,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1430000
+ },
+ {
+  "userLevelRewardMstId": 429,
+  "rewardGroupId": 143,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1430000
+ },
+ {
+  "userLevelRewardMstId": 430,
+  "rewardGroupId": 144,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 431,
+  "rewardGroupId": 144,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1440000
+ },
+ {
+  "userLevelRewardMstId": 432,
+  "rewardGroupId": 144,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1440000
+ },
+ {
+  "userLevelRewardMstId": 433,
+  "rewardGroupId": 145,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 434,
+  "rewardGroupId": 145,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1450000
+ },
+ {
+  "userLevelRewardMstId": 435,
+  "rewardGroupId": 145,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1450000
+ },
+ {
+  "userLevelRewardMstId": 436,
+  "rewardGroupId": 146,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 437,
+  "rewardGroupId": 146,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1460000
+ },
+ {
+  "userLevelRewardMstId": 438,
+  "rewardGroupId": 146,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1460000
+ },
+ {
+  "userLevelRewardMstId": 439,
+  "rewardGroupId": 147,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 440,
+  "rewardGroupId": 147,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1470000
+ },
+ {
+  "userLevelRewardMstId": 441,
+  "rewardGroupId": 147,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1470000
+ },
+ {
+  "userLevelRewardMstId": 442,
+  "rewardGroupId": 148,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 443,
+  "rewardGroupId": 148,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1480000
+ },
+ {
+  "userLevelRewardMstId": 444,
+  "rewardGroupId": 148,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1480000
+ },
+ {
+  "userLevelRewardMstId": 445,
+  "rewardGroupId": 149,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 446,
+  "rewardGroupId": 149,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1490000
+ },
+ {
+  "userLevelRewardMstId": 447,
+  "rewardGroupId": 149,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1490000
+ },
+ {
+  "userLevelRewardMstId": 448,
+  "rewardGroupId": 150,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 449,
+  "rewardGroupId": 150,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1500000
+ },
+ {
+  "userLevelRewardMstId": 450,
+  "rewardGroupId": 150,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1500000
+ },
+ {
+  "userLevelRewardMstId": 451,
+  "rewardGroupId": 151,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 452,
+  "rewardGroupId": 151,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1510000
+ },
+ {
+  "userLevelRewardMstId": 453,
+  "rewardGroupId": 151,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1510000
+ },
+ {
+  "userLevelRewardMstId": 454,
+  "rewardGroupId": 152,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 455,
+  "rewardGroupId": 152,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1520000
+ },
+ {
+  "userLevelRewardMstId": 456,
+  "rewardGroupId": 152,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1520000
+ },
+ {
+  "userLevelRewardMstId": 457,
+  "rewardGroupId": 153,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 458,
+  "rewardGroupId": 153,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1530000
+ },
+ {
+  "userLevelRewardMstId": 459,
+  "rewardGroupId": 153,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1530000
+ },
+ {
+  "userLevelRewardMstId": 460,
+  "rewardGroupId": 154,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 461,
+  "rewardGroupId": 154,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1540000
+ },
+ {
+  "userLevelRewardMstId": 462,
+  "rewardGroupId": 154,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1540000
+ },
+ {
+  "userLevelRewardMstId": 463,
+  "rewardGroupId": 155,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 464,
+  "rewardGroupId": 155,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1550000
+ },
+ {
+  "userLevelRewardMstId": 465,
+  "rewardGroupId": 155,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1550000
+ },
+ {
+  "userLevelRewardMstId": 466,
+  "rewardGroupId": 156,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 467,
+  "rewardGroupId": 156,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1560000
+ },
+ {
+  "userLevelRewardMstId": 468,
+  "rewardGroupId": 156,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1560000
+ },
+ {
+  "userLevelRewardMstId": 469,
+  "rewardGroupId": 157,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 470,
+  "rewardGroupId": 157,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1570000
+ },
+ {
+  "userLevelRewardMstId": 471,
+  "rewardGroupId": 157,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1570000
+ },
+ {
+  "userLevelRewardMstId": 472,
+  "rewardGroupId": 158,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 473,
+  "rewardGroupId": 158,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1580000
+ },
+ {
+  "userLevelRewardMstId": 474,
+  "rewardGroupId": 158,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1580000
+ },
+ {
+  "userLevelRewardMstId": 475,
+  "rewardGroupId": 159,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 476,
+  "rewardGroupId": 159,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1590000
+ },
+ {
+  "userLevelRewardMstId": 477,
+  "rewardGroupId": 159,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1590000
+ },
+ {
+  "userLevelRewardMstId": 478,
+  "rewardGroupId": 160,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 479,
+  "rewardGroupId": 160,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1600000
+ },
+ {
+  "userLevelRewardMstId": 480,
+  "rewardGroupId": 160,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1600000
+ },
+ {
+  "userLevelRewardMstId": 481,
+  "rewardGroupId": 161,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 482,
+  "rewardGroupId": 161,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1610000
+ },
+ {
+  "userLevelRewardMstId": 483,
+  "rewardGroupId": 161,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1610000
+ },
+ {
+  "userLevelRewardMstId": 484,
+  "rewardGroupId": 162,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 485,
+  "rewardGroupId": 162,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1620000
+ },
+ {
+  "userLevelRewardMstId": 486,
+  "rewardGroupId": 162,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1620000
+ },
+ {
+  "userLevelRewardMstId": 487,
+  "rewardGroupId": 163,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 488,
+  "rewardGroupId": 163,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1630000
+ },
+ {
+  "userLevelRewardMstId": 489,
+  "rewardGroupId": 163,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1630000
+ },
+ {
+  "userLevelRewardMstId": 490,
+  "rewardGroupId": 164,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 491,
+  "rewardGroupId": 164,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1640000
+ },
+ {
+  "userLevelRewardMstId": 492,
+  "rewardGroupId": 164,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1640000
+ },
+ {
+  "userLevelRewardMstId": 493,
+  "rewardGroupId": 165,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 494,
+  "rewardGroupId": 165,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1650000
+ },
+ {
+  "userLevelRewardMstId": 495,
+  "rewardGroupId": 165,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1650000
+ },
+ {
+  "userLevelRewardMstId": 496,
+  "rewardGroupId": 166,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 497,
+  "rewardGroupId": 166,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1660000
+ },
+ {
+  "userLevelRewardMstId": 498,
+  "rewardGroupId": 166,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1660000
+ },
+ {
+  "userLevelRewardMstId": 499,
+  "rewardGroupId": 167,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 500,
+  "rewardGroupId": 167,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1670000
+ },
+ {
+  "userLevelRewardMstId": 501,
+  "rewardGroupId": 167,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1670000
+ },
+ {
+  "userLevelRewardMstId": 502,
+  "rewardGroupId": 168,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 503,
+  "rewardGroupId": 168,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1680000
+ },
+ {
+  "userLevelRewardMstId": 504,
+  "rewardGroupId": 168,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1680000
+ },
+ {
+  "userLevelRewardMstId": 505,
+  "rewardGroupId": 169,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 506,
+  "rewardGroupId": 169,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1690000
+ },
+ {
+  "userLevelRewardMstId": 507,
+  "rewardGroupId": 169,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1690000
+ },
+ {
+  "userLevelRewardMstId": 508,
+  "rewardGroupId": 170,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 509,
+  "rewardGroupId": 170,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1700000
+ },
+ {
+  "userLevelRewardMstId": 510,
+  "rewardGroupId": 170,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1700000
+ },
+ {
+  "userLevelRewardMstId": 511,
+  "rewardGroupId": 171,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 512,
+  "rewardGroupId": 171,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1710000
+ },
+ {
+  "userLevelRewardMstId": 513,
+  "rewardGroupId": 171,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1710000
+ },
+ {
+  "userLevelRewardMstId": 514,
+  "rewardGroupId": 172,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 515,
+  "rewardGroupId": 172,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1720000
+ },
+ {
+  "userLevelRewardMstId": 516,
+  "rewardGroupId": 172,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1720000
+ },
+ {
+  "userLevelRewardMstId": 517,
+  "rewardGroupId": 173,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 518,
+  "rewardGroupId": 173,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1730000
+ },
+ {
+  "userLevelRewardMstId": 519,
+  "rewardGroupId": 173,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1730000
+ },
+ {
+  "userLevelRewardMstId": 520,
+  "rewardGroupId": 174,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 521,
+  "rewardGroupId": 174,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1740000
+ },
+ {
+  "userLevelRewardMstId": 522,
+  "rewardGroupId": 174,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1740000
+ },
+ {
+  "userLevelRewardMstId": 523,
+  "rewardGroupId": 175,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 524,
+  "rewardGroupId": 175,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1750000
+ },
+ {
+  "userLevelRewardMstId": 525,
+  "rewardGroupId": 175,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1750000
+ },
+ {
+  "userLevelRewardMstId": 526,
+  "rewardGroupId": 176,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 527,
+  "rewardGroupId": 176,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1760000
+ },
+ {
+  "userLevelRewardMstId": 528,
+  "rewardGroupId": 176,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1760000
+ },
+ {
+  "userLevelRewardMstId": 529,
+  "rewardGroupId": 177,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 530,
+  "rewardGroupId": 177,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1770000
+ },
+ {
+  "userLevelRewardMstId": 531,
+  "rewardGroupId": 177,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1770000
+ },
+ {
+  "userLevelRewardMstId": 532,
+  "rewardGroupId": 178,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 533,
+  "rewardGroupId": 178,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1780000
+ },
+ {
+  "userLevelRewardMstId": 534,
+  "rewardGroupId": 178,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1780000
+ },
+ {
+  "userLevelRewardMstId": 535,
+  "rewardGroupId": 179,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 536,
+  "rewardGroupId": 179,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1790000
+ },
+ {
+  "userLevelRewardMstId": 537,
+  "rewardGroupId": 179,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1790000
+ },
+ {
+  "userLevelRewardMstId": 538,
+  "rewardGroupId": 180,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 539,
+  "rewardGroupId": 180,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1800000
+ },
+ {
+  "userLevelRewardMstId": 540,
+  "rewardGroupId": 180,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1800000
+ },
+ {
+  "userLevelRewardMstId": 541,
+  "rewardGroupId": 181,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 542,
+  "rewardGroupId": 181,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1810000
+ },
+ {
+  "userLevelRewardMstId": 543,
+  "rewardGroupId": 181,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1810000
+ },
+ {
+  "userLevelRewardMstId": 544,
+  "rewardGroupId": 182,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 545,
+  "rewardGroupId": 182,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1820000
+ },
+ {
+  "userLevelRewardMstId": 546,
+  "rewardGroupId": 182,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1820000
+ },
+ {
+  "userLevelRewardMstId": 547,
+  "rewardGroupId": 183,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 548,
+  "rewardGroupId": 183,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1830000
+ },
+ {
+  "userLevelRewardMstId": 549,
+  "rewardGroupId": 183,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1830000
+ },
+ {
+  "userLevelRewardMstId": 550,
+  "rewardGroupId": 184,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 551,
+  "rewardGroupId": 184,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1840000
+ },
+ {
+  "userLevelRewardMstId": 552,
+  "rewardGroupId": 184,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1840000
+ },
+ {
+  "userLevelRewardMstId": 553,
+  "rewardGroupId": 185,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 554,
+  "rewardGroupId": 185,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1850000
+ },
+ {
+  "userLevelRewardMstId": 555,
+  "rewardGroupId": 185,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1850000
+ },
+ {
+  "userLevelRewardMstId": 556,
+  "rewardGroupId": 186,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 557,
+  "rewardGroupId": 186,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1860000
+ },
+ {
+  "userLevelRewardMstId": 558,
+  "rewardGroupId": 186,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1860000
+ },
+ {
+  "userLevelRewardMstId": 559,
+  "rewardGroupId": 187,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 560,
+  "rewardGroupId": 187,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1870000
+ },
+ {
+  "userLevelRewardMstId": 561,
+  "rewardGroupId": 187,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1870000
+ },
+ {
+  "userLevelRewardMstId": 562,
+  "rewardGroupId": 188,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 563,
+  "rewardGroupId": 188,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1880000
+ },
+ {
+  "userLevelRewardMstId": 564,
+  "rewardGroupId": 188,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1880000
+ },
+ {
+  "userLevelRewardMstId": 565,
+  "rewardGroupId": 189,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 566,
+  "rewardGroupId": 189,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1890000
+ },
+ {
+  "userLevelRewardMstId": 567,
+  "rewardGroupId": 189,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1890000
+ },
+ {
+  "userLevelRewardMstId": 568,
+  "rewardGroupId": 190,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 569,
+  "rewardGroupId": 190,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1900000
+ },
+ {
+  "userLevelRewardMstId": 570,
+  "rewardGroupId": 190,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1900000
+ },
+ {
+  "userLevelRewardMstId": 571,
+  "rewardGroupId": 191,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 572,
+  "rewardGroupId": 191,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1910000
+ },
+ {
+  "userLevelRewardMstId": 573,
+  "rewardGroupId": 191,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1910000
+ },
+ {
+  "userLevelRewardMstId": 574,
+  "rewardGroupId": 192,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 575,
+  "rewardGroupId": 192,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1920000
+ },
+ {
+  "userLevelRewardMstId": 576,
+  "rewardGroupId": 192,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1920000
+ },
+ {
+  "userLevelRewardMstId": 577,
+  "rewardGroupId": 193,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 578,
+  "rewardGroupId": 193,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1930000
+ },
+ {
+  "userLevelRewardMstId": 579,
+  "rewardGroupId": 193,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1930000
+ },
+ {
+  "userLevelRewardMstId": 580,
+  "rewardGroupId": 194,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 581,
+  "rewardGroupId": 194,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1940000
+ },
+ {
+  "userLevelRewardMstId": 582,
+  "rewardGroupId": 194,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1940000
+ },
+ {
+  "userLevelRewardMstId": 583,
+  "rewardGroupId": 195,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 584,
+  "rewardGroupId": 195,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1950000
+ },
+ {
+  "userLevelRewardMstId": 585,
+  "rewardGroupId": 195,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1950000
+ },
+ {
+  "userLevelRewardMstId": 586,
+  "rewardGroupId": 196,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 587,
+  "rewardGroupId": 196,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1960000
+ },
+ {
+  "userLevelRewardMstId": 588,
+  "rewardGroupId": 196,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1960000
+ },
+ {
+  "userLevelRewardMstId": 589,
+  "rewardGroupId": 197,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 590,
+  "rewardGroupId": 197,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1970000
+ },
+ {
+  "userLevelRewardMstId": 591,
+  "rewardGroupId": 197,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1970000
+ },
+ {
+  "userLevelRewardMstId": 592,
+  "rewardGroupId": 198,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 593,
+  "rewardGroupId": 198,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1980000
+ },
+ {
+  "userLevelRewardMstId": 594,
+  "rewardGroupId": 198,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1980000
+ },
+ {
+  "userLevelRewardMstId": 595,
+  "rewardGroupId": 199,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "userLevelRewardMstId": 596,
+  "rewardGroupId": 199,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1990000
+ },
+ {
+  "userLevelRewardMstId": 597,
+  "rewardGroupId": 199,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1990000
+ }
+]

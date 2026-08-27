@@ -1,0 +1,418 @@
+[
+ {
+  "tutorialLineMstId": 1,
+  "tutorialLineGroupId": 10,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Welcome to Nekopara Sekai Connect!\nI'll show you how to play the game.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 2,
+  "tutorialLineGroupId": 10,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "First, here's a gift from me.\nPlease use it.\nA wonderful encounter awaits you!",
+  "sortOrder": 2
+ },
+ {
+  "tutorialLineMstId": 3,
+  "tutorialLineGroupId": 10,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Nii-sama, this way please.\nI'll guide you from here♪",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 4,
+  "tutorialLineGroupId": 10,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "We've gathered quite a lot♪",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 5,
+  "tutorialLineGroupId": 10,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "You can now view the stories\nof the Nekos who joined you.\nLet's go take a look!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 6,
+  "tutorialLineGroupId": 20,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "You can check your Profile here.\nYou can also check your relationships with us.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 7,
+  "tutorialLineGroupId": 20,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "As for my relationship with you...\nWell...that's a secret!",
+  "sortOrder": 2
+ },
+ {
+  "tutorialLineMstId": 8,
+  "tutorialLineGroupId": 20,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Let's go watch the story!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 9,
+  "tutorialLineGroupId": 30,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Now then, let's start preparing the store.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 10,
+  "tutorialLineGroupId": 30,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Let's assign the staff.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 11,
+  "tutorialLineGroupId": 30,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "For this first time, leave it to me!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 12,
+  "tutorialLineGroupId": 30,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "The store is starting to feel lively!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 13,
+  "tutorialLineGroupId": 30,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Next, let's display our products.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 14,
+  "tutorialLineGroupId": 30,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Leave this to me too!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 15,
+  "tutorialLineGroupId": 30,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "The products have been placed in the store!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 16,
+  "tutorialLineGroupId": 30,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Let's go back to the store.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 17,
+  "tutorialLineGroupId": 30,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "The store is all set now.\nThere are still lots of things we can do, but...Let's leave the rest of that for later!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 18,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Let's take the Food Truck and open the store somewhere new!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 19,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Let's try going here!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 20,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Looks like you can check the Quest Rules and your rival's information here.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 21,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "There are two ways to compete in a Quest.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 22,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "By Speed: you win by reaching the target Service Points first.",
+  "sortOrder": 2
+ },
+ {
+  "tutorialLineMstId": 23,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "By Customer Service: you win by earning more Service Points within the time limit.",
+  "sortOrder": 3
+ },
+ {
+  "tutorialLineMstId": 24,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "You can check your rival's information here.Look at their Nekos and strength, and adjust your team accordingly.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 25,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "I'll assist you. Could you try switching the members?",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 26,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Please try selecting me.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 27,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Now then, it's time to open the store!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 28,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Please look here! You can check the quest time limit and your rival's score.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 29,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Next, please look here!\nSeems like you can check the status of your allies here.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 30,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "When this gauge fills up, you can activate a special effect!\nKeep an eye on the gauge!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 31,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Keep an eye on the gauge!",
+  "sortOrder": 2
+ },
+ {
+  "tutorialLineMstId": 32,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Let's serve the customers who come in.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 33,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "We will perform our assigned tasks according to customers.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 34,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Master, please watch over us until it's your turn.",
+  "sortOrder": 2
+ },
+ {
+  "tutorialLineMstId": 35,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Master, it looks like a Neko's SP gauge is full.\nPlease give her a work command!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 36,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Master, we did it!!\nWe beat our rival team♪",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 37,
+  "tutorialLineGroupId": 40,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Looks like the winning team receives rewards...Let's keep this up and do our best during the next one too!",
+  "sortOrder": 2
+ },
+ {
+  "tutorialLineMstId": 38,
+  "tutorialLineGroupId": 50,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Now then, on to the next challenge...huh?",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 39,
+  "tutorialLineGroupId": 60,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Looks like the next rival is pretty strong.\nLet's head back and prepare!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 40,
+  "tutorialLineGroupId": 60,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Let's try enhancing a Card!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 41,
+  "tutorialLineGroupId": 60,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Next, let's try equipping it!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 42,
+  "tutorialLineGroupId": 60,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Now we're all set.\nLet's go back to where we were and get ready to open the store!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 43,
+  "tutorialLineGroupId": 70,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Master, look at the customers.\nSome will use the seats, and some will not.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 44,
+  "tutorialLineGroupId": 70,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "It seems customer tendencies change depending on where you open the store.",
+  "sortOrder": 2
+ },
+ {
+  "tutorialLineMstId": 45,
+  "tutorialLineGroupId": 70,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "This may help you serve them better.",
+  "sortOrder": 3
+ },
+ {
+  "tutorialLineMstId": 46,
+  "tutorialLineGroupId": 70,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "An Skill has been activated!\nIt seems Skills activate when certain conditions are met...",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 47,
+  "tutorialLineGroupId": 70,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Master, one of the Nekos looks tired!\nAll that work has drained their Stamina.",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 48,
+  "tutorialLineGroupId": 70,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Stamina can be recovered by letting them rest for a bit or with Skills.",
+  "sortOrder": 2
+ },
+ {
+  "tutorialLineMstId": 49,
+  "tutorialLineGroupId": 70,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Once their Stamina recovers, they'll resume working!",
+  "sortOrder": 3
+ },
+ {
+  "tutorialLineMstId": 50,
+  "tutorialLineGroupId": 70,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "If you enhance first, you should be able to win!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 51,
+  "tutorialLineGroupId": 80,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Let's go watch the rest of the story!",
+  "sortOrder": 1
+ },
+ {
+  "tutorialLineMstId": 52,
+  "tutorialLineGroupId": 80,
+  "characterMstId": 1010101,
+  "facialExpression": "mtn_ex_000",
+  "line": "Great work, Master!\nPlease enjoy the rest of the game!",
+  "sortOrder": 1
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "gvgSummitAreaMstId": 1,
+  "seasonMstId": 1,
+  "name": "Pool",
+  "victoryBonusRatio": 1.4,
+  "trendType": 0,
+  "trendTypeDetailId": 0,
+  "trendMatchBonusValue": 0,
+  "battleMstId": 60000001
+ },
+ {
+  "gvgSummitAreaMstId": 2,
+  "seasonMstId": 1,
+  "name": "Garden Terrace",
+  "victoryBonusRatio": 1.2,
+  "trendType": 1,
+  "trendTypeDetailId": 1,
+  "trendMatchBonusValue": 1500,
+  "battleMstId": 60000002
+ },
+ {
+  "gvgSummitAreaMstId": 3,
+  "seasonMstId": 1,
+  "name": "Activities",
+  "victoryBonusRatio": 1.2,
+  "trendType": 1,
+  "trendTypeDetailId": 2,
+  "trendMatchBonusValue": 1500,
+  "battleMstId": 60000003
+ },
+ {
+  "gvgSummitAreaMstId": 4,
+  "seasonMstId": 1,
+  "name": "Dance Floor",
+  "victoryBonusRatio": 1.2,
+  "trendType": 3,
+  "trendTypeDetailId": 2,
+  "trendMatchBonusValue": 500,
+  "battleMstId": 60000004
+ },
+ {
+  "gvgSummitAreaMstId": 5,
+  "seasonMstId": 2,
+  "name": "Pool",
+  "victoryBonusRatio": 1.4,
+  "trendType": 0,
+  "trendTypeDetailId": 0,
+  "trendMatchBonusValue": 0,
+  "battleMstId": 60000001
+ },
+ {
+  "gvgSummitAreaMstId": 6,
+  "seasonMstId": 2,
+  "name": "Garden Terrace",
+  "victoryBonusRatio": 1.2,
+  "trendType": 1,
+  "trendTypeDetailId": 3,
+  "trendMatchBonusValue": 1500,
+  "battleMstId": 60000002
+ },
+ {
+  "gvgSummitAreaMstId": 7,
+  "seasonMstId": 2,
+  "name": "Activities",
+  "victoryBonusRatio": 1.2,
+  "trendType": 1,
+  "trendTypeDetailId": 4,
+  "trendMatchBonusValue": 1500,
+  "battleMstId": 60000003
+ },
+ {
+  "gvgSummitAreaMstId": 8,
+  "seasonMstId": 2,
+  "name": "Dance Floor",
+  "victoryBonusRatio": 1.2,
+  "trendType": 3,
+  "trendTypeDetailId": 3,
+  "trendMatchBonusValue": 500,
+  "battleMstId": 60000004
+ },
+ {
+  "gvgSummitAreaMstId": 9,
+  "seasonMstId": 3,
+  "name": "Pool",
+  "victoryBonusRatio": 1.4,
+  "trendType": 0,
+  "trendTypeDetailId": 0,
+  "trendMatchBonusValue": 0,
+  "battleMstId": 60000001
+ },
+ {
+  "gvgSummitAreaMstId": 10,
+  "seasonMstId": 3,
+  "name": "Garden Terrace",
+  "victoryBonusRatio": 1.2,
+  "trendType": 1,
+  "trendTypeDetailId": 5,
+  "trendMatchBonusValue": 1500,
+  "battleMstId": 60000002
+ },
+ {
+  "gvgSummitAreaMstId": 11,
+  "seasonMstId": 3,
+  "name": "Activities",
+  "victoryBonusRatio": 1.2,
+  "trendType": 1,
+  "trendTypeDetailId": 6,
+  "trendMatchBonusValue": 1500,
+  "battleMstId": 60000003
+ },
+ {
+  "gvgSummitAreaMstId": 12,
+  "seasonMstId": 3,
+  "name": "Dance Floor",
+  "victoryBonusRatio": 1.2,
+  "trendType": 3,
+  "trendTypeDetailId": 4,
+  "trendMatchBonusValue": 500,
+  "battleMstId": 60000004
+ }
+]

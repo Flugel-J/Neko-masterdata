@@ -1,0 +1,242 @@
+[
+ {
+  "missionTitleMstId": 10001,
+  "resourceId": 0,
+  "title": "Daily Missions",
+  "priority": 1,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2026-04-01T00:00:00+09:00",
+  "endTime": "2026-04-30T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 10002,
+  "resourceId": 0,
+  "title": "Daily Missions",
+  "priority": 1,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2026-05-01T00:00:00+09:00",
+  "endTime": "2026-05-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 10003,
+  "resourceId": 0,
+  "title": "Daily Missions",
+  "priority": 1,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2026-06-01T00:00:00+09:00",
+  "endTime": "2026-06-30T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 10004,
+  "resourceId": 0,
+  "title": "Daily Missions",
+  "priority": 1,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2026-07-01T00:00:00+09:00",
+  "endTime": "2026-07-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 10005,
+  "resourceId": 0,
+  "title": "Daily Missions",
+  "priority": 1,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2026-08-01T00:00:00+09:00",
+  "endTime": "2026-08-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 10006,
+  "resourceId": 0,
+  "title": "Daily Missions",
+  "priority": 1,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2026-09-01T00:00:00+09:00",
+  "endTime": "2026-09-30T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 20001,
+  "resourceId": 0,
+  "title": "coming soon...",
+  "priority": 2,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2026-04-13T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 30001,
+  "resourceId": 0,
+  "title": "Achievements",
+  "priority": 3,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 40001,
+  "resourceId": 0,
+  "title": "coming soon...",
+  "priority": 4,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 50001,
+  "resourceId": 0,
+  "title": "Club Missions",
+  "priority": 9,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 60001,
+  "resourceId": 0,
+  "title": "coming soon...",
+  "priority": 6,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 70001,
+  "resourceId": 3060002,
+  "title": "Event Missions",
+  "priority": 7,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 70002,
+  "resourceId": 3060003,
+  "title": "Event Missions",
+  "priority": 7,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 70003,
+  "resourceId": 3060004,
+  "title": "Event Missions",
+  "priority": 7,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 70004,
+  "resourceId": 3060005,
+  "title": "Event Missions",
+  "priority": 7,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 70005,
+  "resourceId": 3060006,
+  "title": "Event Missions",
+  "priority": 7,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 80001,
+  "resourceId": 100101,
+  "title": "Pass Mission",
+  "priority": 5,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2026-04-30T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 80002,
+  "resourceId": 100101,
+  "title": "Pass Mission",
+  "priority": 5,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2026-05-01T00:00:00+09:00",
+  "endTime": "2026-05-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 80003,
+  "resourceId": 100101,
+  "title": "Pass Mission",
+  "priority": 5,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2026-06-01T00:00:00+09:00",
+  "endTime": "2026-06-30T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 80004,
+  "resourceId": 100101,
+  "title": "Pass Mission",
+  "priority": 5,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2026-07-01T00:00:00+09:00",
+  "endTime": "2026-07-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 80005,
+  "resourceId": 100101,
+  "title": "Pass Mission",
+  "priority": 5,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2026-08-01T00:00:00+09:00",
+  "endTime": "2026-08-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 80006,
+  "resourceId": 100101,
+  "title": "Pass Mission",
+  "priority": 5,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2026-09-01T00:00:00+09:00",
+  "endTime": "2026-09-30T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 90001,
+  "resourceId": 0,
+  "title": "coming soon...",
+  "priority": 10,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2026-04-13T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 100001,
+  "resourceId": 0,
+  "title": "Store Missions",
+  "priority": 11,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ }
+]

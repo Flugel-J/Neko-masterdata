@@ -1,0 +1,30 @@
+[
+ {
+  "resourceType": 1,
+  "resourceId": 1000001,
+  "name": "coming soon...",
+  "description": "coming soon...",
+  "dailyMaxAmount": 999999999
+ },
+ {
+  "resourceType": 2,
+  "resourceId": 1000002,
+  "name": "Club Weekly Points",
+  "description": "Club Weekly Points",
+  "dailyMaxAmount": 999999900
+ },
+ {
+  "resourceType": 3,
+  "resourceId": 3010001,
+  "name": "Club Medal",
+  "description": "Club Medal",
+  "dailyMaxAmount": 1000
+ },
+ {
+  "resourceType": 4,
+  "resourceId": 3020001,
+  "name": "Cruise Medal",
+  "description": "Cruise Medal",
+  "dailyMaxAmount": 9999999
+ }
+]

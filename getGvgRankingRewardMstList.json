@@ -1,0 +1,156 @@
+[
+ {
+  "gvgRankingRewardMstId": 1,
+  "rankingRewardGroupId": 100,
+  "minRanking": 1,
+  "rewardGroupId": 1000,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 2,
+  "rankingRewardGroupId": 100,
+  "minRanking": 2,
+  "rewardGroupId": 1001,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 3,
+  "rankingRewardGroupId": 100,
+  "minRanking": 3,
+  "rewardGroupId": 1002,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 4,
+  "rankingRewardGroupId": 100,
+  "minRanking": 6,
+  "rewardGroupId": 1003,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 5,
+  "rankingRewardGroupId": 100,
+  "minRanking": 10,
+  "rewardGroupId": 1004,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 6,
+  "rankingRewardGroupId": 100,
+  "minRanking": 20,
+  "rewardGroupId": 1005,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 7,
+  "rankingRewardGroupId": 100,
+  "minRanking": 50,
+  "rewardGroupId": 1006,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 8,
+  "rankingRewardGroupId": 400,
+  "minRanking": 1,
+  "rewardGroupId": 4000,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 9,
+  "rankingRewardGroupId": 400,
+  "minRanking": 2,
+  "rewardGroupId": 4001,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 10,
+  "rankingRewardGroupId": 400,
+  "minRanking": 3,
+  "rewardGroupId": 4002,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 11,
+  "rankingRewardGroupId": 400,
+  "minRanking": 6,
+  "rewardGroupId": 4003,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 12,
+  "rankingRewardGroupId": 400,
+  "minRanking": 10,
+  "rewardGroupId": 4004,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 13,
+  "rankingRewardGroupId": 400,
+  "minRanking": 15,
+  "rewardGroupId": 4005,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 14,
+  "rankingRewardGroupId": 400,
+  "minRanking": 20,
+  "rewardGroupId": 4006,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 15,
+  "rankingRewardGroupId": 410,
+  "minRanking": 1,
+  "rewardGroupId": 4100,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 16,
+  "rankingRewardGroupId": 410,
+  "minRanking": 2,
+  "rewardGroupId": 4101,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 17,
+  "rankingRewardGroupId": 410,
+  "minRanking": 3,
+  "rewardGroupId": 4102,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 18,
+  "rankingRewardGroupId": 410,
+  "minRanking": 6,
+  "rewardGroupId": 4103,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 19,
+  "rankingRewardGroupId": 410,
+  "minRanking": 10,
+  "rewardGroupId": 4104,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 20,
+  "rankingRewardGroupId": 410,
+  "minRanking": 15,
+  "rewardGroupId": 4105,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 21,
+  "rankingRewardGroupId": 410,
+  "minRanking": 20,
+  "rewardGroupId": 4106,
+  "rewardGuildEmblemMstId": 0
+ },
+ {
+  "gvgRankingRewardMstId": 22,
+  "rankingRewardGroupId": 420,
+  "minRanking": 20,
+  "rewardGroupId": 4200,
+  "rewardGuildEmblemMstId": 0
+ }
+]

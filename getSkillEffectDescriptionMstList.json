@@ -1,0 +1,398 @@
+[
+ {
+  "effectType": 1,
+  "name": "Food UP",
+  "description": "Food{0}UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 2,
+  "name": "Food DOWN",
+  "description": "Food{0}DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 3,
+  "name": "Food UP",
+  "description": "Food{0}％UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 4,
+  "name": "Food DOWN",
+  "description": "Food{0}％DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 5,
+  "name": "Drinks UP",
+  "description": "Drinks{0}UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 6,
+  "name": "Drinks DOWN",
+  "description": "Drinks{0}DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 7,
+  "name": "Drinks UP",
+  "description": "Drinks{0}％UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 8,
+  "name": "Drinks DOWN",
+  "description": "Drinks{0}％DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 9,
+  "name": "Sweets UP",
+  "description": "Sweets{0}UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 10,
+  "name": "Sweets DOWN",
+  "description": "Sweets{0}DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 11,
+  "name": "Sweets UP",
+  "description": "Sweets{0}％UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 12,
+  "name": "Sweets DOWN",
+  "description": "Sweets{0}％DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 13,
+  "name": "Stamina UP",
+  "description": "Stamina{0}UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 14,
+  "name": "Stamina DOWN",
+  "description": "Stamina{0}DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 15,
+  "name": "Stamina UP",
+  "description": "Stamina{0}%UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 16,
+  "name": "Stamina DOWN",
+  "description": "Ssamina{0}%DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 17,
+  "name": "Service UP",
+  "description": "Service{0}UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 18,
+  "name": "Service DOWN",
+  "description": "Service{0}DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 19,
+  "name": "Service UP",
+  "description": "Service{0}％UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 20,
+  "name": "Service DOWN",
+  "description": "Service{0}％DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 21,
+  "name": "Stamina  recovery",
+  "description": "Stamina Recovery",
+  "iconImageId": 1
+ },
+ {
+  "effectType": 22,
+  "name": "Stamina DOWN",
+  "description": "Stamina Reduction",
+  "iconImageId": 3
+ },
+ {
+  "effectType": 23,
+  "name": "Stamina  recovery",
+  "description": "{0}% Stamina Recovery",
+  "iconImageId": 1
+ },
+ {
+  "effectType": 24,
+  "name": "Stamina DOWN",
+  "description": "{0}% Stamina Reduction",
+  "iconImageId": 3
+ },
+ {
+  "effectType": 25,
+  "name": "Stamina recovery speed UP",
+  "description": "Stamina Recovery Speed {0}% Up",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 26,
+  "name": "Stamina recovery speed DOWN",
+  "description": "Stamina consumption{0}%UP",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 27,
+  "name": "Stamina consumption UP",
+  "description": "Stamina consumption{0}%UP",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 28,
+  "name": "Stamina consumption DOWN",
+  "description": "Stamina consumption{0}%DOWN",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 29,
+  "name": "Stamina recovery delay UP",
+  "description": "Stamina Recovery Delay {0}% UP ",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 30,
+  "name": "Stamina recovery delay DOWN",
+  "description": "Stamina Recovery Delay {0}% DOWN ",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 31,
+  "name": "SP Gauge recovery",
+  "description": "SP Gauge Recovery",
+  "iconImageId": 1
+ },
+ {
+  "effectType": 32,
+  "name": "SP Gauge decrease",
+  "description": "SP Gauge Reduction",
+  "iconImageId": 3
+ },
+ {
+  "effectType": 33,
+  "name": "SP Gauge recovery",
+  "description": "{0}% SP Gauge Recovery",
+  "iconImageId": 1
+ },
+ {
+  "effectType": 34,
+  "name": "SP Gauge decrease",
+  "description": "{0}% SP Gauge Reduction",
+  "iconImageId": 3
+ },
+ {
+  "effectType": 35,
+  "name": "SP Gauge recovery speed UP",
+  "description": "SP Gauge Recovery Speed {0}% Up",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 36,
+  "name": "SP Gauge recovery speed DOWN",
+  "description": "SP Gauge Recovery Speed {0}% Down",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 37,
+  "name": "Work speeds UP",
+  "description": "Work speeds{0}％UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 38,
+  "name": "Work speeds DOWN",
+  "description": "Work speeds{0}％DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 39,
+  "name": "Order Completion Speed UP",
+  "description": "Order Speed{0}％UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 40,
+  "name": "Order Completion Speed DOWN",
+  "description": "Order Speed{0}％DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 41,
+  "name": "Instantly Complete Orders",
+  "description": "Instantly Complete Orders",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 42,
+  "name": "Table clearing speed UP",
+  "description": "Table clearing speed{0}％UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 43,
+  "name": "Table clearing speed DOWN",
+  "description": "Table clearing speed{0}％DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 44,
+  "name": "Instantly Complete Cleaning",
+  "description": "Instantly Complete Cleaning",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 45,
+  "name": "Work speeds UP",
+  "description": "Cooking speed{0}％UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 46,
+  "name": "Work speeds DOWN",
+  "description": "Cooking speed{0}％DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 47,
+  "name": "Instantly Complete Cooking",
+  "description": "Instantly Complete Cooking",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 48,
+  "name": "Movement speed UP",
+  "description": "Movement speed{0}％UP",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 49,
+  "name": "Movement speed DOWN",
+  "description": "Movement speed{0}％DOWN",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 50,
+  "name": "Lucky Star Rate UP",
+  "description": "Lucky Star Rate {0}% UP ",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 51,
+  "name": "Lucky Star Rate DOWN",
+  "description": "Lucky Star Rate {0}% DOWN ",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 52,
+  "name": "Reserved_52",
+  "description": "coming soon...",
+  "iconImageId": 5
+ },
+ {
+  "effectType": 53,
+  "name": "Reserved_53",
+  "description": "coming soon...",
+  "iconImageId": 5
+ },
+ {
+  "effectType": 54,
+  "name": "Customer Visits Up",
+  "description": "Customer Visits Up for {0} Seconds",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 55,
+  "name": "Customer Visits Down",
+  "description": "Customer Visits Down for {0} Seconds",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 56,
+  "name": "Waiting Time Patience Down",
+  "description": "Waiting Time Patience {0}% Down",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 57,
+  "name": "Waiting Time Patience Up",
+  "description": "Waiting Time Patience {0}% Up",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 58,
+  "name": "eating speed UP",
+  "description": "Eating Speed {0}% Up",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 59,
+  "name": "eating speed DOWN",
+  "description": "Eating Speed {0}% Down",
+  "iconImageId": 4
+ },
+ {
+  "effectType": 60,
+  "name": "Reduced Delivery Time",
+  "description": "Reduce Delivery Time {0}%",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 62,
+  "name": "Furniture Food Rates UP",
+  "description": "Furniture Effect: Food {0}% UP ",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 63,
+  "name": "Furniture Drinks Rates UP",
+  "description": "Furniture Effect: Drinks {0}% UP ",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 64,
+  "name": "Furniture Sweets Rates UP",
+  "description": "Furniture Effect: Sweets {0}% UP ",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 65,
+  "name": "Item Food UP",
+  "description": "Item Display Effect: Food UP by {0}",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 66,
+  "name": "Item Drinks UP",
+  "description": "Item Display Effect: Drinks UP by {0}",
+  "iconImageId": 2
+ },
+ {
+  "effectType": 67,
+  "name": "Item Sweets UP",
+  "description": "Item Display Effect: Sweets UP by {0}",
+  "iconImageId": 2
+ }
+]
