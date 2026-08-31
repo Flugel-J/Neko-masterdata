@@ -14693,5 +14693,25 @@
   "sceneTextMstId": 2958,
   "key": "kitchen_car_set_up_exchange",
   "text": "Exchange"
+ },
+ {
+  "sceneTextMstId": 2969,
+  "key": "miniature_field_my_room_left_com_count",
+  "text": "Daily Comms: <color=#EB4F59>{0}</color>/{1}"
+ },
+ {
+  "sceneTextMstId": 2970,
+  "key": "miniature_field_my_room_refresh_time_text",
+  "text": "Refresh in"
+ },
+ {
+  "sceneTextMstId": 2971,
+  "key": "miniature_open_my_room_area_message_com",
+  "text": "The number of Comms you can perform per day has increased"
+ },
+ {
+  "sceneTextMstId": 2979,
+  "key": "communication_stamina_Increasing",
+  "text": "Comm UP"
  }
 ]

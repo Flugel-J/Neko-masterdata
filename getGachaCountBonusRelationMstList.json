@@ -128,5 +128,20 @@
   "gachaCountBonusRelationMstId": 2010031,
   "gachaSeriesMstId": 2010031,
   "gachaCountBonusGroupId": 2010031
+ },
+ {
+  "gachaCountBonusRelationMstId": 2010036,
+  "gachaSeriesMstId": 2010036,
+  "gachaCountBonusGroupId": 2010036
+ },
+ {
+  "gachaCountBonusRelationMstId": 2010037,
+  "gachaSeriesMstId": 2010037,
+  "gachaCountBonusGroupId": 2010037
+ },
+ {
+  "gachaCountBonusRelationMstId": 2010038,
+  "gachaSeriesMstId": 2010038,
+  "gachaCountBonusGroupId": 2010038
  }
 ]

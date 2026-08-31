@@ -490,5 +490,41 @@
   "transitionSceneParam": "2010031",
   "announceMstId": 0,
   "osType": 1
+ },
+ {
+  "bannerMstId": 50,
+  "imageId": 1010035,
+  "type": 1,
+  "startTime": "2026-08-31T15:00:00+09:00",
+  "endTime": "2026-09-06T23:59:59+09:00",
+  "priority": 60,
+  "transitionSceneName": "SceneGachaTop_Soleil",
+  "transitionSceneParam": "2010036",
+  "announceMstId": 0,
+  "osType": 1
+ },
+ {
+  "bannerMstId": 51,
+  "imageId": 1010036,
+  "type": 1,
+  "startTime": "2026-08-31T15:00:00+09:00",
+  "endTime": "2026-09-06T23:59:59+09:00",
+  "priority": 61,
+  "transitionSceneName": "SceneGachaTop_Soleil",
+  "transitionSceneParam": "2010037",
+  "announceMstId": 0,
+  "osType": 1
+ },
+ {
+  "bannerMstId": 52,
+  "imageId": 1010037,
+  "type": 1,
+  "startTime": "2026-08-31T15:00:00+09:00",
+  "endTime": "2026-09-06T23:59:59+09:00",
+  "priority": 62,
+  "transitionSceneName": "SceneGachaTop_Soleil",
+  "transitionSceneParam": "2010038",
+  "announceMstId": 0,
+  "osType": 1
  }
 ]

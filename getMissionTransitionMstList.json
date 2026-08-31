@@ -3346,5 +3346,65 @@
   "missionMstId": 30310,
   "transitionSceneName": "SceneTowerTop_Soleil",
   "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 610,
+  "missionMstId": 40108,
+  "transitionSceneName": "SceneCommunicationCharacterSelect_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 611,
+  "missionMstId": 40109,
+  "transitionSceneName": "SceneCommunicationCharacterSelect_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 612,
+  "missionMstId": 40110,
+  "transitionSceneName": "SceneCommunicationCharacterSelect_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 613,
+  "missionMstId": 40111,
+  "transitionSceneName": "SceneCommunicationCharacterSelect_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 614,
+  "missionMstId": 40112,
+  "transitionSceneName": "SceneCommunicationCharacterSelect_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 615,
+  "missionMstId": 40113,
+  "transitionSceneName": "SceneCommunicationCharacterSelect_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 616,
+  "missionMstId": 40114,
+  "transitionSceneName": "SceneCommunicationCharacterSelect_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 617,
+  "missionMstId": 40115,
+  "transitionSceneName": "SceneCommunicationCharacterSelect_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 618,
+  "missionMstId": 40116,
+  "transitionSceneName": "SceneCommunicationCharacterSelect_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 619,
+  "missionMstId": 40117,
+  "transitionSceneName": "SceneCommunicationCharacterSelect_Soleil",
+  "transitionSceneParam": 0
  }
 ]

@@ -701,7 +701,7 @@
  },
  {
   "gardenFurnitureClassMstId": 3000400,
-  "classType": 30100,
+  "classType": 30300,
   "parentClassMstId": 0,
   "furnitureMotionName": "",
   "characterMotionName": "",
@@ -710,13 +710,23 @@
   "classParameter": 0
  },
  {
-  "gardenFurnitureClassMstId": 3000407,
+  "gardenFurnitureClassMstId": 3000401,
   "classType": 30101,
   "parentClassMstId": 3000400,
   "furnitureMotionName": "",
   "characterMotionName": "",
   "charaMotionPositionX": 2.5,
   "charaMotionPositionY": 2.5,
+  "classParameter": 0
+ },
+ {
+  "gardenFurnitureClassMstId": 3000402,
+  "classType": 30301,
+  "parentClassMstId": 3000400,
+  "furnitureMotionName": "",
+  "characterMotionName": "",
+  "charaMotionPositionX": 8.0,
+  "charaMotionPositionY": 60.0,
   "classParameter": 0
  },
  {

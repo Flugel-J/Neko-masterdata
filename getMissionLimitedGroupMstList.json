@@ -46,5 +46,11 @@
   "missionName": "Story Celebration Missions",
   "priority": 1,
   "endTime": "2026-09-07T15:00:00+09:00"
+ },
+ {
+  "missionLimitedGroupMstId": 40009,
+  "missionName": "Comm UP Campaign Mission.",
+  "priority": 1,
+  "endTime": "2026-09-06T23:59:59+09:00"
  }
 ]

@@ -869,6 +869,39 @@
   "endTime": "1970-01-01T09:00:00+09:00"
  },
  {
+  "gachaCountBonusMstId": 20100361,
+  "gachaCountBonusGroupId": 2010036,
+  "count": 150,
+  "repeatPoint": true,
+  "objectReceiveType": 0,
+  "objectId": 0,
+  "num": 0,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20100371,
+  "gachaCountBonusGroupId": 2010037,
+  "count": 150,
+  "repeatPoint": true,
+  "objectReceiveType": 0,
+  "objectId": 0,
+  "num": 0,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20100381,
+  "gachaCountBonusGroupId": 2010038,
+  "count": 150,
+  "repeatPoint": true,
+  "objectReceiveType": 0,
+  "objectId": 0,
+  "num": 0,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
   "gachaCountBonusMstId": 20102001,
   "gachaCountBonusGroupId": 2010020,
   "count": 20,

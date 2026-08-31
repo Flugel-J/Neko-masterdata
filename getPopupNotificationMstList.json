@@ -538,5 +538,20 @@
   "type": 1,
   "startTime": "2026-09-25T00:00:00+09:00",
   "endTime": "2026-09-27T23:59:59+09:00"
+ },
+ {
+  "popupNotificationMstId": 42,
+  "title": "Selectable Trip",
+  "linkText": "",
+  "backgroundId": 3010035,
+  "effectId": 0,
+  "mainType": 0,
+  "mainTargetId": 0,
+  "categoryType": 1,
+  "categoryTargetId": 2010036,
+  "priority": 5,
+  "type": 1,
+  "startTime": "2026-08-31T15:00:00+09:00",
+  "endTime": "2026-09-06T23:59:59+09:00"
  }
 ]
