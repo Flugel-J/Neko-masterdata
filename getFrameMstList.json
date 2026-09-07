@@ -104,6 +104,19 @@
   "hasDefault": false
  },
  {
+  "frameMstId": 17040006,
+  "name": "Moonlit Rabbit, Tipsy Neko Frame",
+  "passiveSkillMstId": 0,
+  "passiveSkillLevel": 0,
+  "description": "Proof of Merit: Moonlit Rabbit, Tipsy Neko",
+  "resourceId": 17040006,
+  "sortOrder": 79,
+  "enableTermType": 0,
+  "startTime": "2026-09-07T15:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00",
+  "hasDefault": false
+ },
+ {
   "frameMstId": 17050001,
   "name": "Veteran Frame",
   "passiveSkillMstId": 0,

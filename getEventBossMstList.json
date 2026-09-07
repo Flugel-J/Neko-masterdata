@@ -33,5 +33,12 @@
   "dailyEventBossStamina": 3,
   "groupId": 1005,
   "backgroundId": 2103000
+ },
+ {
+  "eventBossMstId": 105,
+  "eventMstId": 100006,
+  "dailyEventBossStamina": 3,
+  "groupId": 1006,
+  "backgroundId": 2104000
  }
 ]

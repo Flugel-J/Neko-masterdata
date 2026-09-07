@@ -849,7 +849,7 @@
   "sortOrder": 1,
   "isForce": true,
   "isPortrait": true,
-  "anchor": "#soleildelivery"
+  "anchor": "#soleilgarden"
  },
  {
   "subTutorialMstId": 1162002,
@@ -1318,6 +1318,30 @@
   "isForce": true,
   "isPortrait": false,
   "anchor": "#"
+ },
+ {
+  "subTutorialMstId": 1410001,
+  "subTutorialCategoryType": 43,
+  "resourceId": "1410001",
+  "title": "Invitation Code",
+  "content": "coming soon...",
+  "helpCategoryMstId": 43,
+  "sortOrder": 1,
+  "isForce": true,
+  "isPortrait": true,
+  "anchor": "#invitation"
+ },
+ {
+  "subTutorialMstId": 1410002,
+  "subTutorialCategoryType": 43,
+  "resourceId": "1410002",
+  "title": "Invitation Code",
+  "content": "coming soon...",
+  "helpCategoryMstId": 43,
+  "sortOrder": 2,
+  "isForce": true,
+  "isPortrait": true,
+  "anchor": "#invitation"
  },
  {
   "subTutorialMstId": 1420001,

@@ -152,5 +152,16 @@
   "morningId": 1610001,
   "afternoonId": 1610001,
   "nightId": 1610001
+ },
+ {
+  "homeBackgroundMstId": 16130,
+  "name": "Moonlit Rabbit, Tipsy Neko Tsukimi Venue",
+  "description": "The Tsukimi venue from the 3rd Purrade ~Moonlit Rabbit, Tipsy Neko~.",
+  "hasFirst": false,
+  "isDefault": false,
+  "resourceId": 1613003,
+  "morningId": 1613003,
+  "afternoonId": 1613003,
+  "nightId": 1613003
  }
 ]

@@ -979,6 +979,72 @@
   "probability": 0
  },
  {
+  "questRewardMstId": 10000122,
+  "rewardGroupId": 20000107,
+  "sortOrder": 1,
+  "rewardType": 1,
+  "objectReceiveType": 6,
+  "objectId": 3020112,
+  "itemRewardGroupId": 0,
+  "num": 1,
+  "probability": 0
+ },
+ {
+  "questRewardMstId": 10000123,
+  "rewardGroupId": 20000107,
+  "sortOrder": 2,
+  "rewardType": 1,
+  "objectReceiveType": 26,
+  "objectId": 100006,
+  "itemRewardGroupId": 0,
+  "num": 100,
+  "probability": 0
+ },
+ {
+  "questRewardMstId": 10000124,
+  "rewardGroupId": 20000108,
+  "sortOrder": 1,
+  "rewardType": 1,
+  "objectReceiveType": 6,
+  "objectId": 3020112,
+  "itemRewardGroupId": 0,
+  "num": 1,
+  "probability": 0
+ },
+ {
+  "questRewardMstId": 10000125,
+  "rewardGroupId": 20000108,
+  "sortOrder": 2,
+  "rewardType": 1,
+  "objectReceiveType": 26,
+  "objectId": 100006,
+  "itemRewardGroupId": 0,
+  "num": 200,
+  "probability": 0
+ },
+ {
+  "questRewardMstId": 10000126,
+  "rewardGroupId": 20000109,
+  "sortOrder": 1,
+  "rewardType": 1,
+  "objectReceiveType": 6,
+  "objectId": 3020112,
+  "itemRewardGroupId": 0,
+  "num": 1,
+  "probability": 0
+ },
+ {
+  "questRewardMstId": 10000127,
+  "rewardGroupId": 20000109,
+  "sortOrder": 2,
+  "rewardType": 1,
+  "objectReceiveType": 26,
+  "objectId": 100006,
+  "itemRewardGroupId": 0,
+  "num": 300,
+  "probability": 0
+ },
+ {
   "questRewardMstId": 20000101,
   "rewardGroupId": 20000101,
   "sortOrder": 1,

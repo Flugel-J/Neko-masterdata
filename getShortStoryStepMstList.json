@@ -40,7 +40,7 @@
   "scriptId": 601010301,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "It's already this late...?\nI lost track of time reading \nthose gardening books at the bookstore.",
+  "mainStepParameter": "It’s already this late...?\nI lost track of time reading \nthose gardening books at the bookstore.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -76,7 +76,7 @@
   "scriptId": 601010301,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Oh? There's something lovely here...\nHehe, this will be a lovely memory \nto look back on♪",
+  "mainStepParameter": "Oh? There’s something lovely here...\nHehe, this will be a lovely memory \nto look back on♪",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -112,7 +112,7 @@
   "scriptId": 601010301,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "I can't believe \nI don't want to go back to work yet...\nThat's not like me at all, is it?",
+  "mainStepParameter": "I can’t believe \nI don’t want to go back to work yet...\nThat’s not like me at all, is it?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -238,7 +238,7 @@
   "scriptId": 601010302,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "For a moment we were able to forget \nabout work and just relax.\nHehe, it'll be our little secret, okay?",
+  "mainStepParameter": "For a moment we were able to forget \nabout work and just relax.\nHehe, it’ll be our little secret, okay?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -328,7 +328,7 @@
   "scriptId": 601020101,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "When you're with me, \ngood fortune tends to find you. \nDon't you think?",
+  "mainStepParameter": "When you’re with me, \ngood fortune tends to find you. \nDon’t you think?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -580,7 +580,7 @@
   "scriptId": 601020201,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Woo~! Found some treasure!\nLet's keep this just between the two of us, okay?",
+  "mainStepParameter": "Woo~! Found some treasure!\nLet’s keep this just between the two of us, okay?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -670,7 +670,7 @@
   "scriptId": 601020202,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Ah... Y-You found me~!\nEhehe, don't tell my sisters, okay?",
+  "mainStepParameter": "Ah... Y-You found me~!\nEhehe, don’t tell my sisters, okay?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -868,7 +868,7 @@
   "scriptId": 601020301,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "I-I have to return...! \nM-My apologies, I'll go at once!",
+  "mainStepParameter": "I-I have to return...! \nM-My apologies, I’ll go at once!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -922,7 +922,7 @@
   "scriptId": 601020302,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Um... I was just...thinking for a moment... \nI-I'll get back to work right away!",
+  "mainStepParameter": "Um... I was just...thinking for a moment... \nI-I’ll get back to work right away!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -958,7 +958,7 @@
   "scriptId": 601020302,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Th-This...! \nI'm sure it will be useful, don't you think? \nEhehe...",
+  "mainStepParameter": "Th-This...! \nI’m sure it will be useful, don’t you think? \nEhehe...",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -1426,7 +1426,7 @@
   "scriptId": 601020502,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Whoops!? Jeez, don't scare me like that!\n This is just a little break time, okay~?",
+  "mainStepParameter": "Whoops!? Jeez, don’t scare me like that!\n This is just a little break time, okay~?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -1462,7 +1462,7 @@
   "scriptId": 601020502,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Lookie-lookie! You've gotta see this!",
+  "mainStepParameter": "Lookie-lookie! You’ve gotta see this!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -1552,7 +1552,7 @@
   "scriptId": 601030101,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Oh, you've found me. \nThis is market research...",
+  "mainStepParameter": "Oh, you’ve found me. \nThis is market research...",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -1624,7 +1624,7 @@
   "scriptId": 601030101,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Market research complete! \nLet's return to the shop together♪",
+  "mainStepParameter": "Market research complete! \nLet’s return to the shop together♪",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -1750,7 +1750,7 @@
   "scriptId": 601030102,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "I've found the seed of a new business idea.\nLet's head back at once♪",
+  "mainStepParameter": "I’ve found the seed of a new business idea.\nLet’s head back at once♪",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -1876,7 +1876,7 @@
   "scriptId": 601030201,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "You're already leaving? \nI still wanna play!",
+  "mainStepParameter": "You’re already leaving? \nI still wanna play!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -1966,7 +1966,7 @@
   "scriptId": 601030202,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Heh heh, I found something good! \nI'll share it with you!",
+  "mainStepParameter": "Heh heh, I found something good! \nI’ll share it with you!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -2092,7 +2092,7 @@
   "scriptId": 601030301,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "We've got souvenirs now! \nEveryone's going to be so happy~♪",
+  "mainStepParameter": "We’ve got souvenirs now! \nEveryone’s going to be so happy~♪",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -2128,7 +2128,7 @@
   "scriptId": 601030301,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Okay, got it! I'll head back to work right away!",
+  "mainStepParameter": "Okay, got it! I’ll head back to work right away!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -2182,7 +2182,7 @@
   "scriptId": 601030302,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "I'm not slacking off...!\nI was just planning our next date, that's all!",
+  "mainStepParameter": "I’m not slacking off...!\nI was just planning our next date, that’s all!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -2254,7 +2254,7 @@
   "scriptId": 601030302,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Ehehe, you caught me. \nCome on, \nlet's head back to the shop together.",
+  "mainStepParameter": "Ehehe, you caught me. \nCome on, \nlet’s head back to the shop together.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -2308,7 +2308,7 @@
   "scriptId": 601030401,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Ah no, that's not it... \nI was simply lost in thought...",
+  "mainStepParameter": "Ah no, that’s not it... \nI was simply lost in thought...",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -2560,7 +2560,7 @@
   "scriptId": 601040101,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "W-What...you found me!? I wasn't playing!\nTh-This is... Yes, a demon's covert operation!",
+  "mainStepParameter": "W-What...you found me!? I wasn’t playing!\nTh-This is... Yes, a demon’s covert operation!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -2596,7 +2596,7 @@
   "scriptId": 601040101,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "I've found something interesting.\nPerhaps it's hell itself guiding us.",
+  "mainStepParameter": "I’ve found something interesting.\nPerhaps it’s hell itself guiding us.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -2632,7 +2632,7 @@
   "scriptId": 601040101,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "A secret rendezvous with a demon...\nIt wasn't so bad, was it?",
+  "mainStepParameter": "A secret rendezvous with a demon...\nIt wasn’t so bad, was it?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -2686,7 +2686,7 @@
   "scriptId": 601040102,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Hmph, don't misunderstand. \nI wasn't idling. This is... indeed!\n A forbidden rite of darkness... \ntitled 'Recuperation'!",
+  "mainStepParameter": "Hmph, don’t misunderstand. \nI wasn’t idling. This is... indeed!\n A forbidden rite of darkness... \ntitled ’Recuperation’!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -2812,7 +2812,7 @@
   "scriptId": 601040201,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Nee hee hee~♪ You found me?\nDon't be mad, okay?",
+  "mainStepParameter": "Nee hee hee~♪ You found me?\nDon’t be mad, okay?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -3226,7 +3226,7 @@
   "scriptId": 601040302,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "I'll give you...something nice♪",
+  "mainStepParameter": "I’ll give you...something nice♪",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -3352,7 +3352,7 @@
   "scriptId": 601040401,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "What is this...? It's...pretty...",
+  "mainStepParameter": "What is this...? It’s...pretty...",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -3388,7 +3388,7 @@
   "scriptId": 601040401,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Mm, okay... \nI'll head back...now...",
+  "mainStepParameter": "Mm, okay... \nI’ll head back...now...",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -3478,7 +3478,7 @@
   "scriptId": 601040402,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Lucky...aren't we~",
+  "mainStepParameter": "Lucky...aren’t we~",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -3640,7 +3640,7 @@
   "scriptId": 601050101,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "I was just thinking it's about time \nwe returned to the shop.\nShall we go back together?",
+  "mainStepParameter": "I was just thinking it’s about time \nwe returned to the shop.\nShall we go back together?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -3820,7 +3820,7 @@
   "scriptId": 601050201,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "I'm not slacking off~! \nThis is...Ackee's secret base!\nWelcome!",
+  "mainStepParameter": "I’m not slacking off~! \nThis is...Ackee’s secret base!\nWelcome!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -3856,7 +3856,7 @@
   "scriptId": 601050201,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Oh, something good here!\nI found it, so it's mine, right?",
+  "mainStepParameter": "Oh, something good here!\nI found it, so it’s mine, right?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -3892,7 +3892,7 @@
   "scriptId": 601050201,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Geez, fine! I'll go back! You're so stingy~!",
+  "mainStepParameter": "Geez, fine! I’ll go back! You’re so stingy~!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -3946,7 +3946,7 @@
   "scriptId": 601050202,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Nyhahahaha! \nAckee's just catching some rays!",
+  "mainStepParameter": "Nyhahahaha! \nAckee’s just catching some rays!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -3982,7 +3982,7 @@
   "scriptId": 601050202,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Look what I found! Want it? Want it? \nToo bad, Ackee's keeping it!",
+  "mainStepParameter": "Look what I found! Want it? Want it? \nToo bad, Ackee’s keeping it!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -4018,7 +4018,7 @@
   "scriptId": 601050202,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Nyahaha! \nNext time you won't catch me!",
+  "mainStepParameter": "Nyahaha! \nNext time you won’t catch me!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -4324,7 +4324,7 @@
   "scriptId": 601050401,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Huh? What now.\nI'm allowed to take a break, aren't I? \nWeakling.",
+  "mainStepParameter": "Huh? What now.\nI’m allowed to take a break, aren’t I? \nWeakling.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -4360,7 +4360,7 @@
   "scriptId": 601050401,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Hmm, found something.\nIt's mine, no complaints, right?",
+  "mainStepParameter": "Hmm, found something.\nIt’s mine, no complaints, right?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -4396,7 +4396,7 @@
   "scriptId": 601050401,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Yeah yeah, I'm going back.",
+  "mainStepParameter": "Yeah yeah, I’m going back.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -4450,7 +4450,7 @@
   "scriptId": 601050402,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Tch, you're annoying.\nTry not to get in my way.",
+  "mainStepParameter": "Tch, you’re annoying.\nTry not to get in my way.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -4648,7 +4648,7 @@
   "scriptId": 601060101,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Yes, yes, I'm going back. Honestly...",
+  "mainStepParameter": "Yes, yes, I’m going back. Honestly...",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -4738,7 +4738,7 @@
   "scriptId": 601060102,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Yes, well... I hope it's something worthwhile.",
+  "mainStepParameter": "Yes, well... I hope it’s something worthwhile.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -4900,7 +4900,7 @@
   "scriptId": 601060201,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "It's about time I headed back~",
+  "mainStepParameter": "It’s about time I headed back~",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -5080,7 +5080,7 @@
   "scriptId": 601060301,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Whoa, I'm not slacking off! \nI was just working on a new song idea!",
+  "mainStepParameter": "Whoa, I’m not slacking off! \nI was just working on a new song idea!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -5116,7 +5116,7 @@
   "scriptId": 601060301,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Oh? What's this? Lucky.",
+  "mainStepParameter": "Oh? What’s this? Lucky.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -5152,7 +5152,7 @@
   "scriptId": 601060301,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Yeah yeah, I'll go back.",
+  "mainStepParameter": "Yeah yeah, I’ll go back.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -5242,7 +5242,7 @@
   "scriptId": 601060302,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Found something nice. I'm taking it.",
+  "mainStepParameter": "Found something nice. I’m taking it.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -5278,7 +5278,7 @@
   "scriptId": 601060302,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Tch, fine... I'll finish this later in my room.",
+  "mainStepParameter": "Tch, fine... I’ll finish this later in my room.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -5530,7 +5530,7 @@
   "scriptId": 601060402,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "...End of my shift. I'm clocking out. Good work.",
+  "mainStepParameter": "...End of my shift. I’m clocking out. Good work.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -5656,7 +5656,7 @@
   "scriptId": 601990101,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Alright, let's head back. \nBut...just one more bite♪",
+  "mainStepParameter": "Alright, let’s head back. \nBut...just one more bite♪",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -5782,7 +5782,7 @@
   "scriptId": 601990102,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "For the sake of delicious cake, \nI'll excuse myself here~♪",
+  "mainStepParameter": "For the sake of delicious cake, \nI’ll excuse myself here~♪",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -5908,7 +5908,7 @@
   "scriptId": 601990201,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Geez! I was relaxing...\nFine, I'll get going!",
+  "mainStepParameter": "Geez! I was relaxing...\nFine, I’ll get going!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -5962,7 +5962,7 @@
   "scriptId": 601990202,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "I'm sorry, I'm sorry! \nI was only taking a short break!\nYou're not going to punish me, are you!?",
+  "mainStepParameter": "I’m sorry, I’m sorry! \nI was only taking a short break!\nYou’re not going to punish me, are you!?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -5998,7 +5998,7 @@
   "scriptId": 601990202,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "I'm sorry, I'm sorry!\nHere, take this... Just let me off the hook!",
+  "mainStepParameter": "I’m sorry, I’m sorry!\nHere, take this... Just let me off the hook!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -6034,7 +6034,7 @@
   "scriptId": 601990202,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Yes, yes, I'm going back!\nThat's what you wanted, right!?",
+  "mainStepParameter": "Yes, yes, I’m going back!\nThat’s what you wanted, right!?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -6088,7 +6088,7 @@
   "scriptId": 601990301,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Everyone else is slacking, \nso I get to slack too. It's only fair!",
+  "mainStepParameter": "Everyone else is slacking, \nso I get to slack too. It’s only fair!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -6160,7 +6160,7 @@
   "scriptId": 601990301,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "That's enough! We're going back to work!",
+  "mainStepParameter": "That’s enough! We’re going back to work!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -6214,7 +6214,7 @@
   "scriptId": 601990302,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "I wasn't hiding...!\nThere just happened to be a space here!",
+  "mainStepParameter": "I wasn’t hiding...!\nThere just happened to be a space here!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -6340,7 +6340,7 @@
   "scriptId": 601990401,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Ah, you found me?\nI'm studying...various things♪",
+  "mainStepParameter": "Ah, you found me?\nI’m studying...various things♪",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -6466,7 +6466,7 @@
   "scriptId": 601990402,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "I'm not slacking off!\nThis is important research!",
+  "mainStepParameter": "I’m not slacking off!\nThis is important research!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -6502,7 +6502,7 @@
   "scriptId": 601990402,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "It's a little gift~\nHow should we use it, hehe?",
+  "mainStepParameter": "It’s a little gift~\nHow should we use it, hehe?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -6538,7 +6538,7 @@
   "scriptId": 601990402,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Work's over!\nNow it's just the two of us, isn't it?",
+  "mainStepParameter": "Work’s over!\nNow it’s just the two of us, isn’t it?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -6628,7 +6628,7 @@
   "scriptId": 601990501,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "S-Something was on the ground...\nI-If you'd like, please take it...",
+  "mainStepParameter": "S-Something was on the ground...\nI-If you’d like, please take it...",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -6664,7 +6664,7 @@
   "scriptId": 601990501,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Sniff... \nTomorrow, I'll work really hard not to cry...",
+  "mainStepParameter": "Sniff... \nTomorrow, I’ll work really hard not to cry...",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -6718,7 +6718,7 @@
   "scriptId": 601990502,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Y-You found me...!\nYaaay! I'm so glad!",
+  "mainStepParameter": "Y-You found me...!\nYaaay! I’m so glad!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -6790,7 +6790,7 @@
   "scriptId": 601990502,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "I-I'm sorry...\nI-I think I should head home for today...",
+  "mainStepParameter": "I-I’m sorry...\nI-I think I should head home for today...",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -6970,7 +6970,7 @@
   "scriptId": 601990602,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Even when I'm \"resting,\" \nI'm thinking of you♥",
+  "mainStepParameter": "Even when I’m \"resting,\" \nI’m thinking of you♥",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7096,7 +7096,7 @@
   "scriptId": 601990701,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "N-No, that's not it! \nI was just checking for blisters...!",
+  "mainStepParameter": "N-No, that’s not it! \nI was just checking for blisters...!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7132,7 +7132,7 @@
   "scriptId": 601990701,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Hm? There's something over here.",
+  "mainStepParameter": "Hm? There’s something over here.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7168,7 +7168,7 @@
   "scriptId": 601990701,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "I-I'm returning to duty!\nI'll handle this properly now, \nso please forget that!",
+  "mainStepParameter": "I-I’m returning to duty!\nI’ll handle this properly now, \nso please forget that!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7222,7 +7222,7 @@
   "scriptId": 601990702,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Um, ah... \nYou didn't see anything, right...?",
+  "mainStepParameter": "Um, ah... \nYou didn’t see anything, right...?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7348,7 +7348,7 @@
   "scriptId": 601990801,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Geh... You!\nI-I was just planning the next job, that's all!",
+  "mainStepParameter": "Geh... You!\nI-I was just planning the next job, that’s all!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7384,7 +7384,7 @@
   "scriptId": 601990801,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Oh? What's this? \nHeh, slacking off has its perks!",
+  "mainStepParameter": "Oh? What’s this? \nHeh, slacking off has its perks!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7420,7 +7420,7 @@
   "scriptId": 601990801,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Aw man, break's already over...",
+  "mainStepParameter": "Aw man, break’s already over...",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7474,7 +7474,7 @@
   "scriptId": 601990802,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Tch, you found me...\nIt's a nice spot though, right?",
+  "mainStepParameter": "Tch, you found me...\nIt’s a nice spot though, right?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7510,7 +7510,7 @@
   "scriptId": 601990802,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "This was just here... Guess I'll take it.",
+  "mainStepParameter": "This was just here... Guess I’ll take it.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7546,7 +7546,7 @@
   "scriptId": 601990802,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Yeah yeah, I'm going back.\nMan, they really work us nekos hard...",
+  "mainStepParameter": "Yeah yeah, I’m going back.\nMan, they really work us nekos hard...",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7636,7 +7636,7 @@
   "scriptId": 601990901,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "There's an item here...\nMaybe it's a hidden feature?",
+  "mainStepParameter": "There’s an item here...\nMaybe it’s a hidden feature?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7672,7 +7672,7 @@
   "scriptId": 601990901,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Huh, you're leaving already...? Okay, sorry...",
+  "mainStepParameter": "Huh, you’re leaving already...? Okay, sorry...",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7726,7 +7726,7 @@
   "scriptId": 601990902,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "I-I'm at a really important part!\nIt's the boss fight! Just a little longer...!",
+  "mainStepParameter": "I-I’m at a really important part!\nIt’s the boss fight! Just a little longer...!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7798,7 +7798,7 @@
   "scriptId": 601990902,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Let's head back and prepare for the raid.",
+  "mainStepParameter": "Let’s head back and prepare for the raid.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7924,7 +7924,7 @@
   "scriptId": 601991001,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Fine, fine, let's head back☆",
+  "mainStepParameter": "Fine, fine, let’s head back☆",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -7978,7 +7978,7 @@
   "scriptId": 601991002,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "Let's take a break together so \nHime doesn't get lonely☆",
+  "mainStepParameter": "Let’s take a break together so \nHime doesn’t get lonely☆",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -8050,7 +8050,7 @@
   "scriptId": 601991002,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Hime's getting hungry☆\nLet's go eat some sweets filled with lots of love☆",
+  "mainStepParameter": "Hime’s getting hungry☆\nLet’s go eat some sweets filled with lots of love☆",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -8176,7 +8176,7 @@
   "scriptId": 601991101,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Fine then.\nWe'll continue this in your room♥",
+  "mainStepParameter": "Fine then.\nWe’ll continue this in your room♥",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -8230,7 +8230,7 @@
   "scriptId": 601991102,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "I'm not slacking!♪\nI was just a little tired, \nso I'm taking a short break♥",
+  "mainStepParameter": "I’m not slacking!♪\nI was just a little tired, \nso I’m taking a short break♥",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -8356,7 +8356,7 @@
   "scriptId": 601991201,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "B-Break time! It's cheat day!",
+  "mainStepParameter": "B-Break time! It’s cheat day!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -8428,7 +8428,7 @@
   "scriptId": 601991201,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Let's work out together again!",
+  "mainStepParameter": "Let’s work out together again!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -9220,7 +9220,7 @@
   "scriptId": 601060501,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Huh? What's this?\nSome kind of reward?",
+  "mainStepParameter": "Huh? What’s this?\nSome kind of reward?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -9382,7 +9382,7 @@
   "scriptId": 601060502,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Let's race to the store!",
+  "mainStepParameter": "Let’s race to the store!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -9436,7 +9436,7 @@
   "scriptId": 601020601,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "What's wrong~? Why the\nrush~? Something happen~?",
+  "mainStepParameter": "What’s wrong~? Why the\nrush~? Something happen~?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -9598,7 +9598,7 @@
   "scriptId": 601020602,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Look, look~\nI found something weird~\nIt's my present for you~\nTake it~",
+  "mainStepParameter": "Look, look~\nI found something weird~\nIt’s my present for you~\nTake it~",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -9634,7 +9634,7 @@
   "scriptId": 601020602,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "I won't tell a soul about\nyour secret snacking~\nTill next time~",
+  "mainStepParameter": "I won’t tell a soul about\nyour secret snacking~\nTill next time~",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -9760,7 +9760,7 @@
   "scriptId": 601040501,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "The store usually starts\ngetting busy around now.\nLet's head back.",
+  "mainStepParameter": "The store usually starts\ngetting busy around now.\nLet’s head back.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -9814,7 +9814,7 @@
   "scriptId": 601040502,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "I'm here doing market\nresearch. I promise I'm\nnot slacking off.",
+  "mainStepParameter": "I’m here doing market\nresearch. I promise I’m\nnot slacking off.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -9850,7 +9850,7 @@
   "scriptId": 601040502,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "What in the world is this?\nI'll take it back\nfor a closer look.",
+  "mainStepParameter": "What in the world is this?\nI’ll take it back\nfor a closer look.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -10264,7 +10264,7 @@
   "scriptId": 601021001,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "I guess I'll head\nback to the store!",
+  "mainStepParameter": "I guess I’ll head\nback to the store!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -10354,7 +10354,7 @@
   "scriptId": 601021002,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Check this out!\nIsn't it cool?",
+  "mainStepParameter": "Check this out!\nIsn’t it cool?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -10390,7 +10390,7 @@
   "scriptId": 601021002,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Relaxing like this isn't\nso bad now and then.",
+  "mainStepParameter": "Relaxing like this isn’t\nso bad now and then.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -11146,7 +11146,7 @@
   "scriptId": 601020901,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "I'm so sleepy...\nI can't take another step!",
+  "mainStepParameter": "I’m so sleepy...\nI can’t take another step!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -11227,7 +11227,7 @@
   "scriptId": 601020901,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "Why don't we relax for\na little bit longer?",
+  "mainStepParameter": "Why don’t we relax for\na little bit longer?",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -11281,7 +11281,7 @@
   "scriptId": 601020902,
   "index": 5,
   "commandType": 100,
-  "mainStepParameter": "I'm not slacking off.\nI'm just taking a much\nneeded break.",
+  "mainStepParameter": "I’m not slacking off.\nI’m just taking a much\nneeded break.",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -11362,7 +11362,7 @@
   "scriptId": 601020902,
   "index": 14,
   "commandType": 100,
-  "mainStepParameter": "I'm too tired to move!\nIf we're going back,\nyou'll have to carry me~",
+  "mainStepParameter": "I’m too tired to move!\nIf we’re going back,\nyou’ll have to carry me~",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -11909,6 +11909,276 @@
  {
   "shortStoryStepMstId": 1324,
   "scriptId": 601020802,
+  "index": 15,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1325,
+  "scriptId": 601060801,
+  "index": 1,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1326,
+  "scriptId": 601060801,
+  "index": 2,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_000",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1327,
+  "scriptId": 601060801,
+  "index": 3,
+  "commandType": 201,
+  "mainStepParameter": "motion_000",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1328,
+  "scriptId": 601060801,
+  "index": 4,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10608",
+  "subStepParameter": "slack_discovery_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1329,
+  "scriptId": 601060801,
+  "index": 5,
+  "commandType": 100,
+  "mainStepParameter": "Perfect timin'. I smell\nan outlaw round here.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1330,
+  "scriptId": 601060801,
+  "index": 6,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1331,
+  "scriptId": 601060801,
+  "index": 7,
+  "commandType": 201,
+  "mainStepParameter": "motion_400",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1332,
+  "scriptId": 601060801,
+  "index": 8,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10608",
+  "subStepParameter": "slack_item_earned_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1333,
+  "scriptId": 601060801,
+  "index": 9,
+  "commandType": 100,
+  "mainStepParameter": "Yeehaw! I struck gold!",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1334,
+  "scriptId": 601060801,
+  "index": 10,
+  "commandType": 910,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1335,
+  "scriptId": 601060801,
+  "index": 11,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_000",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1336,
+  "scriptId": 601060801,
+  "index": 12,
+  "commandType": 201,
+  "mainStepParameter": "motion_200",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1337,
+  "scriptId": 601060801,
+  "index": 13,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10608",
+  "subStepParameter": "slack_homing_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1338,
+  "scriptId": 601060801,
+  "index": 14,
+  "commandType": 100,
+  "mainStepParameter": "Time to mosey on back.\nGuardin' the store is\nimportant business.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1339,
+  "scriptId": 601060801,
+  "index": 15,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1340,
+  "scriptId": 601060802,
+  "index": 1,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1341,
+  "scriptId": 601060802,
+  "index": 2,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_000",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1342,
+  "scriptId": 601060802,
+  "index": 3,
+  "commandType": 201,
+  "mainStepParameter": "motion_100",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1343,
+  "scriptId": 601060802,
+  "index": 4,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10608",
+  "subStepParameter": "slack_discovery_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1344,
+  "scriptId": 601060802,
+  "index": 5,
+  "commandType": 100,
+  "mainStepParameter": "It's a gunslinger's job to\npatrol the streets and\nkeep the peace.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1345,
+  "scriptId": 601060802,
+  "index": 6,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1346,
+  "scriptId": 601060802,
+  "index": 7,
+  "commandType": 201,
+  "mainStepParameter": "motion_000",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1347,
+  "scriptId": 601060802,
+  "index": 8,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10608",
+  "subStepParameter": "slack_item_earned_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1348,
+  "scriptId": 601060802,
+  "index": 9,
+  "commandType": 100,
+  "mainStepParameter": "Hey, look at this.\nIt might come in handy.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1349,
+  "scriptId": 601060802,
+  "index": 10,
+  "commandType": 910,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1350,
+  "scriptId": 601060802,
+  "index": 11,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_000",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1351,
+  "scriptId": 601060802,
+  "index": 12,
+  "commandType": 201,
+  "mainStepParameter": "motion_000",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1352,
+  "scriptId": 601060802,
+  "index": 13,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10608",
+  "subStepParameter": "slack_homing_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1353,
+  "scriptId": 601060802,
+  "index": 14,
+  "commandType": 100,
+  "mainStepParameter": "I'm done with my rounds.\nI don't see any cattle\nthieves 'round here.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1354,
+  "scriptId": 601060802,
   "index": 15,
   "commandType": 200,
   "mainStepParameter": "",

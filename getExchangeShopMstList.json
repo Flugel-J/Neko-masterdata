@@ -287,5 +287,22 @@
   "isRandomLineup": false,
   "startTime": "2026-08-03T15:00:00+09:00",
   "endTime": "2026-08-27T16:59:59+09:00"
+ },
+ {
+  "exchangeShopMstId": 18,
+  "name": "Event",
+  "shopType": 3,
+  "shopSubType": 0,
+  "sortOrder": 11,
+  "displayObjectType1": 9,
+  "displayObjectId1": 100006,
+  "displayObjectType2": 0,
+  "displayObjectId2": 0,
+  "backgroundImageId": 4,
+  "live2DUniqueCharacterId": 1060801,
+  "voiceId": 0,
+  "isRandomLineup": false,
+  "startTime": "2026-09-07T15:00:00+09:00",
+  "endTime": "2026-10-01T16:59:59+09:00"
  }
 ]

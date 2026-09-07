@@ -165,6 +165,21 @@
   "endTime": "2026-08-24T23:59:59+09:00"
  },
  {
+  "loginBonusMstId": 20011,
+  "loginBonusType": 2,
+  "bannerMstId": 0,
+  "resourceId": 0,
+  "title": "Event Login Bonus",
+  "cycleType": 0,
+  "loginBonusImageId": 0,
+  "loginBonusCharacterGroupMstId": 0,
+  "loginBonusCharacterGroupId": 13,
+  "sortOrder": 13,
+  "isVisibleDayCount": true,
+  "startTime": "2026-09-08T00:00:00+09:00",
+  "endTime": "2026-09-27T23:59:59+09:00"
+ },
+ {
   "loginBonusMstId": 40001,
   "loginBonusType": 4,
   "bannerMstId": 0,

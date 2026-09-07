@@ -152,6 +152,22 @@
   "num": 100
  },
  {
+  "storyRewardMstId": 1000060501,
+  "rewardGroupId": 10000605,
+  "sortOrder": 1,
+  "objectReceiveType": 29,
+  "objectId": 16130,
+  "num": 1
+ },
+ {
+  "storyRewardMstId": 1000060502,
+  "rewardGroupId": 10000605,
+  "sortOrder": 2,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
   "storyRewardMstId": 1101060301,
   "rewardGroupId": 11010603,
   "sortOrder": 1,

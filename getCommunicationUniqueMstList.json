@@ -574,5 +574,21 @@
   "isViewButton": false,
   "live2dFileName": "10605_01_C01",
   "backgroundFileName": "0"
+ },
+ {
+  "characterUniqueMstId": 10608,
+  "unlockCharacterStoryMstId": 0,
+  "unlockMaxHeartRank": 0,
+  "uniqueCommunicationType": 2,
+  "situationName": "Park Date",
+  "heartPositionX": 1000,
+  "heartPositionY": 708,
+  "faceDirection": 5,
+  "uniqueCommunicationImg": "10608",
+  "itemPositionX": 50,
+  "itemPositionY": 50,
+  "isViewButton": false,
+  "live2dFileName": "10608_01_C01",
+  "backgroundFileName": "0"
  }
 ]

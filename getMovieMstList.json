@@ -300,6 +300,21 @@
   "typeParam": ""
  },
  {
+  "movieMstId": 3006,
+  "title": "The 3rd Purrade ~Moonlit Rabbit, Tipsy Neko~",
+  "thumbnailPath": "thumb_mov_10000006",
+  "movieFilePath": "Movie/Localize_ww/Event/event_start_100302_en.usm",
+  "resourceId": 100302,
+  "soundFileName": "",
+  "sortOrder": 3006,
+  "movieType": 3,
+  "idByType": 100006,
+  "isSideways": false,
+  "startTime": "2026-09-28T15:00:00+09:00",
+  "endTime": "2030-01-01T00:00:00+09:00",
+  "typeParam": ""
+ },
+ {
   "movieMstId": 4001,
   "title": "Chocola ＆ Vanilla ",
   "thumbnailPath": "thumb_mov_20000001",

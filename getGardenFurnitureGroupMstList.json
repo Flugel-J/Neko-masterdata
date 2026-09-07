@@ -1058,5 +1058,30 @@
   "gardenFurnitureGroupMstId": 212,
   "gardenFurnitureMstId": 208044,
   "gardenFurnitureLayoutMstId": 6
+ },
+ {
+  "gardenFurnitureGroupMstId": 213,
+  "gardenFurnitureMstId": 205019,
+  "gardenFurnitureLayoutMstId": 1
+ },
+ {
+  "gardenFurnitureGroupMstId": 214,
+  "gardenFurnitureMstId": 208045,
+  "gardenFurnitureLayoutMstId": 14
+ },
+ {
+  "gardenFurnitureGroupMstId": 215,
+  "gardenFurnitureMstId": 210025,
+  "gardenFurnitureLayoutMstId": 35
+ },
+ {
+  "gardenFurnitureGroupMstId": 216,
+  "gardenFurnitureMstId": 210026,
+  "gardenFurnitureLayoutMstId": 35
+ },
+ {
+  "gardenFurnitureGroupMstId": 217,
+  "gardenFurnitureMstId": 205020,
+  "gardenFurnitureLayoutMstId": 11
  }
 ]

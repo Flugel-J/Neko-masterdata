@@ -1428,5 +1428,170 @@
   "num": 1,
   "startTime": "1970-01-01T09:00:00+09:00",
   "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103201,
+  "gachaCountBonusGroupId": 2010032,
+  "count": 20,
+  "repeatPoint": false,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1000000,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103202,
+  "gachaCountBonusGroupId": 2010032,
+  "count": 40,
+  "repeatPoint": false,
+  "objectReceiveType": 6,
+  "objectId": 3050001,
+  "num": 250,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103203,
+  "gachaCountBonusGroupId": 2010032,
+  "count": 60,
+  "repeatPoint": false,
+  "objectReceiveType": 8,
+  "objectId": 5,
+  "num": 1000000,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103204,
+  "gachaCountBonusGroupId": 2010032,
+  "count": 80,
+  "repeatPoint": false,
+  "objectReceiveType": 6,
+  "objectId": 3050005,
+  "num": 250,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103205,
+  "gachaCountBonusGroupId": 2010032,
+  "count": 100,
+  "repeatPoint": true,
+  "objectReceiveType": 7,
+  "objectId": 1060801,
+  "num": 1,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103401,
+  "gachaCountBonusGroupId": 2010034,
+  "count": 10,
+  "repeatPoint": false,
+  "objectReceiveType": 6,
+  "objectId": 3060001,
+  "num": 50,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103402,
+  "gachaCountBonusGroupId": 2010034,
+  "count": 20,
+  "repeatPoint": false,
+  "objectReceiveType": 6,
+  "objectId": 3060025,
+  "num": 50,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103403,
+  "gachaCountBonusGroupId": 2010034,
+  "count": 30,
+  "repeatPoint": false,
+  "objectReceiveType": 6,
+  "objectId": 3060002,
+  "num": 40,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103404,
+  "gachaCountBonusGroupId": 2010034,
+  "count": 40,
+  "repeatPoint": false,
+  "objectReceiveType": 6,
+  "objectId": 3060026,
+  "num": 40,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103405,
+  "gachaCountBonusGroupId": 2010034,
+  "count": 50,
+  "repeatPoint": false,
+  "objectReceiveType": 8,
+  "objectId": 5,
+  "num": 1000000,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103406,
+  "gachaCountBonusGroupId": 2010034,
+  "count": 60,
+  "repeatPoint": false,
+  "objectReceiveType": 6,
+  "objectId": 3060003,
+  "num": 25,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103407,
+  "gachaCountBonusGroupId": 2010034,
+  "count": 70,
+  "repeatPoint": false,
+  "objectReceiveType": 6,
+  "objectId": 3060027,
+  "num": 25,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103408,
+  "gachaCountBonusGroupId": 2010034,
+  "count": 80,
+  "repeatPoint": false,
+  "objectReceiveType": 6,
+  "objectId": 3060004,
+  "num": 15,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103409,
+  "gachaCountBonusGroupId": 2010034,
+  "count": 90,
+  "repeatPoint": false,
+  "objectReceiveType": 6,
+  "objectId": 3060028,
+  "num": 15,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
+ },
+ {
+  "gachaCountBonusMstId": 20103410,
+  "gachaCountBonusGroupId": 2010034,
+  "count": 100,
+  "repeatPoint": true,
+  "objectReceiveType": 6,
+  "objectId": 3020004,
+  "num": 1,
+  "startTime": "1970-01-01T09:00:00+09:00",
+  "endTime": "1970-01-01T09:00:00+09:00"
  }
 ]

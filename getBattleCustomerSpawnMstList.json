@@ -186656,6 +186656,222 @@
   "spawnLimit": 0
  },
  {
+  "battleCustomerSpawnMstId": 10018801,
+  "battleCustomerSpawnGroupMstId": 10013401,
+  "battleCustomerMstId": 4990331,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10018901,
+  "battleCustomerSpawnGroupMstId": 10013501,
+  "battleCustomerMstId": 4990306,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10019001,
+  "battleCustomerSpawnGroupMstId": 10013601,
+  "battleCustomerMstId": 4990304,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10019101,
+  "battleCustomerSpawnGroupMstId": 10013701,
+  "battleCustomerMstId": 4990331,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10019201,
+  "battleCustomerSpawnGroupMstId": 10013801,
+  "battleCustomerMstId": 4990306,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10019301,
+  "battleCustomerSpawnGroupMstId": 10013901,
+  "battleCustomerMstId": 4990304,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10019401,
+  "battleCustomerSpawnGroupMstId": 10014001,
+  "battleCustomerMstId": 4990331,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10019501,
+  "battleCustomerSpawnGroupMstId": 10014101,
+  "battleCustomerMstId": 4990306,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10019601,
+  "battleCustomerSpawnGroupMstId": 10014201,
+  "battleCustomerMstId": 4990304,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10019701,
+  "battleCustomerSpawnGroupMstId": 10013401,
+  "battleCustomerMstId": 4990331,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10019801,
+  "battleCustomerSpawnGroupMstId": 10013501,
+  "battleCustomerMstId": 4990306,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10019901,
+  "battleCustomerSpawnGroupMstId": 10013601,
+  "battleCustomerMstId": 4990304,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10020001,
+  "battleCustomerSpawnGroupMstId": 10013701,
+  "battleCustomerMstId": 4990331,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10020101,
+  "battleCustomerSpawnGroupMstId": 10013801,
+  "battleCustomerMstId": 4990306,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10020201,
+  "battleCustomerSpawnGroupMstId": 10013901,
+  "battleCustomerMstId": 4990304,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10020301,
+  "battleCustomerSpawnGroupMstId": 10014001,
+  "battleCustomerMstId": 4990331,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10020401,
+  "battleCustomerSpawnGroupMstId": 10014101,
+  "battleCustomerMstId": 4990306,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10020501,
+  "battleCustomerSpawnGroupMstId": 10014201,
+  "battleCustomerMstId": 4990304,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10020601,
+  "battleCustomerSpawnGroupMstId": 10013401,
+  "battleCustomerMstId": 4990331,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10020701,
+  "battleCustomerSpawnGroupMstId": 10013501,
+  "battleCustomerMstId": 4990306,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10020801,
+  "battleCustomerSpawnGroupMstId": 10013601,
+  "battleCustomerMstId": 4990304,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10020901,
+  "battleCustomerSpawnGroupMstId": 10013701,
+  "battleCustomerMstId": 4990331,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10021001,
+  "battleCustomerSpawnGroupMstId": 10013801,
+  "battleCustomerMstId": 4990306,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10021101,
+  "battleCustomerSpawnGroupMstId": 10013901,
+  "battleCustomerMstId": 4990304,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10021201,
+  "battleCustomerSpawnGroupMstId": 10014001,
+  "battleCustomerMstId": 4990331,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10021301,
+  "battleCustomerSpawnGroupMstId": 10014101,
+  "battleCustomerMstId": 4990306,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 10021401,
+  "battleCustomerSpawnGroupMstId": 10014201,
+  "battleCustomerMstId": 4990304,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
   "battleCustomerSpawnMstId": 12000111,
   "battleCustomerSpawnGroupMstId": 1200011,
   "battleCustomerMstId": 5990101,
@@ -236378,6 +236594,3606 @@
  {
   "battleCustomerSpawnMstId": 100005450,
   "battleCustomerSpawnGroupMstId": 100005090,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006001,
+  "battleCustomerSpawnGroupMstId": 100006001,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006002,
+  "battleCustomerSpawnGroupMstId": 100006001,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006003,
+  "battleCustomerSpawnGroupMstId": 100006001,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006004,
+  "battleCustomerSpawnGroupMstId": 100006001,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006005,
+  "battleCustomerSpawnGroupMstId": 100006001,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006006,
+  "battleCustomerSpawnGroupMstId": 100006002,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006007,
+  "battleCustomerSpawnGroupMstId": 100006002,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006008,
+  "battleCustomerSpawnGroupMstId": 100006002,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006009,
+  "battleCustomerSpawnGroupMstId": 100006002,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006010,
+  "battleCustomerSpawnGroupMstId": 100006002,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006011,
+  "battleCustomerSpawnGroupMstId": 100006003,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006012,
+  "battleCustomerSpawnGroupMstId": 100006003,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006013,
+  "battleCustomerSpawnGroupMstId": 100006003,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006014,
+  "battleCustomerSpawnGroupMstId": 100006003,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006015,
+  "battleCustomerSpawnGroupMstId": 100006003,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006016,
+  "battleCustomerSpawnGroupMstId": 100006004,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006017,
+  "battleCustomerSpawnGroupMstId": 100006004,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006018,
+  "battleCustomerSpawnGroupMstId": 100006004,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006019,
+  "battleCustomerSpawnGroupMstId": 100006004,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006020,
+  "battleCustomerSpawnGroupMstId": 100006004,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006021,
+  "battleCustomerSpawnGroupMstId": 100006005,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006022,
+  "battleCustomerSpawnGroupMstId": 100006005,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006023,
+  "battleCustomerSpawnGroupMstId": 100006005,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006024,
+  "battleCustomerSpawnGroupMstId": 100006005,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006025,
+  "battleCustomerSpawnGroupMstId": 100006005,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006026,
+  "battleCustomerSpawnGroupMstId": 100006006,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006027,
+  "battleCustomerSpawnGroupMstId": 100006006,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006028,
+  "battleCustomerSpawnGroupMstId": 100006006,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006029,
+  "battleCustomerSpawnGroupMstId": 100006006,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006030,
+  "battleCustomerSpawnGroupMstId": 100006006,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006031,
+  "battleCustomerSpawnGroupMstId": 100006007,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006032,
+  "battleCustomerSpawnGroupMstId": 100006007,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006033,
+  "battleCustomerSpawnGroupMstId": 100006007,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006034,
+  "battleCustomerSpawnGroupMstId": 100006007,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006035,
+  "battleCustomerSpawnGroupMstId": 100006007,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006036,
+  "battleCustomerSpawnGroupMstId": 100006008,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006037,
+  "battleCustomerSpawnGroupMstId": 100006008,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006038,
+  "battleCustomerSpawnGroupMstId": 100006008,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006039,
+  "battleCustomerSpawnGroupMstId": 100006008,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006040,
+  "battleCustomerSpawnGroupMstId": 100006008,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006041,
+  "battleCustomerSpawnGroupMstId": 100006009,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006042,
+  "battleCustomerSpawnGroupMstId": 100006009,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006043,
+  "battleCustomerSpawnGroupMstId": 100006009,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006044,
+  "battleCustomerSpawnGroupMstId": 100006009,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006045,
+  "battleCustomerSpawnGroupMstId": 100006009,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006046,
+  "battleCustomerSpawnGroupMstId": 100006010,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006047,
+  "battleCustomerSpawnGroupMstId": 100006010,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006048,
+  "battleCustomerSpawnGroupMstId": 100006010,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006049,
+  "battleCustomerSpawnGroupMstId": 100006010,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006050,
+  "battleCustomerSpawnGroupMstId": 100006010,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006051,
+  "battleCustomerSpawnGroupMstId": 100006011,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006052,
+  "battleCustomerSpawnGroupMstId": 100006011,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006053,
+  "battleCustomerSpawnGroupMstId": 100006011,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006054,
+  "battleCustomerSpawnGroupMstId": 100006011,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006055,
+  "battleCustomerSpawnGroupMstId": 100006011,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006056,
+  "battleCustomerSpawnGroupMstId": 100006012,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006057,
+  "battleCustomerSpawnGroupMstId": 100006012,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006058,
+  "battleCustomerSpawnGroupMstId": 100006012,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006059,
+  "battleCustomerSpawnGroupMstId": 100006012,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006060,
+  "battleCustomerSpawnGroupMstId": 100006012,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006061,
+  "battleCustomerSpawnGroupMstId": 100006013,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006062,
+  "battleCustomerSpawnGroupMstId": 100006013,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006063,
+  "battleCustomerSpawnGroupMstId": 100006013,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006064,
+  "battleCustomerSpawnGroupMstId": 100006013,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006065,
+  "battleCustomerSpawnGroupMstId": 100006013,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006066,
+  "battleCustomerSpawnGroupMstId": 100006014,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006067,
+  "battleCustomerSpawnGroupMstId": 100006014,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006068,
+  "battleCustomerSpawnGroupMstId": 100006014,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006069,
+  "battleCustomerSpawnGroupMstId": 100006014,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006070,
+  "battleCustomerSpawnGroupMstId": 100006014,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006071,
+  "battleCustomerSpawnGroupMstId": 100006015,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006072,
+  "battleCustomerSpawnGroupMstId": 100006015,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006073,
+  "battleCustomerSpawnGroupMstId": 100006015,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006074,
+  "battleCustomerSpawnGroupMstId": 100006015,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006075,
+  "battleCustomerSpawnGroupMstId": 100006015,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006076,
+  "battleCustomerSpawnGroupMstId": 100006016,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006077,
+  "battleCustomerSpawnGroupMstId": 100006016,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006078,
+  "battleCustomerSpawnGroupMstId": 100006016,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006079,
+  "battleCustomerSpawnGroupMstId": 100006016,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006080,
+  "battleCustomerSpawnGroupMstId": 100006016,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006081,
+  "battleCustomerSpawnGroupMstId": 100006017,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006082,
+  "battleCustomerSpawnGroupMstId": 100006017,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006083,
+  "battleCustomerSpawnGroupMstId": 100006017,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006084,
+  "battleCustomerSpawnGroupMstId": 100006017,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006085,
+  "battleCustomerSpawnGroupMstId": 100006017,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006086,
+  "battleCustomerSpawnGroupMstId": 100006018,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006087,
+  "battleCustomerSpawnGroupMstId": 100006018,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006088,
+  "battleCustomerSpawnGroupMstId": 100006018,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006089,
+  "battleCustomerSpawnGroupMstId": 100006018,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006090,
+  "battleCustomerSpawnGroupMstId": 100006018,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006091,
+  "battleCustomerSpawnGroupMstId": 100006019,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006092,
+  "battleCustomerSpawnGroupMstId": 100006019,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006093,
+  "battleCustomerSpawnGroupMstId": 100006019,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006094,
+  "battleCustomerSpawnGroupMstId": 100006019,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006095,
+  "battleCustomerSpawnGroupMstId": 100006019,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006096,
+  "battleCustomerSpawnGroupMstId": 100006020,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006097,
+  "battleCustomerSpawnGroupMstId": 100006020,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006098,
+  "battleCustomerSpawnGroupMstId": 100006020,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006099,
+  "battleCustomerSpawnGroupMstId": 100006020,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006100,
+  "battleCustomerSpawnGroupMstId": 100006020,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006101,
+  "battleCustomerSpawnGroupMstId": 100006021,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006102,
+  "battleCustomerSpawnGroupMstId": 100006021,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006103,
+  "battleCustomerSpawnGroupMstId": 100006021,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006104,
+  "battleCustomerSpawnGroupMstId": 100006021,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006105,
+  "battleCustomerSpawnGroupMstId": 100006021,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006106,
+  "battleCustomerSpawnGroupMstId": 100006022,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006107,
+  "battleCustomerSpawnGroupMstId": 100006022,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006108,
+  "battleCustomerSpawnGroupMstId": 100006022,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006109,
+  "battleCustomerSpawnGroupMstId": 100006022,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006110,
+  "battleCustomerSpawnGroupMstId": 100006022,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006111,
+  "battleCustomerSpawnGroupMstId": 100006023,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006112,
+  "battleCustomerSpawnGroupMstId": 100006023,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006113,
+  "battleCustomerSpawnGroupMstId": 100006023,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006114,
+  "battleCustomerSpawnGroupMstId": 100006023,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006115,
+  "battleCustomerSpawnGroupMstId": 100006023,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006116,
+  "battleCustomerSpawnGroupMstId": 100006024,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006117,
+  "battleCustomerSpawnGroupMstId": 100006024,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006118,
+  "battleCustomerSpawnGroupMstId": 100006024,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006119,
+  "battleCustomerSpawnGroupMstId": 100006024,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006120,
+  "battleCustomerSpawnGroupMstId": 100006024,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006121,
+  "battleCustomerSpawnGroupMstId": 100006025,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006122,
+  "battleCustomerSpawnGroupMstId": 100006025,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006123,
+  "battleCustomerSpawnGroupMstId": 100006025,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006124,
+  "battleCustomerSpawnGroupMstId": 100006025,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006125,
+  "battleCustomerSpawnGroupMstId": 100006025,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006126,
+  "battleCustomerSpawnGroupMstId": 100006026,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006127,
+  "battleCustomerSpawnGroupMstId": 100006026,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006128,
+  "battleCustomerSpawnGroupMstId": 100006026,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006129,
+  "battleCustomerSpawnGroupMstId": 100006026,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006130,
+  "battleCustomerSpawnGroupMstId": 100006026,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006131,
+  "battleCustomerSpawnGroupMstId": 100006027,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006132,
+  "battleCustomerSpawnGroupMstId": 100006027,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006133,
+  "battleCustomerSpawnGroupMstId": 100006027,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006134,
+  "battleCustomerSpawnGroupMstId": 100006027,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006135,
+  "battleCustomerSpawnGroupMstId": 100006027,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006136,
+  "battleCustomerSpawnGroupMstId": 100006028,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006137,
+  "battleCustomerSpawnGroupMstId": 100006028,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006138,
+  "battleCustomerSpawnGroupMstId": 100006028,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006139,
+  "battleCustomerSpawnGroupMstId": 100006028,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006140,
+  "battleCustomerSpawnGroupMstId": 100006028,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006141,
+  "battleCustomerSpawnGroupMstId": 100006029,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006142,
+  "battleCustomerSpawnGroupMstId": 100006029,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006143,
+  "battleCustomerSpawnGroupMstId": 100006029,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006144,
+  "battleCustomerSpawnGroupMstId": 100006029,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006145,
+  "battleCustomerSpawnGroupMstId": 100006029,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006146,
+  "battleCustomerSpawnGroupMstId": 100006030,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006147,
+  "battleCustomerSpawnGroupMstId": 100006030,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006148,
+  "battleCustomerSpawnGroupMstId": 100006030,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006149,
+  "battleCustomerSpawnGroupMstId": 100006030,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006150,
+  "battleCustomerSpawnGroupMstId": 100006030,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006151,
+  "battleCustomerSpawnGroupMstId": 100006031,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006152,
+  "battleCustomerSpawnGroupMstId": 100006031,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006153,
+  "battleCustomerSpawnGroupMstId": 100006031,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006154,
+  "battleCustomerSpawnGroupMstId": 100006031,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006155,
+  "battleCustomerSpawnGroupMstId": 100006031,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006156,
+  "battleCustomerSpawnGroupMstId": 100006032,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006157,
+  "battleCustomerSpawnGroupMstId": 100006032,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006158,
+  "battleCustomerSpawnGroupMstId": 100006032,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006159,
+  "battleCustomerSpawnGroupMstId": 100006032,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006160,
+  "battleCustomerSpawnGroupMstId": 100006032,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006161,
+  "battleCustomerSpawnGroupMstId": 100006033,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006162,
+  "battleCustomerSpawnGroupMstId": 100006033,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006163,
+  "battleCustomerSpawnGroupMstId": 100006033,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006164,
+  "battleCustomerSpawnGroupMstId": 100006033,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006165,
+  "battleCustomerSpawnGroupMstId": 100006033,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006166,
+  "battleCustomerSpawnGroupMstId": 100006034,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006167,
+  "battleCustomerSpawnGroupMstId": 100006034,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006168,
+  "battleCustomerSpawnGroupMstId": 100006034,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006169,
+  "battleCustomerSpawnGroupMstId": 100006034,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006170,
+  "battleCustomerSpawnGroupMstId": 100006034,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006171,
+  "battleCustomerSpawnGroupMstId": 100006035,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006172,
+  "battleCustomerSpawnGroupMstId": 100006035,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006173,
+  "battleCustomerSpawnGroupMstId": 100006035,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006174,
+  "battleCustomerSpawnGroupMstId": 100006035,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006175,
+  "battleCustomerSpawnGroupMstId": 100006035,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006176,
+  "battleCustomerSpawnGroupMstId": 100006036,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006177,
+  "battleCustomerSpawnGroupMstId": 100006036,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006178,
+  "battleCustomerSpawnGroupMstId": 100006036,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006179,
+  "battleCustomerSpawnGroupMstId": 100006036,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006180,
+  "battleCustomerSpawnGroupMstId": 100006036,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006181,
+  "battleCustomerSpawnGroupMstId": 100006037,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006182,
+  "battleCustomerSpawnGroupMstId": 100006037,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006183,
+  "battleCustomerSpawnGroupMstId": 100006037,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006184,
+  "battleCustomerSpawnGroupMstId": 100006037,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006185,
+  "battleCustomerSpawnGroupMstId": 100006037,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006186,
+  "battleCustomerSpawnGroupMstId": 100006038,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006187,
+  "battleCustomerSpawnGroupMstId": 100006038,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006188,
+  "battleCustomerSpawnGroupMstId": 100006038,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006189,
+  "battleCustomerSpawnGroupMstId": 100006038,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006190,
+  "battleCustomerSpawnGroupMstId": 100006038,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006191,
+  "battleCustomerSpawnGroupMstId": 100006039,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006192,
+  "battleCustomerSpawnGroupMstId": 100006039,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006193,
+  "battleCustomerSpawnGroupMstId": 100006039,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006194,
+  "battleCustomerSpawnGroupMstId": 100006039,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006195,
+  "battleCustomerSpawnGroupMstId": 100006039,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006196,
+  "battleCustomerSpawnGroupMstId": 100006040,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006197,
+  "battleCustomerSpawnGroupMstId": 100006040,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006198,
+  "battleCustomerSpawnGroupMstId": 100006040,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006199,
+  "battleCustomerSpawnGroupMstId": 100006040,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006200,
+  "battleCustomerSpawnGroupMstId": 100006040,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006201,
+  "battleCustomerSpawnGroupMstId": 100006041,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006202,
+  "battleCustomerSpawnGroupMstId": 100006041,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006203,
+  "battleCustomerSpawnGroupMstId": 100006041,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006204,
+  "battleCustomerSpawnGroupMstId": 100006041,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006205,
+  "battleCustomerSpawnGroupMstId": 100006041,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006206,
+  "battleCustomerSpawnGroupMstId": 100006042,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006207,
+  "battleCustomerSpawnGroupMstId": 100006042,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006208,
+  "battleCustomerSpawnGroupMstId": 100006042,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006209,
+  "battleCustomerSpawnGroupMstId": 100006042,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006210,
+  "battleCustomerSpawnGroupMstId": 100006042,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006211,
+  "battleCustomerSpawnGroupMstId": 100006043,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006212,
+  "battleCustomerSpawnGroupMstId": 100006043,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006213,
+  "battleCustomerSpawnGroupMstId": 100006043,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006214,
+  "battleCustomerSpawnGroupMstId": 100006043,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006215,
+  "battleCustomerSpawnGroupMstId": 100006043,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006216,
+  "battleCustomerSpawnGroupMstId": 100006044,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006217,
+  "battleCustomerSpawnGroupMstId": 100006044,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006218,
+  "battleCustomerSpawnGroupMstId": 100006044,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006219,
+  "battleCustomerSpawnGroupMstId": 100006044,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006220,
+  "battleCustomerSpawnGroupMstId": 100006044,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006221,
+  "battleCustomerSpawnGroupMstId": 100006045,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006222,
+  "battleCustomerSpawnGroupMstId": 100006045,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006223,
+  "battleCustomerSpawnGroupMstId": 100006045,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006224,
+  "battleCustomerSpawnGroupMstId": 100006045,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006225,
+  "battleCustomerSpawnGroupMstId": 100006045,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006226,
+  "battleCustomerSpawnGroupMstId": 100006046,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006227,
+  "battleCustomerSpawnGroupMstId": 100006046,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006228,
+  "battleCustomerSpawnGroupMstId": 100006046,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006229,
+  "battleCustomerSpawnGroupMstId": 100006046,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006230,
+  "battleCustomerSpawnGroupMstId": 100006046,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006231,
+  "battleCustomerSpawnGroupMstId": 100006047,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006232,
+  "battleCustomerSpawnGroupMstId": 100006047,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006233,
+  "battleCustomerSpawnGroupMstId": 100006047,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006234,
+  "battleCustomerSpawnGroupMstId": 100006047,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006235,
+  "battleCustomerSpawnGroupMstId": 100006047,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006236,
+  "battleCustomerSpawnGroupMstId": 100006048,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006237,
+  "battleCustomerSpawnGroupMstId": 100006048,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006238,
+  "battleCustomerSpawnGroupMstId": 100006048,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006239,
+  "battleCustomerSpawnGroupMstId": 100006048,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006240,
+  "battleCustomerSpawnGroupMstId": 100006048,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006241,
+  "battleCustomerSpawnGroupMstId": 100006049,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006242,
+  "battleCustomerSpawnGroupMstId": 100006049,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006243,
+  "battleCustomerSpawnGroupMstId": 100006049,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006244,
+  "battleCustomerSpawnGroupMstId": 100006049,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006245,
+  "battleCustomerSpawnGroupMstId": 100006049,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006246,
+  "battleCustomerSpawnGroupMstId": 100006050,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006247,
+  "battleCustomerSpawnGroupMstId": 100006050,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006248,
+  "battleCustomerSpawnGroupMstId": 100006050,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006249,
+  "battleCustomerSpawnGroupMstId": 100006050,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006250,
+  "battleCustomerSpawnGroupMstId": 100006050,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006251,
+  "battleCustomerSpawnGroupMstId": 100006051,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006252,
+  "battleCustomerSpawnGroupMstId": 100006051,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006253,
+  "battleCustomerSpawnGroupMstId": 100006051,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006254,
+  "battleCustomerSpawnGroupMstId": 100006051,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006255,
+  "battleCustomerSpawnGroupMstId": 100006051,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006256,
+  "battleCustomerSpawnGroupMstId": 100006052,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006257,
+  "battleCustomerSpawnGroupMstId": 100006052,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006258,
+  "battleCustomerSpawnGroupMstId": 100006052,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006259,
+  "battleCustomerSpawnGroupMstId": 100006052,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006260,
+  "battleCustomerSpawnGroupMstId": 100006052,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006261,
+  "battleCustomerSpawnGroupMstId": 100006053,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006262,
+  "battleCustomerSpawnGroupMstId": 100006053,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006263,
+  "battleCustomerSpawnGroupMstId": 100006053,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006264,
+  "battleCustomerSpawnGroupMstId": 100006053,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006265,
+  "battleCustomerSpawnGroupMstId": 100006053,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006266,
+  "battleCustomerSpawnGroupMstId": 100006054,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006267,
+  "battleCustomerSpawnGroupMstId": 100006054,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006268,
+  "battleCustomerSpawnGroupMstId": 100006054,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006269,
+  "battleCustomerSpawnGroupMstId": 100006054,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006270,
+  "battleCustomerSpawnGroupMstId": 100006054,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006271,
+  "battleCustomerSpawnGroupMstId": 100006055,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006272,
+  "battleCustomerSpawnGroupMstId": 100006055,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006273,
+  "battleCustomerSpawnGroupMstId": 100006055,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006274,
+  "battleCustomerSpawnGroupMstId": 100006055,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006275,
+  "battleCustomerSpawnGroupMstId": 100006055,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006276,
+  "battleCustomerSpawnGroupMstId": 100006056,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006277,
+  "battleCustomerSpawnGroupMstId": 100006056,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006278,
+  "battleCustomerSpawnGroupMstId": 100006056,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006279,
+  "battleCustomerSpawnGroupMstId": 100006056,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006280,
+  "battleCustomerSpawnGroupMstId": 100006056,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006281,
+  "battleCustomerSpawnGroupMstId": 100006057,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006282,
+  "battleCustomerSpawnGroupMstId": 100006057,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006283,
+  "battleCustomerSpawnGroupMstId": 100006057,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006284,
+  "battleCustomerSpawnGroupMstId": 100006057,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006285,
+  "battleCustomerSpawnGroupMstId": 100006057,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006286,
+  "battleCustomerSpawnGroupMstId": 100006058,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006287,
+  "battleCustomerSpawnGroupMstId": 100006058,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006288,
+  "battleCustomerSpawnGroupMstId": 100006058,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006289,
+  "battleCustomerSpawnGroupMstId": 100006058,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006290,
+  "battleCustomerSpawnGroupMstId": 100006058,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006291,
+  "battleCustomerSpawnGroupMstId": 100006059,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006292,
+  "battleCustomerSpawnGroupMstId": 100006059,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006293,
+  "battleCustomerSpawnGroupMstId": 100006059,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006294,
+  "battleCustomerSpawnGroupMstId": 100006059,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006295,
+  "battleCustomerSpawnGroupMstId": 100006059,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006296,
+  "battleCustomerSpawnGroupMstId": 100006060,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006297,
+  "battleCustomerSpawnGroupMstId": 100006060,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006298,
+  "battleCustomerSpawnGroupMstId": 100006060,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006299,
+  "battleCustomerSpawnGroupMstId": 100006060,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006300,
+  "battleCustomerSpawnGroupMstId": 100006060,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006301,
+  "battleCustomerSpawnGroupMstId": 100006061,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006302,
+  "battleCustomerSpawnGroupMstId": 100006061,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006303,
+  "battleCustomerSpawnGroupMstId": 100006061,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006304,
+  "battleCustomerSpawnGroupMstId": 100006061,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006305,
+  "battleCustomerSpawnGroupMstId": 100006061,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006306,
+  "battleCustomerSpawnGroupMstId": 100006062,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006307,
+  "battleCustomerSpawnGroupMstId": 100006062,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006308,
+  "battleCustomerSpawnGroupMstId": 100006062,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006309,
+  "battleCustomerSpawnGroupMstId": 100006062,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006310,
+  "battleCustomerSpawnGroupMstId": 100006062,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006311,
+  "battleCustomerSpawnGroupMstId": 100006063,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006312,
+  "battleCustomerSpawnGroupMstId": 100006063,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006313,
+  "battleCustomerSpawnGroupMstId": 100006063,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006314,
+  "battleCustomerSpawnGroupMstId": 100006063,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006315,
+  "battleCustomerSpawnGroupMstId": 100006063,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006316,
+  "battleCustomerSpawnGroupMstId": 100006064,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006317,
+  "battleCustomerSpawnGroupMstId": 100006064,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006318,
+  "battleCustomerSpawnGroupMstId": 100006064,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006319,
+  "battleCustomerSpawnGroupMstId": 100006064,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006320,
+  "battleCustomerSpawnGroupMstId": 100006064,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006321,
+  "battleCustomerSpawnGroupMstId": 100006065,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006322,
+  "battleCustomerSpawnGroupMstId": 100006065,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006323,
+  "battleCustomerSpawnGroupMstId": 100006065,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006324,
+  "battleCustomerSpawnGroupMstId": 100006065,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006325,
+  "battleCustomerSpawnGroupMstId": 100006065,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006326,
+  "battleCustomerSpawnGroupMstId": 100006066,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006327,
+  "battleCustomerSpawnGroupMstId": 100006066,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006328,
+  "battleCustomerSpawnGroupMstId": 100006066,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006329,
+  "battleCustomerSpawnGroupMstId": 100006066,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006330,
+  "battleCustomerSpawnGroupMstId": 100006066,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006331,
+  "battleCustomerSpawnGroupMstId": 100006067,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006332,
+  "battleCustomerSpawnGroupMstId": 100006067,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006333,
+  "battleCustomerSpawnGroupMstId": 100006067,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006334,
+  "battleCustomerSpawnGroupMstId": 100006067,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006335,
+  "battleCustomerSpawnGroupMstId": 100006067,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006336,
+  "battleCustomerSpawnGroupMstId": 100006068,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006337,
+  "battleCustomerSpawnGroupMstId": 100006068,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006338,
+  "battleCustomerSpawnGroupMstId": 100006068,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006339,
+  "battleCustomerSpawnGroupMstId": 100006068,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006340,
+  "battleCustomerSpawnGroupMstId": 100006068,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006341,
+  "battleCustomerSpawnGroupMstId": 100006069,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006342,
+  "battleCustomerSpawnGroupMstId": 100006069,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006343,
+  "battleCustomerSpawnGroupMstId": 100006069,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006344,
+  "battleCustomerSpawnGroupMstId": 100006069,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006345,
+  "battleCustomerSpawnGroupMstId": 100006069,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006346,
+  "battleCustomerSpawnGroupMstId": 100006070,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006347,
+  "battleCustomerSpawnGroupMstId": 100006070,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006348,
+  "battleCustomerSpawnGroupMstId": 100006070,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006349,
+  "battleCustomerSpawnGroupMstId": 100006070,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006350,
+  "battleCustomerSpawnGroupMstId": 100006070,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006351,
+  "battleCustomerSpawnGroupMstId": 100006071,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006352,
+  "battleCustomerSpawnGroupMstId": 100006071,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006353,
+  "battleCustomerSpawnGroupMstId": 100006071,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006354,
+  "battleCustomerSpawnGroupMstId": 100006071,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006355,
+  "battleCustomerSpawnGroupMstId": 100006071,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006356,
+  "battleCustomerSpawnGroupMstId": 100006072,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006357,
+  "battleCustomerSpawnGroupMstId": 100006072,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006358,
+  "battleCustomerSpawnGroupMstId": 100006072,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006359,
+  "battleCustomerSpawnGroupMstId": 100006072,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006360,
+  "battleCustomerSpawnGroupMstId": 100006072,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006361,
+  "battleCustomerSpawnGroupMstId": 100006073,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006362,
+  "battleCustomerSpawnGroupMstId": 100006073,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006363,
+  "battleCustomerSpawnGroupMstId": 100006073,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006364,
+  "battleCustomerSpawnGroupMstId": 100006073,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006365,
+  "battleCustomerSpawnGroupMstId": 100006073,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006366,
+  "battleCustomerSpawnGroupMstId": 100006074,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006367,
+  "battleCustomerSpawnGroupMstId": 100006074,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006368,
+  "battleCustomerSpawnGroupMstId": 100006074,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006369,
+  "battleCustomerSpawnGroupMstId": 100006074,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006370,
+  "battleCustomerSpawnGroupMstId": 100006074,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006371,
+  "battleCustomerSpawnGroupMstId": 100006075,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006372,
+  "battleCustomerSpawnGroupMstId": 100006075,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006373,
+  "battleCustomerSpawnGroupMstId": 100006075,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006374,
+  "battleCustomerSpawnGroupMstId": 100006075,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006375,
+  "battleCustomerSpawnGroupMstId": 100006075,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006376,
+  "battleCustomerSpawnGroupMstId": 100006076,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006377,
+  "battleCustomerSpawnGroupMstId": 100006076,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006378,
+  "battleCustomerSpawnGroupMstId": 100006076,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006379,
+  "battleCustomerSpawnGroupMstId": 100006076,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006380,
+  "battleCustomerSpawnGroupMstId": 100006076,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006381,
+  "battleCustomerSpawnGroupMstId": 100006077,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006382,
+  "battleCustomerSpawnGroupMstId": 100006077,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006383,
+  "battleCustomerSpawnGroupMstId": 100006077,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006384,
+  "battleCustomerSpawnGroupMstId": 100006077,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006385,
+  "battleCustomerSpawnGroupMstId": 100006077,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006386,
+  "battleCustomerSpawnGroupMstId": 100006078,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006387,
+  "battleCustomerSpawnGroupMstId": 100006078,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006388,
+  "battleCustomerSpawnGroupMstId": 100006078,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006389,
+  "battleCustomerSpawnGroupMstId": 100006078,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006390,
+  "battleCustomerSpawnGroupMstId": 100006078,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006391,
+  "battleCustomerSpawnGroupMstId": 100006079,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006392,
+  "battleCustomerSpawnGroupMstId": 100006079,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006393,
+  "battleCustomerSpawnGroupMstId": 100006079,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006394,
+  "battleCustomerSpawnGroupMstId": 100006079,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006395,
+  "battleCustomerSpawnGroupMstId": 100006079,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006396,
+  "battleCustomerSpawnGroupMstId": 100006080,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006397,
+  "battleCustomerSpawnGroupMstId": 100006080,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006398,
+  "battleCustomerSpawnGroupMstId": 100006080,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006399,
+  "battleCustomerSpawnGroupMstId": 100006080,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006400,
+  "battleCustomerSpawnGroupMstId": 100006080,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006401,
+  "battleCustomerSpawnGroupMstId": 100006081,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006402,
+  "battleCustomerSpawnGroupMstId": 100006081,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006403,
+  "battleCustomerSpawnGroupMstId": 100006081,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006404,
+  "battleCustomerSpawnGroupMstId": 100006081,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006405,
+  "battleCustomerSpawnGroupMstId": 100006081,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006406,
+  "battleCustomerSpawnGroupMstId": 100006082,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006407,
+  "battleCustomerSpawnGroupMstId": 100006082,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006408,
+  "battleCustomerSpawnGroupMstId": 100006082,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006409,
+  "battleCustomerSpawnGroupMstId": 100006082,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006410,
+  "battleCustomerSpawnGroupMstId": 100006082,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006411,
+  "battleCustomerSpawnGroupMstId": 100006083,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006412,
+  "battleCustomerSpawnGroupMstId": 100006083,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006413,
+  "battleCustomerSpawnGroupMstId": 100006083,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006414,
+  "battleCustomerSpawnGroupMstId": 100006083,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006415,
+  "battleCustomerSpawnGroupMstId": 100006083,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006416,
+  "battleCustomerSpawnGroupMstId": 100006084,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006417,
+  "battleCustomerSpawnGroupMstId": 100006084,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006418,
+  "battleCustomerSpawnGroupMstId": 100006084,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006419,
+  "battleCustomerSpawnGroupMstId": 100006084,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006420,
+  "battleCustomerSpawnGroupMstId": 100006084,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006421,
+  "battleCustomerSpawnGroupMstId": 100006085,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006422,
+  "battleCustomerSpawnGroupMstId": 100006085,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006423,
+  "battleCustomerSpawnGroupMstId": 100006085,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006424,
+  "battleCustomerSpawnGroupMstId": 100006085,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006425,
+  "battleCustomerSpawnGroupMstId": 100006085,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006426,
+  "battleCustomerSpawnGroupMstId": 100006086,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006427,
+  "battleCustomerSpawnGroupMstId": 100006086,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006428,
+  "battleCustomerSpawnGroupMstId": 100006086,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006429,
+  "battleCustomerSpawnGroupMstId": 100006086,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006430,
+  "battleCustomerSpawnGroupMstId": 100006086,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006431,
+  "battleCustomerSpawnGroupMstId": 100006087,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006432,
+  "battleCustomerSpawnGroupMstId": 100006087,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006433,
+  "battleCustomerSpawnGroupMstId": 100006087,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006434,
+  "battleCustomerSpawnGroupMstId": 100006087,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006435,
+  "battleCustomerSpawnGroupMstId": 100006087,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006436,
+  "battleCustomerSpawnGroupMstId": 100006088,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006437,
+  "battleCustomerSpawnGroupMstId": 100006088,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006438,
+  "battleCustomerSpawnGroupMstId": 100006088,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006439,
+  "battleCustomerSpawnGroupMstId": 100006088,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006440,
+  "battleCustomerSpawnGroupMstId": 100006088,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006441,
+  "battleCustomerSpawnGroupMstId": 100006089,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006442,
+  "battleCustomerSpawnGroupMstId": 100006089,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006443,
+  "battleCustomerSpawnGroupMstId": 100006089,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006444,
+  "battleCustomerSpawnGroupMstId": 100006089,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006445,
+  "battleCustomerSpawnGroupMstId": 100006089,
+  "battleCustomerMstId": 4990332,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006446,
+  "battleCustomerSpawnGroupMstId": 100006090,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006447,
+  "battleCustomerSpawnGroupMstId": 100006090,
+  "battleCustomerMstId": 4990305,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006448,
+  "battleCustomerSpawnGroupMstId": 100006090,
+  "battleCustomerMstId": 4990312,
+  "spawnLevel": 1,
+  "spawnWeight": 35,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006449,
+  "battleCustomerSpawnGroupMstId": 100006090,
+  "battleCustomerMstId": 4990307,
+  "spawnLevel": 1,
+  "spawnWeight": 50,
+  "spawnLimit": 0
+ },
+ {
+  "battleCustomerSpawnMstId": 100006450,
+  "battleCustomerSpawnGroupMstId": 100006090,
   "battleCustomerMstId": 4990332,
   "spawnLevel": 1,
   "spawnWeight": 35,

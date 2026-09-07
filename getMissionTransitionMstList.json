@@ -3324,6 +3324,294 @@
   "transitionSceneParam": 0
  },
  {
+  "missionTransitionMstId": 558,
+  "missionMstId": 70233,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 559,
+  "missionMstId": 70234,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 560,
+  "missionMstId": 70235,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 561,
+  "missionMstId": 70236,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 562,
+  "missionMstId": 70237,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 563,
+  "missionMstId": 70238,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 564,
+  "missionMstId": 70239,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 565,
+  "missionMstId": 70240,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 566,
+  "missionMstId": 70241,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 567,
+  "missionMstId": 70242,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 568,
+  "missionMstId": 70243,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 569,
+  "missionMstId": 70244,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 570,
+  "missionMstId": 70245,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 571,
+  "missionMstId": 70246,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 572,
+  "missionMstId": 70247,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 573,
+  "missionMstId": 70248,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 574,
+  "missionMstId": 70249,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 575,
+  "missionMstId": 70250,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 576,
+  "missionMstId": 70251,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 577,
+  "missionMstId": 70252,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 578,
+  "missionMstId": 70253,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 579,
+  "missionMstId": 70254,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 580,
+  "missionMstId": 70255,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 581,
+  "missionMstId": 70256,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 582,
+  "missionMstId": 70257,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 583,
+  "missionMstId": 70258,
+  "transitionSceneName": "SceneDamageRankingBattleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 584,
+  "missionMstId": 70259,
+  "transitionSceneName": "ScenePuzzleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 585,
+  "missionMstId": 70260,
+  "transitionSceneName": "ScenePuzzleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 586,
+  "missionMstId": 70261,
+  "transitionSceneName": "ScenePuzzleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 587,
+  "missionMstId": 70262,
+  "transitionSceneName": "ScenePuzzleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 588,
+  "missionMstId": 70263,
+  "transitionSceneName": "ScenePuzzleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 589,
+  "missionMstId": 70264,
+  "transitionSceneName": "ScenePuzzleTop_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 590,
+  "missionMstId": 70265,
+  "transitionSceneName": "SceneCurrentEventStory_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 591,
+  "missionMstId": 70266,
+  "transitionSceneName": "SceneCurrentEventStory_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 592,
+  "missionMstId": 70267,
+  "transitionSceneName": "SceneCurrentEventStory_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 593,
+  "missionMstId": 70268,
+  "transitionSceneName": "SceneCurrentEventStory_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 594,
+  "missionMstId": 70269,
+  "transitionSceneName": "SceneCurrentEventStory_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 595,
+  "missionMstId": 70270,
+  "transitionSceneName": "SceneCurrentEventStory_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 596,
+  "missionMstId": 70271,
+  "transitionSceneName": "SceneCurrentEventStory_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 597,
+  "missionMstId": 70272,
+  "transitionSceneName": "SceneCurrentEventStory_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 598,
+  "missionMstId": 70273,
+  "transitionSceneName": "SceneCurrentEventStory_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 599,
+  "missionMstId": 70274,
+  "transitionSceneName": "SceneCurrentEventStory_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 600,
+  "missionMstId": 70275,
+  "transitionSceneName": "SceneQuestEvent_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 601,
+  "missionMstId": 70276,
+  "transitionSceneName": "SceneQuestEvent_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 602,
+  "missionMstId": 70277,
+  "transitionSceneName": "SceneQuestEvent_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 603,
+  "missionMstId": 70278,
+  "transitionSceneName": "SceneEventExchange_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 604,
+  "missionMstId": 70279,
+  "transitionSceneName": "SceneEventExchange_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
+  "missionTransitionMstId": 605,
+  "missionMstId": 70280,
+  "transitionSceneName": "SceneEventExchange_Soleil",
+  "transitionSceneParam": 100006
+ },
+ {
   "missionTransitionMstId": 606,
   "missionMstId": 30307,
   "transitionSceneName": "SceneTowerTop_Soleil",

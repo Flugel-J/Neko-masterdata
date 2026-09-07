@@ -2,14 +2,14 @@
  {
   "gardenFurnitureMstId": 101001,
   "name": "Register (Soleil)",
-  "description": "This is La Soleil's register.",
+  "description": "This is La Soleil’s register.",
   "furnitureType": 100,
   "areaType": 1,
   "gardenFurnitureCoordinateMstId": 11,
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "れじそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -23,21 +23,21 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "れじなちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
  {
   "gardenFurnitureMstId": 101003,
   "name": "Register (Sakura Hills)",
-  "description": "This is a register featuring kumiko woodwork and a branded cherry blossom mark.",
+  "description": "This is a register featuring kumiko woodwork and a branded cherry blossom mark.\nYou can get Sales Rewards here.",
   "furnitureType": 100,
   "areaType": 1,
   "gardenFurnitureCoordinateMstId": 12,
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "れじさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -51,7 +51,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "れじくーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -65,7 +65,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "れじがーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -79,7 +79,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "れじしまいのかるてっと",
+  "phoneticName": "coming soon...",
   "startTime": "2026-04-17T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -93,21 +93,21 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "れじもうじゅうのまつりばやし",
+  "phoneticName": "coming soon...",
   "startTime": "2026-07-03T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
  {
   "gardenFurnitureMstId": 102001,
   "name": "Order System",
-  "description": "This is a convenient order system \nthat lets you manage orders all in one place.\nYou can enhance your Order System here.",
+  "description": "This is a convenient order system that lets you manage orders all in one place.\nYou can enhance your Order System here.",
   "furnitureType": 101,
   "areaType": 4,
   "gardenFurnitureCoordinateMstId": 11,
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "おーだーしすてむ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -121,7 +121,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "かだん",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -135,7 +135,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "こうぐようひん",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -149,7 +149,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "きっちんかー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -163,7 +163,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ですく",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -177,7 +177,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "じしつしぇるふ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -261,7 +261,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かんばんのしょうひんだななちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -275,7 +275,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "げんていのしょうひんだななちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -289,7 +289,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "ていばんのしょうひんだななちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -303,7 +303,7 @@
   "payType": 2,
   "price": 50000,
   "inventoryCap": 3,
-  "phoneticName": "ぎふとのしょうひんだななちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -317,7 +317,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かんばんのしょうひんだなさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -331,7 +331,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 1,
-  "phoneticName": "げんていのしょうひんだなさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -345,7 +345,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 1,
-  "phoneticName": "ていばんのしょうひんだなさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -359,7 +359,7 @@
   "payType": 2,
   "price": 50000,
   "inventoryCap": 3,
-  "phoneticName": "ぎふとのしょうひんだなさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -373,7 +373,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かんばんのしょうひんだなくーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -387,7 +387,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "げんていのしょうひんだなくーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -401,7 +401,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "ていばんのしょうひんだなくーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -415,7 +415,7 @@
   "payType": 2,
   "price": 50000,
   "inventoryCap": 3,
-  "phoneticName": "ぎふとのしょうひんだなくーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -429,7 +429,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かんばんのしょうひんだながーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -443,7 +443,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "げんていのしょうひんだながーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -457,7 +457,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "ていばんのしょうひんだながーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -471,7 +471,7 @@
   "payType": 2,
   "price": 50000,
   "inventoryCap": 3,
-  "phoneticName": "ぎふとのしょうひんだながーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -485,7 +485,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "かんばんのしょうひんだなしまいのかるてっと",
+  "phoneticName": "coming soon...",
   "startTime": "2026-04-17T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -499,7 +499,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "げんていのしょうひんだなたいりょくとすぴーどはむげんだい",
+  "phoneticName": "coming soon...",
   "startTime": "2026-05-06T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -513,7 +513,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ていばんのしょうひんだなたいりょくとすぴーどはむげんだい",
+  "phoneticName": "coming soon...",
   "startTime": "2026-05-06T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -541,7 +541,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "げんていのしょうひんだな",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -555,7 +555,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "かんばんのしょうひんだなもうじゅうのまつりばやし",
+  "phoneticName": "coming soon...",
   "startTime": "2026-07-03T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -569,7 +569,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "げんていのしょうひんだなふっかつしーさいどへぶん",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-03T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -583,7 +583,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ていばんのしょうひんだなふっかつしーさいどへぶん",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-03T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -597,7 +597,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 3,
-  "phoneticName": "ぎふとのしょうひんだなふっかつしーさいどへぶん",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-03T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -625,7 +625,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "さぎょうだいさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -667,7 +667,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "こんろさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -681,7 +681,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "おーぶんさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -709,7 +709,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 1,
-  "phoneticName": "どりんくかうんたーそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -723,7 +723,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "かふぇすぺーすそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -737,7 +737,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 1,
-  "phoneticName": "どりっぷかうんたーさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -751,7 +751,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 1,
-  "phoneticName": "どりんくかうんたーさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -765,7 +765,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かふぇすぺーすさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -821,7 +821,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "てーぶるせっと2それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -835,7 +835,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ろーてーぶるそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -849,7 +849,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 3,
-  "phoneticName": "てーぶるせっとなちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -863,7 +863,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かうんたーせきなちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -877,7 +877,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 3,
-  "phoneticName": "てーぶるせっと１さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -891,7 +891,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かうんたーせきさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -905,7 +905,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ちゅうぼうかうんたーさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -919,7 +919,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ろーてーぶるさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -933,7 +933,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "てーぶるせっと２さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -947,7 +947,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 3,
-  "phoneticName": "てーぶるせっとくーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -961,7 +961,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かうんたーせきくーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -975,7 +975,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 3,
-  "phoneticName": "てーぶるせっとがーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -989,7 +989,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かうんたーせきがーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1003,7 +1003,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 3,
-  "phoneticName": "てーぶるせっとていえんのはなよめ",
+  "phoneticName": "coming soon...",
   "startTime": "2026-06-05T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1017,8 +1017,36 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "かうんたーせきていえんのはなよめ",
+  "phoneticName": "coming soon...",
   "startTime": "2026-06-05T17:00:00+09:00",
+  "endTime": "2100-01-28T00:00:00+09:00"
+ },
+ {
+  "gardenFurnitureMstId": 205019,
+  "name": "Table Set (Moonlit Rabbit, Tipsy Neko)",
+  "description": "A table set featuring a chic tablecloth and rabbit-ear chairs.",
+  "furnitureType": 1,
+  "areaType": 1,
+  "gardenFurnitureCoordinateMstId": 99,
+  "payType": 9,
+  "price": 0,
+  "inventoryCap": 3,
+  "phoneticName": "coming soon...",
+  "startTime": "2000-01-28T00:00:00+09:00",
+  "endTime": "2100-01-28T00:00:00+09:00"
+ },
+ {
+  "gardenFurnitureMstId": 205020,
+  "name": "Counter Seat (Moonlit Rabbit, Tipsy Neko)",
+  "description": "A calm counter seat accented with soft lighting and Tsukimi decorations.",
+  "furnitureType": 1,
+  "areaType": 1,
+  "gardenFurnitureCoordinateMstId": 99,
+  "payType": 9,
+  "price": 0,
+  "inventoryCap": 1,
+  "phoneticName": "coming soon...",
+  "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
  {
@@ -1059,7 +1087,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "しょっきだな1それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1073,7 +1101,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "しょっきだな2それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1087,7 +1115,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "しょっきだな3それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1101,7 +1129,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "しぇるふ1それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1115,7 +1143,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "しぇるふ2それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1129,7 +1157,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ろっかーそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1143,7 +1171,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "なかにわのたな",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1157,7 +1185,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "がーでにんぐようひん",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1171,7 +1199,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "れいぞうこさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1185,7 +1213,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "しょっきだな１さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1199,7 +1227,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "しょっきだな２さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1213,7 +1241,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "しょっきだな３さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1227,7 +1255,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "とれいらっくさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1241,7 +1269,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "しぇるふ１さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1255,7 +1283,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "しぇるふ２さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1269,7 +1297,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ろっかーさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1283,7 +1311,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつ1それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1297,7 +1325,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつ2それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1353,7 +1381,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 1,
-  "phoneticName": "しんくそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1367,7 +1395,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 1,
-  "phoneticName": "せんじょうきそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1381,7 +1409,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "みきさーそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1395,7 +1423,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつ3それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1409,7 +1437,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "かんようしょくぶつ4",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1423,7 +1451,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ごみばこ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1437,7 +1465,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "ぱーてぃしょんなちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1451,7 +1479,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつ１なちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1465,7 +1493,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ついたてなちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1479,7 +1507,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "たてかんばんなちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1493,7 +1521,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "ぱーてぃしょんさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1507,7 +1535,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつ１さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1521,7 +1549,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつ２さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1535,7 +1563,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ついたてさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1549,7 +1577,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "たてかんばんさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1563,7 +1591,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "みきさーさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1577,7 +1605,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "しんくさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1591,7 +1619,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "せんじょうきさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1605,7 +1633,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつ３さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1619,7 +1647,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "ぱーてぃしょんくーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1633,7 +1661,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつ１くーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1647,7 +1675,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつ２くーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1661,7 +1689,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ついたてくーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1675,7 +1703,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "たてかんばんくーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1689,7 +1717,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "ぱーてぃしょんがーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1703,7 +1731,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつ１がーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1717,7 +1745,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつ２がーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1731,7 +1759,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ついたてがーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1745,7 +1773,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "たてかんばんがーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1759,7 +1787,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつ２なちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1773,7 +1801,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつしまいのかるてっと",
+  "phoneticName": "coming soon...",
   "startTime": "2026-04-17T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1787,7 +1815,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ついたてしまいのかるてっと",
+  "phoneticName": "coming soon...",
   "startTime": "2026-04-17T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1801,7 +1829,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 2,
-  "phoneticName": "たてかんばんしまいのかるてっと",
+  "phoneticName": "coming soon...",
   "startTime": "2026-04-17T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1815,7 +1843,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつたいりょくとすぴーどはむげんだい",
+  "phoneticName": "coming soon...",
   "startTime": "2026-05-06T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1829,7 +1857,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 2,
-  "phoneticName": "ぱーてぃしょんていえんのはなよめ",
+  "phoneticName": "coming soon...",
   "startTime": "2026-06-05T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1843,7 +1871,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつもうじゅうのまつりばやし",
+  "phoneticName": "coming soon...",
   "startTime": "2026-07-03T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1857,7 +1885,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ついたてもうじゅうのまつりばやし",
+  "phoneticName": "coming soon...",
   "startTime": "2026-07-03T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1871,7 +1899,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 2,
-  "phoneticName": "たてかんばんもうじゅうのまつりばやし",
+  "phoneticName": "coming soon...",
   "startTime": "2026-07-03T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1885,8 +1913,22 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 2,
-  "phoneticName": "かんようしょくぶつふっかつしーさいどへぶん",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-03T17:00:00+09:00",
+  "endTime": "2100-01-28T00:00:00+09:00"
+ },
+ {
+  "gardenFurnitureMstId": 208045,
+  "name": "Partition (Moonlit Rabbit, Tipsy Neko)",
+  "description": "A crescent moon-shaped partition where silver grass and chrysanthemums bloom together.",
+  "furnitureType": 1,
+  "areaType": 1,
+  "gardenFurnitureCoordinateMstId": 99,
+  "payType": 9,
+  "price": 0,
+  "inventoryCap": 2,
+  "phoneticName": "coming soon...",
+  "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
  {
@@ -1913,7 +1955,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ちゅうぼうまっとそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1927,7 +1969,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ひかえしつまっとそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1941,7 +1983,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "じしつまっと",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -1955,7 +1997,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ふろあまっとなちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1969,7 +2011,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ふろあまっとさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1983,7 +2025,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ちゅうぼうまっとさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -1997,7 +2039,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ひかえしつまっとさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2053,7 +2095,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ふろあまっとふっかつしーさいどへぶん",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-03T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2067,7 +2109,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "かべかけあーと1それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2081,7 +2123,7 @@
   "payType": 2,
   "price": 75000,
   "inventoryCap": 2,
-  "phoneticName": "かべかけあーと2それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2095,7 +2137,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "かべかけあーと3それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2109,7 +2151,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "かべかけしぇるふ1それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2123,7 +2165,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "かべかけしぇるふ2それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2137,7 +2179,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ぽすたー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2151,7 +2193,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "かべかけあーと１なちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2165,7 +2207,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "かべかけあーと２なちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2179,7 +2221,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かべかけあーと３なちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2193,7 +2235,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "かべかけあーと１さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2207,7 +2249,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "かべかけあーと２さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2221,7 +2263,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かべかけあーと３さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2235,7 +2277,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かべかけしぇるふ１さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2249,7 +2291,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かべかけしぇるふ２さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2263,7 +2305,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "かべかけあーと１くーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2277,7 +2319,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "かべかけあーと２くーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2291,7 +2333,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かべかけあーと３くーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2305,7 +2347,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "かべかけあーと１がーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2319,7 +2361,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 2,
-  "phoneticName": "かべかけあーと２がーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2333,7 +2375,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "かべかけあーと３がーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2347,7 +2389,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "かべかけあーとしまいのかるてっと",
+  "phoneticName": "coming soon...",
   "startTime": "2026-04-17T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2361,7 +2403,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 2,
-  "phoneticName": "かべかけあーと１ていえんのはなよめ",
+  "phoneticName": "coming soon...",
   "startTime": "2026-06-05T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2375,7 +2417,7 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 2,
-  "phoneticName": "かべかけあーと２ていえんのはなよめ",
+  "phoneticName": "coming soon...",
   "startTime": "2026-06-05T17:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2389,8 +2431,36 @@
   "payType": 9,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "かべかけあーともうじゅうのまつりばやし",
+  "phoneticName": "coming soon...",
   "startTime": "2026-07-03T17:00:00+09:00",
+  "endTime": "2100-01-28T00:00:00+09:00"
+ },
+ {
+  "gardenFurnitureMstId": 210025,
+  "name": "Wall Art 1 (Moonlit Rabbit, Tipsy Neko)",
+  "description": "Fantasy-inspired stained glass artwork depicting a rabbit gazing up at a full moon.",
+  "furnitureType": 4,
+  "areaType": 1,
+  "gardenFurnitureCoordinateMstId": 99,
+  "payType": 9,
+  "price": 0,
+  "inventoryCap": 2,
+  "phoneticName": "coming soon...",
+  "startTime": "2000-01-28T00:00:00+09:00",
+  "endTime": "2100-01-28T00:00:00+09:00"
+ },
+ {
+  "gardenFurnitureMstId": 210026,
+  "name": "Wall Art 2 (Moonlit Rabbit, Tipsy Neko)",
+  "description": "Wall-mounted lights inspired by the sparkling moon and stars.",
+  "furnitureType": 4,
+  "areaType": 1,
+  "gardenFurnitureCoordinateMstId": 99,
+  "payType": 9,
+  "price": 0,
+  "inventoryCap": 2,
+  "phoneticName": "coming soon...",
+  "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
  {
@@ -2403,7 +2473,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "そふぁー1それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2417,7 +2487,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "そふぁー2それいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2431,7 +2501,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "そふぁーべっと",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2445,7 +2515,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "そふぁー１さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2459,7 +2529,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "そふぁー２さくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2473,7 +2543,7 @@
   "payType": 1,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "てれび",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2487,7 +2557,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ぷらんたー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2501,7 +2571,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "いけがき",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2515,7 +2585,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "なかにわのべんち",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2529,7 +2599,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "はいたつすくーたー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2543,7 +2613,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "はいたつすてーしょんさく",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2557,7 +2627,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "らそれいゆのてんぽ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
@@ -2571,7 +2641,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "しようしない",
+  "phoneticName": "coming soon...",
   "startTime": "2026-09-01T00:00:00+09:00",
   "endTime": "2000-01-01T00:00:00+09:00"
  },
@@ -2585,13 +2655,13 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ふろあのかべそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
  {
   "gardenFurnitureMstId": 302003,
-  "name": "Wall (Sakura Hills)",
+  "name": "Flooring (Sakura Hills)",
   "description": "A Japanese-modern wall that highlights the natural tones of wood.",
   "furnitureType": 3,
   "areaType": 1,
@@ -2599,7 +2669,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ふろあのかべさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-17T00:00:00+09:00"
  },
@@ -2613,7 +2683,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ふろあのかべなちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2627,7 +2697,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ふろあのかべくーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2641,7 +2711,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ふろあのかべがーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2655,13 +2725,13 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ふろあのゆかそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
  },
  {
   "gardenFurnitureMstId": 303003,
-  "name": "Flooring (Sakura Hills)",
+  "name": "Wall (Sakura Hills)",
   "description": "A wood-grain floor finished with layered lacquer and polished to a shine.",
   "furnitureType": 2,
   "areaType": 1,
@@ -2669,7 +2739,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ふろあのゆかさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-19T00:00:00+09:00"
  },
@@ -2683,7 +2753,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ふろあのゆかなちゅらる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2697,7 +2767,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ふろあのゆかくーる",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2711,7 +2781,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ふろあのゆかがーりー",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-28T00:00:00+09:00",
   "endTime": "2100-01-28T00:00:00+09:00"
  },
@@ -2725,7 +2795,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ちゅうぼうのかべそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-02T00:00:00+09:00",
   "endTime": "2100-01-02T00:00:00+09:00"
  },
@@ -2739,7 +2809,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ちゅうぼうのかべさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-20T00:00:00+09:00"
  },
@@ -2753,7 +2823,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ちゅうぼうのゆかそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-03T00:00:00+09:00",
   "endTime": "2100-01-03T00:00:00+09:00"
  },
@@ -2767,7 +2837,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ちゅうぼうのゆかさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-22T00:00:00+09:00"
  },
@@ -2781,7 +2851,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ひかえしつのかべそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-04T00:00:00+09:00",
   "endTime": "2100-01-04T00:00:00+09:00"
  },
@@ -2795,7 +2865,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ひかえしつのかべさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-23T00:00:00+09:00"
  },
@@ -2809,7 +2879,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "ひかえしつのゆかそれいゆ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-05T00:00:00+09:00",
   "endTime": "2100-01-05T00:00:00+09:00"
  },
@@ -2823,7 +2893,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "ひかえしつのゆかさくらがおか",
+  "phoneticName": "coming soon...",
   "startTime": "2026-08-24T15:30:00+09:00",
   "endTime": "2100-01-25T00:00:00+09:00"
  },
@@ -2837,7 +2907,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "はいたつすてーしょんのかべ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-06T00:00:00+09:00",
   "endTime": "2100-01-06T00:00:00+09:00"
  },
@@ -2851,13 +2921,13 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "はいたつすてーしょんのゆか",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-07T00:00:00+09:00",
   "endTime": "2100-01-07T00:00:00+09:00"
  },
  {
   "gardenFurnitureMstId": 310001,
-  "name": "Garden Wall 1",
+  "name": "Courtyard Wall",
   "description": "A rustic wooden frame wall used to surround flower beds and lawns.",
   "furnitureType": 3,
   "areaType": 5,
@@ -2865,7 +2935,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "なかにわのかべ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-08T00:00:00+09:00",
   "endTime": "2100-01-08T00:00:00+09:00"
  },
@@ -2879,7 +2949,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "なかにわのゆか",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-10T00:00:00+09:00",
   "endTime": "2100-01-10T00:00:00+09:00"
  },
@@ -2921,7 +2991,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "じしつのかべ",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-14T00:00:00+09:00",
   "endTime": "2100-01-14T00:00:00+09:00"
  },
@@ -2935,7 +3005,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "しようしない",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2000-01-01T00:00:00+09:00"
  },
@@ -2949,7 +3019,7 @@
   "payType": 2,
   "price": 0,
   "inventoryCap": 1,
-  "phoneticName": "じしつのゆか",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-15T00:00:00+09:00",
   "endTime": "2100-01-15T00:00:00+09:00"
  },
@@ -2963,7 +3033,7 @@
   "payType": 2,
   "price": 100000,
   "inventoryCap": 1,
-  "phoneticName": "しようしない",
+  "phoneticName": "coming soon...",
   "startTime": "2000-01-01T00:00:00+09:00",
   "endTime": "2000-01-01T00:00:00+09:00"
  }

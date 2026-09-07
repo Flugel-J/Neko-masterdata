@@ -178,5 +178,41 @@
   "objectReceiveType4": 0,
   "objectId4": 0,
   "num4": 0
+ },
+ {
+  "missionPointOverFlowMstId": 70011,
+  "missionTitleMstId": 70006,
+  "needPerPoint": 10,
+  "isPremiumPass": false,
+  "objectReceiveType1": 8,
+  "objectId1": 0,
+  "num1": 1000,
+  "objectReceiveType2": 0,
+  "objectId2": 0,
+  "num2": 0,
+  "objectReceiveType3": 0,
+  "objectId3": 0,
+  "num3": 0,
+  "objectReceiveType4": 0,
+  "objectId4": 0,
+  "num4": 0
+ },
+ {
+  "missionPointOverFlowMstId": 70012,
+  "missionTitleMstId": 70006,
+  "needPerPoint": 10,
+  "isPremiumPass": true,
+  "objectReceiveType1": 8,
+  "objectId1": 0,
+  "num1": 9000,
+  "objectReceiveType2": 6,
+  "objectId2": 2000001,
+  "num2": 1000,
+  "objectReceiveType3": 6,
+  "objectId3": 3080001,
+  "num3": 10,
+  "objectReceiveType4": 0,
+  "objectId4": 0,
+  "num4": 0
  }
 ]

@@ -103878,5 +103878,2455 @@
   "requiredMaterial": 70,
   "requiredTime": 34800,
   "quickFinishRequiredGem": 50000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10389,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 2,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 120,
+  "quickFinishRequiredGem": 2000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10390,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 3,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 300,
+  "quickFinishRequiredGem": 3000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10391,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 4,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 480,
+  "quickFinishRequiredGem": 4000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10392,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 5,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 660,
+  "quickFinishRequiredGem": 5000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10393,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 6,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 840,
+  "quickFinishRequiredGem": 6000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10394,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 7,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1020,
+  "quickFinishRequiredGem": 7000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10395,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 8,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1200,
+  "quickFinishRequiredGem": 8000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10396,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 9,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1380,
+  "quickFinishRequiredGem": 9000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10397,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 10,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 1560,
+  "quickFinishRequiredGem": 10000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10398,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 11,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 1860,
+  "quickFinishRequiredGem": 11000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10399,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 12,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2160,
+  "quickFinishRequiredGem": 12000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10400,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 13,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2460,
+  "quickFinishRequiredGem": 13000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10401,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 14,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2760,
+  "quickFinishRequiredGem": 14000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10402,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 15,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3060,
+  "quickFinishRequiredGem": 15000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10403,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 16,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3360,
+  "quickFinishRequiredGem": 16000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10404,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 17,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3600,
+  "quickFinishRequiredGem": 17000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10405,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 18,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3900,
+  "quickFinishRequiredGem": 18000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10406,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 19,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 4200,
+  "quickFinishRequiredGem": 19000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10407,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 20,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 4500,
+  "quickFinishRequiredGem": 20000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10408,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 21,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 5100,
+  "quickFinishRequiredGem": 21000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10409,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 22,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 6000,
+  "quickFinishRequiredGem": 22000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10410,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 23,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 6600,
+  "quickFinishRequiredGem": 23000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10411,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 24,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 7200,
+  "quickFinishRequiredGem": 24000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10412,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 25,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 7800,
+  "quickFinishRequiredGem": 25000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10413,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 26,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 8400,
+  "quickFinishRequiredGem": 26000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10414,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 27,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 9000,
+  "quickFinishRequiredGem": 27000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10415,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 28,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 9600,
+  "quickFinishRequiredGem": 28000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10416,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 29,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 10200,
+  "quickFinishRequiredGem": 29000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10417,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 30,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 10800,
+  "quickFinishRequiredGem": 30000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10418,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 31,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 12000,
+  "quickFinishRequiredGem": 31000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10419,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 32,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 13200,
+  "quickFinishRequiredGem": 32000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10420,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 33,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 14400,
+  "quickFinishRequiredGem": 33000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10421,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 34,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 15600,
+  "quickFinishRequiredGem": 34000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10422,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 35,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 16800,
+  "quickFinishRequiredGem": 35000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10423,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 36,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 18000,
+  "quickFinishRequiredGem": 36000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10424,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 37,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 19200,
+  "quickFinishRequiredGem": 37000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10425,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 38,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 20400,
+  "quickFinishRequiredGem": 38000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10426,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 39,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 21600,
+  "quickFinishRequiredGem": 39000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10427,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 40,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 22800,
+  "quickFinishRequiredGem": 40000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10428,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 41,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 24000,
+  "quickFinishRequiredGem": 41000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10429,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 42,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 25200,
+  "quickFinishRequiredGem": 42000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10430,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 43,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 26400,
+  "quickFinishRequiredGem": 43000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10431,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 44,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 27600,
+  "quickFinishRequiredGem": 44000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10432,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 45,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 28800,
+  "quickFinishRequiredGem": 45000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10433,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 46,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 30000,
+  "quickFinishRequiredGem": 46000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10434,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 47,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 31200,
+  "quickFinishRequiredGem": 47000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10435,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 48,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 32400,
+  "quickFinishRequiredGem": 48000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10436,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 49,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 33600,
+  "quickFinishRequiredGem": 49000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10437,
+  "gardenFurnitureMstId": 205019,
+  "furnitureLevel": 50,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 70,
+  "requiredTime": 34800,
+  "quickFinishRequiredGem": 50000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10438,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 2,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 120,
+  "quickFinishRequiredGem": 2000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10439,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 3,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 300,
+  "quickFinishRequiredGem": 3000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10440,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 4,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 480,
+  "quickFinishRequiredGem": 4000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10441,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 5,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 660,
+  "quickFinishRequiredGem": 5000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10442,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 6,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 840,
+  "quickFinishRequiredGem": 6000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10443,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 7,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1020,
+  "quickFinishRequiredGem": 7000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10444,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 8,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1200,
+  "quickFinishRequiredGem": 8000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10445,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 9,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1380,
+  "quickFinishRequiredGem": 9000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10446,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 10,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 1560,
+  "quickFinishRequiredGem": 10000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10447,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 11,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 1860,
+  "quickFinishRequiredGem": 11000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10448,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 12,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2160,
+  "quickFinishRequiredGem": 12000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10449,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 13,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2460,
+  "quickFinishRequiredGem": 13000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10450,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 14,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2760,
+  "quickFinishRequiredGem": 14000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10451,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 15,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3060,
+  "quickFinishRequiredGem": 15000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10452,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 16,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3360,
+  "quickFinishRequiredGem": 16000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10453,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 17,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3600,
+  "quickFinishRequiredGem": 17000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10454,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 18,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3900,
+  "quickFinishRequiredGem": 18000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10455,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 19,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 4200,
+  "quickFinishRequiredGem": 19000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10456,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 20,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 4500,
+  "quickFinishRequiredGem": 20000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10457,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 21,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 5100,
+  "quickFinishRequiredGem": 21000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10458,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 22,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 6000,
+  "quickFinishRequiredGem": 22000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10459,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 23,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 6600,
+  "quickFinishRequiredGem": 23000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10460,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 24,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 7200,
+  "quickFinishRequiredGem": 24000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10461,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 25,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 7800,
+  "quickFinishRequiredGem": 25000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10462,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 26,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 8400,
+  "quickFinishRequiredGem": 26000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10463,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 27,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 9000,
+  "quickFinishRequiredGem": 27000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10464,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 28,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 9600,
+  "quickFinishRequiredGem": 28000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10465,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 29,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 10200,
+  "quickFinishRequiredGem": 29000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10466,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 30,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 10800,
+  "quickFinishRequiredGem": 30000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10467,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 31,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 12000,
+  "quickFinishRequiredGem": 31000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10468,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 32,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 13200,
+  "quickFinishRequiredGem": 32000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10469,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 33,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 14400,
+  "quickFinishRequiredGem": 33000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10470,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 34,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 15600,
+  "quickFinishRequiredGem": 34000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10471,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 35,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 16800,
+  "quickFinishRequiredGem": 35000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10472,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 36,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 18000,
+  "quickFinishRequiredGem": 36000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10473,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 37,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 19200,
+  "quickFinishRequiredGem": 37000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10474,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 38,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 20400,
+  "quickFinishRequiredGem": 38000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10475,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 39,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 21600,
+  "quickFinishRequiredGem": 39000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10476,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 40,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 22800,
+  "quickFinishRequiredGem": 40000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10477,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 41,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 24000,
+  "quickFinishRequiredGem": 41000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10478,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 42,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 25200,
+  "quickFinishRequiredGem": 42000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10479,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 43,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 26400,
+  "quickFinishRequiredGem": 43000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10480,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 44,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 27600,
+  "quickFinishRequiredGem": 44000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10481,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 45,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 28800,
+  "quickFinishRequiredGem": 45000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10482,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 46,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 30000,
+  "quickFinishRequiredGem": 46000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10483,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 47,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 31200,
+  "quickFinishRequiredGem": 47000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10484,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 48,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 32400,
+  "quickFinishRequiredGem": 48000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10485,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 49,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 33600,
+  "quickFinishRequiredGem": 49000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10486,
+  "gardenFurnitureMstId": 208045,
+  "furnitureLevel": 50,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 70,
+  "requiredTime": 34800,
+  "quickFinishRequiredGem": 50000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10487,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 2,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 120,
+  "quickFinishRequiredGem": 2000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10488,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 3,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 300,
+  "quickFinishRequiredGem": 3000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10489,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 4,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 480,
+  "quickFinishRequiredGem": 4000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10490,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 5,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 660,
+  "quickFinishRequiredGem": 5000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10491,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 6,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 840,
+  "quickFinishRequiredGem": 6000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10492,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 7,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1020,
+  "quickFinishRequiredGem": 7000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10493,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 8,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1200,
+  "quickFinishRequiredGem": 8000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10494,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 9,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1380,
+  "quickFinishRequiredGem": 9000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10495,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 10,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 1560,
+  "quickFinishRequiredGem": 10000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10496,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 11,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 1860,
+  "quickFinishRequiredGem": 11000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10497,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 12,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2160,
+  "quickFinishRequiredGem": 12000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10498,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 13,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2460,
+  "quickFinishRequiredGem": 13000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10499,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 14,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2760,
+  "quickFinishRequiredGem": 14000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10500,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 15,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3060,
+  "quickFinishRequiredGem": 15000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10501,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 16,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3360,
+  "quickFinishRequiredGem": 16000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10502,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 17,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3600,
+  "quickFinishRequiredGem": 17000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10503,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 18,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3900,
+  "quickFinishRequiredGem": 18000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10504,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 19,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 4200,
+  "quickFinishRequiredGem": 19000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10505,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 20,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 4500,
+  "quickFinishRequiredGem": 20000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10506,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 21,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 5100,
+  "quickFinishRequiredGem": 21000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10507,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 22,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 6000,
+  "quickFinishRequiredGem": 22000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10508,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 23,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 6600,
+  "quickFinishRequiredGem": 23000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10509,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 24,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 7200,
+  "quickFinishRequiredGem": 24000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10510,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 25,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 7800,
+  "quickFinishRequiredGem": 25000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10511,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 26,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 8400,
+  "quickFinishRequiredGem": 26000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10512,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 27,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 9000,
+  "quickFinishRequiredGem": 27000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10513,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 28,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 9600,
+  "quickFinishRequiredGem": 28000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10514,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 29,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 10200,
+  "quickFinishRequiredGem": 29000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10515,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 30,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 10800,
+  "quickFinishRequiredGem": 30000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10516,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 31,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 12000,
+  "quickFinishRequiredGem": 31000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10517,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 32,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 13200,
+  "quickFinishRequiredGem": 32000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10518,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 33,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 14400,
+  "quickFinishRequiredGem": 33000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10519,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 34,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 15600,
+  "quickFinishRequiredGem": 34000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10520,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 35,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 16800,
+  "quickFinishRequiredGem": 35000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10521,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 36,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 18000,
+  "quickFinishRequiredGem": 36000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10522,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 37,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 19200,
+  "quickFinishRequiredGem": 37000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10523,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 38,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 20400,
+  "quickFinishRequiredGem": 38000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10524,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 39,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 21600,
+  "quickFinishRequiredGem": 39000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10525,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 40,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 22800,
+  "quickFinishRequiredGem": 40000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10526,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 41,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 24000,
+  "quickFinishRequiredGem": 41000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10527,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 42,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 25200,
+  "quickFinishRequiredGem": 42000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10528,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 43,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 26400,
+  "quickFinishRequiredGem": 43000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10529,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 44,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 27600,
+  "quickFinishRequiredGem": 44000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10530,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 45,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 28800,
+  "quickFinishRequiredGem": 45000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10531,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 46,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 30000,
+  "quickFinishRequiredGem": 46000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10532,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 47,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 31200,
+  "quickFinishRequiredGem": 47000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10533,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 48,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 32400,
+  "quickFinishRequiredGem": 48000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10534,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 49,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 33600,
+  "quickFinishRequiredGem": 49000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10535,
+  "gardenFurnitureMstId": 210025,
+  "furnitureLevel": 50,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 70,
+  "requiredTime": 34800,
+  "quickFinishRequiredGem": 50000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10536,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 2,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 120,
+  "quickFinishRequiredGem": 2000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10537,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 3,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 300,
+  "quickFinishRequiredGem": 3000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10538,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 4,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 480,
+  "quickFinishRequiredGem": 4000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10539,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 5,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 660,
+  "quickFinishRequiredGem": 5000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10540,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 6,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 840,
+  "quickFinishRequiredGem": 6000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10541,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 7,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1020,
+  "quickFinishRequiredGem": 7000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10542,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 8,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1200,
+  "quickFinishRequiredGem": 8000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10543,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 9,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1380,
+  "quickFinishRequiredGem": 9000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10544,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 10,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 1560,
+  "quickFinishRequiredGem": 10000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10545,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 11,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 1860,
+  "quickFinishRequiredGem": 11000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10546,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 12,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2160,
+  "quickFinishRequiredGem": 12000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10547,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 13,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2460,
+  "quickFinishRequiredGem": 13000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10548,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 14,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2760,
+  "quickFinishRequiredGem": 14000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10549,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 15,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3060,
+  "quickFinishRequiredGem": 15000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10550,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 16,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3360,
+  "quickFinishRequiredGem": 16000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10551,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 17,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3600,
+  "quickFinishRequiredGem": 17000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10552,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 18,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3900,
+  "quickFinishRequiredGem": 18000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10553,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 19,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 4200,
+  "quickFinishRequiredGem": 19000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10554,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 20,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 4500,
+  "quickFinishRequiredGem": 20000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10555,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 21,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 5100,
+  "quickFinishRequiredGem": 21000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10556,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 22,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 6000,
+  "quickFinishRequiredGem": 22000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10557,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 23,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 6600,
+  "quickFinishRequiredGem": 23000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10558,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 24,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 7200,
+  "quickFinishRequiredGem": 24000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10559,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 25,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 7800,
+  "quickFinishRequiredGem": 25000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10560,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 26,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 8400,
+  "quickFinishRequiredGem": 26000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10561,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 27,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 9000,
+  "quickFinishRequiredGem": 27000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10562,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 28,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 9600,
+  "quickFinishRequiredGem": 28000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10563,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 29,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 10200,
+  "quickFinishRequiredGem": 29000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10564,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 30,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 10800,
+  "quickFinishRequiredGem": 30000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10565,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 31,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 12000,
+  "quickFinishRequiredGem": 31000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10566,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 32,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 13200,
+  "quickFinishRequiredGem": 32000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10567,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 33,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 14400,
+  "quickFinishRequiredGem": 33000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10568,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 34,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 15600,
+  "quickFinishRequiredGem": 34000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10569,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 35,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 16800,
+  "quickFinishRequiredGem": 35000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10570,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 36,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 18000,
+  "quickFinishRequiredGem": 36000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10571,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 37,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 19200,
+  "quickFinishRequiredGem": 37000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10572,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 38,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 20400,
+  "quickFinishRequiredGem": 38000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10573,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 39,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 21600,
+  "quickFinishRequiredGem": 39000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10574,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 40,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 22800,
+  "quickFinishRequiredGem": 40000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10575,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 41,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 24000,
+  "quickFinishRequiredGem": 41000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10576,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 42,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 25200,
+  "quickFinishRequiredGem": 42000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10577,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 43,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 26400,
+  "quickFinishRequiredGem": 43000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10578,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 44,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 27600,
+  "quickFinishRequiredGem": 44000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10579,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 45,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 28800,
+  "quickFinishRequiredGem": 45000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10580,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 46,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 30000,
+  "quickFinishRequiredGem": 46000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10581,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 47,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 31200,
+  "quickFinishRequiredGem": 47000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10582,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 48,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 32400,
+  "quickFinishRequiredGem": 48000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10583,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 49,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 33600,
+  "quickFinishRequiredGem": 49000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10584,
+  "gardenFurnitureMstId": 210026,
+  "furnitureLevel": 50,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 70,
+  "requiredTime": 34800,
+  "quickFinishRequiredGem": 50000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10585,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 2,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 120,
+  "quickFinishRequiredGem": 2000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10586,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 3,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 300,
+  "quickFinishRequiredGem": 3000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10587,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 4,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 480,
+  "quickFinishRequiredGem": 4000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10588,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 5,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 660,
+  "quickFinishRequiredGem": 5000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10589,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 6,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 840,
+  "quickFinishRequiredGem": 6000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10590,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 7,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1020,
+  "quickFinishRequiredGem": 7000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10591,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 8,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1200,
+  "quickFinishRequiredGem": 8000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10592,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 9,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 20,
+  "requiredTime": 1380,
+  "quickFinishRequiredGem": 9000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10593,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 10,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 1560,
+  "quickFinishRequiredGem": 10000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10594,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 11,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 1860,
+  "quickFinishRequiredGem": 11000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10595,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 12,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2160,
+  "quickFinishRequiredGem": 12000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10596,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 13,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2460,
+  "quickFinishRequiredGem": 13000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10597,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 14,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 2760,
+  "quickFinishRequiredGem": 14000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10598,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 15,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3060,
+  "quickFinishRequiredGem": 15000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10599,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 16,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3360,
+  "quickFinishRequiredGem": 16000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10600,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 17,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3600,
+  "quickFinishRequiredGem": 17000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10601,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 18,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 3900,
+  "quickFinishRequiredGem": 18000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10602,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 19,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 30,
+  "requiredTime": 4200,
+  "quickFinishRequiredGem": 19000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10603,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 20,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 4500,
+  "quickFinishRequiredGem": 20000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10604,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 21,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 5100,
+  "quickFinishRequiredGem": 21000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10605,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 22,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 6000,
+  "quickFinishRequiredGem": 22000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10606,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 23,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 6600,
+  "quickFinishRequiredGem": 23000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10607,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 24,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 7200,
+  "quickFinishRequiredGem": 24000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10608,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 25,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 7800,
+  "quickFinishRequiredGem": 25000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10609,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 26,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 8400,
+  "quickFinishRequiredGem": 26000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10610,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 27,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 9000,
+  "quickFinishRequiredGem": 27000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10611,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 28,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 9600,
+  "quickFinishRequiredGem": 28000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10612,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 29,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 40,
+  "requiredTime": 10200,
+  "quickFinishRequiredGem": 29000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10613,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 30,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 10800,
+  "quickFinishRequiredGem": 30000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10614,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 31,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 12000,
+  "quickFinishRequiredGem": 31000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10615,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 32,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 13200,
+  "quickFinishRequiredGem": 32000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10616,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 33,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 14400,
+  "quickFinishRequiredGem": 33000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10617,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 34,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 15600,
+  "quickFinishRequiredGem": 34000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10618,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 35,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 16800,
+  "quickFinishRequiredGem": 35000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10619,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 36,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 18000,
+  "quickFinishRequiredGem": 36000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10620,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 37,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 19200,
+  "quickFinishRequiredGem": 37000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10621,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 38,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 20400,
+  "quickFinishRequiredGem": 38000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10622,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 39,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 50,
+  "requiredTime": 21600,
+  "quickFinishRequiredGem": 39000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10623,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 40,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 22800,
+  "quickFinishRequiredGem": 40000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10624,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 41,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 24000,
+  "quickFinishRequiredGem": 41000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10625,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 42,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 25200,
+  "quickFinishRequiredGem": 42000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10626,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 43,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 26400,
+  "quickFinishRequiredGem": 43000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10627,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 44,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 27600,
+  "quickFinishRequiredGem": 44000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10628,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 45,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 28800,
+  "quickFinishRequiredGem": 45000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10629,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 46,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 30000,
+  "quickFinishRequiredGem": 46000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10630,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 47,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 31200,
+  "quickFinishRequiredGem": 47000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10631,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 48,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 32400,
+  "quickFinishRequiredGem": 48000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10632,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 49,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 60,
+  "requiredTime": 33600,
+  "quickFinishRequiredGem": 49000
+ },
+ {
+  "gardenFurnitureLevelUpMstId": 10633,
+  "gardenFurnitureMstId": 205020,
+  "furnitureLevel": 50,
+  "requiredShopLevel": 1,
+  "requiredGold": 0,
+  "requiredMaterial": 70,
+  "requiredTime": 34800,
+  "quickFinishRequiredGem": 50000
  }
 ]

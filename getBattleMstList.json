@@ -135,6 +135,33 @@
   "bgmName": "bgm_battle_beachHut"
  },
  {
+  "battleMstId": 100116,
+  "battleType": 2,
+  "time": 90,
+  "winConditionValue": 0,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 100113,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 100117,
+  "battleType": 2,
+  "time": 90,
+  "winConditionValue": 0,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 100114,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 100118,
+  "battleType": 2,
+  "time": 90,
+  "winConditionValue": 0,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 100115,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
   "battleMstId": 200101,
   "battleType": 1,
   "time": 90,
@@ -1645,6 +1672,276 @@
   "backgroundId": 2002001,
   "battleMatchPartyMstId": 20000230,
   "bgmName": "bgm_battle_summerFestival"
+ },
+ {
+  "battleMstId": 20000301,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 38784,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000301,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000302,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 52152,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000302,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000303,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 65520,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000303,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000304,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 78888,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000304,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000305,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 92256,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000305,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000306,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 105616,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000306,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000307,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 118984,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000307,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000308,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 132352,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000308,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000309,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 145720,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000309,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000310,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 159080,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000310,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000311,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 172448,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000311,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000312,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 185816,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000312,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000313,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 199184,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000313,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000314,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 212544,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000314,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000315,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 225912,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000315,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000316,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 239280,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000316,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000317,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 252648,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000317,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000318,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 266008,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000318,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000319,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 279376,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000319,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000320,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 292744,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000320,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000321,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 306112,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000321,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000322,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 319472,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000322,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000323,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 332840,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000323,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000324,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 346208,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000324,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000325,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 359576,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000325,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000326,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 372936,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000326,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000327,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 386304,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000327,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000328,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 399672,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000328,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000329,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 413040,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000329,
+  "bgmName": "bgm_battle_moonViewing"
+ },
+ {
+  "battleMstId": 20000330,
+  "battleType": 1,
+  "time": 120,
+  "winConditionValue": 426400,
+  "backgroundId": 2104000,
+  "battleMatchPartyMstId": 20000330,
+  "bgmName": "bgm_battle_moonViewing"
  },
  {
   "battleMstId": 40000001,

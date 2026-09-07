@@ -103,5 +103,26 @@
   "difficulty": 3,
   "eventBossBattleMstId": 100115,
   "eventPointCoefficient": 8
+ },
+ {
+  "eventBossGroupMstId": 100116,
+  "groupId": 1006,
+  "difficulty": 1,
+  "eventBossBattleMstId": 100116,
+  "eventPointCoefficient": 2
+ },
+ {
+  "eventBossGroupMstId": 100117,
+  "groupId": 1006,
+  "difficulty": 2,
+  "eventBossBattleMstId": 100117,
+  "eventPointCoefficient": 5
+ },
+ {
+  "eventBossGroupMstId": 100118,
+  "groupId": 1006,
+  "difficulty": 3,
+  "eventBossBattleMstId": 100118,
+  "eventPointCoefficient": 8
  }
 ]

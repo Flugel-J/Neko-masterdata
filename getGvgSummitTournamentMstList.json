@@ -382,5 +382,389 @@
   "matchNo": 2,
   "seedGvgRank": 0,
   "nextRoundMatchNo": 0
+ },
+ {
+  "gvgSummitTournamentMstId": 49,
+  "seasonMstId": 4,
+  "round": 1,
+  "matchNo": 1,
+  "seedGvgRank": 1,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 50,
+  "seasonMstId": 4,
+  "round": 1,
+  "matchNo": 2,
+  "seedGvgRank": 2,
+  "nextRoundMatchNo": 2
+ },
+ {
+  "gvgSummitTournamentMstId": 51,
+  "seasonMstId": 4,
+  "round": 1,
+  "matchNo": 3,
+  "seedGvgRank": 3,
+  "nextRoundMatchNo": 3
+ },
+ {
+  "gvgSummitTournamentMstId": 52,
+  "seasonMstId": 4,
+  "round": 1,
+  "matchNo": 4,
+  "seedGvgRank": 4,
+  "nextRoundMatchNo": 4
+ },
+ {
+  "gvgSummitTournamentMstId": 53,
+  "seasonMstId": 4,
+  "round": 1,
+  "matchNo": 5,
+  "seedGvgRank": 5,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 54,
+  "seasonMstId": 4,
+  "round": 1,
+  "matchNo": 6,
+  "seedGvgRank": 6,
+  "nextRoundMatchNo": 2
+ },
+ {
+  "gvgSummitTournamentMstId": 55,
+  "seasonMstId": 4,
+  "round": 1,
+  "matchNo": 7,
+  "seedGvgRank": 7,
+  "nextRoundMatchNo": 3
+ },
+ {
+  "gvgSummitTournamentMstId": 56,
+  "seasonMstId": 4,
+  "round": 1,
+  "matchNo": 8,
+  "seedGvgRank": 8,
+  "nextRoundMatchNo": 4
+ },
+ {
+  "gvgSummitTournamentMstId": 57,
+  "seasonMstId": 4,
+  "round": 2,
+  "matchNo": 1,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 58,
+  "seasonMstId": 4,
+  "round": 2,
+  "matchNo": 2,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 2
+ },
+ {
+  "gvgSummitTournamentMstId": 59,
+  "seasonMstId": 4,
+  "round": 2,
+  "matchNo": 3,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 60,
+  "seasonMstId": 4,
+  "round": 2,
+  "matchNo": 4,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 2
+ },
+ {
+  "gvgSummitTournamentMstId": 61,
+  "seasonMstId": 4,
+  "round": 3,
+  "matchNo": 1,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 62,
+  "seasonMstId": 4,
+  "round": 3,
+  "matchNo": 2,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 63,
+  "seasonMstId": 4,
+  "round": 4,
+  "matchNo": 1,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 0
+ },
+ {
+  "gvgSummitTournamentMstId": 64,
+  "seasonMstId": 4,
+  "round": 4,
+  "matchNo": 2,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 0
+ },
+ {
+  "gvgSummitTournamentMstId": 65,
+  "seasonMstId": 5,
+  "round": 1,
+  "matchNo": 1,
+  "seedGvgRank": 1,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 66,
+  "seasonMstId": 5,
+  "round": 1,
+  "matchNo": 2,
+  "seedGvgRank": 2,
+  "nextRoundMatchNo": 2
+ },
+ {
+  "gvgSummitTournamentMstId": 67,
+  "seasonMstId": 5,
+  "round": 1,
+  "matchNo": 3,
+  "seedGvgRank": 3,
+  "nextRoundMatchNo": 3
+ },
+ {
+  "gvgSummitTournamentMstId": 68,
+  "seasonMstId": 5,
+  "round": 1,
+  "matchNo": 4,
+  "seedGvgRank": 4,
+  "nextRoundMatchNo": 4
+ },
+ {
+  "gvgSummitTournamentMstId": 69,
+  "seasonMstId": 5,
+  "round": 1,
+  "matchNo": 5,
+  "seedGvgRank": 5,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 70,
+  "seasonMstId": 5,
+  "round": 1,
+  "matchNo": 6,
+  "seedGvgRank": 6,
+  "nextRoundMatchNo": 2
+ },
+ {
+  "gvgSummitTournamentMstId": 71,
+  "seasonMstId": 5,
+  "round": 1,
+  "matchNo": 7,
+  "seedGvgRank": 7,
+  "nextRoundMatchNo": 3
+ },
+ {
+  "gvgSummitTournamentMstId": 72,
+  "seasonMstId": 5,
+  "round": 1,
+  "matchNo": 8,
+  "seedGvgRank": 8,
+  "nextRoundMatchNo": 4
+ },
+ {
+  "gvgSummitTournamentMstId": 73,
+  "seasonMstId": 5,
+  "round": 2,
+  "matchNo": 1,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 74,
+  "seasonMstId": 5,
+  "round": 2,
+  "matchNo": 2,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 2
+ },
+ {
+  "gvgSummitTournamentMstId": 75,
+  "seasonMstId": 5,
+  "round": 2,
+  "matchNo": 3,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 76,
+  "seasonMstId": 5,
+  "round": 2,
+  "matchNo": 4,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 2
+ },
+ {
+  "gvgSummitTournamentMstId": 77,
+  "seasonMstId": 5,
+  "round": 3,
+  "matchNo": 1,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 78,
+  "seasonMstId": 5,
+  "round": 3,
+  "matchNo": 2,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 79,
+  "seasonMstId": 5,
+  "round": 4,
+  "matchNo": 1,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 0
+ },
+ {
+  "gvgSummitTournamentMstId": 80,
+  "seasonMstId": 5,
+  "round": 4,
+  "matchNo": 2,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 0
+ },
+ {
+  "gvgSummitTournamentMstId": 81,
+  "seasonMstId": 6,
+  "round": 1,
+  "matchNo": 1,
+  "seedGvgRank": 1,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 82,
+  "seasonMstId": 6,
+  "round": 1,
+  "matchNo": 2,
+  "seedGvgRank": 2,
+  "nextRoundMatchNo": 2
+ },
+ {
+  "gvgSummitTournamentMstId": 83,
+  "seasonMstId": 6,
+  "round": 1,
+  "matchNo": 3,
+  "seedGvgRank": 3,
+  "nextRoundMatchNo": 3
+ },
+ {
+  "gvgSummitTournamentMstId": 84,
+  "seasonMstId": 6,
+  "round": 1,
+  "matchNo": 4,
+  "seedGvgRank": 4,
+  "nextRoundMatchNo": 4
+ },
+ {
+  "gvgSummitTournamentMstId": 85,
+  "seasonMstId": 6,
+  "round": 1,
+  "matchNo": 5,
+  "seedGvgRank": 5,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 86,
+  "seasonMstId": 6,
+  "round": 1,
+  "matchNo": 6,
+  "seedGvgRank": 6,
+  "nextRoundMatchNo": 2
+ },
+ {
+  "gvgSummitTournamentMstId": 87,
+  "seasonMstId": 6,
+  "round": 1,
+  "matchNo": 7,
+  "seedGvgRank": 7,
+  "nextRoundMatchNo": 3
+ },
+ {
+  "gvgSummitTournamentMstId": 88,
+  "seasonMstId": 6,
+  "round": 1,
+  "matchNo": 8,
+  "seedGvgRank": 8,
+  "nextRoundMatchNo": 4
+ },
+ {
+  "gvgSummitTournamentMstId": 89,
+  "seasonMstId": 6,
+  "round": 2,
+  "matchNo": 1,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 90,
+  "seasonMstId": 6,
+  "round": 2,
+  "matchNo": 2,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 2
+ },
+ {
+  "gvgSummitTournamentMstId": 91,
+  "seasonMstId": 6,
+  "round": 2,
+  "matchNo": 3,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 92,
+  "seasonMstId": 6,
+  "round": 2,
+  "matchNo": 4,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 2
+ },
+ {
+  "gvgSummitTournamentMstId": 93,
+  "seasonMstId": 6,
+  "round": 3,
+  "matchNo": 1,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 94,
+  "seasonMstId": 6,
+  "round": 3,
+  "matchNo": 2,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 1
+ },
+ {
+  "gvgSummitTournamentMstId": 95,
+  "seasonMstId": 6,
+  "round": 4,
+  "matchNo": 1,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 0
+ },
+ {
+  "gvgSummitTournamentMstId": 96,
+  "seasonMstId": 6,
+  "round": 4,
+  "matchNo": 2,
+  "seedGvgRank": 0,
+  "nextRoundMatchNo": 0
  }
 ]

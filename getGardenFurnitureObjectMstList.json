@@ -2638,5 +2638,104 @@
   "gardenFurnitureClassMstId": 0,
   "gardenFurnitureSizeMstId": 1,
   "furnitureDirection": 0
+ },
+ {
+  "gardenFurnitureObjectMstId": 242,
+  "description": "Table Set (Moonlit Rabbit, Tipsy Neko)",
+  "placeType": 0,
+  "positionX": 0,
+  "positionY": 0,
+  "gardenFurnitureGroupMstId": 213,
+  "gardenFurnitureClassMstId": 1000100,
+  "gardenFurnitureSizeMstId": 1,
+  "furnitureDirection": 0
+ },
+ {
+  "gardenFurnitureObjectMstId": 243,
+  "description": "coming soon...",
+  "placeType": 0,
+  "positionX": 0,
+  "positionY": 1,
+  "gardenFurnitureGroupMstId": 213,
+  "gardenFurnitureClassMstId": 1000300,
+  "gardenFurnitureSizeMstId": 1,
+  "furnitureDirection": 0
+ },
+ {
+  "gardenFurnitureObjectMstId": 244,
+  "description": "coming soon...",
+  "placeType": 0,
+  "positionX": 1,
+  "positionY": 0,
+  "gardenFurnitureGroupMstId": 213,
+  "gardenFurnitureClassMstId": 1000200,
+  "gardenFurnitureSizeMstId": 1,
+  "furnitureDirection": 0
+ },
+ {
+  "gardenFurnitureObjectMstId": 245,
+  "description": "Partition (Moonlit Rabbit, Tipsy Neko)",
+  "placeType": 0,
+  "positionX": 0,
+  "positionY": 0,
+  "gardenFurnitureGroupMstId": 214,
+  "gardenFurnitureClassMstId": 0,
+  "gardenFurnitureSizeMstId": 7,
+  "furnitureDirection": 0
+ },
+ {
+  "gardenFurnitureObjectMstId": 246,
+  "description": "Wall Art 1 (Moonlit Rabbit, Tipsy Neko)",
+  "placeType": 0,
+  "positionX": 0,
+  "positionY": 0,
+  "gardenFurnitureGroupMstId": 215,
+  "gardenFurnitureClassMstId": 0,
+  "gardenFurnitureSizeMstId": 4,
+  "furnitureDirection": 0
+ },
+ {
+  "gardenFurnitureObjectMstId": 247,
+  "description": "Wall Art 2 (Moonlit Rabbit, Tipsy Neko)",
+  "placeType": 0,
+  "positionX": 0,
+  "positionY": 0,
+  "gardenFurnitureGroupMstId": 216,
+  "gardenFurnitureClassMstId": 0,
+  "gardenFurnitureSizeMstId": 4,
+  "furnitureDirection": 0
+ },
+ {
+  "gardenFurnitureObjectMstId": 248,
+  "description": "Counter Seat (Moonlit Rabbit, Tipsy Neko)",
+  "placeType": 0,
+  "positionX": 0,
+  "positionY": 0,
+  "gardenFurnitureGroupMstId": 217,
+  "gardenFurnitureClassMstId": 1000400,
+  "gardenFurnitureSizeMstId": 8,
+  "furnitureDirection": 0
+ },
+ {
+  "gardenFurnitureObjectMstId": 249,
+  "description": "coming soon...",
+  "placeType": 0,
+  "positionX": 1,
+  "positionY": 3,
+  "gardenFurnitureGroupMstId": 217,
+  "gardenFurnitureClassMstId": 1000500,
+  "gardenFurnitureSizeMstId": 1,
+  "furnitureDirection": 0
+ },
+ {
+  "gardenFurnitureObjectMstId": 250,
+  "description": "coming soon...",
+  "placeType": 0,
+  "positionX": 1,
+  "positionY": 1,
+  "gardenFurnitureGroupMstId": 217,
+  "gardenFurnitureClassMstId": 1000600,
+  "gardenFurnitureSizeMstId": 1,
+  "furnitureDirection": 0
  }
 ]

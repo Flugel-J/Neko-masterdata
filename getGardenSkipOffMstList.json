@@ -502,5 +502,17 @@
   "characterUniqueMstId": 10208,
   "relationType": 1,
   "shortStoryMstId": 87
+ },
+ {
+  "gardenSkipOffMstId": 85,
+  "characterUniqueMstId": 10608,
+  "relationType": 0,
+  "shortStoryMstId": 88
+ },
+ {
+  "gardenSkipOffMstId": 86,
+  "characterUniqueMstId": 10608,
+  "relationType": 1,
+  "shortStoryMstId": 89
  }
 ]

@@ -1738,11 +1738,11 @@
  {
   "characterUniqueMstId": 10608,
   "characterSchoolMstId": 6,
-  "name": "Churros",
+  "name": "Churro",
   "sortOrder": 608,
-  "catBreed": "Mixed",
+  "catBreed": "Chausie",
   "resourceId": 1060801,
-  "cv": "-",
+  "cv": "Yurina Amami",
   "birthday": "",
   "heightType": 2,
   "initRelationType": 0,
@@ -2270,7 +2270,7 @@
  {
   "characterUniqueMstId": 25001,
   "characterSchoolMstId": 50,
-  "name": "Casablanca",
+  "name": "Casablanca Felidae",
   "sortOrder": 25001,
   "catBreed": "Mixed",
   "resourceId": 2500101,
@@ -2298,7 +2298,7 @@
  {
   "characterUniqueMstId": 25002,
   "characterSchoolMstId": 50,
-  "name": "Amaryllis",
+  "name": "Amaryllis Felidae",
   "sortOrder": 25002,
   "catBreed": "Mixed",
   "resourceId": 2500201,
@@ -2326,7 +2326,7 @@
  {
   "characterUniqueMstId": 25003,
   "characterSchoolMstId": 50,
-  "name": "Freesia",
+  "name": "Freesia Felidae",
   "sortOrder": 25003,
   "catBreed": "Mixed",
   "resourceId": 2500301,

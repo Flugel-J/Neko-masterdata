@@ -256,5 +256,23 @@
   "groupId": 12,
   "characterMstId": 1021201,
   "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 130001,
+  "groupId": 13,
+  "characterMstId": 1030101,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 130002,
+  "groupId": 13,
+  "characterMstId": 1060201,
+  "characterVoiceMstId": 0
+ },
+ {
+  "loginBonusCharacterGroupMstId": 130003,
+  "groupId": 13,
+  "characterMstId": 1060801,
+  "characterVoiceMstId": 0
  }
 ]

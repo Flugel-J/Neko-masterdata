@@ -1776,5 +1776,68 @@
   "description": "Potted Plant (Seaside Heaven)",
   "displayPriority": 0,
   "gardenFurnitureObjectMstId": 241
+ },
+ {
+  "gardenFurniturePartsMstId": 256,
+  "resourceId": 2050191,
+  "description": "Table Set (Moonlit Rabbit, Tipsy Neko)",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 242
+ },
+ {
+  "gardenFurniturePartsMstId": 257,
+  "resourceId": 2060171,
+  "description": "coming soon...",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 243
+ },
+ {
+  "gardenFurniturePartsMstId": 258,
+  "resourceId": 2060181,
+  "description": "coming soon...",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 244
+ },
+ {
+  "gardenFurniturePartsMstId": 259,
+  "resourceId": 2080451,
+  "description": "Partition (Moonlit Rabbit, Tipsy Neko)",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 245
+ },
+ {
+  "gardenFurniturePartsMstId": 260,
+  "resourceId": 2100251,
+  "description": "Wall Art 1 (Moonlit Rabbit, Tipsy Neko)",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 246
+ },
+ {
+  "gardenFurniturePartsMstId": 261,
+  "resourceId": 2100261,
+  "description": "Wall Art 2 (Moonlit Rabbit, Tipsy Neko)",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 247
+ },
+ {
+  "gardenFurniturePartsMstId": 262,
+  "resourceId": 2050201,
+  "description": "Counter Seat (Moonlit Rabbit, Tipsy Neko)",
+  "displayPriority": 1,
+  "gardenFurnitureObjectMstId": 248
+ },
+ {
+  "gardenFurniturePartsMstId": 263,
+  "resourceId": 2060181,
+  "description": "coming soon...",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 249
+ },
+ {
+  "gardenFurniturePartsMstId": 264,
+  "resourceId": 2060181,
+  "description": "coming soon...",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 250
  }
 ]

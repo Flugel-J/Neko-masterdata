@@ -117,7 +117,7 @@
  {
   "itemMstId": 3010001,
   "name": "Friend Medal",
-  "description": "A medal that represents the friendship you've deepened with your friends.\nCan be used in the Exchange.",
+  "description": "A medal that represents the friendship you’ve deepened with your friends.\nCan be used in the Exchange.",
   "resourceId": 3010001,
   "type": 1,
   "attribute": 0,
@@ -231,7 +231,7 @@
  },
  {
   "itemMstId": 3020101,
-  "name": "Limited Trip Ticket[Ringo]",
+  "name": "Limited Trip Ticket [Ringo]",
   "description": "A ticket for a journey where you can meet new Nekos.\nCan be used for Limited Trips.",
   "resourceId": 3020002,
   "type": 1,
@@ -254,7 +254,7 @@
  },
  {
   "itemMstId": 3020102,
-  "name": "Limited Trip Ticket[Brownie]",
+  "name": "Limited Trip Ticket [Brownie]",
   "description": "A ticket for a journey where you can meet new Nekos.\nCan be used for Limited Trips.",
   "resourceId": 3020002,
   "type": 1,
@@ -277,7 +277,7 @@
  },
  {
   "itemMstId": 3020103,
-  "name": "Limited Trip Ticket[Sumomo]",
+  "name": "Limited Trip Ticket [Sumomo]",
   "description": "A ticket for a journey where you can meet new Nekos.\nCan be used for Limited Trips.",
   "resourceId": 3020002,
   "type": 1,
@@ -300,7 +300,7 @@
  },
  {
   "itemMstId": 3020104,
-  "name": "Limited Trip Ticket[Bavarois]",
+  "name": "Limited Trip Ticket [Bavarois]",
   "description": "A ticket for a journey where you can meet new Nekos.\nCan be used for Limited Trips.",
   "resourceId": 3020002,
   "type": 1,
@@ -323,7 +323,7 @@
  },
  {
   "itemMstId": 3020105,
-  "name": "Limited Trip Ticket[Ringo]",
+  "name": "Limited Trip Ticket [Ringo]",
   "description": "A ticket for a journey where you can meet new Nekos.\nCan be used for Limited Trips.",
   "resourceId": 3020002,
   "type": 1,
@@ -346,7 +346,7 @@
  },
  {
   "itemMstId": 3020106,
-  "name": "Limited Trip Ticket[Karin]",
+  "name": "Limited Trip Ticket [Karin]",
   "description": "A ticket for a journey where you can meet new Nekos.\nCan be used for Limited Trips.",
   "resourceId": 3020002,
   "type": 1,
@@ -369,7 +369,7 @@
  },
  {
   "itemMstId": 3020107,
-  "name": "Limited Trip Ticket[Tsubaki]",
+  "name": "Limited Trip Ticket [Tsubaki]",
   "description": "A ticket for a journey where you can meet new Nekos.\nCan be used for Limited Trips.",
   "resourceId": 3020002,
   "type": 1,
@@ -392,7 +392,7 @@
  },
  {
   "itemMstId": 3020108,
-  "name": "Limited Trip Ticket[Chocola&Vanilla]",
+  "name": "Limited Trip Ticket [Chocola＆Vanilla ]",
   "description": "A ticket for a journey where you can meet new Nekos.\nCan be used for Selectable Trips.",
   "resourceId": 3020002,
   "type": 1,
@@ -415,7 +415,7 @@
  },
  {
   "itemMstId": 3020109,
-  "name": "Limited Trip Ticket[Pawpaw]",
+  "name": "Limited Trip Ticket [Pawpaw]",
   "description": "A ticket for a journey where you can meet new Nekos.\nCan be used for Limited Trips.",
   "resourceId": 3020002,
   "type": 1,
@@ -438,7 +438,7 @@
  },
  {
   "itemMstId": 3020110,
-  "name": "Limited Trip Ticket[Natsume]",
+  "name": "Limited Trip Ticket [Natsume]",
   "description": "A ticket for a journey where you can meet new Nekos.\nCan be used for Limited Trips.",
   "resourceId": 3020002,
   "type": 1,
@@ -461,7 +461,7 @@
  },
  {
   "itemMstId": 3020111,
-  "name": "Limited Trip Ticket[Mayumi]",
+  "name": "Limited Trip Ticket [Mayumi]",
   "description": "A ticket for a journey where you can meet new Nekos.\nCan be used for Limited Trips.",
   "resourceId": 3020002,
   "type": 1,
@@ -479,6 +479,29 @@
   "validDays": 0,
   "startTime": "2026-08-24T15:00:00+09:00",
   "endTime": "2026-09-07T14:59:59+09:00",
+  "transitionSceneName": "",
+  "resourceName": ""
+ },
+ {
+  "itemMstId": 3020112,
+  "name": "Limited Trip Ticket [Churro]",
+  "description": "A ticket for a journey where you can meet new Nekos.\nCan be used for Limited Trips.",
+  "resourceId": 3020002,
+  "type": 1,
+  "attribute": 0,
+  "detailType": 0,
+  "effectType": 0,
+  "effectValue": 0,
+  "effectValue2": 0,
+  "rarity": 4,
+  "canSell": false,
+  "price": 0,
+  "canUse": false,
+  "sortOrder": 0,
+  "maxNum": 99999,
+  "validDays": 0,
+  "startTime": "2026-09-07T15:00:00+09:00",
+  "endTime": "2026-10-01T16:59:59+09:00",
   "transitionSceneName": "",
   "resourceName": ""
  },
@@ -531,7 +554,7 @@
  {
   "itemMstId": 3030003,
   "name": "Feeling Crystal",
-  "description": "What's created when a 5★ Neko Piece turns into a crystal.\nCan be used in the Exchange.",
+  "description": "What’s created when a 5★ Neko Piece turns into a crystal.\nCan be used in the Exchange.",
   "resourceId": 3030003,
   "type": 1,
   "attribute": 0,

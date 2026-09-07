@@ -13,5 +13,20 @@
   "gvgSummitExchangeMstId": 3,
   "seasonMstId": 3,
   "exchangeShopMstId": 14
+ },
+ {
+  "gvgSummitExchangeMstId": 4,
+  "seasonMstId": 4,
+  "exchangeShopMstId": 14
+ },
+ {
+  "gvgSummitExchangeMstId": 5,
+  "seasonMstId": 5,
+  "exchangeShopMstId": 14
+ },
+ {
+  "gvgSummitExchangeMstId": 6,
+  "seasonMstId": 6,
+  "exchangeShopMstId": 14
  }
 ]

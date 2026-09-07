@@ -462,6 +462,27 @@
   "isMoneyCheck": false
  },
  {
+  "shopPaymentConditionSaleMstId": 50023,
+  "conditionSaleType": 5,
+  "isPopUp": false,
+  "isBeginner": false,
+  "isComeback": false,
+  "missionMstId": 0,
+  "characterMstId": 1060801,
+  "characterAwakeLevel": 0,
+  "characterRarity": 0,
+  "memoryMstId": 0,
+  "memoryAwakeLevel": 0,
+  "memoryRarity": 0,
+  "value": 0,
+  "reasonText": "",
+  "viewCharacterMstId": 1060801,
+  "shopPaymentConditionSaleCategoryMstId": 3,
+  "itemMstIds": "",
+  "pieceMstIds": "",
+  "isMoneyCheck": false
+ },
+ {
   "shopPaymentConditionSaleMstId": 160001,
   "conditionSaleType": 16,
   "isPopUp": false,

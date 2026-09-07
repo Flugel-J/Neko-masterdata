@@ -391,6 +391,23 @@
   "aggregateEndTime": "2026-08-25T17:00:00+09:00"
  },
  {
+  "worldRankingMstId": 100006,
+  "tabType": 0,
+  "rankingType": 0,
+  "name": "Ranking Battles",
+  "indicatorTypeImageId": 0,
+  "indicatorType": 6,
+  "indicatorValue": 100006,
+  "firstAchievementFlag": false,
+  "worldRankingRankGroupId": 100007,
+  "aggregateType": 1,
+  "aggregateInterval": 5,
+  "startTime": "2026-09-07T15:00:00+09:00",
+  "endTime": "2026-09-28T14:59:59+09:00",
+  "aggregateStartTime": "2026-09-28T15:00:00+09:00",
+  "aggregateEndTime": "2026-09-29T17:00:00+09:00"
+ },
+ {
   "worldRankingMstId": 200001,
   "tabType": 0,
   "rankingType": 0,

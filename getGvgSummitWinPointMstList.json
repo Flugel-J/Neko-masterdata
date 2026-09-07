@@ -142,5 +142,149 @@
   "seasonMstId": 3,
   "guildTotalPowerRank": 8,
   "point": 200
+ },
+ {
+  "gvgSummitWinPointMstId": 25,
+  "seasonMstId": 4,
+  "guildTotalPowerRank": 1,
+  "point": 1500
+ },
+ {
+  "gvgSummitWinPointMstId": 26,
+  "seasonMstId": 4,
+  "guildTotalPowerRank": 2,
+  "point": 1300
+ },
+ {
+  "gvgSummitWinPointMstId": 27,
+  "seasonMstId": 4,
+  "guildTotalPowerRank": 3,
+  "point": 1000
+ },
+ {
+  "gvgSummitWinPointMstId": 28,
+  "seasonMstId": 4,
+  "guildTotalPowerRank": 4,
+  "point": 800
+ },
+ {
+  "gvgSummitWinPointMstId": 29,
+  "seasonMstId": 4,
+  "guildTotalPowerRank": 5,
+  "point": 600
+ },
+ {
+  "gvgSummitWinPointMstId": 30,
+  "seasonMstId": 4,
+  "guildTotalPowerRank": 6,
+  "point": 400
+ },
+ {
+  "gvgSummitWinPointMstId": 31,
+  "seasonMstId": 4,
+  "guildTotalPowerRank": 7,
+  "point": 300
+ },
+ {
+  "gvgSummitWinPointMstId": 32,
+  "seasonMstId": 4,
+  "guildTotalPowerRank": 8,
+  "point": 200
+ },
+ {
+  "gvgSummitWinPointMstId": 33,
+  "seasonMstId": 5,
+  "guildTotalPowerRank": 1,
+  "point": 1500
+ },
+ {
+  "gvgSummitWinPointMstId": 34,
+  "seasonMstId": 5,
+  "guildTotalPowerRank": 2,
+  "point": 1300
+ },
+ {
+  "gvgSummitWinPointMstId": 35,
+  "seasonMstId": 5,
+  "guildTotalPowerRank": 3,
+  "point": 1000
+ },
+ {
+  "gvgSummitWinPointMstId": 36,
+  "seasonMstId": 5,
+  "guildTotalPowerRank": 4,
+  "point": 800
+ },
+ {
+  "gvgSummitWinPointMstId": 37,
+  "seasonMstId": 5,
+  "guildTotalPowerRank": 5,
+  "point": 600
+ },
+ {
+  "gvgSummitWinPointMstId": 38,
+  "seasonMstId": 5,
+  "guildTotalPowerRank": 6,
+  "point": 400
+ },
+ {
+  "gvgSummitWinPointMstId": 39,
+  "seasonMstId": 5,
+  "guildTotalPowerRank": 7,
+  "point": 300
+ },
+ {
+  "gvgSummitWinPointMstId": 40,
+  "seasonMstId": 5,
+  "guildTotalPowerRank": 8,
+  "point": 200
+ },
+ {
+  "gvgSummitWinPointMstId": 41,
+  "seasonMstId": 6,
+  "guildTotalPowerRank": 1,
+  "point": 1500
+ },
+ {
+  "gvgSummitWinPointMstId": 42,
+  "seasonMstId": 6,
+  "guildTotalPowerRank": 2,
+  "point": 1300
+ },
+ {
+  "gvgSummitWinPointMstId": 43,
+  "seasonMstId": 6,
+  "guildTotalPowerRank": 3,
+  "point": 1000
+ },
+ {
+  "gvgSummitWinPointMstId": 44,
+  "seasonMstId": 6,
+  "guildTotalPowerRank": 4,
+  "point": 800
+ },
+ {
+  "gvgSummitWinPointMstId": 45,
+  "seasonMstId": 6,
+  "guildTotalPowerRank": 5,
+  "point": 600
+ },
+ {
+  "gvgSummitWinPointMstId": 46,
+  "seasonMstId": 6,
+  "guildTotalPowerRank": 6,
+  "point": 400
+ },
+ {
+  "gvgSummitWinPointMstId": 47,
+  "seasonMstId": 6,
+  "guildTotalPowerRank": 7,
+  "point": 300
+ },
+ {
+  "gvgSummitWinPointMstId": 48,
+  "seasonMstId": 6,
+  "guildTotalPowerRank": 8,
+  "point": 200
  }
 ]

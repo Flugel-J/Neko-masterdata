@@ -342,7 +342,7 @@
  {
   "sceneTextMstId": 69,
   "key": "quest_enhance_prefabs_recovery_challenge_popup_label",
-  "text": "Today's Recoveries: Remaining"
+  "text": "Today’s Recoveries: Remaining"
  },
  {
   "sceneTextMstId": 70,
@@ -1032,7 +1032,7 @@
  {
   "sceneTextMstId": 207,
   "key": "error_inactive_device_migrate_message",
-  "text": "This device can no longer be used to play the game, because your data has been transferred to another device.\nTo resume playing, select Data Transfer/Link from the Support button on the game's Title Screen."
+  "text": "This device can no longer be used to play the game, because your data has been transferred to another device.\nTo resume playing, select Data Transfer/Link from the Support button on the game’s Title Screen."
  },
  {
   "sceneTextMstId": 208,
@@ -1572,12 +1572,12 @@
  {
   "sceneTextMstId": 315,
   "key": "character_voice_release_condition_awake_level",
-  "text": "Unlocks when {0}'s Awakening Level is {1} or Higher"
+  "text": "Unlocks when {0}’s Awakening Level is {1} or Higher"
  },
  {
   "sceneTextMstId": 316,
   "key": "character_voice_release_condition_character_birthday",
-  "text": "Unlocks upon login on {0}'s birthday"
+  "text": "Unlocks upon login on {0}’s birthday"
  },
  {
   "sceneTextMstId": 317,
@@ -1882,7 +1882,7 @@
  {
   "sceneTextMstId": 377,
   "key": "miniature_idle_popup_remain_additional_count_text",
-  "text": "Today's Claims: <color=#EB4F59>{0}</color> Remaining"
+  "text": "Today’s Claims: <color=#EB4F59>{0}</color> Remaining"
  },
  {
   "sceneTextMstId": 378,
@@ -2122,7 +2122,7 @@
  {
   "sceneTextMstId": 425,
   "key": "miniature_furniture_upgrade_no_item",
-  "text": "You don't have any furniture."
+  "text": "You don’t have any furniture."
  },
  {
   "sceneTextMstId": 426,
@@ -2542,7 +2542,7 @@
  {
   "sceneTextMstId": 509,
   "key": "miniature_delivery_popup_refresh_message",
-  "text": "Spend {0} Gems to refresh the delivery request?\nAny delivery requests that haven't begun will be discarded."
+  "text": "Spend {0} Gems to refresh the delivery request?\nAny delivery requests that haven’t begun will be discarded."
  },
  {
   "sceneTextMstId": 510,
@@ -3887,7 +3887,7 @@
  {
   "sceneTextMstId": 778,
   "key": "login_bonus_receive_again_message",
-  "text": "You can receive today's login bonus again\nby making a purchase in the Shop."
+  "text": "You can receive today’s login bonus again\nby making a purchase in the Shop."
  },
  {
   "sceneTextMstId": 779,
@@ -4092,7 +4092,7 @@
  {
   "sceneTextMstId": 819,
   "key": "option_dialog_label_battle_setting_msg",
-  "text": "When set to [Once Daily], each character's Special Skill animation will only be shown the first time it activates each day."
+  "text": "When set to [Once Daily], each character’s Special Skill animation will only be shown the first time it activates each day."
  },
  {
   "sceneTextMstId": 820,
@@ -4262,7 +4262,7 @@
  {
   "sceneTextMstId": 853,
   "key": "option_dialog_label_story_demo_text",
-  "text": "This patisserie has become quite popular in this town…\nBut that's just the beginning of the story!"
+  "text": "This patisserie has become quite popular in this town…\nBut that’s just the beginning of the story!"
  },
  {
   "sceneTextMstId": 854,
@@ -5107,7 +5107,7 @@
  {
   "sceneTextMstId": 1022,
   "key": "profile_birthday_change_confirm_popup_description",
-  "text": "Your birthday cannot be changed once it's set.\nIs the following date correct?"
+  "text": "Your birthday cannot be changed once it’s set.\nIs the following date correct?"
  },
  {
   "sceneTextMstId": 1023,
@@ -5437,7 +5437,7 @@
  {
   "sceneTextMstId": 1088,
   "key": "friend_follow_no_follower_slot",
-  "text": "This player's Request List is full."
+  "text": "This player’s Request List is full."
  },
  {
   "sceneTextMstId": 1089,
@@ -5447,7 +5447,7 @@
  {
   "sceneTextMstId": 1090,
   "key": "friend_follow_no_target_friend_slot",
-  "text": "This player's Friend List is full."
+  "text": "This player’s Friend List is full."
  },
  {
   "sceneTextMstId": 1091,
@@ -6252,7 +6252,7 @@
  {
   "sceneTextMstId": 1251,
   "key": "collection_acquisition_conditions_popup_top_message",
-  "text": "Collector's Bonus Applied to the Following"
+  "text": "Collector’s Bonus Applied to the Following"
  },
  {
   "sceneTextMstId": 1252,
@@ -6862,7 +6862,7 @@
  {
   "sceneTextMstId": 1373,
   "key": "guild_unassign_sub_leader_confirm_dialog_body",
-  "text": "<size=28>Change {0}'s role from Sub Leader to Member?\n<voffset=-1em>Are you sure?</voffset></size>"
+  "text": "<size=28>Change {0}’s role from Sub Leader to Member?\n<voffset=-1em>Are you sure?</voffset></size>"
  },
  {
   "sceneTextMstId": 1374,
@@ -6927,7 +6927,7 @@
  {
   "sceneTextMstId": 1386,
   "key": "guild_top_not_membership_placeholder",
-  "text": "Enter the Club Name you're looking for."
+  "text": "Enter the Club Name you’re looking for."
  },
  {
   "sceneTextMstId": 1387,
@@ -7082,7 +7082,7 @@
  {
   "sceneTextMstId": 1417,
   "key": "guild_create_dialog_default_description",
-  "text": "Let's do our best together!"
+  "text": "Let’s do our best together!"
  },
  {
   "sceneTextMstId": 1418,
@@ -7432,7 +7432,7 @@
  {
   "sceneTextMstId": 1487,
   "key": "gacha_series_daily_paid_remaining",
-  "text": "Today's Gem Uses: <color=#EB4F5A>{0,3}</color> Times Remaining"
+  "text": "Today’s Gem Uses: <color=#EB4F5A>{0,3}</color> Times Remaining"
  },
  {
   "sceneTextMstId": 1488,
@@ -7487,7 +7487,7 @@
  {
   "sceneTextMstId": 1498,
   "key": "gacha_api_error_gacha_closed_2",
-  "text": "This Trip's availability period has ended."
+  "text": "This Trip’s availability period has ended."
  },
  {
   "sceneTextMstId": 1499,
@@ -7522,7 +7522,7 @@
  {
   "sceneTextMstId": 1505,
   "key": "pvp_pre_fighting_party_edit_no_free_challenge_count_today",
-  "text": "You have used all of today's free attempts."
+  "text": "You have used all of today’s free attempts."
  },
  {
   "sceneTextMstId": 1506,
@@ -7542,7 +7542,7 @@
  {
   "sceneTextMstId": 1509,
   "key": "pvp_pre_fighting_party_edit_hidden_today_login",
-  "text": "Do not show on today's login."
+  "text": "Do not show on today’s login."
  },
  {
   "sceneTextMstId": 1510,
@@ -8272,7 +8272,7 @@
  {
   "sceneTextMstId": 1655,
   "key": "miniature_common_no_own_time_reduction_item_message",
-  "text": "You don't have any time reduction items.\n"
+  "text": "You don’t have any time reduction items.\n"
  },
  {
   "sceneTextMstId": 1656,
@@ -8317,7 +8317,7 @@
  {
   "sceneTextMstId": 1664,
   "key": "quest_enhance_recovery_count_max_message",
-  "text": "You cannot recover any more because you have reached today's purchase limit."
+  "text": "You cannot recover any more because you have reached today’s purchase limit."
  },
  {
   "sceneTextMstId": 1665,
@@ -8562,7 +8562,7 @@
  {
   "sceneTextMstId": 1713,
   "key": "tower_floor_recover_popup_main_message",
-  "text": "You have used all of today's Auto Clears.\nSpend {0} Gems to add {1} Auto Clears?"
+  "text": "You have used all of today’s Auto Clears.\nSpend {0} Gems to add {1} Auto Clears?"
  },
  {
   "sceneTextMstId": 1714,
@@ -8732,7 +8732,7 @@
  {
   "sceneTextMstId": 1747,
   "key": "story_top_main_story_synopsis",
-  "text": "You can look back on the journey you've taken around the world."
+  "text": "You can look back on the journey you’ve taken around the world."
  },
  {
   "sceneTextMstId": 1748,
@@ -8747,7 +8747,7 @@
  {
   "sceneTextMstId": 1750,
   "key": "story_main_story_part_synopsis_2",
-  "text": "La Soleil has won the NekoFes preliminaries, but a misunderstanding occurs between Yuzuha and Mikan due to their abilities, disrupting their sisterly relationship.\nThis leads to Yuzuha disappearing when she goes back to the academy.\nThe pâtissier and the others open a new branch at Sakura Hills Nekos College, and as they work to create a place for Yuzuha to come home to, they take part in the next competition with some new friends."
+  "text": "Japan Academy Summary"
  },
  {
   "sceneTextMstId": 1751,
@@ -8847,7 +8847,7 @@
  {
   "sceneTextMstId": 1770,
   "key": "story_event_story_release_check_popup_annotation",
-  "text": "*You don't have enough Story Tickets."
+  "text": "*You don’t have enough Story Tickets."
  },
  {
   "sceneTextMstId": 1771,
@@ -10057,7 +10057,7 @@
  {
   "sceneTextMstId": 2012,
   "key": "quest_event_challenge_count_max_message",
-  "text": "You cannot purchase it because you have reached today's purchase limit."
+  "text": "You cannot purchase it because you have reached today’s purchase limit."
  },
  {
   "sceneTextMstId": 2013,
@@ -10207,7 +10207,7 @@
  {
   "sceneTextMstId": 2042,
   "key": "dungeon_route_select_enemy_party_info_title",
-  "text": "Opponent's Party"
+  "text": "Opponent’s Party"
  },
  {
   "sceneTextMstId": 2043,
@@ -10432,7 +10432,7 @@
  {
   "sceneTextMstId": 2087,
   "key": "event_share_popup_receive_count",
-  "text": "Today's Sweet Share Claim Limit: {0}/{1}"
+  "text": "Today’s Sweet Share Claim Limit: {0}/{1}"
  },
  {
   "sceneTextMstId": 2088,
@@ -10452,7 +10452,7 @@
  {
   "sceneTextMstId": 2091,
   "key": "event_share_popup_receive_limit_confirm_message",
-  "text": "You have reached today's Sweet Share claim limit, so you cannot receive this.\nAre you sure?"
+  "text": "You have reached today’s Sweet Share claim limit, so you cannot receive this.\nAre you sure?"
  },
  {
   "sceneTextMstId": 2092,
@@ -10527,7 +10527,7 @@
  {
   "sceneTextMstId": 2106,
   "key": "event_share_receive_popup_limit_over_message",
-  "text": "You could not receive the Sweet Share because today's claim limit has been reached."
+  "text": "You could not receive the Sweet Share because today’s claim limit has been reached."
  },
  {
   "sceneTextMstId": 2107,
@@ -10717,7 +10717,7 @@
  {
   "sceneTextMstId": 2144,
   "key": "gvg_reputation_level_dialog_text1",
-  "text": "Winning against an opponent with no votes increases your Reputation Level and affects allies' abilities."
+  "text": "Winning against an opponent with no votes increases your Reputation Level and affects allies’ abilities."
  },
  {
   "sceneTextMstId": 2145,
@@ -10757,12 +10757,12 @@
  {
   "sceneTextMstId": 2152,
   "key": "gvg_area_difficulty_list_cell_parameter_down",
-  "text": "Opponent's Stats <color=#3FA2FF>{0}% Down</color>"
+  "text": "Opponent’s Stats <color=#3FA2FF>{0}% Down</color>"
  },
  {
   "sceneTextMstId": 2153,
   "key": "gvg_area_difficulty_list_cell_parameter_up",
-  "text": "Opponent's Stats <color=#FF7823>{0}% Up</color>"
+  "text": "Opponent’s Stats <color=#FF7823>{0}% Up</color>"
  },
  {
   "sceneTextMstId": 2154,
@@ -10877,7 +10877,7 @@
  {
   "sceneTextMstId": 2176,
   "key": "gvg_difficulty_list_cell_not_parameter_change",
-  "text": "No change to the opponent's stats."
+  "text": "No change to the opponent’s stats."
  },
  {
   "sceneTextMstId": 2177,
@@ -10907,7 +10907,7 @@
  {
   "sceneTextMstId": 2182,
   "key": "gvg_condition_cell_alliance_training_level",
-  "text": "Previous day's Club Contribution is {0} or higher ({1}/{0})"
+  "text": "Previous day’s Club Contribution is {0} or higher ({1}/{0})"
  },
  {
   "sceneTextMstId": 2183,
@@ -11037,7 +11037,7 @@
  {
   "sceneTextMstId": 2208,
   "key": "damage_ranking_battle_skip_this_popup_text",
-  "text": "Do not show on today's login."
+  "text": "Do not show on today’s login."
  },
  {
   "sceneTextMstId": 2209,
@@ -11727,7 +11727,7 @@
  {
   "sceneTextMstId": 2346,
   "key": "shop_login_bonus_receive",
-  "text": "Thank you for your first purchase today.\nYou have claimed today's login bonus again."
+  "text": "Thank you for your first purchase today.\nYou have claimed today’s login bonus again."
  },
  {
   "sceneTextMstId": 2347,
@@ -12527,7 +12527,7 @@
  {
   "sceneTextMstId": 2506,
   "key": "gvgsummit_base_info_dialog_caution_label",
-  "text": "You have used all of today's attempts remaining."
+  "text": "You have used all of today’s attempts remaining."
  },
  {
   "sceneTextMstId": 2507,
@@ -12657,7 +12657,7 @@
  {
   "sceneTextMstId": 2532,
   "key": "pvp_top_fighting_party_matching_try_count_limit_msg",
-  "text": "You have reached today's refresh limit."
+  "text": "You have reached today’s refresh limit."
  },
  {
   "sceneTextMstId": 2533,
@@ -13562,7 +13562,7 @@
  {
   "sceneTextMstId": 2713,
   "key": "push_notification_miniature_delivery_message",
-  "text": "Delivery complete! Let's check the results!"
+  "text": "Delivery complete! Let’s check the results!"
  },
  {
   "sceneTextMstId": 2714,
@@ -13937,7 +13937,7 @@
  {
   "sceneTextMstId": 2788,
   "key": "shop_trigger_caution_text",
-  "text": "Gems obtained from this product are 'Free Gems'."
+  "text": "Gems obtained from this product are ’Free Gems’."
  },
  {
   "sceneTextMstId": 2789,
@@ -14042,7 +14042,7 @@
  {
   "sceneTextMstId": 2809,
   "key": "puzzle_top_unlock_conditions_message_clear",
-  "text": "Unlock by clearing {0}"
+  "text": "Unlock by Clearing {0}"
  },
  {
   "sceneTextMstId": 2810,
@@ -14132,7 +14132,7 @@
  {
   "sceneTextMstId": 2827,
   "key": "communication_dialog_title",
-  "text": "{0}'s Comm"
+  "text": "{0}’s Comm"
  },
  {
   "sceneTextMstId": 2828,
@@ -14322,7 +14322,7 @@
  {
   "sceneTextMstId": 2865,
   "key": "communication_commu_list_unknown",
-  "text": "It's a secret!"
+  "text": "It’s a secret!"
  },
  {
   "sceneTextMstId": 2866,
@@ -14432,7 +14432,7 @@
  {
   "sceneTextMstId": 2887,
   "key": "damage_ranking_recovery_count_max_message",
-  "text": "You cannot recover any more because you have reached today's purchase limit."
+  "text": "You cannot recover any more because you have reached today’s purchase limit."
  },
  {
   "sceneTextMstId": 2888,
@@ -14447,7 +14447,7 @@
  {
   "sceneTextMstId": 2890,
   "key": "damage_ranking_recovery_challenge_popup_ask_recovery_text",
-  "text": "Spend <color=#EB4F5A>{0}</color> Gems to restore the previous day's attempts?"
+  "text": "Spend <color=#EB4F5A>{0}</color> Gems to restore the previous day’s attempts?"
  },
  {
   "sceneTextMstId": 2891,
@@ -14650,6 +14650,11 @@
   "text": "Previous Results"
  },
  {
+  "sceneTextMstId": 2931,
+  "key": "localize_zh",
+  "text": "S-Chinese"
+ },
+ {
   "sceneTextMstId": 2932,
   "key": "shop_billing_present_box_message",
   "text": "Purchase the above product?\n\n<color=#EB4F59>*Purchased Gems and items will be sent to your Present Box.</color>"
@@ -14668,6 +14673,96 @@
   "sceneTextMstId": 2935,
   "key": "item_convert_notify_announcement",
   "text": "Expired items will be converted into the following items."
+ },
+ {
+  "sceneTextMstId": 2936,
+  "key": "invitation_code_top_code_header",
+  "text": "Your Invitation Code"
+ },
+ {
+  "sceneTextMstId": 2937,
+  "key": "invitation_code_top_share_button",
+  "text": "Post Invitation Code"
+ },
+ {
+  "sceneTextMstId": 2938,
+  "key": "invitation_code_top_input_invitation_code_button",
+  "text": "Enter Invitation Code"
+ },
+ {
+  "sceneTextMstId": 2939,
+  "key": "invitation_code_top_invited_player_list_button",
+  "text": "Invited Players"
+ },
+ {
+  "sceneTextMstId": 2940,
+  "key": "invitation_code_top_mission_button",
+  "text": "Invitation Missions"
+ },
+ {
+  "sceneTextMstId": 2941,
+  "key": "invitation_code_top_title",
+  "text": "Invitation Code"
+ },
+ {
+  "sceneTextMstId": 2942,
+  "key": "invitation_code_input_dialog_text1",
+  "text": "Enter an Invitation Code to get the following rewards."
+ },
+ {
+  "sceneTextMstId": 2943,
+  "key": "invitation_code_input_dialog_text2",
+  "text": "Rewards for entering an Invitation Code can only be received once per account."
+ },
+ {
+  "sceneTextMstId": 2944,
+  "key": "invitation_code_input_dialog_text3",
+  "text": "*You have already entered an Invitation Code."
+ },
+ {
+  "sceneTextMstId": 2945,
+  "key": "invitation_code_input_dialog_placeholder",
+  "text": "Please enter an Invitation Code."
+ },
+ {
+  "sceneTextMstId": 2946,
+  "key": "invitation_code_input_dialog_receive_button",
+  "text": "Receive"
+ },
+ {
+  "sceneTextMstId": 2947,
+  "key": "invitation_code_input_dialog_title",
+  "text": "Enter Invitation Code"
+ },
+ {
+  "sceneTextMstId": 2948,
+  "key": "invited_player_list_dialog_rank",
+  "text": "Rank"
+ },
+ {
+  "sceneTextMstId": 2949,
+  "key": "invited_player_list_dialog_rating",
+  "text": "Rating"
+ },
+ {
+  "sceneTextMstId": 2950,
+  "key": "invited_player_list_dialog_empty",
+  "text": "No players invited."
+ },
+ {
+  "sceneTextMstId": 2951,
+  "key": "invited_player_list_dialog_title",
+  "text": "Invited Players"
+ },
+ {
+  "sceneTextMstId": 2952,
+  "key": "invited_player_list_dialog_count",
+  "text": "Players: {0}/{1}"
+ },
+ {
+  "sceneTextMstId": 2953,
+  "key": "title_menu_popup_invitation_code_button",
+  "text": "Invitation Code"
  },
  {
   "sceneTextMstId": 2954,
@@ -14695,6 +14790,16 @@
   "text": "Exchange"
  },
  {
+  "sceneTextMstId": 2967,
+  "key": "invitation_code_share_message",
+  "text": "Start playing Nekopara Sekai Connect! Invitation Code: {0} #ネココネ #ネココネ招待コード"
+ },
+ {
+  "sceneTextMstId": 2968,
+  "key": "invitation_code_mission_title",
+  "text": "Invitation Missions"
+ },
+ {
   "sceneTextMstId": 2969,
   "key": "miniature_field_my_room_left_com_count",
   "text": "Daily Comms: <color=#EB4F59>{0}</color>/{1}"
@@ -14702,12 +14807,27 @@
  {
   "sceneTextMstId": 2970,
   "key": "miniature_field_my_room_refresh_time_text",
-  "text": "Refresh in"
+  "text": "Until Refresh"
  },
  {
   "sceneTextMstId": 2971,
   "key": "miniature_open_my_room_area_message_com",
-  "text": "The number of Comms you can perform per day has increased"
+  "text": "Daily Comm attempts increased."
+ },
+ {
+  "sceneTextMstId": 2974,
+  "key": "badge_miniature_upgrade_furniture",
+  "text": "Furniture Enhancement complete!"
+ },
+ {
+  "sceneTextMstId": 2975,
+  "key": "badge_miniature_upgrade_landscaping",
+  "text": "Courtyard Enhancement complete!"
+ },
+ {
+  "sceneTextMstId": 2976,
+  "key": "badge_miniature_delivery_complete",
+  "text": "Delivery complete!"
  },
  {
   "sceneTextMstId": 2979,

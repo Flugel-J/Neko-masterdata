@@ -586,5 +586,103 @@
   "minRanking": 9999,
   "rewardGroupId": 100001084,
   "presentTitle": "Rank 5001–9999 Reward"
+ },
+ {
+  "worldRankingRankMstId": 185,
+  "worldRankingGroupId": 100007,
+  "minRanking": 1,
+  "rewardGroupId": 100001085,
+  "presentTitle": "Rank 1 Reward"
+ },
+ {
+  "worldRankingRankMstId": 186,
+  "worldRankingGroupId": 100007,
+  "minRanking": 2,
+  "rewardGroupId": 100001086,
+  "presentTitle": "Rank 2 Reward"
+ },
+ {
+  "worldRankingRankMstId": 187,
+  "worldRankingGroupId": 100007,
+  "minRanking": 3,
+  "rewardGroupId": 100001087,
+  "presentTitle": "Rank 3 Reward"
+ },
+ {
+  "worldRankingRankMstId": 188,
+  "worldRankingGroupId": 100007,
+  "minRanking": 4,
+  "rewardGroupId": 100001088,
+  "presentTitle": "Rank 4 Reward"
+ },
+ {
+  "worldRankingRankMstId": 189,
+  "worldRankingGroupId": 100007,
+  "minRanking": 5,
+  "rewardGroupId": 100001089,
+  "presentTitle": "Rank 5 Reward"
+ },
+ {
+  "worldRankingRankMstId": 190,
+  "worldRankingGroupId": 100007,
+  "minRanking": 10,
+  "rewardGroupId": 100001090,
+  "presentTitle": "Rank 6–10 Reward"
+ },
+ {
+  "worldRankingRankMstId": 191,
+  "worldRankingGroupId": 100007,
+  "minRanking": 20,
+  "rewardGroupId": 100001091,
+  "presentTitle": "Rank 11–20 Reward"
+ },
+ {
+  "worldRankingRankMstId": 192,
+  "worldRankingGroupId": 100007,
+  "minRanking": 50,
+  "rewardGroupId": 100001092,
+  "presentTitle": "Rank 21–50 Reward"
+ },
+ {
+  "worldRankingRankMstId": 193,
+  "worldRankingGroupId": 100007,
+  "minRanking": 100,
+  "rewardGroupId": 100001093,
+  "presentTitle": "Rank 51–100 Reward"
+ },
+ {
+  "worldRankingRankMstId": 194,
+  "worldRankingGroupId": 100007,
+  "minRanking": 200,
+  "rewardGroupId": 100001094,
+  "presentTitle": "Rank 101–200 Reward"
+ },
+ {
+  "worldRankingRankMstId": 195,
+  "worldRankingGroupId": 100007,
+  "minRanking": 500,
+  "rewardGroupId": 100001095,
+  "presentTitle": "Rank 201–500 Reward"
+ },
+ {
+  "worldRankingRankMstId": 196,
+  "worldRankingGroupId": 100007,
+  "minRanking": 1000,
+  "rewardGroupId": 100001096,
+  "presentTitle": "Rank 501–1000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 197,
+  "worldRankingGroupId": 100007,
+  "minRanking": 5000,
+  "rewardGroupId": 100001097,
+  "presentTitle": "Rank 1001–5000 Reward"
+ },
+ {
+  "worldRankingRankMstId": 198,
+  "worldRankingGroupId": 100007,
+  "minRanking": 9999,
+  "rewardGroupId": 100001098,
+  "presentTitle": "Rank 5001–9999 Reward"
  }
 ]

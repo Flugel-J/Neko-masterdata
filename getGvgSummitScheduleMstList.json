@@ -334,5 +334,341 @@
   "phaseType": 7,
   "startTime": "2026-09-07T02:00:00+09:00",
   "endTime": "2026-09-22T11:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 57,
+  "seasonMstId": 4,
+  "round": 1,
+  "phaseType": 2,
+  "startTime": "2026-09-22T12:00:00+09:00",
+  "endTime": "2026-09-24T15:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 58,
+  "seasonMstId": 4,
+  "round": 1,
+  "phaseType": 3,
+  "startTime": "2026-09-24T16:00:00+09:00",
+  "endTime": "2026-09-24T22:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 59,
+  "seasonMstId": 4,
+  "round": 1,
+  "phaseType": 4,
+  "startTime": "2026-09-24T23:00:00+09:00",
+  "endTime": "2026-09-25T01:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 60,
+  "seasonMstId": 4,
+  "round": 2,
+  "phaseType": 5,
+  "startTime": "2026-09-25T02:00:00+09:00",
+  "endTime": "2026-09-25T15:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 61,
+  "seasonMstId": 4,
+  "round": 2,
+  "phaseType": 3,
+  "startTime": "2026-09-25T16:00:00+09:00",
+  "endTime": "2026-09-25T22:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 62,
+  "seasonMstId": 4,
+  "round": 2,
+  "phaseType": 4,
+  "startTime": "2026-09-25T23:00:00+09:00",
+  "endTime": "2026-09-26T01:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 63,
+  "seasonMstId": 4,
+  "round": 3,
+  "phaseType": 5,
+  "startTime": "2026-09-26T02:00:00+09:00",
+  "endTime": "2026-09-26T15:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 64,
+  "seasonMstId": 4,
+  "round": 3,
+  "phaseType": 3,
+  "startTime": "2026-09-26T16:00:00+09:00",
+  "endTime": "2026-09-26T22:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 65,
+  "seasonMstId": 4,
+  "round": 3,
+  "phaseType": 4,
+  "startTime": "2026-09-26T23:00:00+09:00",
+  "endTime": "2026-09-27T01:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 66,
+  "seasonMstId": 4,
+  "round": 4,
+  "phaseType": 5,
+  "startTime": "2026-09-27T02:00:00+09:00",
+  "endTime": "2026-09-27T15:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 67,
+  "seasonMstId": 4,
+  "round": 4,
+  "phaseType": 3,
+  "startTime": "2026-09-27T16:00:00+09:00",
+  "endTime": "2026-09-27T22:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 68,
+  "seasonMstId": 4,
+  "round": 4,
+  "phaseType": 4,
+  "startTime": "2026-09-27T23:00:00+09:00",
+  "endTime": "2026-09-27T23:14:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 69,
+  "seasonMstId": 4,
+  "round": 0,
+  "phaseType": 6,
+  "startTime": "2026-09-27T23:15:00+09:00",
+  "endTime": "2026-10-05T01:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 70,
+  "seasonMstId": 4,
+  "round": 0,
+  "phaseType": 7,
+  "startTime": "2026-10-05T02:00:00+09:00",
+  "endTime": "2026-10-20T11:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 71,
+  "seasonMstId": 5,
+  "round": 1,
+  "phaseType": 2,
+  "startTime": "2026-10-20T12:00:00+09:00",
+  "endTime": "2026-10-22T15:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 72,
+  "seasonMstId": 5,
+  "round": 1,
+  "phaseType": 3,
+  "startTime": "2026-10-22T16:00:00+09:00",
+  "endTime": "2026-10-22T22:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 73,
+  "seasonMstId": 5,
+  "round": 1,
+  "phaseType": 4,
+  "startTime": "2026-10-22T23:00:00+09:00",
+  "endTime": "2026-10-23T01:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 74,
+  "seasonMstId": 5,
+  "round": 2,
+  "phaseType": 5,
+  "startTime": "2026-10-23T02:00:00+09:00",
+  "endTime": "2026-10-23T15:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 75,
+  "seasonMstId": 5,
+  "round": 2,
+  "phaseType": 3,
+  "startTime": "2026-10-23T16:00:00+09:00",
+  "endTime": "2026-10-23T22:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 76,
+  "seasonMstId": 5,
+  "round": 2,
+  "phaseType": 4,
+  "startTime": "2026-10-23T23:00:00+09:00",
+  "endTime": "2026-10-24T01:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 77,
+  "seasonMstId": 5,
+  "round": 3,
+  "phaseType": 5,
+  "startTime": "2026-10-24T02:00:00+09:00",
+  "endTime": "2026-10-24T15:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 78,
+  "seasonMstId": 5,
+  "round": 3,
+  "phaseType": 3,
+  "startTime": "2026-10-24T16:00:00+09:00",
+  "endTime": "2026-10-24T22:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 79,
+  "seasonMstId": 5,
+  "round": 3,
+  "phaseType": 4,
+  "startTime": "2026-10-24T23:00:00+09:00",
+  "endTime": "2026-10-25T01:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 80,
+  "seasonMstId": 5,
+  "round": 4,
+  "phaseType": 5,
+  "startTime": "2026-10-25T02:00:00+09:00",
+  "endTime": "2026-10-25T15:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 81,
+  "seasonMstId": 5,
+  "round": 4,
+  "phaseType": 3,
+  "startTime": "2026-10-25T16:00:00+09:00",
+  "endTime": "2026-10-25T22:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 82,
+  "seasonMstId": 5,
+  "round": 4,
+  "phaseType": 4,
+  "startTime": "2026-10-25T23:00:00+09:00",
+  "endTime": "2026-10-25T23:14:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 83,
+  "seasonMstId": 5,
+  "round": 0,
+  "phaseType": 6,
+  "startTime": "2026-10-25T23:15:00+09:00",
+  "endTime": "2026-11-02T01:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 84,
+  "seasonMstId": 5,
+  "round": 0,
+  "phaseType": 7,
+  "startTime": "2026-11-02T02:00:00+09:00",
+  "endTime": "2026-11-24T11:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 85,
+  "seasonMstId": 6,
+  "round": 1,
+  "phaseType": 2,
+  "startTime": "2026-11-24T12:00:00+09:00",
+  "endTime": "2026-11-26T15:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 86,
+  "seasonMstId": 6,
+  "round": 1,
+  "phaseType": 3,
+  "startTime": "2026-11-26T16:00:00+09:00",
+  "endTime": "2026-11-26T22:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 87,
+  "seasonMstId": 6,
+  "round": 1,
+  "phaseType": 4,
+  "startTime": "2026-11-26T23:00:00+09:00",
+  "endTime": "2026-11-27T01:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 88,
+  "seasonMstId": 6,
+  "round": 2,
+  "phaseType": 5,
+  "startTime": "2026-11-27T02:00:00+09:00",
+  "endTime": "2026-11-27T15:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 89,
+  "seasonMstId": 6,
+  "round": 2,
+  "phaseType": 3,
+  "startTime": "2026-11-27T16:00:00+09:00",
+  "endTime": "2026-11-27T22:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 90,
+  "seasonMstId": 6,
+  "round": 2,
+  "phaseType": 4,
+  "startTime": "2026-11-27T23:00:00+09:00",
+  "endTime": "2026-11-28T01:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 91,
+  "seasonMstId": 6,
+  "round": 3,
+  "phaseType": 5,
+  "startTime": "2026-11-28T02:00:00+09:00",
+  "endTime": "2026-11-28T15:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 92,
+  "seasonMstId": 6,
+  "round": 3,
+  "phaseType": 3,
+  "startTime": "2026-11-28T16:00:00+09:00",
+  "endTime": "2026-11-28T22:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 93,
+  "seasonMstId": 6,
+  "round": 3,
+  "phaseType": 4,
+  "startTime": "2026-11-28T23:00:00+09:00",
+  "endTime": "2026-11-29T01:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 94,
+  "seasonMstId": 6,
+  "round": 4,
+  "phaseType": 5,
+  "startTime": "2026-11-29T02:00:00+09:00",
+  "endTime": "2026-11-29T15:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 95,
+  "seasonMstId": 6,
+  "round": 4,
+  "phaseType": 3,
+  "startTime": "2026-11-29T16:00:00+09:00",
+  "endTime": "2026-11-29T22:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 96,
+  "seasonMstId": 6,
+  "round": 4,
+  "phaseType": 4,
+  "startTime": "2026-11-29T23:00:00+09:00",
+  "endTime": "2026-11-29T23:14:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 97,
+  "seasonMstId": 6,
+  "round": 0,
+  "phaseType": 6,
+  "startTime": "2026-11-29T23:15:00+09:00",
+  "endTime": "2026-12-07T01:59:59+09:00"
+ },
+ {
+  "gvgSummitScheduleMstId": 98,
+  "seasonMstId": 6,
+  "round": 0,
+  "phaseType": 7,
+  "startTime": "2026-12-07T02:00:00+09:00",
+  "endTime": "2026-12-22T11:59:59+09:00"
  }
 ]

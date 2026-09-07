@@ -160,6 +160,16 @@
   "endTime": "2100-12-31T23:59:59+09:00"
  },
  {
+  "missionTitleMstId": 70006,
+  "resourceId": 3060007,
+  "title": "Event Missions",
+  "priority": 7,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
   "missionTitleMstId": 80001,
   "resourceId": 100101,
   "title": "Pass Mission",
