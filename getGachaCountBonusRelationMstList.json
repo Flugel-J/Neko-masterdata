@@ -153,5 +153,10 @@
   "gachaCountBonusRelationMstId": 2010038,
   "gachaSeriesMstId": 2010038,
   "gachaCountBonusGroupId": 2010038
+ },
+ {
+  "gachaCountBonusRelationMstId": 2010046,
+  "gachaSeriesMstId": 2010046,
+  "gachaCountBonusGroupId": 2010034
  }
 ]
