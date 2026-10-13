@@ -4828,5 +4828,695 @@
   "areaType": 7,
   "upgradeStage": 115,
   "placeableCharacterNum": 0
+ },
+ {
+  "gardenAreaLevelMstId": 806,
+  "areaType": 8,
+  "upgradeStage": 1,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 807,
+  "areaType": 8,
+  "upgradeStage": 2,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 808,
+  "areaType": 8,
+  "upgradeStage": 3,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 809,
+  "areaType": 8,
+  "upgradeStage": 4,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 810,
+  "areaType": 8,
+  "upgradeStage": 5,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 811,
+  "areaType": 8,
+  "upgradeStage": 6,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 812,
+  "areaType": 8,
+  "upgradeStage": 7,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 813,
+  "areaType": 8,
+  "upgradeStage": 8,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 814,
+  "areaType": 8,
+  "upgradeStage": 9,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 815,
+  "areaType": 8,
+  "upgradeStage": 10,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 816,
+  "areaType": 8,
+  "upgradeStage": 11,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 817,
+  "areaType": 8,
+  "upgradeStage": 12,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 818,
+  "areaType": 8,
+  "upgradeStage": 13,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 819,
+  "areaType": 8,
+  "upgradeStage": 14,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 820,
+  "areaType": 8,
+  "upgradeStage": 15,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 821,
+  "areaType": 8,
+  "upgradeStage": 16,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 822,
+  "areaType": 8,
+  "upgradeStage": 17,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 823,
+  "areaType": 8,
+  "upgradeStage": 18,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 824,
+  "areaType": 8,
+  "upgradeStage": 19,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 825,
+  "areaType": 8,
+  "upgradeStage": 20,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 826,
+  "areaType": 8,
+  "upgradeStage": 21,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 827,
+  "areaType": 8,
+  "upgradeStage": 22,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 828,
+  "areaType": 8,
+  "upgradeStage": 23,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 829,
+  "areaType": 8,
+  "upgradeStage": 24,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 830,
+  "areaType": 8,
+  "upgradeStage": 25,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 831,
+  "areaType": 8,
+  "upgradeStage": 26,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 832,
+  "areaType": 8,
+  "upgradeStage": 27,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 833,
+  "areaType": 8,
+  "upgradeStage": 28,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 834,
+  "areaType": 8,
+  "upgradeStage": 29,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 835,
+  "areaType": 8,
+  "upgradeStage": 30,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 836,
+  "areaType": 8,
+  "upgradeStage": 31,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 837,
+  "areaType": 8,
+  "upgradeStage": 32,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 838,
+  "areaType": 8,
+  "upgradeStage": 33,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 839,
+  "areaType": 8,
+  "upgradeStage": 34,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 840,
+  "areaType": 8,
+  "upgradeStage": 35,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 841,
+  "areaType": 8,
+  "upgradeStage": 36,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 842,
+  "areaType": 8,
+  "upgradeStage": 37,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 843,
+  "areaType": 8,
+  "upgradeStage": 38,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 844,
+  "areaType": 8,
+  "upgradeStage": 39,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 845,
+  "areaType": 8,
+  "upgradeStage": 40,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 846,
+  "areaType": 8,
+  "upgradeStage": 41,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 847,
+  "areaType": 8,
+  "upgradeStage": 42,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 848,
+  "areaType": 8,
+  "upgradeStage": 43,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 849,
+  "areaType": 8,
+  "upgradeStage": 44,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 850,
+  "areaType": 8,
+  "upgradeStage": 45,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 851,
+  "areaType": 8,
+  "upgradeStage": 46,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 852,
+  "areaType": 8,
+  "upgradeStage": 47,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 853,
+  "areaType": 8,
+  "upgradeStage": 48,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 854,
+  "areaType": 8,
+  "upgradeStage": 49,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 855,
+  "areaType": 8,
+  "upgradeStage": 50,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 856,
+  "areaType": 8,
+  "upgradeStage": 51,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 857,
+  "areaType": 8,
+  "upgradeStage": 52,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 858,
+  "areaType": 8,
+  "upgradeStage": 53,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 859,
+  "areaType": 8,
+  "upgradeStage": 54,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 860,
+  "areaType": 8,
+  "upgradeStage": 55,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 861,
+  "areaType": 8,
+  "upgradeStage": 56,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 862,
+  "areaType": 8,
+  "upgradeStage": 57,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 863,
+  "areaType": 8,
+  "upgradeStage": 58,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 864,
+  "areaType": 8,
+  "upgradeStage": 59,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 865,
+  "areaType": 8,
+  "upgradeStage": 60,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 866,
+  "areaType": 8,
+  "upgradeStage": 61,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 867,
+  "areaType": 8,
+  "upgradeStage": 62,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 868,
+  "areaType": 8,
+  "upgradeStage": 63,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 869,
+  "areaType": 8,
+  "upgradeStage": 64,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 870,
+  "areaType": 8,
+  "upgradeStage": 65,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 871,
+  "areaType": 8,
+  "upgradeStage": 66,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 872,
+  "areaType": 8,
+  "upgradeStage": 67,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 873,
+  "areaType": 8,
+  "upgradeStage": 68,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 874,
+  "areaType": 8,
+  "upgradeStage": 69,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 875,
+  "areaType": 8,
+  "upgradeStage": 70,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 876,
+  "areaType": 8,
+  "upgradeStage": 71,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 877,
+  "areaType": 8,
+  "upgradeStage": 72,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 878,
+  "areaType": 8,
+  "upgradeStage": 73,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 879,
+  "areaType": 8,
+  "upgradeStage": 74,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 880,
+  "areaType": 8,
+  "upgradeStage": 75,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 881,
+  "areaType": 8,
+  "upgradeStage": 76,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 882,
+  "areaType": 8,
+  "upgradeStage": 77,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 883,
+  "areaType": 8,
+  "upgradeStage": 78,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 884,
+  "areaType": 8,
+  "upgradeStage": 79,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 885,
+  "areaType": 8,
+  "upgradeStage": 80,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 886,
+  "areaType": 8,
+  "upgradeStage": 81,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 887,
+  "areaType": 8,
+  "upgradeStage": 82,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 888,
+  "areaType": 8,
+  "upgradeStage": 83,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 889,
+  "areaType": 8,
+  "upgradeStage": 84,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 890,
+  "areaType": 8,
+  "upgradeStage": 85,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 891,
+  "areaType": 8,
+  "upgradeStage": 86,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 892,
+  "areaType": 8,
+  "upgradeStage": 87,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 893,
+  "areaType": 8,
+  "upgradeStage": 88,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 894,
+  "areaType": 8,
+  "upgradeStage": 89,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 895,
+  "areaType": 8,
+  "upgradeStage": 90,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 896,
+  "areaType": 8,
+  "upgradeStage": 91,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 897,
+  "areaType": 8,
+  "upgradeStage": 92,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 898,
+  "areaType": 8,
+  "upgradeStage": 93,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 899,
+  "areaType": 8,
+  "upgradeStage": 94,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 900,
+  "areaType": 8,
+  "upgradeStage": 95,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 901,
+  "areaType": 8,
+  "upgradeStage": 96,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 902,
+  "areaType": 8,
+  "upgradeStage": 97,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 903,
+  "areaType": 8,
+  "upgradeStage": 98,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 904,
+  "areaType": 8,
+  "upgradeStage": 99,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 905,
+  "areaType": 8,
+  "upgradeStage": 100,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 906,
+  "areaType": 8,
+  "upgradeStage": 101,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 907,
+  "areaType": 8,
+  "upgradeStage": 102,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 908,
+  "areaType": 8,
+  "upgradeStage": 103,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 909,
+  "areaType": 8,
+  "upgradeStage": 104,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 910,
+  "areaType": 8,
+  "upgradeStage": 105,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 911,
+  "areaType": 8,
+  "upgradeStage": 106,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 912,
+  "areaType": 8,
+  "upgradeStage": 107,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 913,
+  "areaType": 8,
+  "upgradeStage": 108,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 914,
+  "areaType": 8,
+  "upgradeStage": 109,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 915,
+  "areaType": 8,
+  "upgradeStage": 110,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 916,
+  "areaType": 8,
+  "upgradeStage": 111,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 917,
+  "areaType": 8,
+  "upgradeStage": 112,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 918,
+  "areaType": 8,
+  "upgradeStage": 113,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 919,
+  "areaType": 8,
+  "upgradeStage": 114,
+  "placeableCharacterNum": 2
+ },
+ {
+  "gardenAreaLevelMstId": 920,
+  "areaType": 8,
+  "upgradeStage": 115,
+  "placeableCharacterNum": 2
  }
 ]

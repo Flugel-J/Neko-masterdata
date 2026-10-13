@@ -13,7 +13,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10101_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-07-03T00:00:00+09:00",
+  "birthdayEndTime": "2026-07-03T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10102,
@@ -29,7 +31,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10102_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-07-03T00:00:00+09:00",
+  "birthdayEndTime": "2026-07-03T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10103,
@@ -45,7 +49,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10103_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-03-21T00:00:00+09:00",
+  "birthdayEndTime": "2026-03-21T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10104,
@@ -61,7 +67,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10104_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-01-11T00:00:00+09:00",
+  "birthdayEndTime": "2026-01-11T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10105,
@@ -77,7 +85,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10105_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-04-02T00:00:00+09:00",
+  "birthdayEndTime": "2026-04-02T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10106,
@@ -93,7 +103,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10106_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-03-06T00:00:00+09:00",
+  "birthdayEndTime": "2026-03-06T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10107,
@@ -109,7 +121,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10107_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-04-18T00:00:00+09:00",
+  "birthdayEndTime": "2026-04-18T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10201,
@@ -125,7 +139,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10201_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-12-16T00:00:00+09:00",
+  "birthdayEndTime": "2026-12-16T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10202,
@@ -141,7 +157,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10202_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-08-03T00:00:00+09:00",
+  "birthdayEndTime": "2026-08-03T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10203,
@@ -157,7 +175,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10203_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-01-05T00:00:00+09:00",
+  "birthdayEndTime": "2026-01-05T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10204,
@@ -173,7 +193,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10204_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-06-01T00:00:00+09:00",
+  "birthdayEndTime": "2026-06-01T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10205,
@@ -189,7 +211,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10205_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-11-29T00:00:00+09:00",
+  "birthdayEndTime": "2026-11-29T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10206,
@@ -205,7 +229,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10206_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-05-10T00:00:00+09:00",
+  "birthdayEndTime": "2026-05-10T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10207,
@@ -221,7 +247,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10207_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-02-28T00:00:00+09:00",
+  "birthdayEndTime": "2026-02-28T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10208,
@@ -237,7 +265,9 @@
   "itemPositionY": 50,
   "isViewButton": true,
   "live2dFileName": "10208_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-10-07T00:00:00+09:00",
+  "birthdayEndTime": "2026-10-07T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10209,
@@ -253,7 +283,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10209_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-09-25T00:00:00+09:00",
+  "birthdayEndTime": "2026-09-25T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10210,
@@ -269,7 +301,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10210_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-11-04T00:00:00+09:00",
+  "birthdayEndTime": "2026-11-04T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10212,
@@ -285,7 +319,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10212_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-08-31T00:00:00+09:00",
+  "birthdayEndTime": "2026-08-31T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10301,
@@ -301,7 +337,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10301_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-04-09T00:00:00+09:00",
+  "birthdayEndTime": "2026-04-09T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10302,
@@ -317,7 +355,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10302_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-09-17T00:00:00+09:00",
+  "birthdayEndTime": "2026-09-17T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10303,
@@ -333,7 +373,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10303_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-01-31T00:00:00+09:00",
+  "birthdayEndTime": "2026-01-31T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10304,
@@ -349,7 +391,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10304_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-06-28T00:00:00+09:00",
+  "birthdayEndTime": "2026-06-28T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10401,
@@ -365,7 +409,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10401_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-07-21T00:00:00+09:00",
+  "birthdayEndTime": "2026-07-21T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10402,
@@ -381,7 +427,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10402_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-07-21T00:00:00+09:00",
+  "birthdayEndTime": "2026-07-21T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10403,
@@ -397,7 +445,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10403_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-06-19T00:00:00+09:00",
+  "birthdayEndTime": "2026-06-19T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10404,
@@ -413,7 +463,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10404_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-12-01T00:00:00+09:00",
+  "birthdayEndTime": "2026-12-01T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10405,
@@ -429,7 +481,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10405_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-10-28T00:00:00+09:00",
+  "birthdayEndTime": "2026-10-28T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10501,
@@ -445,7 +499,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10501_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-07-09T00:00:00+09:00",
+  "birthdayEndTime": "2026-07-09T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10502,
@@ -461,7 +517,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10502_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-09-08T00:00:00+09:00",
+  "birthdayEndTime": "2026-09-08T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10503,
@@ -477,7 +535,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10503_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-08-22T00:00:00+09:00",
+  "birthdayEndTime": "2026-08-22T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10504,
@@ -493,7 +553,27 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10504_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-05-05T00:00:00+09:00",
+  "birthdayEndTime": "2026-05-05T23:59:59+09:00"
+ },
+ {
+  "characterUniqueMstId": 10507,
+  "unlockCharacterStoryMstId": 0,
+  "unlockMaxHeartRank": 0,
+  "uniqueCommunicationType": 3,
+  "situationName": "Park Date",
+  "heartPositionX": 1000,
+  "heartPositionY": 708,
+  "faceDirection": 30,
+  "uniqueCommunicationImg": "10507",
+  "itemPositionX": 50,
+  "itemPositionY": 50,
+  "isViewButton": false,
+  "live2dFileName": "10507_01_C01",
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-10-13T00:00:00+09:00",
+  "birthdayEndTime": "2026-10-13T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10601,
@@ -509,7 +589,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10601_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-08-08T00:00:00+09:00",
+  "birthdayEndTime": "2026-08-08T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10602,
@@ -525,7 +607,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10602_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-06-09T00:00:00+09:00",
+  "birthdayEndTime": "2026-06-09T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10603,
@@ -541,7 +625,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10603_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-02-08T00:00:00+09:00",
+  "birthdayEndTime": "2026-02-08T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10604,
@@ -557,7 +643,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10604_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-05-27T00:00:00+09:00",
+  "birthdayEndTime": "2026-05-27T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10605,
@@ -573,7 +661,9 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10605_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-09-05T00:00:00+09:00",
+  "birthdayEndTime": "2026-09-05T23:59:59+09:00"
  },
  {
   "characterUniqueMstId": 10608,
@@ -589,6 +679,8 @@
   "itemPositionY": 50,
   "isViewButton": false,
   "live2dFileName": "10608_01_C01",
-  "backgroundFileName": "0"
+  "backgroundFileName": "0",
+  "birthdayStartTime": "2026-04-29T00:00:00+09:00",
+  "birthdayEndTime": "2026-04-29T23:59:59+09:00"
  }
 ]

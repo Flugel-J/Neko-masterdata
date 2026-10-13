@@ -502,5 +502,11 @@
   "storyType": 3,
   "storyId": 10000610,
   "resourceId": 7512001
+ },
+ {
+  "stillMstId": 7514001,
+  "storyType": 3,
+  "storyId": 10000710,
+  "resourceId": 7514001
  }
 ]

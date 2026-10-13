@@ -60,6 +60,16 @@
   "endTime": "2026-09-30T23:59:59+09:00"
  },
  {
+  "missionTitleMstId": 10007,
+  "resourceId": 0,
+  "title": "Daily Missions",
+  "priority": 1,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2026-10-01T00:00:00+09:00",
+  "endTime": "2026-10-31T23:59:59+09:00"
+ },
+ {
   "missionTitleMstId": 20001,
   "resourceId": 0,
   "title": "coming soon...",
@@ -170,6 +180,16 @@
   "endTime": "2100-12-31T23:59:59+09:00"
  },
  {
+  "missionTitleMstId": 70007,
+  "resourceId": 3060008,
+  "title": "Event Missions",
+  "priority": 7,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
   "missionTitleMstId": 80001,
   "resourceId": 100101,
   "title": "Pass Mission",
@@ -230,6 +250,16 @@
   "endTime": "2026-09-30T23:59:59+09:00"
  },
  {
+  "missionTitleMstId": 80007,
+  "resourceId": 100101,
+  "title": "Pass Mission",
+  "priority": 5,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2026-10-01T00:00:00+09:00",
+  "endTime": "2026-10-31T23:59:59+09:00"
+ },
+ {
   "missionTitleMstId": 90001,
   "resourceId": 0,
   "title": "coming soon...",
@@ -246,6 +276,16 @@
   "priority": 11,
   "buyMissionPointGem": 0,
   "buyMissionPointAddNum": 0,
+  "startTime": "2025-01-01T00:00:00+09:00",
+  "endTime": "2100-12-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 110001,
+  "resourceId": 3060002,
+  "title": "Revival Event Missions",
+  "priority": 7,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
   "startTime": "2025-01-01T00:00:00+09:00",
   "endTime": "2100-12-31T23:59:59+09:00"
  }

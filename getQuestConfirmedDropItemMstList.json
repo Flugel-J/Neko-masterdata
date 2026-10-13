@@ -520,6 +520,78 @@
   "num": 5000
  },
  {
+  "questConfirmedDropItemMstId": 100004001,
+  "confirmedDropItemGroupId": 10004001,
+  "sortOrder": 1,
+  "objectReceiveType": 26,
+  "objectId": 100007,
+  "num": 50
+ },
+ {
+  "questConfirmedDropItemMstId": 100004002,
+  "confirmedDropItemGroupId": 10004001,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 10000
+ },
+ {
+  "questConfirmedDropItemMstId": 100004003,
+  "confirmedDropItemGroupId": 10004001,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 2000
+ },
+ {
+  "questConfirmedDropItemMstId": 100004004,
+  "confirmedDropItemGroupId": 10004002,
+  "sortOrder": 1,
+  "objectReceiveType": 26,
+  "objectId": 100007,
+  "num": 100
+ },
+ {
+  "questConfirmedDropItemMstId": 100004005,
+  "confirmedDropItemGroupId": 10004002,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 20000
+ },
+ {
+  "questConfirmedDropItemMstId": 100004006,
+  "confirmedDropItemGroupId": 10004002,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 3000
+ },
+ {
+  "questConfirmedDropItemMstId": 100004007,
+  "confirmedDropItemGroupId": 10004003,
+  "sortOrder": 1,
+  "objectReceiveType": 26,
+  "objectId": 100007,
+  "num": 150
+ },
+ {
+  "questConfirmedDropItemMstId": 100004008,
+  "confirmedDropItemGroupId": 10004003,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 30000
+ },
+ {
+  "questConfirmedDropItemMstId": 100004009,
+  "confirmedDropItemGroupId": 10004003,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 5000
+ },
+ {
   "questConfirmedDropItemMstId": 110101100,
   "confirmedDropItemGroupId": 110101100,
   "sortOrder": 1,
@@ -762,6 +834,78 @@
  {
   "questConfirmedDropItemMstId": 200003009,
   "confirmedDropItemGroupId": 20000303,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 5000
+ },
+ {
+  "questConfirmedDropItemMstId": 300001001,
+  "confirmedDropItemGroupId": 30000101,
+  "sortOrder": 1,
+  "objectReceiveType": 26,
+  "objectId": 200001,
+  "num": 50
+ },
+ {
+  "questConfirmedDropItemMstId": 300001002,
+  "confirmedDropItemGroupId": 30000101,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 10000
+ },
+ {
+  "questConfirmedDropItemMstId": 300001003,
+  "confirmedDropItemGroupId": 30000101,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 2000
+ },
+ {
+  "questConfirmedDropItemMstId": 300001004,
+  "confirmedDropItemGroupId": 30000102,
+  "sortOrder": 1,
+  "objectReceiveType": 26,
+  "objectId": 200001,
+  "num": 100
+ },
+ {
+  "questConfirmedDropItemMstId": 300001005,
+  "confirmedDropItemGroupId": 30000102,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 20000
+ },
+ {
+  "questConfirmedDropItemMstId": 300001006,
+  "confirmedDropItemGroupId": 30000102,
+  "sortOrder": 3,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 3000
+ },
+ {
+  "questConfirmedDropItemMstId": 300001007,
+  "confirmedDropItemGroupId": 30000103,
+  "sortOrder": 1,
+  "objectReceiveType": 26,
+  "objectId": 200001,
+  "num": 150
+ },
+ {
+  "questConfirmedDropItemMstId": 300001008,
+  "confirmedDropItemGroupId": 30000103,
+  "sortOrder": 2,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 30000
+ },
+ {
+  "questConfirmedDropItemMstId": 300001009,
+  "confirmedDropItemGroupId": 30000103,
   "sortOrder": 3,
   "objectReceiveType": 6,
   "objectId": 2000001,

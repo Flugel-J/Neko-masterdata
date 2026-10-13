@@ -21,7 +21,35 @@
   "tensionRate": 0,
   "previewX": -510.0,
   "previewX2": -1000.0,
-  "releaseTime": "2026-04-17T17:00:00+09:00"
+  "releaseTime": "2026-04-17T17:00:00+09:00",
+  "unitType": 2,
+  "skinCategory": 0
+ },
+ {
+  "characterSkinMstId": 101010140,
+  "characterMstId": 1010101,
+  "name": "Bath Towel",
+  "resourceSubId": 40,
+  "additionalSpecialSkillMstId": 101010901,
+  "additionalActiveSkillMstId": 0,
+  "additionalSupportSkillMstId": 0,
+  "additionalRoomSkillMstId": 0,
+  "foodRate": 0,
+  "drinkRate": 600,
+  "sweetsRate": 0,
+  "serveRate": 300,
+  "maxStaminaRate": 0,
+  "recoveryStaminaDelayRate": 0,
+  "recoveryStaminaRate": 0,
+  "moveSpeedRate": 0,
+  "maxSkillPointRate": 0,
+  "recoverySkillPointRate": 0,
+  "tensionRate": 0,
+  "previewX": -420.0,
+  "previewX2": -850.0,
+  "releaseTime": "2026-10-14T00:00:00+09:00",
+  "unitType": 2,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 101020110,
@@ -45,7 +73,35 @@
   "tensionRate": 0,
   "previewX": -280.0,
   "previewX2": -560.0,
-  "releaseTime": "2026-04-17T17:00:00+09:00"
+  "releaseTime": "2026-04-17T17:00:00+09:00",
+  "unitType": 4,
+  "skinCategory": 0
+ },
+ {
+  "characterSkinMstId": 101020140,
+  "characterMstId": 1010201,
+  "name": "Bath Towel",
+  "resourceSubId": 40,
+  "additionalSpecialSkillMstId": 101020901,
+  "additionalActiveSkillMstId": 0,
+  "additionalSupportSkillMstId": 0,
+  "additionalRoomSkillMstId": 0,
+  "foodRate": 600,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 300,
+  "maxStaminaRate": 0,
+  "recoveryStaminaDelayRate": 0,
+  "recoveryStaminaRate": 0,
+  "moveSpeedRate": 0,
+  "maxSkillPointRate": 0,
+  "recoverySkillPointRate": 0,
+  "tensionRate": 0,
+  "previewX": -410.0,
+  "previewX2": -820.0,
+  "releaseTime": "2026-10-14T00:00:00+09:00",
+  "unitType": 4,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 101030110,
@@ -69,7 +125,9 @@
   "tensionRate": 0,
   "previewX": -360.0,
   "previewX2": -670.0,
-  "releaseTime": "2026-05-08T15:00:00+09:00"
+  "releaseTime": "2026-05-08T15:00:00+09:00",
+  "unitType": 4,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 101030120,
@@ -93,7 +151,9 @@
   "tensionRate": 0,
   "previewX": -260.0,
   "previewX2": -730.0,
-  "releaseTime": "2026-08-03T15:00:00+09:00"
+  "releaseTime": "2026-08-03T15:00:00+09:00",
+  "unitType": 2,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 101040110,
@@ -117,7 +177,9 @@
   "tensionRate": 0,
   "previewX": -400.0,
   "previewX2": -800.0,
-  "releaseTime": "2026-08-03T15:00:00+09:00"
+  "releaseTime": "2026-08-03T15:00:00+09:00",
+  "unitType": 3,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 101050110,
@@ -141,7 +203,9 @@
   "tensionRate": 0,
   "previewX": -300.0,
   "previewX2": -710.0,
-  "releaseTime": "2026-08-03T15:00:00+09:00"
+  "releaseTime": "2026-08-03T15:00:00+09:00",
+  "unitType": 3,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 101060110,
@@ -165,7 +229,9 @@
   "tensionRate": 0,
   "previewX": -400.0,
   "previewX2": -650.0,
-  "releaseTime": "2026-04-17T17:00:00+09:00"
+  "releaseTime": "2026-04-17T17:00:00+09:00",
+  "unitType": 4,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 101070110,
@@ -189,7 +255,9 @@
   "tensionRate": 0,
   "previewX": -520.0,
   "previewX2": -970.0,
-  "releaseTime": "2026-04-17T17:00:00+09:00"
+  "releaseTime": "2026-04-17T17:00:00+09:00",
+  "unitType": 3,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 102050110,
@@ -213,7 +281,9 @@
   "tensionRate": 0,
   "previewX": -390.0,
   "previewX2": -810.0,
-  "releaseTime": "2026-07-02T15:00:00+09:00"
+  "releaseTime": "2026-07-02T15:00:00+09:00",
+  "unitType": 3,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 102060110,
@@ -237,7 +307,9 @@
   "tensionRate": 0,
   "previewX": -390.0,
   "previewX2": -810.0,
-  "releaseTime": "2026-07-02T15:00:00+09:00"
+  "releaseTime": "2026-07-02T15:00:00+09:00",
+  "unitType": 4,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 102100110,
@@ -261,7 +333,9 @@
   "tensionRate": 0,
   "previewX": -360.0,
   "previewX2": -710.0,
-  "releaseTime": "2026-07-02T15:00:00+09:00"
+  "releaseTime": "2026-07-02T15:00:00+09:00",
+  "unitType": 2,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 102120110,
@@ -285,7 +359,9 @@
   "tensionRate": 0,
   "previewX": -420.0,
   "previewX2": -860.0,
-  "releaseTime": "2026-08-03T15:00:00+09:00"
+  "releaseTime": "2026-08-03T15:00:00+09:00",
+  "unitType": 3,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 103010110,
@@ -309,7 +385,9 @@
   "tensionRate": 0,
   "previewX": -350.0,
   "previewX2": -740.0,
-  "releaseTime": "2026-09-07T15:00:00+09:00"
+  "releaseTime": "2026-09-07T15:00:00+09:00",
+  "unitType": 2,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 104030110,
@@ -333,7 +411,9 @@
   "tensionRate": 0,
   "previewX": -450.0,
   "previewX2": -880.0,
-  "releaseTime": "2026-05-08T15:00:00+09:00"
+  "releaseTime": "2026-05-08T15:00:00+09:00",
+  "unitType": 4,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 104050110,
@@ -357,7 +437,35 @@
   "tensionRate": 0,
   "previewX": -420.0,
   "previewX2": -900.0,
-  "releaseTime": "2026-06-05T15:00:00+09:00"
+  "releaseTime": "2026-06-05T15:00:00+09:00",
+  "unitType": 3,
+  "skinCategory": 0
+ },
+ {
+  "characterSkinMstId": 105020110,
+  "characterMstId": 1050201,
+  "name": "Halloween",
+  "resourceSubId": 10,
+  "additionalSpecialSkillMstId": 105020601,
+  "additionalActiveSkillMstId": 0,
+  "additionalSupportSkillMstId": 0,
+  "additionalRoomSkillMstId": 0,
+  "foodRate": 0,
+  "drinkRate": 200,
+  "sweetsRate": 0,
+  "serveRate": 100,
+  "maxStaminaRate": 0,
+  "recoveryStaminaDelayRate": 0,
+  "recoveryStaminaRate": 0,
+  "moveSpeedRate": 0,
+  "maxSkillPointRate": 0,
+  "recoverySkillPointRate": 0,
+  "tensionRate": 0,
+  "previewX": -440.0,
+  "previewX2": -880.0,
+  "releaseTime": "2026-10-05T15:00:00+09:00",
+  "unitType": 2,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 105030110,
@@ -381,7 +489,61 @@
   "tensionRate": 0,
   "previewX": -510.0,
   "previewX2": -960.0,
-  "releaseTime": "2026-06-05T15:00:00+09:00"
+  "releaseTime": "2026-06-05T15:00:00+09:00",
+  "unitType": 2,
+  "skinCategory": 0
+ },
+ {
+  "characterSkinMstId": 105040110,
+  "characterMstId": 1050401,
+  "name": "Halloween",
+  "resourceSubId": 10,
+  "additionalSpecialSkillMstId": 105040601,
+  "additionalActiveSkillMstId": 0,
+  "additionalSupportSkillMstId": 0,
+  "additionalRoomSkillMstId": 0,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 200,
+  "serveRate": 100,
+  "maxStaminaRate": 0,
+  "recoveryStaminaDelayRate": 0,
+  "recoveryStaminaRate": 0,
+  "moveSpeedRate": 0,
+  "maxSkillPointRate": 0,
+  "recoverySkillPointRate": 0,
+  "tensionRate": 0,
+  "previewX": -190.0,
+  "previewX2": -490.0,
+  "releaseTime": "2026-10-05T15:00:00+09:00",
+  "unitType": 3,
+  "skinCategory": 0
+ },
+ {
+  "characterSkinMstId": 105070120,
+  "characterMstId": 1050701,
+  "name": "Halloween",
+  "resourceSubId": 20,
+  "additionalSpecialSkillMstId": 105070601,
+  "additionalActiveSkillMstId": 0,
+  "additionalSupportSkillMstId": 0,
+  "additionalRoomSkillMstId": 0,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 200,
+  "serveRate": 100,
+  "maxStaminaRate": 0,
+  "recoveryStaminaDelayRate": 0,
+  "recoveryStaminaRate": 0,
+  "moveSpeedRate": 0,
+  "maxSkillPointRate": 0,
+  "recoverySkillPointRate": 0,
+  "tensionRate": 0,
+  "previewX": -420.0,
+  "previewX2": -840.0,
+  "releaseTime": "2026-10-05T15:00:00+09:00",
+  "unitType": 4,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 106020110,
@@ -405,7 +567,9 @@
   "tensionRate": 0,
   "previewX": -400.0,
   "previewX2": -810.0,
-  "releaseTime": "2026-09-07T15:00:00+09:00"
+  "releaseTime": "2026-09-07T15:00:00+09:00",
+  "unitType": 4,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 106030110,
@@ -429,7 +593,9 @@
   "tensionRate": 0,
   "previewX": -420.0,
   "previewX2": -900.0,
-  "releaseTime": "2026-06-05T15:00:00+09:00"
+  "releaseTime": "2026-06-05T15:00:00+09:00",
+  "unitType": 4,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 106050110,
@@ -453,7 +619,9 @@
   "tensionRate": 0,
   "previewX": -330.0,
   "previewX2": -710.0,
-  "releaseTime": "2026-05-08T15:00:00+09:00"
+  "releaseTime": "2026-05-08T15:00:00+09:00",
+  "unitType": 4,
+  "skinCategory": 0
  },
  {
   "characterSkinMstId": 106080110,
@@ -477,6 +645,8 @@
   "tensionRate": 0,
   "previewX": -380.0,
   "previewX2": -800.0,
-  "releaseTime": "2026-09-07T15:00:00+09:00"
+  "releaseTime": "2026-09-07T15:00:00+09:00",
+  "unitType": 2,
+  "skinCategory": 0
  }
 ]

@@ -1,5 +1,12 @@
 [
  {
+  "itemMstId": 3020006,
+  "targetObjectReceiveType": 6,
+  "targetObjectId": 3020001,
+  "rate": 1,
+  "convertType": 1
+ },
+ {
   "itemMstId": 3020102,
   "targetObjectReceiveType": 6,
   "targetObjectId": 3020001,
@@ -71,6 +78,13 @@
  },
  {
   "itemMstId": 3020112,
+  "targetObjectReceiveType": 6,
+  "targetObjectId": 3020001,
+  "rate": 1,
+  "convertType": 1
+ },
+ {
+  "itemMstId": 3020114,
   "targetObjectReceiveType": 6,
   "targetObjectId": 3020001,
   "rate": 1,

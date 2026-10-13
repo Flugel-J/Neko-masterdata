@@ -19,5 +19,19 @@
   "startTime": "2026-08-03T15:00:00+09:00",
   "hardReleaseTime": "2026-08-13T17:00:00+09:00",
   "endTime": "2026-08-24T14:59:59+09:00"
+ },
+ {
+  "rhythmGameEventScheduleMstId": 4,
+  "eventMstId": 200001,
+  "startTime": "2026-09-28T15:00:00+09:00",
+  "hardReleaseTime": "2026-09-28T17:00:00+09:00",
+  "endTime": "2026-10-26T14:59:59+09:00"
+ },
+ {
+  "rhythmGameEventScheduleMstId": 5,
+  "eventMstId": 100007,
+  "startTime": "2026-10-05T15:00:00+09:00",
+  "hardReleaseTime": "2026-10-12T15:00:00+09:00",
+  "endTime": "2026-10-26T14:59:59+09:00"
  }
 ]

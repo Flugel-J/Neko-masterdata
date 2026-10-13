@@ -18,5 +18,10 @@
   "gardenAreaOpenConditionMstId": 4,
   "requiredShopLevel": 20,
   "gardenAreaMstId": 7
+ },
+ {
+  "gardenAreaOpenConditionMstId": 5,
+  "requiredShopLevel": 25,
+  "gardenAreaMstId": 8
  }
 ]

@@ -158,5 +158,29 @@
   "characterMstId": 1060801,
   "bonusRate": 5000,
   "isLevelSync": true
+ },
+ {
+  "eventBossBonusCharacterMstId": 7001,
+  "groupId": 1007,
+  "sortOrder": 1,
+  "characterMstId": 1050201,
+  "bonusRate": 5000,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 7002,
+  "groupId": 1007,
+  "sortOrder": 2,
+  "characterMstId": 1050401,
+  "bonusRate": 5000,
+  "isLevelSync": false
+ },
+ {
+  "eventBossBonusCharacterMstId": 7003,
+  "groupId": 1007,
+  "sortOrder": 3,
+  "characterMstId": 1050701,
+  "bonusRate": 5000,
+  "isLevelSync": true
  }
 ]

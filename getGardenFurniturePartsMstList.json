@@ -1839,5 +1839,131 @@
   "description": "coming soon...",
   "displayPriority": 0,
   "gardenFurnitureObjectMstId": 250
+ },
+ {
+  "gardenFurniturePartsMstId": 265,
+  "resourceId": 1010082,
+  "description": "Register (Chasing the Naughty Neko)",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 251
+ },
+ {
+  "gardenFurniturePartsMstId": 266,
+  "resourceId": 2010311,
+  "description": "Signboard Display Shelf (Chasing the Naughty Neko)",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 252
+ },
+ {
+  "gardenFurniturePartsMstId": 267,
+  "resourceId": 2080461,
+  "description": "Potted Plant (Chasing the Naughty Neko)",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 253
+ },
+ {
+  "gardenFurniturePartsMstId": 268,
+  "resourceId": 2100271,
+  "description": "Wall Art (Chasing the Naughty Neko)",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 254
+ },
+ {
+  "gardenFurniturePartsMstId": 269,
+  "resourceId": 2080471,
+  "description": "Folding Screen (Chasing the Naughty Neko)",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 255
+ },
+ {
+  "gardenFurniturePartsMstId": 270,
+  "resourceId": 2080481,
+  "description": "Standing Signboard (Chasing the Naughty Neko)",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 256
+ },
+ {
+  "gardenFurniturePartsMstId": 271,
+  "resourceId": 3160011,
+  "description": "Bathroom Wall",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 257
+ },
+ {
+  "gardenFurniturePartsMstId": 272,
+  "resourceId": 3160022,
+  "description": "Bathroom Wall",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 257
+ },
+ {
+  "gardenFurniturePartsMstId": 273,
+  "resourceId": 3170011,
+  "description": "Bathroom Floor",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 258
+ },
+ {
+  "gardenFurniturePartsMstId": 274,
+  "resourceId": 2080491,
+  "description": "Bathtub",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 259
+ },
+ {
+  "gardenFurniturePartsMstId": 275,
+  "resourceId": 2080501,
+  "description": "Shower",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 260
+ },
+ {
+  "gardenFurniturePartsMstId": 276,
+  "resourceId": 2060191,
+  "description": "Bath Chair",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 261
+ },
+ {
+  "gardenFurniturePartsMstId": 277,
+  "resourceId": 2080511,
+  "description": "Bathroom Partition",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 262
+ },
+ {
+  "gardenFurniturePartsMstId": 278,
+  "resourceId": 2080521,
+  "description": "Bathroom Vanity",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 263
+ },
+ {
+  "gardenFurniturePartsMstId": 279,
+  "resourceId": 2080531,
+  "description": "Potted Plant 5",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 264
+ },
+ {
+  "gardenFurniturePartsMstId": 280,
+  "resourceId": 2080541,
+  "description": "Washing Machine",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 265
+ },
+ {
+  "gardenFurniturePartsMstId": 281,
+  "resourceId": 2080551,
+  "description": "Dryer",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 266
+ },
+ {
+  "gardenFurniturePartsMstId": 282,
+  "resourceId": 2090131,
+  "description": "Bath Mat",
+  "displayPriority": 0,
+  "gardenFurnitureObjectMstId": 267
  }
 ]

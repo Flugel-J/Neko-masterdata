@@ -2142,6 +2142,36 @@
   "objectId": 101070110
  },
  {
+  "collectionBonusMstId": 301010801,
+  "sortOrder": 1,
+  "objectType": 20,
+  "objectId": 105070120
+ },
+ {
+  "collectionBonusMstId": 301010801,
+  "sortOrder": 2,
+  "objectType": 20,
+  "objectId": 105020110
+ },
+ {
+  "collectionBonusMstId": 301010801,
+  "sortOrder": 3,
+  "objectType": 20,
+  "objectId": 105040110
+ },
+ {
+  "collectionBonusMstId": 301010901,
+  "sortOrder": 1,
+  "objectType": 20,
+  "objectId": 101010140
+ },
+ {
+  "collectionBonusMstId": 301010901,
+  "sortOrder": 2,
+  "objectType": 20,
+  "objectId": 101020140
+ },
+ {
   "collectionBonusMstId": 401020101,
   "sortOrder": 1,
   "objectType": 14,

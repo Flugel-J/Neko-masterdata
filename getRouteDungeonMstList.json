@@ -98,5 +98,35 @@
   "openUserRank": 1,
   "openQuestStageMstId": 110101150,
   "mapPosition": ""
+ },
+ {
+  "routeDungeonMstId": 10011,
+  "name": "Area 11",
+  "description": "coming soon...",
+  "sortOrder": 11,
+  "resourceId": 0,
+  "openUserRank": 1,
+  "openQuestStageMstId": 110101150,
+  "mapPosition": ""
+ },
+ {
+  "routeDungeonMstId": 10012,
+  "name": "Area 12",
+  "description": "coming soon...",
+  "sortOrder": 12,
+  "resourceId": 0,
+  "openUserRank": 1,
+  "openQuestStageMstId": 110101150,
+  "mapPosition": ""
+ },
+ {
+  "routeDungeonMstId": 10013,
+  "name": "Area 13",
+  "description": "coming soon...",
+  "sortOrder": 13,
+  "resourceId": 0,
+  "openUserRank": 1,
+  "openQuestStageMstId": 110101150,
+  "mapPosition": ""
  }
 ]

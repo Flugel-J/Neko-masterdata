@@ -1,0 +1,20 @@
+[
+ {
+  "gardenBathRateMstId": 1,
+  "rarity": 1,
+  "rate": 6000,
+  "num": 1
+ },
+ {
+  "gardenBathRateMstId": 2,
+  "rarity": 2,
+  "rate": 3000,
+  "num": 3
+ },
+ {
+  "gardenBathRateMstId": 3,
+  "rarity": 3,
+  "rate": 1000,
+  "num": 10
+ }
+]

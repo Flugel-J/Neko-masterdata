@@ -341,6 +341,17 @@
   "memoryExchangeRate": 1
  },
  {
+  "characterPieceMstId": 1050701,
+  "characterMstId": 1050701,
+  "name": "Fig Piece",
+  "description": "A crystal formed from each Neko’s feelings. Used to Limit Break and Awaken Fig.",
+  "resourceId": 1050701,
+  "rarity": 5,
+  "maxNum": 2175,
+  "pieceExchangeRate": 50,
+  "memoryExchangeRate": 1
+ },
+ {
   "characterPieceMstId": 1060101,
   "characterMstId": 1060101,
   "name": "Donut Piece",

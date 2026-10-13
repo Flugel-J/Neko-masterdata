@@ -790,5 +790,23 @@
   "bgmCueName": "battleResult_win",
   "characterUniqueMstId": 10608,
   "playerRank": -1
+ },
+ {
+  "shortStoryMstId": 96,
+  "scriptId": 601050701,
+  "backGroundImageId": 3,
+  "bgmCueSheetName": "voice_battle_1001",
+  "bgmCueName": "battleResult_win",
+  "characterUniqueMstId": 10507,
+  "playerRank": -1
+ },
+ {
+  "shortStoryMstId": 97,
+  "scriptId": 601050702,
+  "backGroundImageId": 4,
+  "bgmCueSheetName": "voice_battle_1001",
+  "bgmCueName": "battleResult_win",
+  "characterUniqueMstId": 10507,
+  "playerRank": -1
  }
 ]

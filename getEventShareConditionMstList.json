@@ -160,5 +160,32 @@
   "maxClaimableUsers": 10,
   "description": "A special item used to share sweets.",
   "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 700101,
+  "eventShareMstId": 106,
+  "shopPaymentMstId": 1002202,
+  "shareCount": 1,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 700102,
+  "eventShareMstId": 106,
+  "shopPaymentMstId": 1002203,
+  "shareCount": 2,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
+ },
+ {
+  "eventShareConditionMstId": 700103,
+  "eventShareMstId": 106,
+  "shopPaymentMstId": 1002204,
+  "shareCount": 4,
+  "maxClaimableUsers": 10,
+  "description": "A special item used to share sweets.",
+  "rewardGroupId": 0
  }
 ]

@@ -117,6 +117,19 @@
   "hasDefault": false
  },
  {
+  "frameMstId": 17040007,
+  "name": "Chasing the Naughty Neko Frame",
+  "passiveSkillMstId": 0,
+  "passiveSkillLevel": 0,
+  "description": "Proof of Contribution to the Chasing the Naughty Neko",
+  "resourceId": 17040007,
+  "sortOrder": 78,
+  "enableTermType": 0,
+  "startTime": "2026-10-05T15:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00",
+  "hasDefault": false
+ },
+ {
   "frameMstId": 17050001,
   "name": "Veteran Frame",
   "passiveSkillMstId": 0,

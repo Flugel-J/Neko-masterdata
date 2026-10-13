@@ -1468,5 +1468,215 @@
   "upgradeStage": 35,
   "areaType": 7,
   "requiredShopLevel": 35
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 246,
+  "upgradeStage": 1,
+  "areaType": 8,
+  "requiredShopLevel": 1
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 247,
+  "upgradeStage": 2,
+  "areaType": 8,
+  "requiredShopLevel": 2
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 248,
+  "upgradeStage": 3,
+  "areaType": 8,
+  "requiredShopLevel": 3
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 249,
+  "upgradeStage": 4,
+  "areaType": 8,
+  "requiredShopLevel": 4
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 250,
+  "upgradeStage": 5,
+  "areaType": 8,
+  "requiredShopLevel": 5
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 251,
+  "upgradeStage": 6,
+  "areaType": 8,
+  "requiredShopLevel": 6
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 252,
+  "upgradeStage": 7,
+  "areaType": 8,
+  "requiredShopLevel": 7
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 253,
+  "upgradeStage": 8,
+  "areaType": 8,
+  "requiredShopLevel": 8
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 254,
+  "upgradeStage": 9,
+  "areaType": 8,
+  "requiredShopLevel": 9
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 255,
+  "upgradeStage": 10,
+  "areaType": 8,
+  "requiredShopLevel": 10
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 256,
+  "upgradeStage": 11,
+  "areaType": 8,
+  "requiredShopLevel": 11
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 257,
+  "upgradeStage": 12,
+  "areaType": 8,
+  "requiredShopLevel": 12
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 258,
+  "upgradeStage": 13,
+  "areaType": 8,
+  "requiredShopLevel": 13
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 259,
+  "upgradeStage": 14,
+  "areaType": 8,
+  "requiredShopLevel": 14
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 260,
+  "upgradeStage": 15,
+  "areaType": 8,
+  "requiredShopLevel": 15
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 261,
+  "upgradeStage": 16,
+  "areaType": 8,
+  "requiredShopLevel": 16
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 262,
+  "upgradeStage": 17,
+  "areaType": 8,
+  "requiredShopLevel": 17
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 263,
+  "upgradeStage": 18,
+  "areaType": 8,
+  "requiredShopLevel": 18
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 264,
+  "upgradeStage": 19,
+  "areaType": 8,
+  "requiredShopLevel": 19
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 265,
+  "upgradeStage": 20,
+  "areaType": 8,
+  "requiredShopLevel": 20
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 266,
+  "upgradeStage": 21,
+  "areaType": 8,
+  "requiredShopLevel": 21
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 267,
+  "upgradeStage": 22,
+  "areaType": 8,
+  "requiredShopLevel": 22
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 268,
+  "upgradeStage": 23,
+  "areaType": 8,
+  "requiredShopLevel": 23
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 269,
+  "upgradeStage": 24,
+  "areaType": 8,
+  "requiredShopLevel": 24
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 270,
+  "upgradeStage": 25,
+  "areaType": 8,
+  "requiredShopLevel": 25
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 271,
+  "upgradeStage": 26,
+  "areaType": 8,
+  "requiredShopLevel": 26
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 272,
+  "upgradeStage": 27,
+  "areaType": 8,
+  "requiredShopLevel": 27
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 273,
+  "upgradeStage": 28,
+  "areaType": 8,
+  "requiredShopLevel": 28
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 274,
+  "upgradeStage": 29,
+  "areaType": 8,
+  "requiredShopLevel": 29
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 275,
+  "upgradeStage": 30,
+  "areaType": 8,
+  "requiredShopLevel": 30
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 276,
+  "upgradeStage": 31,
+  "areaType": 8,
+  "requiredShopLevel": 31
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 277,
+  "upgradeStage": 32,
+  "areaType": 8,
+  "requiredShopLevel": 32
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 278,
+  "upgradeStage": 33,
+  "areaType": 8,
+  "requiredShopLevel": 33
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 279,
+  "upgradeStage": 34,
+  "areaType": 8,
+  "requiredShopLevel": 34
+ },
+ {
+  "gardenAreaUpgradeConditionMstId": 280,
+  "upgradeStage": 35,
+  "areaType": 8,
+  "requiredShopLevel": 35
  }
 ]

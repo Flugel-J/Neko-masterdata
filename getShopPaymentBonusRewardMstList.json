@@ -5418,6 +5418,114 @@
   "isBonus": false
  },
  {
+  "shopPaymentBonusRewardMstId": 100123201,
+  "groupId": 1001232,
+  "objectReceiveType": 15,
+  "objectId": 1050701,
+  "num": 50,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100123202,
+  "groupId": 1001232,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 4800,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100123203,
+  "groupId": 1001232,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 2222222,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100123204,
+  "groupId": 1001232,
+  "objectReceiveType": 6,
+  "objectId": 6010002,
+  "num": 750,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100123205,
+  "groupId": 1001232,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 50,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100123206,
+  "groupId": 1001232,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 30,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100123207,
+  "groupId": 1001232,
+  "objectReceiveType": 25,
+  "objectId": 0,
+  "num": 2400,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100123801,
+  "groupId": 1001238,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 1600,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100123802,
+  "groupId": 1001238,
+  "objectReceiveType": 6,
+  "objectId": 3020001,
+  "num": 50,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100123803,
+  "groupId": 1001238,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 3000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100123804,
+  "groupId": 1001238,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 3000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100123805,
+  "groupId": 1001238,
+  "objectReceiveType": 25,
+  "objectId": 0,
+  "num": 800,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
   "shopPaymentBonusRewardMstId": 100200101,
   "groupId": 1002001,
   "objectReceiveType": 6,
@@ -9702,6 +9810,735 @@
   "isBonus": false
  },
  {
+  "shopPaymentBonusRewardMstId": 100217701,
+  "groupId": 1002177,
+  "objectReceiveType": 6,
+  "objectId": 3020004,
+  "num": 1,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100217801,
+  "groupId": 1002178,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 25000000,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100217802,
+  "groupId": 1002178,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 12500000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100217901,
+  "groupId": 1002179,
+  "objectReceiveType": 6,
+  "objectId": 6010002,
+  "num": 2500,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100217902,
+  "groupId": 1002179,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 500,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218001,
+  "groupId": 1002180,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 10000000,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218002,
+  "groupId": 1002180,
+  "objectReceiveType": 6,
+  "objectId": 6010020,
+  "num": 18,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218101,
+  "groupId": 1002181,
+  "objectReceiveType": 6,
+  "objectId": 3020001,
+  "num": 100,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218201,
+  "groupId": 1002182,
+  "objectReceiveType": 6,
+  "objectId": 3020001,
+  "num": 6,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218202,
+  "groupId": 1002182,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 4375000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218203,
+  "groupId": 1002182,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 4375000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218301,
+  "groupId": 1002183,
+  "objectReceiveType": 6,
+  "objectId": 3020001,
+  "num": 12,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218302,
+  "groupId": 1002183,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 8750000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218303,
+  "groupId": 1002183,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 8750000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218401,
+  "groupId": 1002184,
+  "objectReceiveType": 6,
+  "objectId": 3020001,
+  "num": 24,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218402,
+  "groupId": 1002184,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 17500000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218403,
+  "groupId": 1002184,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 17500000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218501,
+  "groupId": 1002185,
+  "objectReceiveType": 6,
+  "objectId": 3020001,
+  "num": 36,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218502,
+  "groupId": 1002185,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 77,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218503,
+  "groupId": 1002185,
+  "objectReceiveType": 6,
+  "objectId": 6010006,
+  "num": 231,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218601,
+  "groupId": 1002186,
+  "objectReceiveType": 6,
+  "objectId": 3020001,
+  "num": 60,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218602,
+  "groupId": 1002186,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 60,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218603,
+  "groupId": 1002186,
+  "objectReceiveType": 6,
+  "objectId": 6010007,
+  "num": 40,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218701,
+  "groupId": 1002187,
+  "objectReceiveType": 6,
+  "objectId": 3020001,
+  "num": 120,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218702,
+  "groupId": 1002187,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 120,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218703,
+  "groupId": 1002187,
+  "objectReceiveType": 6,
+  "objectId": 6010007,
+  "num": 80,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218801,
+  "groupId": 1002188,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 200,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218802,
+  "groupId": 1002188,
+  "objectReceiveType": 6,
+  "objectId": 4020006,
+  "num": 150,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218901,
+  "groupId": 1002189,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 1,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218902,
+  "groupId": 1002189,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 875000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100218903,
+  "groupId": 1002189,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 875000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219001,
+  "groupId": 1002190,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 6,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219002,
+  "groupId": 1002190,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 4375000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219003,
+  "groupId": 1002190,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 4375000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219101,
+  "groupId": 1002191,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 12,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219102,
+  "groupId": 1002191,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 8750000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219103,
+  "groupId": 1002191,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 8750000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219201,
+  "groupId": 1002192,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 24,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219202,
+  "groupId": 1002192,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 17500000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219203,
+  "groupId": 1002192,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 17500000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219301,
+  "groupId": 1002193,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 36,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219302,
+  "groupId": 1002193,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 77,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219303,
+  "groupId": 1002193,
+  "objectReceiveType": 6,
+  "objectId": 6010006,
+  "num": 231,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219401,
+  "groupId": 1002194,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 60,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219402,
+  "groupId": 1002194,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 60,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219403,
+  "groupId": 1002194,
+  "objectReceiveType": 6,
+  "objectId": 6010007,
+  "num": 40,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219501,
+  "groupId": 1002195,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 120,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219502,
+  "groupId": 1002195,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 120,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219503,
+  "groupId": 1002195,
+  "objectReceiveType": 6,
+  "objectId": 6010007,
+  "num": 80,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219601,
+  "groupId": 1002196,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 3,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219602,
+  "groupId": 1002196,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 4375000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219603,
+  "groupId": 1002196,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 4375000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219701,
+  "groupId": 1002197,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 6,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219702,
+  "groupId": 1002197,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 8750000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219703,
+  "groupId": 1002197,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 8750000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219801,
+  "groupId": 1002198,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 12,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219802,
+  "groupId": 1002198,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 17500000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219803,
+  "groupId": 1002198,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 17500000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219901,
+  "groupId": 1002199,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 18,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219902,
+  "groupId": 1002199,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 77,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100219903,
+  "groupId": 1002199,
+  "objectReceiveType": 6,
+  "objectId": 6010006,
+  "num": 231,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220001,
+  "groupId": 1002200,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 30,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220002,
+  "groupId": 1002200,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 60,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220003,
+  "groupId": 1002200,
+  "objectReceiveType": 6,
+  "objectId": 6010007,
+  "num": 40,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220101,
+  "groupId": 1002201,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 60,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220102,
+  "groupId": 1002201,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 120,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220103,
+  "groupId": 1002201,
+  "objectReceiveType": 6,
+  "objectId": 6010007,
+  "num": 80,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220201,
+  "groupId": 1002202,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 1,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220202,
+  "groupId": 1002202,
+  "objectReceiveType": 28,
+  "objectId": 700101,
+  "num": 1,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220301,
+  "groupId": 1002203,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 3,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220302,
+  "groupId": 1002203,
+  "objectReceiveType": 28,
+  "objectId": 700102,
+  "num": 2,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220303,
+  "groupId": 1002203,
+  "objectReceiveType": 6,
+  "objectId": 6010002,
+  "num": 100,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220304,
+  "groupId": 1002203,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 10,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220401,
+  "groupId": 1002204,
+  "objectReceiveType": 6,
+  "objectId": 3020114,
+  "num": 6,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220402,
+  "groupId": 1002204,
+  "objectReceiveType": 28,
+  "objectId": 700103,
+  "num": 4,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220403,
+  "groupId": 1002204,
+  "objectReceiveType": 6,
+  "objectId": 6010002,
+  "num": 200,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220404,
+  "groupId": 1002204,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 20,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220405,
+  "groupId": 1002204,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 10,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220501,
+  "groupId": 1002205,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 200,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220502,
+  "groupId": 1002205,
+  "objectReceiveType": 6,
+  "objectId": 4020006,
+  "num": 150,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100220601,
+  "groupId": 1002206,
+  "objectReceiveType": 6,
+  "objectId": 3020001,
+  "num": 100,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
   "shopPaymentBonusRewardMstId": 100300101,
   "groupId": 1003001,
   "objectReceiveType": 2,
@@ -11934,6 +12771,222 @@
   "isBonus": false
  },
  {
+  "shopPaymentBonusRewardMstId": 100307001,
+  "groupId": 1003070,
+  "objectReceiveType": 15,
+  "objectId": 1020801,
+  "num": 50,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307002,
+  "groupId": 1003070,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 3000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307003,
+  "groupId": 1003070,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307004,
+  "groupId": 1003070,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307005,
+  "groupId": 1003070,
+  "objectReceiveType": 6,
+  "objectId": 6010020,
+  "num": 5,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307006,
+  "groupId": 1003070,
+  "objectReceiveType": 25,
+  "objectId": 0,
+  "num": 1500,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307101,
+  "groupId": 1003071,
+  "objectReceiveType": 15,
+  "objectId": 1991101,
+  "num": 50,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307102,
+  "groupId": 1003071,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 480,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307103,
+  "groupId": 1003071,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 600000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307104,
+  "groupId": 1003071,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 1000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307105,
+  "groupId": 1003071,
+  "objectReceiveType": 6,
+  "objectId": 6010020,
+  "num": 1,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307106,
+  "groupId": 1003071,
+  "objectReceiveType": 25,
+  "objectId": 0,
+  "num": 240,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307201,
+  "groupId": 1003072,
+  "objectReceiveType": 15,
+  "objectId": 1040501,
+  "num": 50,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307202,
+  "groupId": 1003072,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 3000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307203,
+  "groupId": 1003072,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307204,
+  "groupId": 1003072,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307205,
+  "groupId": 1003072,
+  "objectReceiveType": 6,
+  "objectId": 6010020,
+  "num": 5,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100307206,
+  "groupId": 1003072,
+  "objectReceiveType": 25,
+  "objectId": 0,
+  "num": 1500,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100308901,
+  "groupId": 1003089,
+  "objectReceiveType": 15,
+  "objectId": 1050701,
+  "num": 50,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100308902,
+  "groupId": 1003089,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 3000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100308903,
+  "groupId": 1003089,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 1000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100308904,
+  "groupId": 1003089,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 2000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100308905,
+  "groupId": 1003089,
+  "objectReceiveType": 6,
+  "objectId": 6010020,
+  "num": 5,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 100308906,
+  "groupId": 1003089,
+  "objectReceiveType": 25,
+  "objectId": 0,
+  "num": 1500,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
   "shopPaymentBonusRewardMstId": 200300101,
   "groupId": 2003001,
   "objectReceiveType": 6,
@@ -13662,6 +14715,321 @@
   "isBonus": false
  },
  {
+  "shopPaymentBonusRewardMstId": 200602101,
+  "groupId": 2006021,
+  "objectReceiveType": 20,
+  "objectId": 101010130,
+  "num": 1,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602102,
+  "groupId": 2006021,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 6000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602103,
+  "groupId": 2006021,
+  "objectReceiveType": 6,
+  "objectId": 6010002,
+  "num": 5000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602104,
+  "groupId": 2006021,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 500,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602105,
+  "groupId": 2006021,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 250,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602201,
+  "groupId": 2006022,
+  "objectReceiveType": 20,
+  "objectId": 101020130,
+  "num": 1,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602202,
+  "groupId": 2006022,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 6000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602203,
+  "groupId": 2006022,
+  "objectReceiveType": 6,
+  "objectId": 6010002,
+  "num": 5000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602204,
+  "groupId": 2006022,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 500,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602205,
+  "groupId": 2006022,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 250,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602301,
+  "groupId": 2006023,
+  "objectReceiveType": 20,
+  "objectId": 105020110,
+  "num": 1,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602302,
+  "groupId": 2006023,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 3000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602303,
+  "groupId": 2006023,
+  "objectReceiveType": 6,
+  "objectId": 6010002,
+  "num": 2500,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602304,
+  "groupId": 2006023,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 250,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602305,
+  "groupId": 2006023,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 125,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602401,
+  "groupId": 2006024,
+  "objectReceiveType": 20,
+  "objectId": 105040110,
+  "num": 1,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602402,
+  "groupId": 2006024,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 6000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602403,
+  "groupId": 2006024,
+  "objectReceiveType": 6,
+  "objectId": 6010002,
+  "num": 5000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602404,
+  "groupId": 2006024,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 500,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602405,
+  "groupId": 2006024,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 250,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602501,
+  "groupId": 2006025,
+  "objectReceiveType": 20,
+  "objectId": 105070120,
+  "num": 1,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602502,
+  "groupId": 2006025,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 6000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602503,
+  "groupId": 2006025,
+  "objectReceiveType": 6,
+  "objectId": 6010002,
+  "num": 5000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602504,
+  "groupId": 2006025,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 500,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200602505,
+  "groupId": 2006025,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 250,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200603001,
+  "groupId": 2006030,
+  "objectReceiveType": 20,
+  "objectId": 101010140,
+  "num": 1,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200603002,
+  "groupId": 2006030,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 6000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200603003,
+  "groupId": 2006030,
+  "objectReceiveType": 6,
+  "objectId": 6010002,
+  "num": 5000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200603004,
+  "groupId": 2006030,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 500,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200603005,
+  "groupId": 2006030,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 250,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200603101,
+  "groupId": 2006031,
+  "objectReceiveType": 20,
+  "objectId": 101020140,
+  "num": 1,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200603102,
+  "groupId": 2006031,
+  "objectReceiveType": 6,
+  "objectId": 2000001,
+  "num": 6000000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200603103,
+  "groupId": 2006031,
+  "objectReceiveType": 6,
+  "objectId": 6010002,
+  "num": 5000,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200603104,
+  "groupId": 2006031,
+  "objectReceiveType": 6,
+  "objectId": 6010003,
+  "num": 500,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200603105,
+  "groupId": 2006031,
+  "objectReceiveType": 6,
+  "objectId": 6010004,
+  "num": 250,
+  "isHighlight": false,
+  "isBonus": false
+ },
+ {
   "shopPaymentBonusRewardMstId": 200700101,
   "groupId": 2007001,
   "objectReceiveType": 19,
@@ -13684,6 +15052,15 @@
   "groupId": 2007003,
   "objectReceiveType": 19,
   "objectId": 20008,
+  "num": 1,
+  "isHighlight": true,
+  "isBonus": false
+ },
+ {
+  "shopPaymentBonusRewardMstId": 200700401,
+  "groupId": 2007004,
+  "objectReceiveType": 19,
+  "objectId": 20009,
   "num": 1,
   "isHighlight": true,
   "isBonus": false

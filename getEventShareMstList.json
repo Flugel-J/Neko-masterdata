@@ -34,5 +34,11 @@
   "eventMstId": 100006,
   "dailyReceiveCount": 20,
   "rewardGroupId": 1
+ },
+ {
+  "eventShareMstId": 106,
+  "eventMstId": 100007,
+  "dailyReceiveCount": 20,
+  "rewardGroupId": 1
  }
 ]

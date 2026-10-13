@@ -226,5 +226,41 @@
  {
   "gardenFurnitureLayoutMstId": 57,
   "description": "Drip Counter Left"
+ },
+ {
+  "gardenFurnitureLayoutMstId": 58,
+  "description": "Bathtub"
+ },
+ {
+  "gardenFurnitureLayoutMstId": 59,
+  "description": "Shower"
+ },
+ {
+  "gardenFurnitureLayoutMstId": 60,
+  "description": "Bath Chair"
+ },
+ {
+  "gardenFurnitureLayoutMstId": 61,
+  "description": "Bathroom Partition"
+ },
+ {
+  "gardenFurnitureLayoutMstId": 62,
+  "description": "Bathroom Vanity"
+ },
+ {
+  "gardenFurnitureLayoutMstId": 63,
+  "description": "Bathroom Potted Plant"
+ },
+ {
+  "gardenFurnitureLayoutMstId": 64,
+  "description": "Washing Machine"
+ },
+ {
+  "gardenFurnitureLayoutMstId": 65,
+  "description": "Dryer"
+ },
+ {
+  "gardenFurnitureLayoutMstId": 66,
+  "description": "Bath Mat"
  }
 ]

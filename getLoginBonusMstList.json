@@ -180,6 +180,21 @@
   "endTime": "2026-09-27T23:59:59+09:00"
  },
  {
+  "loginBonusMstId": 20012,
+  "loginBonusType": 2,
+  "bannerMstId": 0,
+  "resourceId": 0,
+  "title": "Event Login Bonus",
+  "cycleType": 0,
+  "loginBonusImageId": 0,
+  "loginBonusCharacterGroupMstId": 0,
+  "loginBonusCharacterGroupId": 15,
+  "sortOrder": 15,
+  "isVisibleDayCount": true,
+  "startTime": "2026-10-06T00:00:00+09:00",
+  "endTime": "2026-10-25T23:59:59+09:00"
+ },
+ {
   "loginBonusMstId": 40001,
   "loginBonusType": 4,
   "bannerMstId": 0,
@@ -193,5 +208,35 @@
   "isVisibleDayCount": false,
   "startTime": "2026-04-14T00:00:00+09:00",
   "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "loginBonusMstId": 40002,
+  "loginBonusType": 6,
+  "bannerMstId": 0,
+  "resourceId": 0,
+  "title": "Comeback Login Bonus",
+  "cycleType": 0,
+  "loginBonusImageId": 0,
+  "loginBonusCharacterGroupMstId": 0,
+  "loginBonusCharacterGroupId": 14,
+  "sortOrder": 14,
+  "isVisibleDayCount": false,
+  "startTime": "2026-10-14T00:00:00+09:00",
+  "endTime": "2100-01-01T00:00:00+09:00"
+ },
+ {
+  "loginBonusMstId": 50002,
+  "loginBonusType": 2,
+  "bannerMstId": 0,
+  "resourceId": 0,
+  "title": "Half Anniversary Login Bonus",
+  "cycleType": 0,
+  "loginBonusImageId": 0,
+  "loginBonusCharacterGroupMstId": 0,
+  "loginBonusCharacterGroupId": 14,
+  "sortOrder": 14,
+  "isVisibleDayCount": true,
+  "startTime": "2026-10-14T00:00:00+09:00",
+  "endTime": "2026-10-20T23:59:59+09:00"
  }
 ]

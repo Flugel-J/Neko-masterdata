@@ -3512,7 +3512,7 @@
  {
   "sceneTextMstId": 703,
   "key": "battle_result_activity_detail_state_lose",
-  "text": "Lose"
+  "text": "Failed"
  },
  {
   "sceneTextMstId": 704,
@@ -10102,7 +10102,7 @@
  {
   "sceneTextMstId": 2021,
   "key": "gvg_reward_list_dialog_contribution_tab_failed",
-  "text": "Lose"
+  "text": "Failed"
  },
  {
   "sceneTextMstId": 2022,
@@ -11942,7 +11942,7 @@
  {
   "sceneTextMstId": 2389,
   "key": "gvg_summit_vote_result_title_label",
-  "text": "Round {0} Voting Results Announcement"
+  "text": "Round {0} Voting Results"
  },
  {
   "sceneTextMstId": 2390,
@@ -14790,6 +14790,46 @@
   "text": "Exchange"
  },
  {
+  "sceneTextMstId": 2959,
+  "key": "push_notification_bathing_title",
+  "text": "Master, there is an announcement for you."
+ },
+ {
+  "sceneTextMstId": 2960,
+  "key": "push_notification_bathing_message",
+  "text": "You have bathing attempts remaining!"
+ },
+ {
+  "sceneTextMstId": 2961,
+  "key": "option_dialog_label_notification_settings_can_bathing",
+  "text": "Bathing"
+ },
+ {
+  "sceneTextMstId": 2962,
+  "key": "miniature_field_bath_left_count_label",
+  "text": "Baths Remaining"
+ },
+ {
+  "sceneTextMstId": 2963,
+  "key": "miniature_field_bath_refresh_time_text",
+  "text": "Until Refresh"
+ },
+ {
+  "sceneTextMstId": 2964,
+  "key": "miniature_card_place_require_lover_message",
+  "text": "You must become a catpanion to be placed in the Bath."
+ },
+ {
+  "sceneTextMstId": 2965,
+  "key": "miniature_card_place_to_neko_profile",
+  "text": "Cat Profile"
+ },
+ {
+  "sceneTextMstId": 2966,
+  "key": "miniature_field_bath_no_bathing_count",
+  "text": "No bathing attempts remaining."
+ },
+ {
   "sceneTextMstId": 2967,
   "key": "invitation_code_share_message",
   "text": "Start playing Nekopara Sekai Connect! Invitation Code: {0} #ネココネ #ネココネ招待コード"
@@ -14815,6 +14855,16 @@
   "text": "Daily Comm attempts increased."
  },
  {
+  "sceneTextMstId": 2972,
+  "key": "exchange_button_state_acquired",
+  "text": "Obtained"
+ },
+ {
+  "sceneTextMstId": 2973,
+  "key": "shop_steam_overray",
+  "text": "The Steam Overlay must be enabled to make purchases.\nPlease make sure it is enabled under Steam > Settings > In Game, then restart the game."
+ },
+ {
   "sceneTextMstId": 2974,
   "key": "badge_miniature_upgrade_furniture",
   "text": "Furniture Enhancement complete!"
@@ -14830,8 +14880,153 @@
   "text": "Delivery complete!"
  },
  {
+  "sceneTextMstId": 2977,
+  "key": "localize_zh-Hant",
+  "text": "繁體字"
+ },
+ {
+  "sceneTextMstId": 2978,
+  "key": "localize_zh-Hans",
+  "text": "简体字"
+ },
+ {
   "sceneTextMstId": 2979,
   "key": "communication_stamina_Increasing",
   "text": "Comm UP"
+ },
+ {
+  "sceneTextMstId": 2980,
+  "key": "character_unit_type_label_passion",
+  "text": "Passion Type"
+ },
+ {
+  "sceneTextMstId": 2981,
+  "key": "character_unit_type_label_sweet",
+  "text": "Sweet Type"
+ },
+ {
+  "sceneTextMstId": 2982,
+  "key": "character_unit_type_label_pop",
+  "text": "Pop Type"
+ },
+ {
+  "sceneTextMstId": 2983,
+  "key": "character_unit_type_label_normal",
+  "text": "Normal Type"
+ },
+ {
+  "sceneTextMstId": 2984,
+  "key": "login_bonus_comeback_time",
+  "text": "Event Period: {0} – {1}"
+ },
+ {
+  "sceneTextMstId": 2985,
+  "key": "gacha_dairy_free_confirm_caution",
+  "text": "This Trip resets every day at 0:00(JST)."
+ },
+ {
+  "sceneTextMstId": 2986,
+  "key": "gacha_periodic_free_confirm_execute",
+  "text": "Execute {0}"
+ },
+ {
+  "sceneTextMstId": 2987,
+  "key": "gacha_dairy_free_confirm_appeal_label",
+  "text": "Free Once Daily"
+ },
+ {
+  "sceneTextMstId": 2988,
+  "key": "option_dialog_label_resolution_full_screen",
+  "text": "Full Screen"
+ },
+ {
+  "sceneTextMstId": 2989,
+  "key": "character_unit_type_change_confirmation",
+  "text": "Switch Types?"
+ },
+ {
+  "sceneTextMstId": 2990,
+  "key": "character_unit_type_change_complete",
+  "text": "Type switched!"
+ },
+ {
+  "sceneTextMstId": 2991,
+  "key": "character_unit_type_no_equip_skin",
+  "text": "You can switch Types while wearing a Costume."
+ },
+ {
+  "sceneTextMstId": 2992,
+  "key": "character_unit_type_tower_removed_from_party",
+  "text": "Nekos that do not meet the entry requirements have been removed from your party."
+ },
+ {
+  "sceneTextMstId": 2993,
+  "key": "character_unit_type_unavailable_feature",
+  "text": "This Type cannot be used in the current battle."
+ },
+ {
+  "sceneTextMstId": 2994,
+  "key": "character_unit_type_pop",
+  "text": "Pop"
+ },
+ {
+  "sceneTextMstId": 2995,
+  "key": "character_unit_type_passion",
+  "text": "Passion"
+ },
+ {
+  "sceneTextMstId": 2996,
+  "key": "character_unit_type_sweet",
+  "text": "Sweet"
+ },
+ {
+  "sceneTextMstId": 2997,
+  "key": "character_unit_type_normal",
+  "text": "Normal"
+ },
+ {
+  "sceneTextMstId": 2998,
+  "key": "option_dialog_label_quality_setting_resolution",
+  "text": "Display Mode"
+ },
+ {
+  "sceneTextMstId": 2999,
+  "key": "main_tutorial_skip_confirm_message",
+  "text": "Would you like to skip the Tutorial?"
+ },
+ {
+  "sceneTextMstId": 3000,
+  "key": "main_tutorial_new_feature_unlock_title",
+  "text": "The following features have been unlocked:"
+ },
+ {
+  "sceneTextMstId": 3001,
+  "key": "main_tutorial_new_feature_unlock_auto_battle",
+  "text": "- Auto-Battle"
+ },
+ {
+  "sceneTextMstId": 3002,
+  "key": "main_tutorial_new_feature_unlock_battle_speed",
+  "text": "- 2x Battle Speed"
+ },
+ {
+  "sceneTextMstId": 3003,
+  "key": "miniature_bathing_get_coin_message",
+  "text": "You obtained {0} Rubber Duck."
+ },
+ {
+  "sceneTextMstId": 3004,
+  "key": "miniature_top_button_bath_exchange",
+  "text": "Exchange"
+ },
+ {
+  "sceneTextMstId": 3005,
+  "key": "communication_available_limited_time_text",
+  "text": "Limited-Time Unlock"
+ },
+ {
+  "sceneTextMstId": 3006,
+  "key": "character_detail_communication_available_limited_time_text",
+  "text": "Limited-Time Unlock"
  }
 ]

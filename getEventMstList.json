@@ -37,7 +37,9 @@
   "characterSkinMstIds": "101010110,101020110,101060110,101070110",
   "subTutorialCategoryTypeId": 280100001,
   "exchangeBackGroundResourceId": 0,
-  "questBackGroundResourceId": 0
+  "questBackGroundResourceId": 0,
+  "isRevival": false,
+  "sortOrder": 1
  },
  {
   "eventMstId": 100002,
@@ -77,7 +79,9 @@
   "characterSkinMstIds": "101030110,104030110,0,106050110",
   "subTutorialCategoryTypeId": 280100002,
   "exchangeBackGroundResourceId": 0,
-  "questBackGroundResourceId": 0
+  "questBackGroundResourceId": 0,
+  "isRevival": false,
+  "sortOrder": 2
  },
  {
   "eventMstId": 100003,
@@ -117,7 +121,9 @@
   "characterSkinMstIds": "104050110,0,106030110,105030110",
   "subTutorialCategoryTypeId": 280100001,
   "exchangeBackGroundResourceId": 0,
-  "questBackGroundResourceId": 0
+  "questBackGroundResourceId": 0,
+  "isRevival": false,
+  "sortOrder": 3
  },
  {
   "eventMstId": 100004,
@@ -157,7 +163,9 @@
   "characterSkinMstIds": "102050110,0,102060110,102100110",
   "subTutorialCategoryTypeId": 280100002,
   "exchangeBackGroundResourceId": 0,
-  "questBackGroundResourceId": 0
+  "questBackGroundResourceId": 0,
+  "isRevival": false,
+  "sortOrder": 4
  },
  {
   "eventMstId": 100005,
@@ -197,7 +205,9 @@
   "characterSkinMstIds": "101030120,101040110,102120110,101050110",
   "subTutorialCategoryTypeId": 280100001,
   "exchangeBackGroundResourceId": 202608,
-  "questBackGroundResourceId": 202608
+  "questBackGroundResourceId": 202608,
+  "isRevival": false,
+  "sortOrder": 5
  },
  {
   "eventMstId": 100006,
@@ -237,6 +247,92 @@
   "characterSkinMstIds": "106080110,0,103010110,106020110",
   "subTutorialCategoryTypeId": 280100002,
   "exchangeBackGroundResourceId": 202609,
-  "questBackGroundResourceId": 202609
+  "questBackGroundResourceId": 202609,
+  "isRevival": false,
+  "sortOrder": 6
+ },
+ {
+  "eventMstId": 100007,
+  "eventType": 1,
+  "name": "The 4th Purrformance♪ ~Chasing the Naughty Neko~",
+  "eventStamina": 10,
+  "eventItemMstId": 0,
+  "startBannerMstId": 0,
+  "startBannerStartTime": "2026-10-02T17:00:00+09:00",
+  "endBannerMstId": 0,
+  "endBannerStartTime": "2100-01-01T00:00:00+09:00",
+  "bannerMstId": 61,
+  "questCategoryMstId": 0,
+  "loginBonusMstId": 0,
+  "missionTitleMstId": 70007,
+  "missionTitleMstIdPass": 70007,
+  "shopSeriesMstId": 0,
+  "startTime": "2026-10-05T15:00:00+09:00",
+  "secondHalfStartTime": "2026-10-12T15:00:00+09:00",
+  "endTime": "2026-10-26T15:00:00+09:00",
+  "displayEndTime": "2026-10-29T16:59:59+09:00",
+  "firstAdv": "",
+  "resourceId": 100401,
+  "backgroundId": 100401,
+  "menuBackgroundId": 0,
+  "overflowColor": 0,
+  "characterMstIds": "",
+  "triggerType": 0,
+  "isCollaboration": false,
+  "firstDirectionPrefabId": 0,
+  "eventScriptId": 0,
+  "eventPrefabAddress": "",
+  "skinShopPaymentTabMstId": 6,
+  "itemShopPaymentTabMstId": 1,
+  "eventExchangeShopMstId": 21,
+  "bgm": "bgm_eventTop_halloween",
+  "characterSkinMstIds": "105070120,0,105020110,105040110",
+  "subTutorialCategoryTypeId": 280100001,
+  "exchangeBackGroundResourceId": 202610,
+  "questBackGroundResourceId": 202610,
+  "isRevival": false,
+  "sortOrder": 7
+ },
+ {
+  "eventMstId": 200001,
+  "eventType": 1,
+  "name": "The 1st Purrformance♪ ~Sisters' Quartet~",
+  "eventStamina": 10,
+  "eventItemMstId": 0,
+  "startBannerMstId": 0,
+  "startBannerStartTime": "2026-09-25T17:00:00+09:00",
+  "endBannerMstId": 0,
+  "endBannerStartTime": "2100-01-01T00:00:00+09:00",
+  "bannerMstId": 58,
+  "questCategoryMstId": 0,
+  "loginBonusMstId": 0,
+  "missionTitleMstId": 110001,
+  "missionTitleMstIdPass": 110001,
+  "shopSeriesMstId": 0,
+  "startTime": "2026-09-28T15:00:00+09:00",
+  "secondHalfStartTime": "2026-09-28T17:00:00+09:00",
+  "endTime": "2026-10-26T15:00:00+09:00",
+  "displayEndTime": "2026-10-29T16:59:59+09:00",
+  "firstAdv": "",
+  "resourceId": 100101,
+  "backgroundId": 100101,
+  "menuBackgroundId": 0,
+  "overflowColor": 0,
+  "characterMstIds": "",
+  "triggerType": 0,
+  "isCollaboration": false,
+  "firstDirectionPrefabId": 0,
+  "eventScriptId": 0,
+  "eventPrefabAddress": "",
+  "skinShopPaymentTabMstId": 6,
+  "itemShopPaymentTabMstId": 1,
+  "eventExchangeShopMstId": 19,
+  "bgm": "bgm_eventTop_rhythmic",
+  "characterSkinMstIds": "101010110,101020110,101060110,101070110",
+  "subTutorialCategoryTypeId": 280100003,
+  "exchangeBackGroundResourceId": 5,
+  "questBackGroundResourceId": 6,
+  "isRevival": true,
+  "sortOrder": 1
  }
 ]

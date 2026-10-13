@@ -878,5 +878,115 @@
   "furnitureDirection": 0,
   "layoutPlaceType": 4,
   "areaType": 1
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 94,
+  "gardenFurnitureLayoutMstId": 8,
+  "description": "Bathroom Floor",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 2,
+  "areaType": 8
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 95,
+  "gardenFurnitureLayoutMstId": 9,
+  "description": "Bathroom Wall",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 3,
+  "areaType": 8
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 96,
+  "gardenFurnitureLayoutMstId": 58,
+  "description": "Bathtub",
+  "positionX": 5,
+  "positionY": 3,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 8
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 97,
+  "gardenFurnitureLayoutMstId": 59,
+  "description": "Shower",
+  "positionX": 5,
+  "positionY": -1,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 4,
+  "areaType": 8
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 98,
+  "gardenFurnitureLayoutMstId": 60,
+  "description": "Bath Chair",
+  "positionX": 6,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 8
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 99,
+  "gardenFurnitureLayoutMstId": 61,
+  "description": "Bathroom Partition",
+  "positionX": 3,
+  "positionY": 3,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 8
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 100,
+  "gardenFurnitureLayoutMstId": 62,
+  "description": "Bathroom Vanity",
+  "positionX": 0,
+  "positionY": 7,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 8
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 101,
+  "gardenFurnitureLayoutMstId": 63,
+  "description": "Bathroom Potted Plant",
+  "positionX": 2,
+  "positionY": 5,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 8
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 102,
+  "gardenFurnitureLayoutMstId": 64,
+  "description": "Washing Machine",
+  "positionX": 2,
+  "positionY": 4,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 8
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 103,
+  "gardenFurnitureLayoutMstId": 65,
+  "description": "Dryer",
+  "positionX": 2,
+  "positionY": 3,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 8
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 104,
+  "gardenFurnitureLayoutMstId": 66,
+  "description": "Bath Mat",
+  "positionX": 2,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 1,
+  "areaType": 8
  }
 ]

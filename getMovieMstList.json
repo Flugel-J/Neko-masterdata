@@ -8,11 +8,12 @@
   "soundFileName": "bgm_festival_rhythmGame_10001",
   "sortOrder": 1,
   "movieType": 1,
-  "idByType": 0,
+  "idByTypes": "0",
   "isSideways": false,
   "startTime": "2025-01-01T00:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 2,
@@ -23,11 +24,12 @@
   "soundFileName": "bgm_festival_rhythmGame_10001",
   "sortOrder": 1001,
   "movieType": 2,
-  "idByType": 10001,
+  "idByTypes": "10001",
   "isSideways": true,
   "startTime": "2025-01-01T00:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 3,
@@ -38,11 +40,12 @@
   "soundFileName": "bgm_festival_rhythmGame_10003",
   "sortOrder": 1002,
   "movieType": 2,
-  "idByType": 10003,
+  "idByTypes": "10003",
   "isSideways": true,
   "startTime": "2025-01-01T00:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 4,
@@ -53,11 +56,12 @@
   "soundFileName": "bgm_festival_rhythmGame_20001",
   "sortOrder": 2001,
   "movieType": 2,
-  "idByType": 20001,
+  "idByTypes": "20001",
   "isSideways": true,
   "startTime": "2025-01-01T00:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 5,
@@ -68,11 +72,12 @@
   "soundFileName": "bgm_festival_rhythmGame_20002",
   "sortOrder": 2002,
   "movieType": 2,
-  "idByType": 20002,
+  "idByTypes": "20002",
   "isSideways": true,
   "startTime": "2025-01-01T00:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 6,
@@ -83,11 +88,12 @@
   "soundFileName": "bgm_festival_rhythmGame_20003",
   "sortOrder": 2003,
   "movieType": 2,
-  "idByType": 20003,
+  "idByTypes": "20003",
   "isSideways": true,
   "startTime": "2025-01-01T00:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 7,
@@ -98,11 +104,12 @@
   "soundFileName": "bgm_festival_rhythmGame_20004",
   "sortOrder": 2004,
   "movieType": 2,
-  "idByType": 20004,
+  "idByTypes": "20004",
   "isSideways": true,
   "startTime": "2025-01-01T00:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 8,
@@ -113,26 +120,12 @@
   "soundFileName": "bgm_festival_rhythmGame_20005",
   "sortOrder": 2005,
   "movieType": 2,
-  "idByType": 20005,
+  "idByTypes": "20005",
   "isSideways": true,
   "startTime": "2025-01-01T00:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
- },
- {
-  "movieMstId": 9,
-  "title": "Sweets＆Smiles",
-  "thumbnailPath": "thumb_mov_00000009",
-  "movieFilePath": "Movie/RhythmGame/mov_rhythmGame_100101.usm",
-  "resourceId": 100101,
-  "soundFileName": "bgm_festival_rhythmGame_100101",
-  "sortOrder": 2006,
-  "movieType": 2,
-  "idByType": 20006,
-  "isSideways": true,
-  "startTime": "2026-04-27T15:00:00+09:00",
-  "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 10,
@@ -143,26 +136,12 @@
   "soundFileName": "bgm_festival_rhythmGame_100101",
   "sortOrder": 2006,
   "movieType": 2,
-  "idByType": 100101,
+  "idByTypes": "100101",
   "isSideways": true,
   "startTime": "2026-04-17T15:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
- },
- {
-  "movieMstId": 11,
-  "title": "The Bouquet I Longed For",
-  "thumbnailPath": "thumb_mov_00000010",
-  "movieFilePath": "Movie/RhythmGame/mov_rhythmGame_100301.usm",
-  "resourceId": 100301,
-  "soundFileName": "bgm_festival_rhythmGame_100301",
-  "sortOrder": 2007,
-  "movieType": 2,
-  "idByType": 20007,
-  "isSideways": true,
-  "startTime": "2026-06-22T15:00:00+09:00",
-  "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 12,
@@ -173,26 +152,12 @@
   "soundFileName": "bgm_festival_rhythmGame_100301",
   "sortOrder": 2007,
   "movieType": 2,
-  "idByType": 100301,
+  "idByTypes": "100301",
   "isSideways": true,
   "startTime": "2026-06-05T15:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
- },
- {
-  "movieMstId": 13,
-  "title": "It's a Summer High Tension!",
-  "thumbnailPath": "thumb_mov_00000011",
-  "movieFilePath": "Movie/RhythmGame/mov_rhythmGame_100501.usm",
-  "resourceId": 100501,
-  "soundFileName": "bgm_festival_rhythmGame_100501",
-  "sortOrder": 2008,
-  "movieType": 2,
-  "idByType": 20008,
-  "isSideways": true,
-  "startTime": "2026-08-03T15:00:00+09:00",
-  "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 14,
@@ -203,11 +168,12 @@
   "soundFileName": "bgm_festival_rhythmGame_100501",
   "sortOrder": 2008,
   "movieType": 2,
-  "idByType": 100501,
+  "idByTypes": "100501",
   "isSideways": true,
   "startTime": "2026-08-24T15:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 15,
@@ -218,11 +184,28 @@
   "soundFileName": "bgm_festival_rhythmGame_10004",
   "sortOrder": 1003,
   "movieType": 2,
-  "idByType": 10004,
+  "idByTypes": "10004",
   "isSideways": true,
   "startTime": "2026-08-24T15:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
+ },
+ {
+  "movieMstId": 17,
+  "title": "Trick You♥",
+  "thumbnailPath": "thumb_mov_00000012_en",
+  "movieFilePath": "Movie/RhythmGame/mov_rhythmGame_100701_en.usm",
+  "resourceId": 100701,
+  "soundFileName": "bgm_festival_rhythmGame_100701",
+  "sortOrder": 2009,
+  "movieType": 2,
+  "idByTypes": "100701",
+  "isSideways": true,
+  "startTime": "2026-10-05T15:00:00+09:00",
+  "endTime": "2030-01-01T00:00:00+09:00",
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 3001,
@@ -233,11 +216,12 @@
   "soundFileName": "",
   "sortOrder": 3001,
   "movieType": 3,
-  "idByType": 100001,
+  "idByTypes": "100001,200001",
   "isSideways": false,
   "startTime": "2026-06-22T15:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 3002,
@@ -248,11 +232,12 @@
   "soundFileName": "",
   "sortOrder": 3002,
   "movieType": 3,
-  "idByType": 100002,
+  "idByTypes": "100002",
   "isSideways": false,
   "startTime": "2026-06-22T15:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 3003,
@@ -263,11 +248,12 @@
   "soundFileName": "",
   "sortOrder": 3003,
   "movieType": 3,
-  "idByType": 100003,
+  "idByTypes": "100003",
   "isSideways": false,
   "startTime": "2026-06-22T15:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 3004,
@@ -278,11 +264,12 @@
   "soundFileName": "",
   "sortOrder": 3004,
   "movieType": 3,
-  "idByType": 100004,
+  "idByTypes": "100004",
   "isSideways": false,
   "startTime": "2026-06-22T15:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 3005,
@@ -293,11 +280,12 @@
   "soundFileName": "",
   "sortOrder": 3005,
   "movieType": 3,
-  "idByType": 100005,
+  "idByTypes": "100005",
   "isSideways": false,
   "startTime": "2026-08-24T15:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 3006,
@@ -308,11 +296,28 @@
   "soundFileName": "",
   "sortOrder": 3006,
   "movieType": 3,
-  "idByType": 100006,
+  "idByTypes": "100006",
   "isSideways": false,
   "startTime": "2026-09-28T15:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": ""
+  "typeParam": "",
+  "isSave": true
+ },
+ {
+  "movieMstId": 3007,
+  "title": "The 4th Purrformance♪ ~Chasing the Naughty Neko~",
+  "thumbnailPath": "thumb_mov_10000007",
+  "movieFilePath": "Movie/Localize_jp/Event/event_start_100401_en.usm",
+  "resourceId": 100401,
+  "soundFileName": "",
+  "sortOrder": 3007,
+  "movieType": 3,
+  "idByTypes": "100007",
+  "isSideways": false,
+  "startTime": "2026-10-05T15:00:00+09:00",
+  "endTime": "2030-01-01T00:00:00+09:00",
+  "typeParam": "",
+  "isSave": true
  },
  {
   "movieMstId": 4001,
@@ -323,10 +328,27 @@
   "soundFileName": "",
   "sortOrder": 4001,
   "movieType": 4,
-  "idByType": 0,
+  "idByTypes": "0",
   "isSideways": false,
   "startTime": "2026-07-03T00:00:00+09:00",
   "endTime": "2030-01-01T00:00:00+09:00",
-  "typeParam": "07-03"
+  "typeParam": "07-03",
+  "isSave": true
+ },
+ {
+  "movieMstId": 4002,
+  "title": "Half Anniversary",
+  "thumbnailPath": "thumb_mov_30000002",
+  "movieFilePath": "Movie/Localize_ww/Anniversary/Anniversary_0.5_en.usm",
+  "resourceId": 0,
+  "soundFileName": "",
+  "sortOrder": 4002,
+  "movieType": 5,
+  "idByTypes": "0",
+  "isSideways": false,
+  "startTime": "2026-10-14T00:00:00+09:00",
+  "endTime": "2026-10-21T00:00:00+09:00",
+  "typeParam": "",
+  "isSave": false
  }
 ]

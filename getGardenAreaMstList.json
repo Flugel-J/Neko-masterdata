@@ -75,5 +75,16 @@
   "positionX": 32,
   "positionY": 0,
   "tabName": "Your Room"
+ },
+ {
+  "gardenAreaMstId": 8,
+  "name": "Bath",
+  "description": "Give Sweetheart Neko a bath to get a Rubber Duck.",
+  "areaType": 8,
+  "sizeX": 8,
+  "sizeY": 8,
+  "positionX": 32,
+  "positionY": 8,
+  "tabName": "Bath"
  }
 ]

@@ -1083,5 +1083,90 @@
   "gardenFurnitureGroupMstId": 217,
   "gardenFurnitureMstId": 205020,
   "gardenFurnitureLayoutMstId": 11
+ },
+ {
+  "gardenFurnitureGroupMstId": 218,
+  "gardenFurnitureMstId": 101008,
+  "gardenFurnitureLayoutMstId": 2
+ },
+ {
+  "gardenFurnitureGroupMstId": 219,
+  "gardenFurnitureMstId": 201031,
+  "gardenFurnitureLayoutMstId": 37
+ },
+ {
+  "gardenFurnitureGroupMstId": 220,
+  "gardenFurnitureMstId": 208046,
+  "gardenFurnitureLayoutMstId": 6
+ },
+ {
+  "gardenFurnitureGroupMstId": 221,
+  "gardenFurnitureMstId": 210027,
+  "gardenFurnitureLayoutMstId": 36
+ },
+ {
+  "gardenFurnitureGroupMstId": 222,
+  "gardenFurnitureMstId": 208047,
+  "gardenFurnitureLayoutMstId": 12
+ },
+ {
+  "gardenFurnitureGroupMstId": 223,
+  "gardenFurnitureMstId": 208048,
+  "gardenFurnitureLayoutMstId": 7
+ },
+ {
+  "gardenFurnitureGroupMstId": 224,
+  "gardenFurnitureMstId": 316001,
+  "gardenFurnitureLayoutMstId": 8
+ },
+ {
+  "gardenFurnitureGroupMstId": 225,
+  "gardenFurnitureMstId": 317001,
+  "gardenFurnitureLayoutMstId": 9
+ },
+ {
+  "gardenFurnitureGroupMstId": 226,
+  "gardenFurnitureMstId": 208049,
+  "gardenFurnitureLayoutMstId": 58
+ },
+ {
+  "gardenFurnitureGroupMstId": 227,
+  "gardenFurnitureMstId": 208050,
+  "gardenFurnitureLayoutMstId": 59
+ },
+ {
+  "gardenFurnitureGroupMstId": 228,
+  "gardenFurnitureMstId": 206019,
+  "gardenFurnitureLayoutMstId": 60
+ },
+ {
+  "gardenFurnitureGroupMstId": 229,
+  "gardenFurnitureMstId": 208051,
+  "gardenFurnitureLayoutMstId": 61
+ },
+ {
+  "gardenFurnitureGroupMstId": 230,
+  "gardenFurnitureMstId": 208052,
+  "gardenFurnitureLayoutMstId": 62
+ },
+ {
+  "gardenFurnitureGroupMstId": 231,
+  "gardenFurnitureMstId": 208053,
+  "gardenFurnitureLayoutMstId": 63
+ },
+ {
+  "gardenFurnitureGroupMstId": 232,
+  "gardenFurnitureMstId": 208054,
+  "gardenFurnitureLayoutMstId": 64
+ },
+ {
+  "gardenFurnitureGroupMstId": 233,
+  "gardenFurnitureMstId": 208055,
+  "gardenFurnitureLayoutMstId": 65
+ },
+ {
+  "gardenFurnitureGroupMstId": 234,
+  "gardenFurnitureMstId": 209013,
+  "gardenFurnitureLayoutMstId": 66
  }
 ]

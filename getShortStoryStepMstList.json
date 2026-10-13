@@ -11992,7 +11992,7 @@
   "scriptId": 601060801,
   "index": 9,
   "commandType": 100,
-  "mainStepParameter": "Yeehaw! I struck gold!",
+  "mainStepParameter": "Yeehaw!\nI struck gold!",
   "subStepParameter": "",
   "thirdStepParameter": ""
  },
@@ -12179,6 +12179,276 @@
  {
   "shortStoryStepMstId": 1354,
   "scriptId": 601060802,
+  "index": 15,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1445,
+  "scriptId": 601050701,
+  "index": 1,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1446,
+  "scriptId": 601050701,
+  "index": 2,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1447,
+  "scriptId": 601050701,
+  "index": 3,
+  "commandType": 201,
+  "mainStepParameter": "motion_100",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1448,
+  "scriptId": 601050701,
+  "index": 4,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10507",
+  "subStepParameter": "slack_discovery_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1449,
+  "scriptId": 601050701,
+  "index": 5,
+  "commandType": 100,
+  "mainStepParameter": "I'm not slacking.\nI'm simply sightseeing incognito.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1450,
+  "scriptId": 601050701,
+  "index": 6,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_040",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1451,
+  "scriptId": 601050701,
+  "index": 7,
+  "commandType": 201,
+  "mainStepParameter": "motion_200",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1452,
+  "scriptId": 601050701,
+  "index": 8,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10507",
+  "subStepParameter": "slack_item_earned_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1453,
+  "scriptId": 601050701,
+  "index": 9,
+  "commandType": 100,
+  "mainStepParameter": "Oh? A tribute from the world?\nNot bad.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1454,
+  "scriptId": 601050701,
+  "index": 10,
+  "commandType": 910,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1455,
+  "scriptId": 601050701,
+  "index": 11,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_000",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1456,
+  "scriptId": 601050701,
+  "index": 12,
+  "commandType": 201,
+  "mainStepParameter": "motion_300",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1457,
+  "scriptId": 601050701,
+  "index": 13,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10507",
+  "subStepParameter": "slack_homing_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1458,
+  "scriptId": 601050701,
+  "index": 14,
+  "commandType": 100,
+  "mainStepParameter": "Okay, time to head back. \nI'm satisfied.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1459,
+  "scriptId": 601050701,
+  "index": 15,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1460,
+  "scriptId": 601050702,
+  "index": 1,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1461,
+  "scriptId": 601050702,
+  "index": 2,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1462,
+  "scriptId": 601050702,
+  "index": 3,
+  "commandType": 201,
+  "mainStepParameter": "motion_100",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1463,
+  "scriptId": 601050702,
+  "index": 4,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10507",
+  "subStepParameter": "slack_discovery_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1464,
+  "scriptId": 601050702,
+  "index": 5,
+  "commandType": 100,
+  "mainStepParameter": "I'm amused you dare scold me.\nYou must keep me company as punishment.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1465,
+  "scriptId": 601050702,
+  "index": 6,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_000",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1466,
+  "scriptId": 601050702,
+  "index": 7,
+  "commandType": 201,
+  "mainStepParameter": "motion_300",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1467,
+  "scriptId": 601050702,
+  "index": 8,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10507",
+  "subStepParameter": "slack_item_earned_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1468,
+  "scriptId": 601050702,
+  "index": 9,
+  "commandType": 100,
+  "mainStepParameter": "This might be valuable.\nYou better take it.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1469,
+  "scriptId": 601050702,
+  "index": 10,
+  "commandType": 910,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1470,
+  "scriptId": 601050702,
+  "index": 11,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_000",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1471,
+  "scriptId": 601050702,
+  "index": 12,
+  "commandType": 201,
+  "mainStepParameter": "motion_100",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1472,
+  "scriptId": 601050702,
+  "index": 13,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10507",
+  "subStepParameter": "slack_homing_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1473,
+  "scriptId": 601050702,
+  "index": 14,
+  "commandType": 100,
+  "mainStepParameter": "I hate saying goodbye, but you should\nalways leave on a high note.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1474,
+  "scriptId": 601050702,
   "index": 15,
   "commandType": 200,
   "mainStepParameter": "",

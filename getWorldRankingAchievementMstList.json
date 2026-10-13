@@ -1600,6 +1600,30 @@
   "worldRankingRewardGroupId": 100001014
  },
  {
+  "worldRankingAchievementMstId": 101010,
+  "worldRankingMstId": 1010,
+  "sortOrder": 1,
+  "name": "Reach Area 11 first.",
+  "threshold": 11,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 101011,
+  "worldRankingMstId": 1010,
+  "sortOrder": 1,
+  "name": "Reach Area 12 first.",
+  "threshold": 12,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 101012,
+  "worldRankingMstId": 1010,
+  "sortOrder": 1,
+  "name": "Reach Area 13 first.",
+  "threshold": 13,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
   "worldRankingAchievementMstId": 200101,
   "worldRankingMstId": 2001,
   "sortOrder": 1,

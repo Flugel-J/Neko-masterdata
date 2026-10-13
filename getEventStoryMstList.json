@@ -1,8 +1,8 @@
 [
  {
   "eventStoryMstId": 10000101,
-  "eventMstId": 100001,
-  "unlockQuestStageMstId": 30010001,
+  "eventMstId": 200001,
+  "unlockQuestStageMstIds": "40010001,30010001",
   "episodeNum": 1,
   "episodeName": "Chapter 1",
   "scriptFile": "Event/00001/event_00001_010",
@@ -16,8 +16,8 @@
  },
  {
   "eventStoryMstId": 10000102,
-  "eventMstId": 100001,
-  "unlockQuestStageMstId": 30010004,
+  "eventMstId": 200001,
+  "unlockQuestStageMstIds": "40010002,30010004",
   "episodeNum": 2,
   "episodeName": "Chapter 2",
   "scriptFile": "Event/00001/event_00001_020",
@@ -31,8 +31,8 @@
  },
  {
   "eventStoryMstId": 10000103,
-  "eventMstId": 100001,
-  "unlockQuestStageMstId": 30010007,
+  "eventMstId": 200001,
+  "unlockQuestStageMstIds": "40010004,30010007",
   "episodeNum": 3,
   "episodeName": "Chapter 3",
   "scriptFile": "Event/00001/event_00001_030",
@@ -46,8 +46,8 @@
  },
  {
   "eventStoryMstId": 10000104,
-  "eventMstId": 100001,
-  "unlockQuestStageMstId": 30010010,
+  "eventMstId": 200001,
+  "unlockQuestStageMstIds": "40010005,30010011",
   "episodeNum": 4,
   "episodeName": "Chapter 4",
   "scriptFile": "Event/00001/event_00001_040",
@@ -61,8 +61,8 @@
  },
  {
   "eventStoryMstId": 10000105,
-  "eventMstId": 100001,
-  "unlockQuestStageMstId": 30010015,
+  "eventMstId": 200001,
+  "unlockQuestStageMstIds": "40010007,30010015",
   "episodeNum": 5,
   "episodeName": "Chapter 5",
   "scriptFile": "Event/00001/event_00001_050",
@@ -76,8 +76,8 @@
  },
  {
   "eventStoryMstId": 10000106,
-  "eventMstId": 100001,
-  "unlockQuestStageMstId": 30010017,
+  "eventMstId": 200001,
+  "unlockQuestStageMstIds": "40010008,30010017",
   "episodeNum": 6,
   "episodeName": "Chapter 6",
   "scriptFile": "Event/00001/event_00001_060",
@@ -91,8 +91,8 @@
  },
  {
   "eventStoryMstId": 10000107,
-  "eventMstId": 100001,
-  "unlockQuestStageMstId": 30010020,
+  "eventMstId": 200001,
+  "unlockQuestStageMstIds": "40010010,30010020",
   "episodeNum": 7,
   "episodeName": "Chapter 7",
   "scriptFile": "Event/00001/event_00001_070",
@@ -106,8 +106,8 @@
  },
  {
   "eventStoryMstId": 10000108,
-  "eventMstId": 100001,
-  "unlockQuestStageMstId": 30010024,
+  "eventMstId": 200001,
+  "unlockQuestStageMstIds": "40010011,30010024",
   "episodeNum": 8,
   "episodeName": "Chapter 8",
   "scriptFile": "Event/00001/event_00001_080",
@@ -121,8 +121,8 @@
  },
  {
   "eventStoryMstId": 10000109,
-  "eventMstId": 100001,
-  "unlockQuestStageMstId": 30010027,
+  "eventMstId": 200001,
+  "unlockQuestStageMstIds": "40010013,30010027",
   "episodeNum": 9,
   "episodeName": "Chapter 9",
   "scriptFile": "Event/00001/event_00001_090",
@@ -136,8 +136,8 @@
  },
  {
   "eventStoryMstId": 10000110,
-  "eventMstId": 100001,
-  "unlockQuestStageMstId": 30010030,
+  "eventMstId": 200001,
+  "unlockQuestStageMstIds": "40010015,30010030",
   "episodeNum": 10,
   "episodeName": "Chapter 10",
   "scriptFile": "Event/00001/event_00001_100",
@@ -152,7 +152,7 @@
  {
   "eventStoryMstId": 10000201,
   "eventMstId": 100002,
-  "unlockQuestStageMstId": 30020001,
+  "unlockQuestStageMstIds": "30020001",
   "episodeNum": 1,
   "episodeName": "Chapter 1",
   "scriptFile": "Event/00002/event_00002_010",
@@ -167,7 +167,7 @@
  {
   "eventStoryMstId": 10000202,
   "eventMstId": 100002,
-  "unlockQuestStageMstId": 30020004,
+  "unlockQuestStageMstIds": "30020004",
   "episodeNum": 2,
   "episodeName": "Chapter 2",
   "scriptFile": "Event/00002/event_00002_020",
@@ -182,7 +182,7 @@
  {
   "eventStoryMstId": 10000203,
   "eventMstId": 100002,
-  "unlockQuestStageMstId": 30020007,
+  "unlockQuestStageMstIds": "30020007",
   "episodeNum": 3,
   "episodeName": "Chapter 3",
   "scriptFile": "Event/00002/event_00002_030",
@@ -197,7 +197,7 @@
  {
   "eventStoryMstId": 10000204,
   "eventMstId": 100002,
-  "unlockQuestStageMstId": 30020011,
+  "unlockQuestStageMstIds": "30020011",
   "episodeNum": 4,
   "episodeName": "Chapter 4",
   "scriptFile": "Event/00002/event_00002_040",
@@ -212,7 +212,7 @@
  {
   "eventStoryMstId": 10000205,
   "eventMstId": 100002,
-  "unlockQuestStageMstId": 30020015,
+  "unlockQuestStageMstIds": "30020015",
   "episodeNum": 5,
   "episodeName": "Chapter 5",
   "scriptFile": "Event/00002/event_00002_050",
@@ -227,7 +227,7 @@
  {
   "eventStoryMstId": 10000206,
   "eventMstId": 100002,
-  "unlockQuestStageMstId": 30020017,
+  "unlockQuestStageMstIds": "30020017",
   "episodeNum": 6,
   "episodeName": "Chapter 6",
   "scriptFile": "Event/00002/event_00002_060",
@@ -242,7 +242,7 @@
  {
   "eventStoryMstId": 10000207,
   "eventMstId": 100002,
-  "unlockQuestStageMstId": 30020020,
+  "unlockQuestStageMstIds": "30020020",
   "episodeNum": 7,
   "episodeName": "Chapter 7",
   "scriptFile": "Event/00002/event_00002_070",
@@ -257,7 +257,7 @@
  {
   "eventStoryMstId": 10000208,
   "eventMstId": 100002,
-  "unlockQuestStageMstId": 30020024,
+  "unlockQuestStageMstIds": "30020024",
   "episodeNum": 8,
   "episodeName": "Chapter 8",
   "scriptFile": "Event/00002/event_00002_080",
@@ -272,7 +272,7 @@
  {
   "eventStoryMstId": 10000209,
   "eventMstId": 100002,
-  "unlockQuestStageMstId": 30020027,
+  "unlockQuestStageMstIds": "30020027",
   "episodeNum": 9,
   "episodeName": "Chapter 9",
   "scriptFile": "Event/00002/event_00002_090",
@@ -287,7 +287,7 @@
  {
   "eventStoryMstId": 10000210,
   "eventMstId": 100002,
-  "unlockQuestStageMstId": 30020030,
+  "unlockQuestStageMstIds": "30020030",
   "episodeNum": 10,
   "episodeName": "Chapter 10",
   "scriptFile": "Event/00002/event_00002_100",
@@ -302,7 +302,7 @@
  {
   "eventStoryMstId": 10000301,
   "eventMstId": 100003,
-  "unlockQuestStageMstId": 30030001,
+  "unlockQuestStageMstIds": "30030001",
   "episodeNum": 1,
   "episodeName": "Chapter 1",
   "scriptFile": "Event/00003/event_00003_010",
@@ -317,7 +317,7 @@
  {
   "eventStoryMstId": 10000302,
   "eventMstId": 100003,
-  "unlockQuestStageMstId": 30030004,
+  "unlockQuestStageMstIds": "30030004",
   "episodeNum": 2,
   "episodeName": "Chapter 2",
   "scriptFile": "Event/00003/event_00003_020",
@@ -332,7 +332,7 @@
  {
   "eventStoryMstId": 10000303,
   "eventMstId": 100003,
-  "unlockQuestStageMstId": 30030007,
+  "unlockQuestStageMstIds": "30030007",
   "episodeNum": 3,
   "episodeName": "Chapter 3",
   "scriptFile": "Event/00003/event_00003_030",
@@ -347,7 +347,7 @@
  {
   "eventStoryMstId": 10000304,
   "eventMstId": 100003,
-  "unlockQuestStageMstId": 30030011,
+  "unlockQuestStageMstIds": "30030011",
   "episodeNum": 4,
   "episodeName": "Chapter 4",
   "scriptFile": "Event/00003/event_00003_040",
@@ -362,7 +362,7 @@
  {
   "eventStoryMstId": 10000305,
   "eventMstId": 100003,
-  "unlockQuestStageMstId": 30030015,
+  "unlockQuestStageMstIds": "30030015",
   "episodeNum": 5,
   "episodeName": "Chapter 5",
   "scriptFile": "Event/00003/event_00003_050",
@@ -377,7 +377,7 @@
  {
   "eventStoryMstId": 10000306,
   "eventMstId": 100003,
-  "unlockQuestStageMstId": 30030017,
+  "unlockQuestStageMstIds": "30030017",
   "episodeNum": 6,
   "episodeName": "Chapter 6",
   "scriptFile": "Event/00003/event_00003_060",
@@ -392,7 +392,7 @@
  {
   "eventStoryMstId": 10000307,
   "eventMstId": 100003,
-  "unlockQuestStageMstId": 30030020,
+  "unlockQuestStageMstIds": "30030020",
   "episodeNum": 7,
   "episodeName": "Chapter 7",
   "scriptFile": "Event/00003/event_00003_070",
@@ -407,7 +407,7 @@
  {
   "eventStoryMstId": 10000308,
   "eventMstId": 100003,
-  "unlockQuestStageMstId": 30030024,
+  "unlockQuestStageMstIds": "30030024",
   "episodeNum": 8,
   "episodeName": "Chapter 8",
   "scriptFile": "Event/00003/event_00003_080",
@@ -422,7 +422,7 @@
  {
   "eventStoryMstId": 10000309,
   "eventMstId": 100003,
-  "unlockQuestStageMstId": 30030027,
+  "unlockQuestStageMstIds": "30030027",
   "episodeNum": 9,
   "episodeName": "Chapter 9",
   "scriptFile": "Event/00003/event_00003_090",
@@ -437,7 +437,7 @@
  {
   "eventStoryMstId": 10000310,
   "eventMstId": 100003,
-  "unlockQuestStageMstId": 30030030,
+  "unlockQuestStageMstIds": "30030030",
   "episodeNum": 10,
   "episodeName": "Chapter 10",
   "scriptFile": "Event/00003/event_00003_100",
@@ -452,7 +452,7 @@
  {
   "eventStoryMstId": 10000401,
   "eventMstId": 100004,
-  "unlockQuestStageMstId": 30040001,
+  "unlockQuestStageMstIds": "30040001",
   "episodeNum": 1,
   "episodeName": "Chapter 1",
   "scriptFile": "Event/00004/event_00004_010",
@@ -467,7 +467,7 @@
  {
   "eventStoryMstId": 10000402,
   "eventMstId": 100004,
-  "unlockQuestStageMstId": 30040004,
+  "unlockQuestStageMstIds": "30040004",
   "episodeNum": 2,
   "episodeName": "Chapter 2",
   "scriptFile": "Event/00004/event_00004_020",
@@ -482,7 +482,7 @@
  {
   "eventStoryMstId": 10000403,
   "eventMstId": 100004,
-  "unlockQuestStageMstId": 30040007,
+  "unlockQuestStageMstIds": "30040007",
   "episodeNum": 3,
   "episodeName": "Chapter 3",
   "scriptFile": "Event/00004/event_00004_030",
@@ -497,7 +497,7 @@
  {
   "eventStoryMstId": 10000404,
   "eventMstId": 100004,
-  "unlockQuestStageMstId": 30040011,
+  "unlockQuestStageMstIds": "30040011",
   "episodeNum": 4,
   "episodeName": "Chapter 4",
   "scriptFile": "Event/00004/event_00004_040",
@@ -512,7 +512,7 @@
  {
   "eventStoryMstId": 10000405,
   "eventMstId": 100004,
-  "unlockQuestStageMstId": 30040015,
+  "unlockQuestStageMstIds": "30040015",
   "episodeNum": 5,
   "episodeName": "Chapter 5",
   "scriptFile": "Event/00004/event_00004_050",
@@ -527,7 +527,7 @@
  {
   "eventStoryMstId": 10000406,
   "eventMstId": 100004,
-  "unlockQuestStageMstId": 30040017,
+  "unlockQuestStageMstIds": "30040017",
   "episodeNum": 6,
   "episodeName": "Chapter 6",
   "scriptFile": "Event/00004/event_00004_060",
@@ -542,7 +542,7 @@
  {
   "eventStoryMstId": 10000407,
   "eventMstId": 100004,
-  "unlockQuestStageMstId": 30040020,
+  "unlockQuestStageMstIds": "30040020",
   "episodeNum": 7,
   "episodeName": "Chapter 7",
   "scriptFile": "Event/00004/event_00004_070",
@@ -557,7 +557,7 @@
  {
   "eventStoryMstId": 10000408,
   "eventMstId": 100004,
-  "unlockQuestStageMstId": 30040024,
+  "unlockQuestStageMstIds": "30040024",
   "episodeNum": 8,
   "episodeName": "Chapter 8",
   "scriptFile": "Event/00004/event_00004_080",
@@ -572,7 +572,7 @@
  {
   "eventStoryMstId": 10000409,
   "eventMstId": 100004,
-  "unlockQuestStageMstId": 30040027,
+  "unlockQuestStageMstIds": "30040027",
   "episodeNum": 9,
   "episodeName": "Chapter 9",
   "scriptFile": "Event/00004/event_00004_090",
@@ -587,7 +587,7 @@
  {
   "eventStoryMstId": 10000410,
   "eventMstId": 100004,
-  "unlockQuestStageMstId": 30040030,
+  "unlockQuestStageMstIds": "30040030",
   "episodeNum": 10,
   "episodeName": "Chapter 10",
   "scriptFile": "Event/00004/event_00004_100",
@@ -602,7 +602,7 @@
  {
   "eventStoryMstId": 10000501,
   "eventMstId": 100005,
-  "unlockQuestStageMstId": 30050001,
+  "unlockQuestStageMstIds": "30050001",
   "episodeNum": 1,
   "episodeName": "Chapter 1",
   "scriptFile": "Event/00005/event_00005_010",
@@ -617,7 +617,7 @@
  {
   "eventStoryMstId": 10000502,
   "eventMstId": 100005,
-  "unlockQuestStageMstId": 30050004,
+  "unlockQuestStageMstIds": "30050004",
   "episodeNum": 2,
   "episodeName": "Chapter 2",
   "scriptFile": "Event/00005/event_00005_020",
@@ -632,7 +632,7 @@
  {
   "eventStoryMstId": 10000503,
   "eventMstId": 100005,
-  "unlockQuestStageMstId": 30050007,
+  "unlockQuestStageMstIds": "30050007",
   "episodeNum": 3,
   "episodeName": "Chapter 3",
   "scriptFile": "Event/00005/event_00005_030",
@@ -647,7 +647,7 @@
  {
   "eventStoryMstId": 10000504,
   "eventMstId": 100005,
-  "unlockQuestStageMstId": 30050011,
+  "unlockQuestStageMstIds": "30050011",
   "episodeNum": 4,
   "episodeName": "Chapter 4",
   "scriptFile": "Event/00005/event_00005_040",
@@ -662,7 +662,7 @@
  {
   "eventStoryMstId": 10000505,
   "eventMstId": 100005,
-  "unlockQuestStageMstId": 30050015,
+  "unlockQuestStageMstIds": "30050015",
   "episodeNum": 5,
   "episodeName": "Chapter 5",
   "scriptFile": "Event/00005/event_00005_050",
@@ -677,7 +677,7 @@
  {
   "eventStoryMstId": 10000506,
   "eventMstId": 100005,
-  "unlockQuestStageMstId": 30050017,
+  "unlockQuestStageMstIds": "30050017",
   "episodeNum": 6,
   "episodeName": "Chapter 6",
   "scriptFile": "Event/00005/event_00005_060",
@@ -692,7 +692,7 @@
  {
   "eventStoryMstId": 10000507,
   "eventMstId": 100005,
-  "unlockQuestStageMstId": 30050020,
+  "unlockQuestStageMstIds": "30050020",
   "episodeNum": 7,
   "episodeName": "Chapter 7",
   "scriptFile": "Event/00005/event_00005_070",
@@ -707,7 +707,7 @@
  {
   "eventStoryMstId": 10000508,
   "eventMstId": 100005,
-  "unlockQuestStageMstId": 30050024,
+  "unlockQuestStageMstIds": "30050024",
   "episodeNum": 8,
   "episodeName": "Chapter 8",
   "scriptFile": "Event/00005/event_00005_080",
@@ -722,7 +722,7 @@
  {
   "eventStoryMstId": 10000509,
   "eventMstId": 100005,
-  "unlockQuestStageMstId": 30050027,
+  "unlockQuestStageMstIds": "30050027",
   "episodeNum": 9,
   "episodeName": "Chapter 9",
   "scriptFile": "Event/00005/event_00005_090",
@@ -737,7 +737,7 @@
  {
   "eventStoryMstId": 10000510,
   "eventMstId": 100005,
-  "unlockQuestStageMstId": 30050030,
+  "unlockQuestStageMstIds": "30050030",
   "episodeNum": 10,
   "episodeName": "Chapter 10",
   "scriptFile": "Event/00005/event_00005_100",
@@ -752,7 +752,7 @@
  {
   "eventStoryMstId": 10000601,
   "eventMstId": 100006,
-  "unlockQuestStageMstId": 30060001,
+  "unlockQuestStageMstIds": "30060001",
   "episodeNum": 1,
   "episodeName": "Chapter 1",
   "scriptFile": "Event/00006/event_00006_010",
@@ -767,7 +767,7 @@
  {
   "eventStoryMstId": 10000602,
   "eventMstId": 100006,
-  "unlockQuestStageMstId": 30060004,
+  "unlockQuestStageMstIds": "30060004",
   "episodeNum": 2,
   "episodeName": "Chapter 2",
   "scriptFile": "Event/00006/event_00006_020",
@@ -782,7 +782,7 @@
  {
   "eventStoryMstId": 10000603,
   "eventMstId": 100006,
-  "unlockQuestStageMstId": 30060007,
+  "unlockQuestStageMstIds": "30060007",
   "episodeNum": 3,
   "episodeName": "Chapter 3",
   "scriptFile": "Event/00006/event_00006_030",
@@ -797,7 +797,7 @@
  {
   "eventStoryMstId": 10000604,
   "eventMstId": 100006,
-  "unlockQuestStageMstId": 30060011,
+  "unlockQuestStageMstIds": "30060011",
   "episodeNum": 4,
   "episodeName": "Chapter 4",
   "scriptFile": "Event/00006/event_00006_040",
@@ -812,7 +812,7 @@
  {
   "eventStoryMstId": 10000605,
   "eventMstId": 100006,
-  "unlockQuestStageMstId": 30060015,
+  "unlockQuestStageMstIds": "30060015",
   "episodeNum": 5,
   "episodeName": "Chapter 5",
   "scriptFile": "Event/00006/event_00006_050",
@@ -827,7 +827,7 @@
  {
   "eventStoryMstId": 10000606,
   "eventMstId": 100006,
-  "unlockQuestStageMstId": 30060017,
+  "unlockQuestStageMstIds": "30060017",
   "episodeNum": 6,
   "episodeName": "Chapter 6",
   "scriptFile": "Event/00006/event_00006_060",
@@ -842,7 +842,7 @@
  {
   "eventStoryMstId": 10000607,
   "eventMstId": 100006,
-  "unlockQuestStageMstId": 30060020,
+  "unlockQuestStageMstIds": "30060020",
   "episodeNum": 7,
   "episodeName": "Chapter 7",
   "scriptFile": "Event/00006/event_00006_070",
@@ -857,7 +857,7 @@
  {
   "eventStoryMstId": 10000608,
   "eventMstId": 100006,
-  "unlockQuestStageMstId": 30060024,
+  "unlockQuestStageMstIds": "30060024",
   "episodeNum": 8,
   "episodeName": "Chapter 8",
   "scriptFile": "Event/00006/event_00006_080",
@@ -872,7 +872,7 @@
  {
   "eventStoryMstId": 10000609,
   "eventMstId": 100006,
-  "unlockQuestStageMstId": 30060027,
+  "unlockQuestStageMstIds": "30060027",
   "episodeNum": 9,
   "episodeName": "Chapter 9",
   "scriptFile": "Event/00006/event_00006_090",
@@ -887,7 +887,7 @@
  {
   "eventStoryMstId": 10000610,
   "eventMstId": 100006,
-  "unlockQuestStageMstId": 30060030,
+  "unlockQuestStageMstIds": "30060030",
   "episodeNum": 10,
   "episodeName": "Chapter 10",
   "scriptFile": "Event/00006/event_00006_100",
@@ -898,5 +898,155 @@
   "storyRewardGroupId": 3001,
   "startTime": "2026-09-28T15:00:00+09:00",
   "directionCharacterMstId": 1030101
+ },
+ {
+  "eventStoryMstId": 10000701,
+  "eventMstId": 100007,
+  "unlockQuestStageMstIds": "30070001",
+  "episodeNum": 1,
+  "episodeName": "Chapter 1",
+  "scriptFile": "Event/00007/event_00007_010",
+  "movieFile": "test_movie",
+  "thumbnail": "thumb_bg_0100007",
+  "spoilerStoryId": 0,
+  "spoilerStoryType": 0,
+  "storyRewardGroupId": 3001,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "directionCharacterMstId": 1050701
+ },
+ {
+  "eventStoryMstId": 10000702,
+  "eventMstId": 100007,
+  "unlockQuestStageMstIds": "30070004",
+  "episodeNum": 2,
+  "episodeName": "Chapter 2",
+  "scriptFile": "Event/00007/event_00007_020",
+  "movieFile": "test_movie",
+  "thumbnail": "thumb_bg_0100007",
+  "spoilerStoryId": 0,
+  "spoilerStoryType": 0,
+  "storyRewardGroupId": 3001,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "directionCharacterMstId": 1050201
+ },
+ {
+  "eventStoryMstId": 10000703,
+  "eventMstId": 100007,
+  "unlockQuestStageMstIds": "30070007",
+  "episodeNum": 3,
+  "episodeName": "Chapter 3",
+  "scriptFile": "Event/00007/event_00007_030",
+  "movieFile": "test_movie",
+  "thumbnail": "thumb_bg_0100007",
+  "spoilerStoryId": 0,
+  "spoilerStoryType": 0,
+  "storyRewardGroupId": 3001,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "directionCharacterMstId": 1050401
+ },
+ {
+  "eventStoryMstId": 10000704,
+  "eventMstId": 100007,
+  "unlockQuestStageMstIds": "30070011",
+  "episodeNum": 4,
+  "episodeName": "Chapter 4",
+  "scriptFile": "Event/00007/event_00007_040",
+  "movieFile": "test_movie",
+  "thumbnail": "thumb_bg_0100007",
+  "spoilerStoryId": 0,
+  "spoilerStoryType": 0,
+  "storyRewardGroupId": 3001,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "directionCharacterMstId": 1050701
+ },
+ {
+  "eventStoryMstId": 10000705,
+  "eventMstId": 100007,
+  "unlockQuestStageMstIds": "30070015",
+  "episodeNum": 5,
+  "episodeName": "Chapter 5",
+  "scriptFile": "Event/00007/event_00007_050",
+  "movieFile": "test_movie",
+  "thumbnail": "thumb_bg_0100007",
+  "spoilerStoryId": 0,
+  "spoilerStoryType": 0,
+  "storyRewardGroupId": 10000705,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "directionCharacterMstId": 1050201
+ },
+ {
+  "eventStoryMstId": 10000706,
+  "eventMstId": 100007,
+  "unlockQuestStageMstIds": "30070017",
+  "episodeNum": 6,
+  "episodeName": "Chapter 6",
+  "scriptFile": "Event/00007/event_00007_060",
+  "movieFile": "test_movie",
+  "thumbnail": "thumb_bg_0100007",
+  "spoilerStoryId": 0,
+  "spoilerStoryType": 0,
+  "storyRewardGroupId": 3001,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "directionCharacterMstId": 1050401
+ },
+ {
+  "eventStoryMstId": 10000707,
+  "eventMstId": 100007,
+  "unlockQuestStageMstIds": "30070020",
+  "episodeNum": 7,
+  "episodeName": "Chapter 7",
+  "scriptFile": "Event/00007/event_00007_070",
+  "movieFile": "test_movie",
+  "thumbnail": "thumb_bg_0100007",
+  "spoilerStoryId": 0,
+  "spoilerStoryType": 0,
+  "storyRewardGroupId": 3001,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "directionCharacterMstId": 1050701
+ },
+ {
+  "eventStoryMstId": 10000708,
+  "eventMstId": 100007,
+  "unlockQuestStageMstIds": "30070024",
+  "episodeNum": 8,
+  "episodeName": "Chapter 8",
+  "scriptFile": "Event/00007/event_00007_080",
+  "movieFile": "test_movie",
+  "thumbnail": "thumb_bg_0100007",
+  "spoilerStoryId": 0,
+  "spoilerStoryType": 0,
+  "storyRewardGroupId": 3001,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "directionCharacterMstId": 1050201
+ },
+ {
+  "eventStoryMstId": 10000709,
+  "eventMstId": 100007,
+  "unlockQuestStageMstIds": "30070027",
+  "episodeNum": 9,
+  "episodeName": "Chapter 9",
+  "scriptFile": "Event/00007/event_00007_090",
+  "movieFile": "test_movie",
+  "thumbnail": "thumb_bg_0100007",
+  "spoilerStoryId": 0,
+  "spoilerStoryType": 0,
+  "storyRewardGroupId": 3001,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "directionCharacterMstId": 1050401
+ },
+ {
+  "eventStoryMstId": 10000710,
+  "eventMstId": 100007,
+  "unlockQuestStageMstIds": "30070030",
+  "episodeNum": 10,
+  "episodeName": "Chapter 10",
+  "scriptFile": "Event/00007/event_00007_100",
+  "movieFile": "test_movie",
+  "thumbnail": "thumb_bg_0100007",
+  "spoilerStoryId": 0,
+  "spoilerStoryType": 0,
+  "storyRewardGroupId": 3001,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "directionCharacterMstId": 1050701
  }
 ]

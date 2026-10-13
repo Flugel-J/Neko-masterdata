@@ -6,8 +6,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1010102,
@@ -16,8 +15,7 @@
   "detail": "La Soleil",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1010103,
@@ -26,8 +24,7 @@
   "detail": "152cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1010104,
@@ -36,8 +33,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1010105,
@@ -46,8 +42,7 @@
   "detail": "Chocola is the star Neko of the patisserie, La Soleil!\nWhat she loves most is Master and her twin little sister, Vanilla♪\nNow that lots of Nekos are working at the shop, Chocola will do her best as your senpai!\nBut... If I work really hard, can you spoil me a bit too?\nMeooow♪ Thank you so much, Master!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1010106,
@@ -56,8 +51,7 @@
   "detail": "Shorthair: Despite having short tail and ear fur, her hair grows incredibly long.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1010107,
@@ -66,8 +60,7 @@
   "detail": "Jul 3",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1010201,
@@ -76,8 +69,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1010202,
@@ -86,8 +78,7 @@
   "detail": "La Soleil",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1010203,
@@ -96,8 +87,7 @@
   "detail": "149cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1010204,
@@ -106,8 +96,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1010205,
@@ -116,8 +105,7 @@
   "detail": "I’m Vanilla, a Neko who works at La Soleil with Chocola.\nWhat I love most is Chocola. I mean, I don’t dislike Master...\nLately, it’s been tough with all the new Nekos joining... I thought I’d finally get a break, but now I have to train them.\nYou’re making me work too much, so it’s only fair if you spoil me a little... Master?\nHehe♪ Or would you like me to spoil you instead since you’ve been working too hard?",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1010206,
@@ -126,8 +114,7 @@
   "detail": "Shorthair: Despite having short tail and ear fur, her hair grows incredibly long.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1010207,
@@ -136,8 +123,7 @@
   "detail": "Jul 3",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1010301,
@@ -146,8 +132,7 @@
   "detail": "Chinchilla Persian",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1010302,
@@ -156,8 +141,7 @@
   "detail": "La Soleil",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1010303,
@@ -166,8 +150,7 @@
   "detail": "143cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1010304,
@@ -176,8 +159,7 @@
   "detail": "Age 2",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1010305,
@@ -186,8 +168,7 @@
   "detail": "I’m Fraise, the secretary of the patisserie, La Soleil.\nI’m new here, but I will do my very best... So please take care of me?\nFor my beloved big brothe— I mean... For my respected Master, I’ll work hard!\nUm... When we’re not working, can I call you Big Brother?\nHehe... I’m looking forward to that time, Master♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1010306,
@@ -196,8 +177,7 @@
   "detail": "Longhair: She has a short tail.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1010307,
@@ -206,8 +186,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1010401,
@@ -216,8 +195,7 @@
   "detail": "Munchkin",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1010402,
@@ -226,8 +204,7 @@
   "detail": "La Soleil",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1010403,
@@ -236,8 +213,7 @@
   "detail": "142cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1010404,
@@ -246,8 +222,7 @@
   "detail": "Age 4",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1010405,
@@ -256,8 +231,7 @@
   "detail": "I’m Azuki, the eldest Neko of the Minazuki family.\nBetween my good-for-nothing Master and my little sisters, I don’t even have time to slack off.\nI still can’t take my eyes off Donuts...and now I hear some new Nekos are joining too?\nHey, hey... I’m not your wife or your mom, you understand that right?\nF-fine... I guess I’ll work hard with you!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1010406,
@@ -266,8 +240,7 @@
   "detail": "Shorthair: She has short legs.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1010407,
@@ -276,8 +249,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1010501,
@@ -286,8 +258,7 @@
   "detail": "Maine Coon",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1010502,
@@ -296,8 +267,7 @@
   "detail": "La Soleil",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1010503,
@@ -306,8 +276,7 @@
   "detail": "168cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1010504,
@@ -316,18 +285,16 @@
   "detail": "Age 2",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1010505,
   "characterUniqueMstId": 10105,
   "title": "Self-Introduction",
-  "detail": "I’m Coconut, a Neko who works at La Soleil!\nI might be a little too strong, and I might mess up sometimes, but everyone at the shop counts on me.\nWell, um... Azuki scolds me about all sorts of things pretty much every day.\nUgh... I still feel totally hopeless sometimes, but... You won’t give up on me, right?\nHehe, thanks Big Brother♪ I’ll do my best!",
+  "detail": "I'm Coconut, a neko who works at La Soleil!\n\nI might be a little too strong, and I might mess up sometimes, but everyone at the shop counts on me.\n\nWell, um... Azuki scolds me about all sorts of things pretty much every day.\n\nUgh... I still feel totally hopeless sometimes, but... You won't give up on me, right?\n\nHehe, thanks Onii-chan♪ I'll do my best!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1010506,
@@ -336,8 +303,7 @@
   "detail": "Longhair: She is a large breed.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1010507,
@@ -346,8 +312,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1010601,
@@ -356,8 +321,7 @@
   "detail": "American Curl",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1010602,
@@ -366,8 +330,7 @@
   "detail": "La Soleil",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1010603,
@@ -376,8 +339,7 @@
   "detail": "157cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1010604,
@@ -386,8 +348,7 @@
   "detail": "Age 3",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1010605,
@@ -396,8 +357,7 @@
   "detail": "I’m Maple, a Neko who works at Soleil and knows her tea♪\nI get to work doing what I love, and I even get chances to play guitar and sing. I love that I’m free to do things my way.\nOnce the new Nekos arrive, I should warn them to watch out for that guy’s natural smooth-talking ways.\nEven if you think you’ll be fine, you’ll just end up like me...\nCome on, take responsibility... You have to make us even happier!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1010606,
@@ -406,8 +366,7 @@
   "detail": "Longhair: She is a large breed.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1010607,
@@ -416,8 +375,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1010701,
@@ -426,8 +384,7 @@
   "detail": "Scottish Fold",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1010702,
@@ -436,8 +393,7 @@
   "detail": "La Soleil",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1010703,
@@ -446,8 +402,7 @@
   "detail": "150cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1010704,
@@ -456,8 +411,7 @@
   "detail": "Age 3",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1010705,
@@ -466,8 +420,7 @@
   "detail": "I’m Cinnamon♪ I’m a Neko who works at Soleil.\nI’m super close with Maple, we play music together♪\nEven when the new Nekos arrive, please make sure you still give us lots of love too?\nAh, when I say \"love\"... I-I don’t mean it like that...\nMeow~♪ If you pampered me somewhere like that... C-Cinnamon would just...melt~!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1010706,
@@ -476,8 +429,7 @@
   "detail": "Shorthair: Her ears are folded.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1010707,
@@ -486,8 +438,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1020101,
@@ -496,8 +447,7 @@
   "detail": "Japanese Bobtail Longhair",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1020102,
@@ -506,8 +456,7 @@
   "detail": "Sakura Hills Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1020103,
@@ -516,8 +465,7 @@
   "detail": "168cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1020104,
@@ -526,8 +474,7 @@
   "detail": "Age 4",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1020105,
@@ -536,8 +483,7 @@
   "detail": "I am Yuzuha, the noble Nekomata who has chosen to lend her services to this shop.\n\nWith my \"Eyes That See Three Thousand Worlds\" (Mikeneko's Eyes), I shall judge your work.\n\nMany nekos may gather here, but know this well… True elegance resides with me alone.\n\nNow, Master... Show me how you will make use of me. If you think you can command me, then give it a try!\n\nI will burn my worth into your very soul, so prepare yourself!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1020106,
@@ -546,8 +492,7 @@
   "detail": "Longhair: She has a short tail.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1020107,
@@ -556,8 +501,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1020201,
@@ -566,8 +510,7 @@
   "detail": "Japanese Bobtail",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1020202,
@@ -576,8 +519,7 @@
   "detail": "Sakura Hills Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1020203,
@@ -586,8 +528,7 @@
   "detail": "148cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1020204,
@@ -596,8 +537,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1020205,
@@ -606,8 +546,7 @@
   "detail": "Hehe, I’m Mikan from Sakura Hills Nekos College♪\nI’m Yuzuha Onee-chan’s little sister, I’ll be helping out too!\nI’ll do my best to be super helpful to you, Manager!\nYou know, when everyone I love is smiling, it makes me really happy too♪\nSo I’ll smile lots too, so keep watching me, okay, Manager?♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1020206,
@@ -616,8 +555,7 @@
   "detail": "Shorthair: She has a short tail.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1020207,
@@ -626,8 +564,7 @@
   "detail": "Aug 3",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2026-07-31T12:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1020301,
@@ -636,8 +573,7 @@
   "detail": "Ragdoll",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1020302,
@@ -646,8 +582,7 @@
   "detail": "Sakura Hills Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1020303,
@@ -656,8 +591,7 @@
   "detail": "170cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1020304,
@@ -666,8 +600,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1020305,
@@ -676,8 +609,7 @@
   "detail": "Um... I-I’m Sakura, from Sakura Hills Nekos College.\nI’m very nervous... I’m sorry I can’t look you in the eye while speaking...\nBut when you say kind words and praise me, it somehow gives me courage.\nI’m still clumsy, but when I manage to do my job well... please be sure to praise me.\nSo... p-please take good care of me.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1020306,
@@ -686,8 +618,7 @@
   "detail": "Longhair: Her ears and tail are darker in color.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1020307,
@@ -696,8 +627,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1020401,
@@ -706,8 +636,7 @@
   "detail": "Somali",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1020402,
@@ -716,8 +645,7 @@
   "detail": "Sakura Hills Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1020403,
@@ -726,8 +654,7 @@
   "detail": "143cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1020404,
@@ -736,8 +663,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1020405,
@@ -746,8 +672,7 @@
   "detail": "I am a shinobi, nameless...a shadow! Kurumi the Ninja Neko, reporting from Sakuragaoka Nekos Academy!\nMeow!? I said my name...! Even though I’m a ninja! ...and a shadow, too!\nI am my lord’s hidden blade, sworn to protect my lord and strike down all my lord’s enemies.\nServing customers at the shop is no problem, either! Now then! Welcome, purrr~lease enjoy~♪\nWell? Was it cute? Alright, my lord...what are your next orders?",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1020406,
@@ -756,8 +681,7 @@
   "detail": "Longhair: She has a fluffy, fox-like tail.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1020407,
@@ -766,8 +690,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1020501,
@@ -776,8 +699,7 @@
   "detail": "American Shorthair",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1020502,
@@ -786,8 +708,7 @@
   "detail": "Sakura Hills Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1020503,
@@ -796,8 +717,7 @@
   "detail": "160cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1020504,
@@ -806,8 +726,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1020505,
@@ -816,8 +735,7 @@
   "detail": "Hi there♪ I’m Ringo from Sakura Hills Nekos College. Are you happy today too?\nI loooove new and fun things! How about enjoying them with me too?♪\nNo need to hold back, no thanks! Leave everything to me♪\nSince I’m a bit of an Onee-san, it’s okay to lean on me sometimes!\nI’ll give you the sweetest time ever~♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1020506,
@@ -826,8 +744,7 @@
   "detail": "Shorthair\nShe has stripes.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1020507,
@@ -836,8 +753,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1020601,
@@ -846,8 +762,7 @@
   "detail": "British Shorthair",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1020602,
@@ -856,8 +771,7 @@
   "detail": "Sakura Hills Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1020603,
@@ -866,8 +780,7 @@
   "detail": "150cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1020604,
@@ -876,8 +789,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1020605,
@@ -886,8 +798,7 @@
   "detail": "I’m Sumomo~ I came from Sakura Hills Nekos College~\nUsually I just go to stray cat meetups and eat fish~\nBut this store feels really nice, so I’m gonna make it my territory~\nHmm~ Being near you feels kind of nice too~\nYour lap...can I make it my territory too~?",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1020606,
@@ -896,8 +807,7 @@
   "detail": "Shorthair: She has a round face.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1020607,
@@ -906,8 +816,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1020701,
@@ -916,8 +825,7 @@
   "detail": "Tsushima Leopard Cat",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1020702,
@@ -926,8 +834,7 @@
   "detail": "Sakura Hills Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1020703,
@@ -936,8 +843,7 @@
   "detail": "156cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1020704,
@@ -946,8 +852,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1020705,
@@ -956,8 +861,7 @@
   "detail": "I'm Karin from Sakura Hills Nekos College~♪\nIf something catches my eye, I can't help sharing it and making it go viral.\nAnd honestly, you're one of my favorite people at La Soleil, Manager.\nSo let's take this shop to the next level together, okay?\nFirst things first, let's take a selfie together~♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1020706,
@@ -966,8 +870,7 @@
   "detail": "Shorthair: She is a wildcat and chubby.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1020707,
@@ -976,8 +879,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1020801,
@@ -986,8 +888,7 @@
   "detail": "Bengal Leopard Cat",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1020802,
@@ -996,8 +897,7 @@
   "detail": "Sakura Hills Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1020803,
@@ -1006,8 +906,7 @@
   "detail": "166cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1020804,
@@ -1016,8 +915,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1020805,
@@ -1026,8 +924,7 @@
   "detail": "My name is Mayumi, a Bengal Leopard Cat attending Sakura Hills Nekos College.\nIt's a pleasure to meet you.\nBy the way, Manager, your appearance is looking a little unkempt.\nA sloppy appearance leads to a lack of discipline.\nAs long as I'm around, I'll make sure we uphold proper standards and follow the rules so this shop can be run to the highest standard.\nNow then, let's start by putting together a proper operations manual!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1020806,
@@ -1036,18 +933,16 @@
   "detail": "Shorthair: She is a wildcat and slender.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1020807,
   "characterUniqueMstId": 10208,
   "title": "Birthday",
-  "detail": "？？？",
+  "detail": "Oct 7",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1020901,
@@ -1056,8 +951,7 @@
   "detail": "Iriomote Cat",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1020902,
@@ -1066,8 +960,7 @@
   "detail": "Sakura Hills Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1020903,
@@ -1076,8 +969,7 @@
   "detail": "162 cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1020904,
@@ -1086,8 +978,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1020905,
@@ -1096,8 +987,7 @@
   "detail": "I'm Pawpaw~! Nice to meet ya~!\nI came from Sakura Hills Nekos College, and my breed is a Yamamayaa...\nWait, no, an Iriomote Cat~!\nPeople always say I'm easygoing, but am I~? I'm only a liiittle late all the time~.\nMore importantly, I brought some delicious awamori, so how about a drink, Manager~?",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1020906,
@@ -1106,8 +996,7 @@
   "detail": "Shorthair: She is a wildcat and eats anything.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1020907,
@@ -1116,8 +1005,7 @@
   "detail": "Sep 25",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2026-08-30T12:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1021001,
@@ -1126,8 +1014,7 @@
   "detail": "Malayan Tiger",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1021002,
@@ -1136,8 +1023,7 @@
   "detail": "Sakura Hills Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1021003,
@@ -1146,8 +1032,7 @@
   "detail": "185 cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1021004,
@@ -1156,8 +1041,7 @@
   "detail": "Age 2",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1021005,
@@ -1166,8 +1050,7 @@
   "detail": "I'm Tsubaki, a tiger from Sakura Hills Nekos College.\nLet me make one thing clear from the start... I don't follow anyone unless they've earned my respect, so you'd better be prepared for that.\nThat being said, if you're the real deal, I'll give you everything I've got. Standing by my principles is my way of life!\nKeep your eyes wide open and watch how I live my life.\nSo yeah, I'm counting on you!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1021006,
@@ -1176,8 +1059,7 @@
   "detail": "Fierce Beast: The largest feline, but medium-sized among tigers.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1021007,
@@ -1186,8 +1068,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1021201,
@@ -1196,8 +1077,7 @@
   "detail": "Fishing Cat",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1021202,
@@ -1206,8 +1086,7 @@
   "detail": "Sakura Hills Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1021203,
@@ -1216,8 +1095,7 @@
   "detail": "151cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1021204,
@@ -1226,8 +1104,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1021205,
@@ -1236,8 +1113,7 @@
   "detail": "I'm Natsume from Sakura Hills Nekos College!\nI looove fish♪ Let's go fishing together sometime!\nWe can make sashimi, grilled fish, fried fish...\nI'll treat you to a delicious full-course fish feast, so you better get ready♪\nWe're going after the big one... Fiiiiiish!!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1021206,
@@ -1246,8 +1122,7 @@
   "detail": "Shorthair: She is a wildcat and a great swimmer.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1021207,
@@ -1256,8 +1131,7 @@
   "detail": "Aug 31",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1030101,
@@ -1266,8 +1140,7 @@
   "detail": "Persia",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1030102,
@@ -1276,8 +1149,7 @@
   "detail": "Jinhua Department Of Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1030103,
@@ -1286,8 +1158,7 @@
   "detail": "160cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1030104,
@@ -1296,8 +1167,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1030105,
@@ -1306,8 +1176,7 @@
   "detail": "Good day to you♪ I am Marmelo from the Jinhua Department of Nekos College.\nI adore fluffy things, and I always get what catches my eye♪\nWhen I heard rumors of this lovely shop and its Manager, I simply couldn’t stay away♪\nMy dream is to make both La Soleil and you shine brighter, and take you both♪\nHehe... I’ll make you mine, Manager♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1030106,
@@ -1316,8 +1185,7 @@
   "detail": "Longhair: She has small ears.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1030107,
@@ -1326,8 +1194,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1030201,
@@ -1336,8 +1203,7 @@
   "detail": "Bengal",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1030202,
@@ -1346,8 +1212,7 @@
   "detail": "Jinhua Department Of Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1030203,
@@ -1356,8 +1221,7 @@
   "detail": "140cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1030204,
@@ -1366,8 +1230,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1030205,
@@ -1376,8 +1239,7 @@
   "detail": "Gahaha! I’m Paramita! I come from the Jinhua Department of Nekos College!\nI’m the STRONGEST! Stronger than ANYONE else!\nI heard there are tons of strong people around here! I’ll beat them all!\nYou look pretty weak, so I’m going to go easy on you.\nIf any weird customers show up, I’ll knock them right out of here!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1030206,
@@ -1386,8 +1248,7 @@
   "detail": "Shorthair: \nShe has a leopard pattern.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1030207,
@@ -1396,8 +1257,7 @@
   "detail": "Sep 17",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2026-08-30T12:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1030301,
@@ -1406,8 +1266,7 @@
   "detail": "Dragon Lee",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1030302,
@@ -1416,8 +1275,7 @@
   "detail": "Jinhua Department Of Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1030303,
@@ -1426,8 +1284,7 @@
   "detail": "152cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1030304,
@@ -1436,8 +1293,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1030305,
@@ -1446,8 +1302,7 @@
   "detail": "Hi there! I’m Fengli from the Jinhua Department of Nekos College♪ Nice to meet you!\nI’ll take good care of everyone at the shop!\nI might be a liiittle rough around the edges, but I don’t sweat the small stuff at all♪\nNo matter what you’re like, I’ll accept all of it.\nSo don’t hold back, you’re always welcome to lean on me♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1030306,
@@ -1456,8 +1311,7 @@
   "detail": "She has a tiger-like pattern.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1030307,
@@ -1466,8 +1320,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1030401,
@@ -1476,8 +1329,7 @@
   "detail": "Siam",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1030402,
@@ -1486,8 +1338,7 @@
   "detail": "Jinhua Department Of Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1030403,
@@ -1496,8 +1347,7 @@
   "detail": "167cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1030404,
@@ -1506,8 +1356,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1030405,
@@ -1516,8 +1365,7 @@
   "detail": "I am Lamud, from the Jinhua Department of Nekos College.\nI’ll keep a smile on my face and do my very best in my work.\nI may be a little strict when it comes to manners and etiquette, but I am by no means a frightening Neko.\nI have familiarized myself with my duties, but if there is anything I lack, please tell me.\nI will make sure to support you so that each of your days is calm and wonderful♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1030406,
@@ -1526,8 +1374,7 @@
   "detail": "Shorthair: Her ears, tail and face are black.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1030407,
@@ -1536,8 +1383,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1040101,
@@ -1546,8 +1392,7 @@
   "detail": "Minuet",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1040102,
@@ -1556,8 +1401,7 @@
   "detail": "Gertrude Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1040103,
@@ -1566,8 +1410,7 @@
   "detail": "139cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1040104,
@@ -1576,8 +1419,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1040105,
@@ -1586,8 +1428,7 @@
   "detail": "Mwahahaha... My name is Cannelé. I am a demon from Gertrude Nekos College, and I’ve come to corrupt this shop!\nThis sickeningly sweet place, and all who stand within it, shall be stained in darkness by Lord Cannelé.\nI won’t allow you to run to that so-called angel, Sablé! You will become my servant!\nYou and I shall enter into a blood pact... look forward to it.\nNow, tremble before Cannelé’s arrival and kneel in fear! MeowHAHAHA!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1040106,
@@ -1596,8 +1437,7 @@
   "detail": "Longhair: She is a small breed with short legs.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1040107,
@@ -1606,8 +1446,7 @@
   "detail": "Jul 21",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1040201,
@@ -1616,8 +1455,7 @@
   "detail": "Minuet",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1040202,
@@ -1626,8 +1464,7 @@
   "detail": "Gertrude Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1040203,
@@ -1636,8 +1473,7 @@
   "detail": "139cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1040204,
@@ -1646,8 +1482,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1040205,
@@ -1656,8 +1491,7 @@
   "detail": "I’m Sablé from Gertrude Nekos College♪ A real angel from the heavens♪\nI’m here to make a \"contract\" with you, Master, so I want you to pet and spoil me every day~\nI won’t lose to that demon Neko, Cannelé... I’m keeping you all to myself♪\nYou can touch my wings as much as you want, I’ll make you sooo happy♪\nSo it’s decided♪ You will make a contract with me and be happy every single day♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1040206,
@@ -1666,8 +1500,7 @@
   "detail": "Longhair: She is a small breed with short legs.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1040207,
@@ -1676,8 +1509,7 @@
   "detail": "Jul 21",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1040301,
@@ -1686,8 +1518,7 @@
   "detail": "Russian Blue",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1040302,
@@ -1696,8 +1527,7 @@
   "detail": "Gertrude Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1040303,
@@ -1706,8 +1536,7 @@
   "detail": "152cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1040304,
@@ -1716,8 +1545,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1040305,
@@ -1726,8 +1554,7 @@
   "detail": "Zdravstvuyte♪ I’m Souffle...a Neko from Gertrude Nekos College.\nAre you...hungry? Souffle made you some really tasty food♪\nI’m good at cleaning and laundry too...hehe♪ I’m also very strong...mmf♪\n*snuggles up* Instead of words...being close like this says it all.\nOchen’ priyatno♪ Nice to meet you♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1040306,
@@ -1736,8 +1563,7 @@
   "detail": "Shorthair: Her facial features are known as a \"Russian Smile\".",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1040307,
@@ -1746,8 +1572,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1040401,
@@ -1756,8 +1581,7 @@
   "detail": "Norwegian Forest Cat",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1040402,
@@ -1766,8 +1590,7 @@
   "detail": "Gertrude Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1040403,
@@ -1776,8 +1599,7 @@
   "detail": "174cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1040404,
@@ -1786,8 +1608,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1040405,
@@ -1796,8 +1617,7 @@
   "detail": "I’m Sorbet from Gertrude Nekos College. It’s cold today, so I’m feeling great!\nI’m really good with the cold! I’ll help with your work perfectly!\nBut when I’m near you... I start to feel really warm...\nI was sharp just a moment ago, but now I feel like I’m about to melt...yawn.\n...Sorry...next to you I get...sleepy...good night...zzz.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1040406,
@@ -1806,8 +1626,7 @@
   "detail": "Longhair: She has a thick, fluffy, double-layered coat.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1040407,
@@ -1816,8 +1635,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1040501,
@@ -1826,8 +1644,7 @@
   "detail": "European Shorthair",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1040502,
@@ -1836,8 +1653,7 @@
   "detail": "Gertrude Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1040503,
@@ -1846,8 +1662,7 @@
   "detail": "156cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1040504,
@@ -1856,8 +1671,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1040505,
@@ -1866,8 +1680,7 @@
   "detail": "I'm Bavarois from Gertrude Nekos College.\nLet me make one thing clear from the start: do not treat me the same as the other nekos.\nActs such as patting my head are absolutely unacceptable.\nIn particular, I will not tolerate physical contact from men.\nI came here as an employee, not as a pet.\nIf that's clear, then please proceed with your instructions.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1040506,
@@ -1876,18 +1689,16 @@
   "detail": "Shorthair: She has a slightly slender build.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1040507,
   "characterUniqueMstId": 10405,
   "title": "Birthday",
-  "detail": "？？？",
+  "detail": "Oct 28",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1050101,
@@ -1896,8 +1707,7 @@
   "detail": "Egyptian Mau",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1050102,
@@ -1906,8 +1716,7 @@
   "detail": "Bastet Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1050103,
@@ -1916,8 +1725,7 @@
   "detail": "165cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1050104,
@@ -1926,8 +1734,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1050105,
@@ -1936,8 +1743,7 @@
   "detail": "I am Palmyra of Bastet Nekos College, a proud Neko who serves Lady Meowjed.\nImperfect humans, especially you, Manager, need someone like me to guide them.\nI will also show the new Nekos how they should carry themselves.\nManager, you too must devote yourself even more to Lady Meowjed and me.\nPalmyra will be watching over you... You should feel honored.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1050106,
@@ -1946,8 +1752,7 @@
   "detail": "Shorthair: She has small spots.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1050107,
@@ -1956,8 +1761,7 @@
   "detail": "Jul 9",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1050201,
@@ -1966,8 +1770,7 @@
   "detail": "Sokoke",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1050202,
@@ -1976,8 +1779,7 @@
   "detail": "Bastet Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1050203,
@@ -1986,8 +1788,7 @@
   "detail": "152cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1050204,
@@ -1996,8 +1797,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1050205,
@@ -2006,8 +1806,7 @@
   "detail": "MeowHAHA! I’m Aki, from Bastet Nekos College!\nThis place is full of interesting things, perfect for pulling a few pranks!\nIf you space out, you might end up as Aki’s next target!\nWhat’s wrong? You can’t find the shop key?\n...Aki doesn’t know anything about it~ MeowHAHA!\nWell then, let’s take the day off and go play! Okay?",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1050206,
@@ -2016,8 +1815,7 @@
   "detail": "She has a wood-grain pattern.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1050207,
@@ -2026,8 +1824,7 @@
   "detail": "Sep 8",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2026-08-30T12:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1050301,
@@ -2036,8 +1833,7 @@
   "detail": "Turkish Angora",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1050302,
@@ -2046,8 +1842,7 @@
   "detail": "Bastet Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1050303,
@@ -2056,8 +1851,7 @@
   "detail": "161cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1050304,
@@ -2066,8 +1860,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1050305,
@@ -2076,8 +1869,7 @@
   "detail": "I’m Ak dut, from Bastet Nekos College.\nWhat I love most is dancing and coffee...and you, my destined partner.\nHehe, just kidding. I’m a bit of a mischievous Neko.\nBut what happens between us from here on out...no one can say for sure.\nI’m very particular about my coffee and my taste in men...so you’d better be ready♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1050306,
@@ -2086,8 +1878,7 @@
   "detail": "She has a delicate, silky, shiny coat.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1050307,
@@ -2096,8 +1887,7 @@
   "detail": "Aug 22",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2026-07-31T12:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1050401,
@@ -2106,8 +1896,7 @@
   "detail": "Devon Rex",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1050402,
@@ -2116,8 +1905,7 @@
   "detail": "Bastet Nekos College",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1050403,
@@ -2126,8 +1914,7 @@
   "detail": "144cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1050404,
@@ -2136,8 +1923,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1050405,
@@ -2146,8 +1932,7 @@
   "detail": "I’m Saffron. I came all the way here from Bastet Nekos College♪\nWhat’s with the look? Are you so happy you can hardly contain yourself now that a cute Neko like me is here?\nDon’t worry, it’s a good thing♪ I’ll make this a place that can’t function without me.\nSo... How about getting down on your knees and spoiling me rotten?\nNow then, entertain me, little Manager♪ Everything you have will soon be mine!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1050406,
@@ -2156,8 +1941,7 @@
   "detail": "Shorthair: She has curly fur and is slightly small in size.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1050407,
@@ -2166,8 +1950,70 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
+ },
+ {
+  "characterUniqueProfileMstId": 1050701,
+  "characterUniqueMstId": 10507,
+  "title": "Cat Breed",
+  "detail": "White Lion",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 6
+ },
+ {
+  "characterUniqueProfileMstId": 1050702,
+  "characterUniqueMstId": 10507,
+  "title": "Affiliation",
+  "detail": "Bastet Nekos College",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 5
+ },
+ {
+  "characterUniqueProfileMstId": 1050703,
+  "characterUniqueMstId": 10507,
+  "title": "Height",
+  "detail": "179cm",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 4
+ },
+ {
+  "characterUniqueProfileMstId": 1050704,
+  "characterUniqueMstId": 10507,
+  "title": "Neko Age",
+  "detail": "Age 2",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 3
+ },
+ {
+  "characterUniqueProfileMstId": 1050705,
+  "characterUniqueMstId": 10507,
+  "title": "Self-Introduction",
+  "detail": "My name is Fig.\nI am a white lion from Bastet Nekos College, and the future ruler of the world.\nI shall allow you to stand by my side as we rise to the very top together.\nConsider yourself fortunate.\nAnd when I finally conquer the world... I will give you half of it.\nNow, let's make the whole world ours!",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 2
+ },
+ {
+  "characterUniqueProfileMstId": 1050706,
+  "characterUniqueMstId": 10507,
+  "title": "Features",
+  "detail": "Fierce Beast",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 1
+ },
+ {
+  "characterUniqueProfileMstId": 1050707,
+  "characterUniqueMstId": 10507,
+  "title": "Birthday",
+  "detail": "Oct 13",
+  "requiredRank": 1,
+  "requiredCharacterMstId": 0,
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1060101,
@@ -2176,8 +2022,7 @@
   "detail": "Exotic Shorthair",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1060102,
@@ -2186,8 +2031,7 @@
   "detail": "Nekos Youth Academy",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1060103,
@@ -2196,8 +2040,7 @@
   "detail": "150cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1060104,
@@ -2206,8 +2049,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1060105,
@@ -2216,8 +2058,7 @@
   "detail": "I’m Donuts from NYA. This grumpy face is just how I was born...\nMy goal is to eat my fill of delicious cakes and sweets.\nPlease put me in the kitchen, not out on the floor.\nYou will be my personal dessert-making machine.\nThat part at least... I’m counting on you, alright?",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1060106,
@@ -2226,8 +2067,7 @@
   "detail": "She has a round face, short nose, droopy eyes and a grumpy-looking mouth.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1060107,
@@ -2236,8 +2076,7 @@
   "detail": "Aug 8",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2026-07-31T12:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1060201,
@@ -2246,8 +2085,7 @@
   "detail": "Ragamuffin",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1060202,
@@ -2256,8 +2094,7 @@
   "detail": "Nekos Youth Academy",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1060203,
@@ -2266,8 +2103,7 @@
   "detail": "170cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1060204,
@@ -2276,8 +2112,7 @@
   "detail": "Age 2",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1060205,
@@ -2286,8 +2121,7 @@
   "detail": "Hi there♪ I’m Muffin, a Neko from NYA♪\nYa know, I’m pretty good at soothing and pampering. You might even start to feel a little spoiled♪\nBut I still haven’t found the right person... Would you like to be my first?\nOh, I also love hugging people♪ Wait... Are you worried I might hug someone else?\nIf you become mine, I’ll only hug you...that’s a promise, Ma~ster♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1060206,
@@ -2296,8 +2130,7 @@
   "detail": "Longhair",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1060207,
@@ -2306,8 +2139,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1060301,
@@ -2316,8 +2148,7 @@
   "detail": "American Bobtail",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1060302,
@@ -2326,8 +2157,7 @@
   "detail": "Nekos Youth Academy",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1060303,
@@ -2336,8 +2166,7 @@
   "detail": "163cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1060304,
@@ -2346,8 +2175,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1060305,
@@ -2356,8 +2184,7 @@
   "detail": "Hey, I’m Cookie! A rockin’ Neko from NYA!\nI’m not great with nitpicky stuff or fancy manners, but if you need someone to hype things up, I’m your Neko!\nBut don’t get the wrong idea... I’m not gonna wear cute clothes and go \"Master!\" or anything like that!\nDon’t get your hopes up.... I-I mean, if you insist, I’ll do it, but still...\nAnyway, I want to make myself useful to you, so let’s get along! Nice to meet ya!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1060306,
@@ -2366,8 +2193,7 @@
   "detail": "Medium Longhair: She has a short tail.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1060307,
@@ -2376,8 +2202,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1060401,
@@ -2386,8 +2211,7 @@
   "detail": "Bombay",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1060402,
@@ -2396,8 +2220,7 @@
   "detail": "Nekos Youth Academy",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1060403,
@@ -2406,8 +2229,7 @@
   "detail": "154cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1060404,
@@ -2416,8 +2238,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1060405,
@@ -2426,8 +2247,7 @@
   "detail": "I’m Licorice...from NYA.\nYeah, introducing myself out loud is inefficient...\nI sent you the address to my profile...go read that.\nI’m a streamer! If you have something to say, DM me! XD\n...Well, that’s about it.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1060406,
@@ -2436,8 +2256,7 @@
   "detail": "Shorthair: She has an enamel-like shine.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1060407,
@@ -2446,8 +2265,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1060501,
@@ -2456,8 +2274,7 @@
   "detail": "Ocicat",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1060502,
@@ -2466,8 +2283,7 @@
   "detail": "Nekos Youth Academy",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1060503,
@@ -2476,8 +2292,7 @@
   "detail": "172cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1060504,
@@ -2486,8 +2301,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1060505,
@@ -2496,8 +2310,7 @@
   "detail": "Hiya! I’m Brownie from NYA!\nI’m great at basketball! Actually sports in general...and working out too!\nWhat am I good at here?\nHmm, probably chatting with customers and doing anything physical!\nHey, hey, if you stay inside the shop all the time, you’re gonna get out of shape, you know?\nCome on, let’s work up a loooot of sweat together♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1060506,
@@ -2506,8 +2319,7 @@
   "detail": "Shorthair: \nShe has a leopard pattern.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1060507,
@@ -2516,8 +2328,7 @@
   "detail": "Sep 5",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2026-08-30T12:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1060801,
@@ -2526,8 +2337,7 @@
   "detail": "Chausie",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1060802,
@@ -2536,8 +2346,7 @@
   "detail": "Nekos Youth Academy",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1060803,
@@ -2546,8 +2355,7 @@
   "detail": "166cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1060804,
@@ -2556,8 +2364,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1060805,
@@ -2566,8 +2373,7 @@
   "detail": "Yeehaw! I'm Churro, a cowgirl wanderin' the wild frontier!\nHuh? Aren't I from NYA?\nWell... you could say that too.\nRodeos, lassos, quick draws... leave them all to me!\nAnd while I'm at it, I'm gonna aim for your heart too! BANG!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1060806,
@@ -2576,8 +2382,7 @@
   "detail": "Shorthair: She is half wildcat.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1060807,
@@ -2586,8 +2391,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1990101,
@@ -2596,8 +2400,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1990102,
@@ -2606,8 +2409,7 @@
   "detail": "Parttime",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1990103,
@@ -2616,8 +2418,7 @@
   "detail": "151cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1990104,
@@ -2626,8 +2427,7 @@
   "detail": "Age 3",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1990105,
@@ -2636,8 +2436,7 @@
   "detail": "I’m Sora~ Hehe, the sunshine here feels so warm and nice♪\nJust standing here...makes me...feel...like dozing off~\n...Ah! Oh no, I almost forgot I came to greet you about work~\nHehe, I can be so absentminded sometimes... I’m sorry...\nI’ll help out lots from now on, so please take care of me~♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1990106,
@@ -2646,8 +2445,7 @@
   "detail": "Shorthair: She has slightly long hair.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1990107,
@@ -2656,8 +2454,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1990201,
@@ -2666,8 +2463,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1990202,
@@ -2676,8 +2472,7 @@
   "detail": "Parttime",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1990203,
@@ -2686,8 +2481,7 @@
   "detail": "151cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1990204,
@@ -2696,8 +2490,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1990205,
@@ -2706,8 +2499,7 @@
   "detail": "Hmph! I’m Hana! My grandfathers told me to come here for a little social training!\nAn elegant Neko like me came all the way to your shop...you should be grateful!\nThough honestly, I doubt a place like this even has work worthy of someone like me~♪\nW-Wait!? I didn’t mean I wouldn’t work!\nS-Sorry! I promise I’ll work properly, so please don’t fire me!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1990206,
@@ -2716,8 +2508,7 @@
   "detail": "Longhair",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1990207,
@@ -2726,8 +2517,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1990301,
@@ -2736,8 +2526,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1990302,
@@ -2746,8 +2535,7 @@
   "detail": "Parttime",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1990303,
@@ -2756,8 +2544,7 @@
   "detail": "142cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1990304,
@@ -2766,8 +2553,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1990305,
@@ -2776,8 +2562,7 @@
   "detail": "I’m Mimi. I’ll be working at your shop!\nJust like the Nekos who’ve been here a while, the new ones, the house cats, and me—treat us all the same!\nI’m not angry or anything! I just can’t stand favoritism...\nYou better treat me and the others equally!\nGeez, why do I even have to say this? Anyway, nice to meet you!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1990306,
@@ -2786,8 +2571,7 @@
   "detail": "Shorthair",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1990307,
@@ -2796,8 +2580,7 @@
   "detail": "Jul 31",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1990401,
@@ -2806,8 +2589,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1990402,
@@ -2816,8 +2598,7 @@
   "detail": "Parttime",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1990403,
@@ -2826,8 +2607,7 @@
   "detail": "154cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1990404,
@@ -2836,8 +2616,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1990405,
@@ -2846,8 +2625,7 @@
   "detail": "I’m Luna~♪ I promise I’ll be veeeery helpful to you~♪\nHehehe... Hey, you♪ That reaction of yours is kind of cute~\nDid this sexy Neko make you all flustered~♪\nDon’t try to hide it, I can tell~ After all, I’ve mastered the male heart!\nMaybe I can be helpful to you after work too~?",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1990406,
@@ -2856,8 +2634,7 @@
   "detail": "Longhair: She has folded ears, but is not a Scottish Fold.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1990407,
@@ -2866,8 +2643,7 @@
   "detail": "Sep 14",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2026-08-30T12:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1990501,
@@ -2876,8 +2652,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1990502,
@@ -2886,8 +2661,7 @@
   "detail": "Parttime",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1990503,
@@ -2896,8 +2670,7 @@
   "detail": "141cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1990504,
@@ -2906,8 +2679,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1990505,
@@ -2916,8 +2688,7 @@
   "detail": "My name is Yuki... Um, I’ll be working here...\nEep...! S-Staring at me like that gets me nervous... Waaah!\nS-Sorry... I cry when I get startled... sniff.\n...Huh? You’re not mad? It’s okay to take things slowly...?\nWaaah! I’ll do my very best from now on~!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1990506,
@@ -2926,8 +2697,7 @@
   "detail": "Shorthair: She has stripes.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1990507,
@@ -2936,8 +2706,7 @@
   "detail": "Aug 26",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2026-07-31T12:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1990601,
@@ -2946,8 +2715,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1990602,
@@ -2956,8 +2724,7 @@
   "detail": "Parttime",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1990603,
@@ -2966,8 +2733,7 @@
   "detail": "156cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1990604,
@@ -2976,8 +2742,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1990605,
@@ -2986,8 +2751,7 @@
   "detail": "I am Suzu. I have come to this shop to serve you♥\nAh... You look as amazing as ever today... Hehehe...♪\nWatching you work so diligently makes me feel like you’re whispering sweet words of love to me...!\nFrom sorting the trash you throw away to doing the laundry, I can handle everything.\nWhether it’s what you desire or not... I will accept it all for you♥",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1990606,
@@ -2996,8 +2760,7 @@
   "detail": "Shorthair (Medium)",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1990607,
@@ -3006,8 +2769,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1990701,
@@ -3016,8 +2778,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1990702,
@@ -3026,8 +2787,7 @@
   "detail": "Parttime",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1990703,
@@ -3036,8 +2796,7 @@
   "detail": "144cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1990704,
@@ -3046,8 +2805,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1990705,
@@ -3056,8 +2814,7 @@
   "detail": "I’m Kuro. I’ve come to this shop to become its leader.\nTo start with, I’ve already made a list of improvements for the shop.\n...Huh? You want me to learn my own job first? O-Of course!\nI can handle the register too... Huh? Why won’t it open!?\nA-Anyway... I’ll be the one giving the instructions around here, so you’d better be ready!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1990706,
@@ -3066,8 +2823,7 @@
   "detail": "Shorthair",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1990707,
@@ -3076,8 +2832,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1990801,
@@ -3086,8 +2841,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1990802,
@@ -3096,8 +2850,7 @@
   "detail": "Parttime",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1990803,
@@ -3106,8 +2859,7 @@
   "detail": "163cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1990804,
@@ -3116,8 +2868,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1990805,
@@ -3126,8 +2877,7 @@
   "detail": "I’m Natsu. I’ll be working at your shop!\nI’ve got plenty of guts, but if it’s boring work, I ain’t doing it.\nHuh? You’re worried I can’t get along with everyone?\nI may look like this, but I’m known for looking out for my crew!\nOnce I say something, I stick to it. I’ll take on any job you throw at me!\nI might cause a bit of trouble sometimes, but... Well, looking forward to working with you!",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1990806,
@@ -3136,8 +2886,7 @@
   "detail": "Shorthair",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1990807,
@@ -3146,8 +2895,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1990901,
@@ -3156,8 +2904,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1990902,
@@ -3166,8 +2913,7 @@
   "detail": "Parttime",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1990903,
@@ -3176,8 +2922,7 @@
   "detail": "156cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1990904,
@@ -3186,8 +2931,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1990905,
@@ -3196,8 +2940,7 @@
   "detail": "H-Hi... I’m Mugi. Nice to meet you...\nUm, I-I’m not very good at talking...\nSo please don’t expect much from me in customer service...or teamwork...\nM-My hair’s sticking up...? I-I was in bed for about three days...\nI-I really needed money for a Trip... That’s why I came here to work...\nI-I mean... Not for the Trip...and not for the money either... I-I’ll do my best for the shop...",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1990906,
@@ -3206,8 +2949,7 @@
   "detail": "Longhair",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1990907,
@@ -3216,8 +2958,7 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1991001,
@@ -3226,8 +2967,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1991002,
@@ -3236,8 +2976,7 @@
   "detail": "Parttime",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1991003,
@@ -3246,8 +2985,7 @@
   "detail": "135cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1991004,
@@ -3256,8 +2994,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1991005,
@@ -3266,8 +3003,7 @@
   "detail": "Hime here☆ Starting today, I’ll be working at your shop, Manager♪\nIf Hime is around, everyone will fall head over heels for my cuteness☆\nBe sure to give Hime lots of special treatment and spoil me, okay?\nHey, hey, I want a present that suits someone as cute as Hime~♪\nSince Hime will make your shop super popular, you’ll listen to my requests, right?",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1991006,
@@ -3276,8 +3012,7 @@
   "detail": "Shorthair: She has long hair.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1991007,
@@ -3286,8 +3021,7 @@
   "detail": "Aug 16",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2026-07-31T12:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1991101,
@@ -3296,8 +3030,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1991102,
@@ -3306,8 +3039,7 @@
   "detail": "Parttime",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1991103,
@@ -3316,8 +3048,7 @@
   "detail": "169cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1991104,
@@ -3326,8 +3057,7 @@
   "detail": "Age 1",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1991105,
@@ -3336,8 +3066,7 @@
   "detail": "I’m Rin. Hehe, I’ll be working here starting today.\nMen are so easy. Be a little nice to them and they fall for you instantly.\nCustomer service will be a breeze...\nOh? Are you staring at me? Go ahead, take a good long look.\nWith a woman like me working here, I can reel in as many men as I want.\n...Or maybe you’re the one who wants to get hooked the most?",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1991106,
@@ -3346,18 +3075,16 @@
   "detail": "Shorthair (Medium)",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1991107,
   "characterUniqueMstId": 19911,
   "title": "Birthday",
-  "detail": "？？？",
+  "detail": "Oct 23",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  },
  {
   "characterUniqueProfileMstId": 1991201,
@@ -3366,8 +3093,7 @@
   "detail": "Mixed",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 6,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 6
  },
  {
   "characterUniqueProfileMstId": 1991202,
@@ -3376,8 +3102,7 @@
   "detail": "Parttime",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 5,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 5
  },
  {
   "characterUniqueProfileMstId": 1991203,
@@ -3386,8 +3111,7 @@
   "detail": "149cm",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 4,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 4
  },
  {
   "characterUniqueProfileMstId": 1991204,
@@ -3396,8 +3120,7 @@
   "detail": "Age 0",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 3,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 3
  },
  {
   "characterUniqueProfileMstId": 1991205,
@@ -3406,8 +3129,7 @@
   "detail": "I’m Kiku! This shop is sooo pretty and stylish!\nI’m so happy I get to wear this cute uniform!\nHey, hey, what would you like me to do here? I hope I get to eat cake!\nHuh? That kind of job doesn’t exist? Aww, that’s too bad...\nIf there was a job like that, I’d totally work super hard...\nNo worries, I’ll work hard and use my salary to buy cake and cute things♪",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 2,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 2
  },
  {
   "characterUniqueProfileMstId": 1991206,
@@ -3416,8 +3138,7 @@
   "detail": "Shorthair: She has a scar from a fight on her ear.",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 1,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 1
  },
  {
   "characterUniqueProfileMstId": 1991207,
@@ -3426,7 +3147,6 @@
   "detail": "？？？",
   "requiredRank": 1,
   "requiredCharacterMstId": 0,
-  "priority": 0,
-  "releaseTime": "2025-01-01T00:00:00+09:00"
+  "priority": 0
  }
 ]

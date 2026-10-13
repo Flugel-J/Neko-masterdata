@@ -154,6 +154,17 @@
   "nightId": 1610001
  },
  {
+  "homeBackgroundMstId": 10011,
+  "name": "Chasing the Naughty Neko La Soleil Hall",
+  "description": "The La Soleil hall from the 4th Purrformance♪ ~Chasing the Naughty Neko~.",
+  "hasFirst": false,
+  "isDefault": false,
+  "resourceId": 1001101,
+  "morningId": 1001101,
+  "afternoonId": 1001101,
+  "nightId": 1001101
+ },
+ {
   "homeBackgroundMstId": 16130,
   "name": "Moonlit Rabbit, Tipsy Neko Tsukimi Venue",
   "description": "The Tsukimi venue from the 3rd Purrade ~Moonlit Rabbit, Tipsy Neko~.",

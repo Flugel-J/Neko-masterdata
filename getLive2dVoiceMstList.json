@@ -37966,5 +37966,1251 @@
   "countenanceData": "mtn_ex_000",
   "motionData": "motion_000",
   "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5740,
+  "characterVoiceMstId": 10507001,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5741,
+  "characterVoiceMstId": 10507002,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5742,
+  "characterVoiceMstId": 10507003,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5743,
+  "characterVoiceMstId": 10507004,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5744,
+  "characterVoiceMstId": 10507005,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5745,
+  "characterVoiceMstId": 10507006,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_200",
+  "changeActionValue": 7.0
+ },
+ {
+  "live2dVoiceMstId": 5746,
+  "characterVoiceMstId": 10507007,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 7.0
+ },
+ {
+  "live2dVoiceMstId": 5747,
+  "characterVoiceMstId": 10507008,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 10.0
+ },
+ {
+  "live2dVoiceMstId": 5748,
+  "characterVoiceMstId": 10507009,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_300",
+  "changeActionValue": 6.0
+ },
+ {
+  "live2dVoiceMstId": 5749,
+  "characterVoiceMstId": 10507010,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5750,
+  "characterVoiceMstId": 10507011,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_300",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5751,
+  "characterVoiceMstId": 10507012,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5752,
+  "characterVoiceMstId": 10507013,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_200",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5753,
+  "characterVoiceMstId": 10507014,
+  "countenanceData": "mtn_ex_050",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5754,
+  "characterVoiceMstId": 10507015,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5755,
+  "characterVoiceMstId": 10507016,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 4.0
+ },
+ {
+  "live2dVoiceMstId": 5756,
+  "characterVoiceMstId": 10507017,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5757,
+  "characterVoiceMstId": 10507018,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5758,
+  "characterVoiceMstId": 10507019,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_100",
+  "changeActionValue": 7.0
+ },
+ {
+  "live2dVoiceMstId": 5759,
+  "characterVoiceMstId": 10507020,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_300",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5760,
+  "characterVoiceMstId": 10507021,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_300",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5761,
+  "characterVoiceMstId": 10507022,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5762,
+  "characterVoiceMstId": 10507023,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_200",
+  "changeActionValue": 11.0
+ },
+ {
+  "live2dVoiceMstId": 5763,
+  "characterVoiceMstId": 10507024,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_100",
+  "changeActionValue": 5.0
+ },
+ {
+  "live2dVoiceMstId": 5764,
+  "characterVoiceMstId": 10507025,
+  "countenanceData": "mtn_ex_040",
+  "motionData": "motion_300",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5765,
+  "characterVoiceMstId": 10507026,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_300",
+  "changeActionValue": 6.0
+ },
+ {
+  "live2dVoiceMstId": 5766,
+  "characterVoiceMstId": 10507027,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5767,
+  "characterVoiceMstId": 10507028,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5768,
+  "characterVoiceMstId": 10507029,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_200",
+  "changeActionValue": 7.0
+ },
+ {
+  "live2dVoiceMstId": 5769,
+  "characterVoiceMstId": 10507030,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 3.0
+ },
+ {
+  "live2dVoiceMstId": 5770,
+  "characterVoiceMstId": 10507031,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5771,
+  "characterVoiceMstId": 10507032,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_200",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5772,
+  "characterVoiceMstId": 10507033,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_200",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5773,
+  "characterVoiceMstId": 10507034,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5774,
+  "characterVoiceMstId": 10507035,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5775,
+  "characterVoiceMstId": 10507036,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5776,
+  "characterVoiceMstId": 10507037,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5777,
+  "characterVoiceMstId": 10507038,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5778,
+  "characterVoiceMstId": 10507039,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5779,
+  "characterVoiceMstId": 10507040,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5780,
+  "characterVoiceMstId": 10507041,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5781,
+  "characterVoiceMstId": 10507042,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5782,
+  "characterVoiceMstId": 10507043,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5783,
+  "characterVoiceMstId": 10507044,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5784,
+  "characterVoiceMstId": 10507045,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5785,
+  "characterVoiceMstId": 10507046,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5786,
+  "characterVoiceMstId": 10507047,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5787,
+  "characterVoiceMstId": 10507048,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5788,
+  "characterVoiceMstId": 10507049,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5789,
+  "characterVoiceMstId": 10507050,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5790,
+  "characterVoiceMstId": 10507051,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5791,
+  "characterVoiceMstId": 10507052,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5792,
+  "characterVoiceMstId": 10507053,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5793,
+  "characterVoiceMstId": 10507054,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5794,
+  "characterVoiceMstId": 10507055,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5795,
+  "characterVoiceMstId": 10507056,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5796,
+  "characterVoiceMstId": 10507057,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5797,
+  "characterVoiceMstId": 10507058,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5798,
+  "characterVoiceMstId": 10507059,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5799,
+  "characterVoiceMstId": 10507060,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5800,
+  "characterVoiceMstId": 10507061,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5801,
+  "characterVoiceMstId": 10507062,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5802,
+  "characterVoiceMstId": 10507063,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5803,
+  "characterVoiceMstId": 10507064,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5804,
+  "characterVoiceMstId": 10507065,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5805,
+  "characterVoiceMstId": 10507066,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5806,
+  "characterVoiceMstId": 10507067,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5807,
+  "characterVoiceMstId": 10507068,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5808,
+  "characterVoiceMstId": 10507069,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5809,
+  "characterVoiceMstId": 10507070,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5810,
+  "characterVoiceMstId": 10507071,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5811,
+  "characterVoiceMstId": 10507072,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5812,
+  "characterVoiceMstId": 10507073,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_200",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5813,
+  "characterVoiceMstId": 10507074,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_200",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5814,
+  "characterVoiceMstId": 10507075,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5815,
+  "characterVoiceMstId": 10507076,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_300",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5816,
+  "characterVoiceMstId": 10507077,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5817,
+  "characterVoiceMstId": 10507078,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5818,
+  "characterVoiceMstId": 10507079,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5819,
+  "characterVoiceMstId": 10507080,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5820,
+  "characterVoiceMstId": 10507081,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5821,
+  "characterVoiceMstId": 10507082,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5822,
+  "characterVoiceMstId": 10507083,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5823,
+  "characterVoiceMstId": 10507084,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5824,
+  "characterVoiceMstId": 10507085,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5825,
+  "characterVoiceMstId": 10507086,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5826,
+  "characterVoiceMstId": 10507087,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5827,
+  "characterVoiceMstId": 10507088,
+  "countenanceData": "mtn_ex_050",
+  "motionData": "motion_200",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5828,
+  "characterVoiceMstId": 10507089,
+  "countenanceData": "mtn_ex_050",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5829,
+  "characterVoiceMstId": 10507090,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5830,
+  "characterVoiceMstId": 10507091,
+  "countenanceData": "mtn_ex_050",
+  "motionData": "motion_300",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5831,
+  "characterVoiceMstId": 10507092,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5832,
+  "characterVoiceMstId": 10507093,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5833,
+  "characterVoiceMstId": 10507094,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_300",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5834,
+  "characterVoiceMstId": 10507095,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_300",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5835,
+  "characterVoiceMstId": 10507096,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5836,
+  "characterVoiceMstId": 10507097,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5837,
+  "characterVoiceMstId": 10507098,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5838,
+  "characterVoiceMstId": 10507099,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5839,
+  "characterVoiceMstId": 10502105,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5840,
+  "characterVoiceMstId": 10502106,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_300",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5841,
+  "characterVoiceMstId": 10502107,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_200",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5842,
+  "characterVoiceMstId": 10502108,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5843,
+  "characterVoiceMstId": 10502109,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_400",
+  "changeActionValue": 3.0
+ },
+ {
+  "live2dVoiceMstId": 5844,
+  "characterVoiceMstId": 10502110,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5845,
+  "characterVoiceMstId": 10502111,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5846,
+  "characterVoiceMstId": 10502112,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5847,
+  "characterVoiceMstId": 10502113,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5848,
+  "characterVoiceMstId": 10502114,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5849,
+  "characterVoiceMstId": 10502115,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5850,
+  "characterVoiceMstId": 10502116,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5851,
+  "characterVoiceMstId": 10502117,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5852,
+  "characterVoiceMstId": 10502118,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5853,
+  "characterVoiceMstId": 10502119,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5854,
+  "characterVoiceMstId": 10504105,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5855,
+  "characterVoiceMstId": 10504106,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_200",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5856,
+  "characterVoiceMstId": 10504107,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_300",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5857,
+  "characterVoiceMstId": 10504108,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5858,
+  "characterVoiceMstId": 10504109,
+  "countenanceData": "mtn_ex_030",
+  "motionData": "motion_200",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5859,
+  "characterVoiceMstId": 10504110,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5860,
+  "characterVoiceMstId": 10504111,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5861,
+  "characterVoiceMstId": 10504112,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5862,
+  "characterVoiceMstId": 10504113,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5863,
+  "characterVoiceMstId": 10504114,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5864,
+  "characterVoiceMstId": 10504115,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5865,
+  "characterVoiceMstId": 10504116,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5866,
+  "characterVoiceMstId": 10504117,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5867,
+  "characterVoiceMstId": 10504118,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5868,
+  "characterVoiceMstId": 10504119,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5869,
+  "characterVoiceMstId": 10507105,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5870,
+  "characterVoiceMstId": 10507106,
+  "countenanceData": "mtn_ex_060",
+  "motionData": "motion_300",
+  "changeActionValue": 4.0
+ },
+ {
+  "live2dVoiceMstId": 5871,
+  "characterVoiceMstId": 10507107,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_200",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5872,
+  "characterVoiceMstId": 10507108,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5873,
+  "characterVoiceMstId": 10507109,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_300",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5874,
+  "characterVoiceMstId": 10507110,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5875,
+  "characterVoiceMstId": 10507111,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5876,
+  "characterVoiceMstId": 10507112,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5877,
+  "characterVoiceMstId": 10507113,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5878,
+  "characterVoiceMstId": 10507114,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5879,
+  "characterVoiceMstId": 10507115,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5880,
+  "characterVoiceMstId": 10507116,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5881,
+  "characterVoiceMstId": 10507117,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5882,
+  "characterVoiceMstId": 10507118,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5883,
+  "characterVoiceMstId": 10507119,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5884,
+  "characterVoiceMstId": 449,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5885,
+  "characterVoiceMstId": 450,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5886,
+  "characterVoiceMstId": 733,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5887,
+  "characterVoiceMstId": 734,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5918,
+  "characterVoiceMstId": 10101130,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5919,
+  "characterVoiceMstId": 10101131,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_200",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5920,
+  "characterVoiceMstId": 10101132,
+  "countenanceData": "mtn_ex_060",
+  "motionData": "motion_200",
+  "changeActionValue": 6.0
+ },
+ {
+  "live2dVoiceMstId": 5921,
+  "characterVoiceMstId": 10101133,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5922,
+  "characterVoiceMstId": 10101134,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5923,
+  "characterVoiceMstId": 10101135,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5924,
+  "characterVoiceMstId": 10101136,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5925,
+  "characterVoiceMstId": 10101137,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5926,
+  "characterVoiceMstId": 10101138,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5927,
+  "characterVoiceMstId": 10101139,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5928,
+  "characterVoiceMstId": 10101140,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5929,
+  "characterVoiceMstId": 10101141,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5930,
+  "characterVoiceMstId": 10101142,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5931,
+  "characterVoiceMstId": 10101143,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5932,
+  "characterVoiceMstId": 10101144,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5933,
+  "characterVoiceMstId": 10102120,
+  "countenanceData": "mtn_ex_020",
+  "motionData": "motion_200",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5934,
+  "characterVoiceMstId": 10102121,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_200",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5935,
+  "characterVoiceMstId": 10102122,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5936,
+  "characterVoiceMstId": 10102123,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_300",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5937,
+  "characterVoiceMstId": 10102124,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_300",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5938,
+  "characterVoiceMstId": 10102125,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5939,
+  "characterVoiceMstId": 10102126,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5940,
+  "characterVoiceMstId": 10102127,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5941,
+  "characterVoiceMstId": 10102128,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5942,
+  "characterVoiceMstId": 10102129,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5943,
+  "characterVoiceMstId": 10102130,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5944,
+  "characterVoiceMstId": 10102131,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5945,
+  "characterVoiceMstId": 10102132,
+  "countenanceData": "mtn_ex_010",
+  "motionData": "motion_100",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5946,
+  "characterVoiceMstId": 10102133,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
+ },
+ {
+  "live2dVoiceMstId": 5947,
+  "characterVoiceMstId": 10102134,
+  "countenanceData": "mtn_ex_000",
+  "motionData": "motion_000",
+  "changeActionValue": 0.0
  }
 ]

@@ -97648,5 +97648,7655 @@
   "drinkFixed": 150,
   "sweetsFixed": 150,
   "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10851,
+  "gardenFurnitureMstId": 101008,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10852,
+  "gardenFurnitureMstId": 101008,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10853,
+  "gardenFurnitureMstId": 101008,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10854,
+  "gardenFurnitureMstId": 101008,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10855,
+  "gardenFurnitureMstId": 101008,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10856,
+  "gardenFurnitureMstId": 101008,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10857,
+  "gardenFurnitureMstId": 101008,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10858,
+  "gardenFurnitureMstId": 101008,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10859,
+  "gardenFurnitureMstId": 101008,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10860,
+  "gardenFurnitureMstId": 101008,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10861,
+  "gardenFurnitureMstId": 101008,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10862,
+  "gardenFurnitureMstId": 101008,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10863,
+  "gardenFurnitureMstId": 101008,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10864,
+  "gardenFurnitureMstId": 101008,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10865,
+  "gardenFurnitureMstId": 101008,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10866,
+  "gardenFurnitureMstId": 101008,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10867,
+  "gardenFurnitureMstId": 101008,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10868,
+  "gardenFurnitureMstId": 101008,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10869,
+  "gardenFurnitureMstId": 101008,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10870,
+  "gardenFurnitureMstId": 101008,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10871,
+  "gardenFurnitureMstId": 101008,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10872,
+  "gardenFurnitureMstId": 101008,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10873,
+  "gardenFurnitureMstId": 101008,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10874,
+  "gardenFurnitureMstId": 101008,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10875,
+  "gardenFurnitureMstId": 101008,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10876,
+  "gardenFurnitureMstId": 101008,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10877,
+  "gardenFurnitureMstId": 101008,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10878,
+  "gardenFurnitureMstId": 101008,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10879,
+  "gardenFurnitureMstId": 101008,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10880,
+  "gardenFurnitureMstId": 101008,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10881,
+  "gardenFurnitureMstId": 101008,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10882,
+  "gardenFurnitureMstId": 101008,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10883,
+  "gardenFurnitureMstId": 101008,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10884,
+  "gardenFurnitureMstId": 101008,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10885,
+  "gardenFurnitureMstId": 101008,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10886,
+  "gardenFurnitureMstId": 101008,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10887,
+  "gardenFurnitureMstId": 101008,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10888,
+  "gardenFurnitureMstId": 101008,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10889,
+  "gardenFurnitureMstId": 101008,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10890,
+  "gardenFurnitureMstId": 101008,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10891,
+  "gardenFurnitureMstId": 101008,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10892,
+  "gardenFurnitureMstId": 101008,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10893,
+  "gardenFurnitureMstId": 101008,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10894,
+  "gardenFurnitureMstId": 101008,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10895,
+  "gardenFurnitureMstId": 101008,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10896,
+  "gardenFurnitureMstId": 101008,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10897,
+  "gardenFurnitureMstId": 101008,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10898,
+  "gardenFurnitureMstId": 101008,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10899,
+  "gardenFurnitureMstId": 101008,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10900,
+  "gardenFurnitureMstId": 101008,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10901,
+  "gardenFurnitureMstId": 201031,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10902,
+  "gardenFurnitureMstId": 201031,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10903,
+  "gardenFurnitureMstId": 201031,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10904,
+  "gardenFurnitureMstId": 201031,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10905,
+  "gardenFurnitureMstId": 201031,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10906,
+  "gardenFurnitureMstId": 201031,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10907,
+  "gardenFurnitureMstId": 201031,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10908,
+  "gardenFurnitureMstId": 201031,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10909,
+  "gardenFurnitureMstId": 201031,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10910,
+  "gardenFurnitureMstId": 201031,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10911,
+  "gardenFurnitureMstId": 201031,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10912,
+  "gardenFurnitureMstId": 201031,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10913,
+  "gardenFurnitureMstId": 201031,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10914,
+  "gardenFurnitureMstId": 201031,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10915,
+  "gardenFurnitureMstId": 201031,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10916,
+  "gardenFurnitureMstId": 201031,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10917,
+  "gardenFurnitureMstId": 201031,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10918,
+  "gardenFurnitureMstId": 201031,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10919,
+  "gardenFurnitureMstId": 201031,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10920,
+  "gardenFurnitureMstId": 201031,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10921,
+  "gardenFurnitureMstId": 201031,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10922,
+  "gardenFurnitureMstId": 201031,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10923,
+  "gardenFurnitureMstId": 201031,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10924,
+  "gardenFurnitureMstId": 201031,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10925,
+  "gardenFurnitureMstId": 201031,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10926,
+  "gardenFurnitureMstId": 201031,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10927,
+  "gardenFurnitureMstId": 201031,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10928,
+  "gardenFurnitureMstId": 201031,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10929,
+  "gardenFurnitureMstId": 201031,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10930,
+  "gardenFurnitureMstId": 201031,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10931,
+  "gardenFurnitureMstId": 201031,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10932,
+  "gardenFurnitureMstId": 201031,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10933,
+  "gardenFurnitureMstId": 201031,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10934,
+  "gardenFurnitureMstId": 201031,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10935,
+  "gardenFurnitureMstId": 201031,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10936,
+  "gardenFurnitureMstId": 201031,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10937,
+  "gardenFurnitureMstId": 201031,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10938,
+  "gardenFurnitureMstId": 201031,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10939,
+  "gardenFurnitureMstId": 201031,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10940,
+  "gardenFurnitureMstId": 201031,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10941,
+  "gardenFurnitureMstId": 201031,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10942,
+  "gardenFurnitureMstId": 201031,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10943,
+  "gardenFurnitureMstId": 201031,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10944,
+  "gardenFurnitureMstId": 201031,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10945,
+  "gardenFurnitureMstId": 201031,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10946,
+  "gardenFurnitureMstId": 201031,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10947,
+  "gardenFurnitureMstId": 201031,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10948,
+  "gardenFurnitureMstId": 201031,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10949,
+  "gardenFurnitureMstId": 201031,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10950,
+  "gardenFurnitureMstId": 201031,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10951,
+  "gardenFurnitureMstId": 208046,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10952,
+  "gardenFurnitureMstId": 208046,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10953,
+  "gardenFurnitureMstId": 208046,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10954,
+  "gardenFurnitureMstId": 208046,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10955,
+  "gardenFurnitureMstId": 208046,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 10956,
+  "gardenFurnitureMstId": 208046,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10957,
+  "gardenFurnitureMstId": 208046,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10958,
+  "gardenFurnitureMstId": 208046,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10959,
+  "gardenFurnitureMstId": 208046,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10960,
+  "gardenFurnitureMstId": 208046,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 10961,
+  "gardenFurnitureMstId": 208046,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10962,
+  "gardenFurnitureMstId": 208046,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10963,
+  "gardenFurnitureMstId": 208046,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10964,
+  "gardenFurnitureMstId": 208046,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10965,
+  "gardenFurnitureMstId": 208046,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 10966,
+  "gardenFurnitureMstId": 208046,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10967,
+  "gardenFurnitureMstId": 208046,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10968,
+  "gardenFurnitureMstId": 208046,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10969,
+  "gardenFurnitureMstId": 208046,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10970,
+  "gardenFurnitureMstId": 208046,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 10971,
+  "gardenFurnitureMstId": 208046,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10972,
+  "gardenFurnitureMstId": 208046,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10973,
+  "gardenFurnitureMstId": 208046,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10974,
+  "gardenFurnitureMstId": 208046,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10975,
+  "gardenFurnitureMstId": 208046,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 10976,
+  "gardenFurnitureMstId": 208046,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10977,
+  "gardenFurnitureMstId": 208046,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10978,
+  "gardenFurnitureMstId": 208046,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10979,
+  "gardenFurnitureMstId": 208046,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10980,
+  "gardenFurnitureMstId": 208046,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 10981,
+  "gardenFurnitureMstId": 208046,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10982,
+  "gardenFurnitureMstId": 208046,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10983,
+  "gardenFurnitureMstId": 208046,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10984,
+  "gardenFurnitureMstId": 208046,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10985,
+  "gardenFurnitureMstId": 208046,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 10986,
+  "gardenFurnitureMstId": 208046,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10987,
+  "gardenFurnitureMstId": 208046,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10988,
+  "gardenFurnitureMstId": 208046,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10989,
+  "gardenFurnitureMstId": 208046,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10990,
+  "gardenFurnitureMstId": 208046,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 10991,
+  "gardenFurnitureMstId": 208046,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10992,
+  "gardenFurnitureMstId": 208046,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10993,
+  "gardenFurnitureMstId": 208046,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10994,
+  "gardenFurnitureMstId": 208046,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10995,
+  "gardenFurnitureMstId": 208046,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 10996,
+  "gardenFurnitureMstId": 208046,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10997,
+  "gardenFurnitureMstId": 208046,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10998,
+  "gardenFurnitureMstId": 208046,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 10999,
+  "gardenFurnitureMstId": 208046,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11000,
+  "gardenFurnitureMstId": 208046,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11001,
+  "gardenFurnitureMstId": 210027,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11002,
+  "gardenFurnitureMstId": 210027,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11003,
+  "gardenFurnitureMstId": 210027,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11004,
+  "gardenFurnitureMstId": 210027,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11005,
+  "gardenFurnitureMstId": 210027,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11006,
+  "gardenFurnitureMstId": 210027,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11007,
+  "gardenFurnitureMstId": 210027,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11008,
+  "gardenFurnitureMstId": 210027,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11009,
+  "gardenFurnitureMstId": 210027,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11010,
+  "gardenFurnitureMstId": 210027,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11011,
+  "gardenFurnitureMstId": 210027,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11012,
+  "gardenFurnitureMstId": 210027,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11013,
+  "gardenFurnitureMstId": 210027,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11014,
+  "gardenFurnitureMstId": 210027,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11015,
+  "gardenFurnitureMstId": 210027,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11016,
+  "gardenFurnitureMstId": 210027,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11017,
+  "gardenFurnitureMstId": 210027,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11018,
+  "gardenFurnitureMstId": 210027,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11019,
+  "gardenFurnitureMstId": 210027,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11020,
+  "gardenFurnitureMstId": 210027,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11021,
+  "gardenFurnitureMstId": 210027,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11022,
+  "gardenFurnitureMstId": 210027,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11023,
+  "gardenFurnitureMstId": 210027,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11024,
+  "gardenFurnitureMstId": 210027,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11025,
+  "gardenFurnitureMstId": 210027,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11026,
+  "gardenFurnitureMstId": 210027,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11027,
+  "gardenFurnitureMstId": 210027,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11028,
+  "gardenFurnitureMstId": 210027,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11029,
+  "gardenFurnitureMstId": 210027,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11030,
+  "gardenFurnitureMstId": 210027,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11031,
+  "gardenFurnitureMstId": 210027,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11032,
+  "gardenFurnitureMstId": 210027,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11033,
+  "gardenFurnitureMstId": 210027,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11034,
+  "gardenFurnitureMstId": 210027,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11035,
+  "gardenFurnitureMstId": 210027,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11036,
+  "gardenFurnitureMstId": 210027,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11037,
+  "gardenFurnitureMstId": 210027,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11038,
+  "gardenFurnitureMstId": 210027,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11039,
+  "gardenFurnitureMstId": 210027,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11040,
+  "gardenFurnitureMstId": 210027,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11041,
+  "gardenFurnitureMstId": 210027,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11042,
+  "gardenFurnitureMstId": 210027,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11043,
+  "gardenFurnitureMstId": 210027,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11044,
+  "gardenFurnitureMstId": 210027,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11045,
+  "gardenFurnitureMstId": 210027,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11046,
+  "gardenFurnitureMstId": 210027,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11047,
+  "gardenFurnitureMstId": 210027,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11048,
+  "gardenFurnitureMstId": 210027,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11049,
+  "gardenFurnitureMstId": 210027,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11050,
+  "gardenFurnitureMstId": 210027,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11051,
+  "gardenFurnitureMstId": 208047,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11052,
+  "gardenFurnitureMstId": 208047,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11053,
+  "gardenFurnitureMstId": 208047,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11054,
+  "gardenFurnitureMstId": 208047,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11055,
+  "gardenFurnitureMstId": 208047,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11056,
+  "gardenFurnitureMstId": 208047,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11057,
+  "gardenFurnitureMstId": 208047,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11058,
+  "gardenFurnitureMstId": 208047,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11059,
+  "gardenFurnitureMstId": 208047,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11060,
+  "gardenFurnitureMstId": 208047,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11061,
+  "gardenFurnitureMstId": 208047,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11062,
+  "gardenFurnitureMstId": 208047,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11063,
+  "gardenFurnitureMstId": 208047,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11064,
+  "gardenFurnitureMstId": 208047,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11065,
+  "gardenFurnitureMstId": 208047,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11066,
+  "gardenFurnitureMstId": 208047,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11067,
+  "gardenFurnitureMstId": 208047,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11068,
+  "gardenFurnitureMstId": 208047,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11069,
+  "gardenFurnitureMstId": 208047,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11070,
+  "gardenFurnitureMstId": 208047,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11071,
+  "gardenFurnitureMstId": 208047,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11072,
+  "gardenFurnitureMstId": 208047,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11073,
+  "gardenFurnitureMstId": 208047,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11074,
+  "gardenFurnitureMstId": 208047,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11075,
+  "gardenFurnitureMstId": 208047,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11076,
+  "gardenFurnitureMstId": 208047,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11077,
+  "gardenFurnitureMstId": 208047,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11078,
+  "gardenFurnitureMstId": 208047,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11079,
+  "gardenFurnitureMstId": 208047,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11080,
+  "gardenFurnitureMstId": 208047,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11081,
+  "gardenFurnitureMstId": 208047,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11082,
+  "gardenFurnitureMstId": 208047,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11083,
+  "gardenFurnitureMstId": 208047,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11084,
+  "gardenFurnitureMstId": 208047,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11085,
+  "gardenFurnitureMstId": 208047,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11086,
+  "gardenFurnitureMstId": 208047,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11087,
+  "gardenFurnitureMstId": 208047,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11088,
+  "gardenFurnitureMstId": 208047,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11089,
+  "gardenFurnitureMstId": 208047,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11090,
+  "gardenFurnitureMstId": 208047,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11091,
+  "gardenFurnitureMstId": 208047,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11092,
+  "gardenFurnitureMstId": 208047,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11093,
+  "gardenFurnitureMstId": 208047,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11094,
+  "gardenFurnitureMstId": 208047,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11095,
+  "gardenFurnitureMstId": 208047,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11096,
+  "gardenFurnitureMstId": 208047,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11097,
+  "gardenFurnitureMstId": 208047,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11098,
+  "gardenFurnitureMstId": 208047,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11099,
+  "gardenFurnitureMstId": 208047,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11100,
+  "gardenFurnitureMstId": 208047,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11101,
+  "gardenFurnitureMstId": 208048,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11102,
+  "gardenFurnitureMstId": 208048,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11103,
+  "gardenFurnitureMstId": 208048,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11104,
+  "gardenFurnitureMstId": 208048,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11105,
+  "gardenFurnitureMstId": 208048,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11106,
+  "gardenFurnitureMstId": 208048,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11107,
+  "gardenFurnitureMstId": 208048,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11108,
+  "gardenFurnitureMstId": 208048,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11109,
+  "gardenFurnitureMstId": 208048,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11110,
+  "gardenFurnitureMstId": 208048,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11111,
+  "gardenFurnitureMstId": 208048,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11112,
+  "gardenFurnitureMstId": 208048,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11113,
+  "gardenFurnitureMstId": 208048,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11114,
+  "gardenFurnitureMstId": 208048,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11115,
+  "gardenFurnitureMstId": 208048,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11116,
+  "gardenFurnitureMstId": 208048,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11117,
+  "gardenFurnitureMstId": 208048,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11118,
+  "gardenFurnitureMstId": 208048,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11119,
+  "gardenFurnitureMstId": 208048,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11120,
+  "gardenFurnitureMstId": 208048,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11121,
+  "gardenFurnitureMstId": 208048,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11122,
+  "gardenFurnitureMstId": 208048,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11123,
+  "gardenFurnitureMstId": 208048,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11124,
+  "gardenFurnitureMstId": 208048,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11125,
+  "gardenFurnitureMstId": 208048,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11126,
+  "gardenFurnitureMstId": 208048,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11127,
+  "gardenFurnitureMstId": 208048,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11128,
+  "gardenFurnitureMstId": 208048,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11129,
+  "gardenFurnitureMstId": 208048,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11130,
+  "gardenFurnitureMstId": 208048,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11131,
+  "gardenFurnitureMstId": 208048,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11132,
+  "gardenFurnitureMstId": 208048,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11133,
+  "gardenFurnitureMstId": 208048,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11134,
+  "gardenFurnitureMstId": 208048,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11135,
+  "gardenFurnitureMstId": 208048,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11136,
+  "gardenFurnitureMstId": 208048,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11137,
+  "gardenFurnitureMstId": 208048,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11138,
+  "gardenFurnitureMstId": 208048,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11139,
+  "gardenFurnitureMstId": 208048,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11140,
+  "gardenFurnitureMstId": 208048,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11141,
+  "gardenFurnitureMstId": 208048,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11142,
+  "gardenFurnitureMstId": 208048,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11143,
+  "gardenFurnitureMstId": 208048,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11144,
+  "gardenFurnitureMstId": 208048,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11145,
+  "gardenFurnitureMstId": 208048,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11146,
+  "gardenFurnitureMstId": 208048,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11147,
+  "gardenFurnitureMstId": 208048,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11148,
+  "gardenFurnitureMstId": 208048,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11149,
+  "gardenFurnitureMstId": 208048,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11150,
+  "gardenFurnitureMstId": 208048,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11151,
+  "gardenFurnitureMstId": 316001,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11152,
+  "gardenFurnitureMstId": 316001,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11153,
+  "gardenFurnitureMstId": 316001,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11154,
+  "gardenFurnitureMstId": 316001,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11155,
+  "gardenFurnitureMstId": 316001,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11156,
+  "gardenFurnitureMstId": 316001,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11157,
+  "gardenFurnitureMstId": 316001,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11158,
+  "gardenFurnitureMstId": 316001,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11159,
+  "gardenFurnitureMstId": 316001,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11160,
+  "gardenFurnitureMstId": 316001,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11161,
+  "gardenFurnitureMstId": 316001,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11162,
+  "gardenFurnitureMstId": 316001,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11163,
+  "gardenFurnitureMstId": 316001,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11164,
+  "gardenFurnitureMstId": 316001,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11165,
+  "gardenFurnitureMstId": 316001,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11166,
+  "gardenFurnitureMstId": 316001,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11167,
+  "gardenFurnitureMstId": 316001,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11168,
+  "gardenFurnitureMstId": 316001,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11169,
+  "gardenFurnitureMstId": 316001,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11170,
+  "gardenFurnitureMstId": 316001,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11171,
+  "gardenFurnitureMstId": 316001,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11172,
+  "gardenFurnitureMstId": 316001,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11173,
+  "gardenFurnitureMstId": 316001,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11174,
+  "gardenFurnitureMstId": 316001,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11175,
+  "gardenFurnitureMstId": 316001,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11176,
+  "gardenFurnitureMstId": 316001,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11177,
+  "gardenFurnitureMstId": 316001,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11178,
+  "gardenFurnitureMstId": 316001,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11179,
+  "gardenFurnitureMstId": 316001,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11180,
+  "gardenFurnitureMstId": 316001,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11181,
+  "gardenFurnitureMstId": 316001,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11182,
+  "gardenFurnitureMstId": 316001,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11183,
+  "gardenFurnitureMstId": 316001,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11184,
+  "gardenFurnitureMstId": 316001,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11185,
+  "gardenFurnitureMstId": 316001,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11186,
+  "gardenFurnitureMstId": 316001,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11187,
+  "gardenFurnitureMstId": 316001,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11188,
+  "gardenFurnitureMstId": 316001,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11189,
+  "gardenFurnitureMstId": 316001,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11190,
+  "gardenFurnitureMstId": 316001,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11191,
+  "gardenFurnitureMstId": 316001,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11192,
+  "gardenFurnitureMstId": 316001,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11193,
+  "gardenFurnitureMstId": 316001,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11194,
+  "gardenFurnitureMstId": 316001,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11195,
+  "gardenFurnitureMstId": 316001,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11196,
+  "gardenFurnitureMstId": 316001,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11197,
+  "gardenFurnitureMstId": 316001,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11198,
+  "gardenFurnitureMstId": 316001,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11199,
+  "gardenFurnitureMstId": 316001,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11200,
+  "gardenFurnitureMstId": 316001,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11201,
+  "gardenFurnitureMstId": 317001,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11202,
+  "gardenFurnitureMstId": 317001,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11203,
+  "gardenFurnitureMstId": 317001,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11204,
+  "gardenFurnitureMstId": 317001,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11205,
+  "gardenFurnitureMstId": 317001,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11206,
+  "gardenFurnitureMstId": 317001,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11207,
+  "gardenFurnitureMstId": 317001,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11208,
+  "gardenFurnitureMstId": 317001,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11209,
+  "gardenFurnitureMstId": 317001,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11210,
+  "gardenFurnitureMstId": 317001,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11211,
+  "gardenFurnitureMstId": 317001,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11212,
+  "gardenFurnitureMstId": 317001,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11213,
+  "gardenFurnitureMstId": 317001,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11214,
+  "gardenFurnitureMstId": 317001,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11215,
+  "gardenFurnitureMstId": 317001,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11216,
+  "gardenFurnitureMstId": 317001,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11217,
+  "gardenFurnitureMstId": 317001,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11218,
+  "gardenFurnitureMstId": 317001,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11219,
+  "gardenFurnitureMstId": 317001,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11220,
+  "gardenFurnitureMstId": 317001,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11221,
+  "gardenFurnitureMstId": 317001,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11222,
+  "gardenFurnitureMstId": 317001,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11223,
+  "gardenFurnitureMstId": 317001,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11224,
+  "gardenFurnitureMstId": 317001,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11225,
+  "gardenFurnitureMstId": 317001,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11226,
+  "gardenFurnitureMstId": 317001,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11227,
+  "gardenFurnitureMstId": 317001,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11228,
+  "gardenFurnitureMstId": 317001,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11229,
+  "gardenFurnitureMstId": 317001,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11230,
+  "gardenFurnitureMstId": 317001,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11231,
+  "gardenFurnitureMstId": 317001,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11232,
+  "gardenFurnitureMstId": 317001,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11233,
+  "gardenFurnitureMstId": 317001,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11234,
+  "gardenFurnitureMstId": 317001,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11235,
+  "gardenFurnitureMstId": 317001,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11236,
+  "gardenFurnitureMstId": 317001,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11237,
+  "gardenFurnitureMstId": 317001,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11238,
+  "gardenFurnitureMstId": 317001,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11239,
+  "gardenFurnitureMstId": 317001,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11240,
+  "gardenFurnitureMstId": 317001,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11241,
+  "gardenFurnitureMstId": 317001,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11242,
+  "gardenFurnitureMstId": 317001,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11243,
+  "gardenFurnitureMstId": 317001,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11244,
+  "gardenFurnitureMstId": 317001,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11245,
+  "gardenFurnitureMstId": 317001,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11246,
+  "gardenFurnitureMstId": 317001,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11247,
+  "gardenFurnitureMstId": 317001,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11248,
+  "gardenFurnitureMstId": 317001,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11249,
+  "gardenFurnitureMstId": 317001,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11250,
+  "gardenFurnitureMstId": 317001,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11251,
+  "gardenFurnitureMstId": 208049,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11252,
+  "gardenFurnitureMstId": 208049,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11253,
+  "gardenFurnitureMstId": 208049,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11254,
+  "gardenFurnitureMstId": 208049,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11255,
+  "gardenFurnitureMstId": 208049,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11256,
+  "gardenFurnitureMstId": 208049,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11257,
+  "gardenFurnitureMstId": 208049,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11258,
+  "gardenFurnitureMstId": 208049,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11259,
+  "gardenFurnitureMstId": 208049,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11260,
+  "gardenFurnitureMstId": 208049,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11261,
+  "gardenFurnitureMstId": 208049,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11262,
+  "gardenFurnitureMstId": 208049,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11263,
+  "gardenFurnitureMstId": 208049,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11264,
+  "gardenFurnitureMstId": 208049,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11265,
+  "gardenFurnitureMstId": 208049,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11266,
+  "gardenFurnitureMstId": 208049,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11267,
+  "gardenFurnitureMstId": 208049,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11268,
+  "gardenFurnitureMstId": 208049,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11269,
+  "gardenFurnitureMstId": 208049,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11270,
+  "gardenFurnitureMstId": 208049,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11271,
+  "gardenFurnitureMstId": 208049,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11272,
+  "gardenFurnitureMstId": 208049,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11273,
+  "gardenFurnitureMstId": 208049,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11274,
+  "gardenFurnitureMstId": 208049,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11275,
+  "gardenFurnitureMstId": 208049,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11276,
+  "gardenFurnitureMstId": 208049,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11277,
+  "gardenFurnitureMstId": 208049,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11278,
+  "gardenFurnitureMstId": 208049,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11279,
+  "gardenFurnitureMstId": 208049,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11280,
+  "gardenFurnitureMstId": 208049,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11281,
+  "gardenFurnitureMstId": 208049,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11282,
+  "gardenFurnitureMstId": 208049,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11283,
+  "gardenFurnitureMstId": 208049,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11284,
+  "gardenFurnitureMstId": 208049,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11285,
+  "gardenFurnitureMstId": 208049,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11286,
+  "gardenFurnitureMstId": 208049,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11287,
+  "gardenFurnitureMstId": 208049,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11288,
+  "gardenFurnitureMstId": 208049,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11289,
+  "gardenFurnitureMstId": 208049,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11290,
+  "gardenFurnitureMstId": 208049,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11291,
+  "gardenFurnitureMstId": 208049,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11292,
+  "gardenFurnitureMstId": 208049,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11293,
+  "gardenFurnitureMstId": 208049,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11294,
+  "gardenFurnitureMstId": 208049,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11295,
+  "gardenFurnitureMstId": 208049,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11296,
+  "gardenFurnitureMstId": 208049,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11297,
+  "gardenFurnitureMstId": 208049,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11298,
+  "gardenFurnitureMstId": 208049,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11299,
+  "gardenFurnitureMstId": 208049,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11300,
+  "gardenFurnitureMstId": 208049,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11301,
+  "gardenFurnitureMstId": 208050,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11302,
+  "gardenFurnitureMstId": 208050,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11303,
+  "gardenFurnitureMstId": 208050,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11304,
+  "gardenFurnitureMstId": 208050,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11305,
+  "gardenFurnitureMstId": 208050,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11306,
+  "gardenFurnitureMstId": 208050,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11307,
+  "gardenFurnitureMstId": 208050,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11308,
+  "gardenFurnitureMstId": 208050,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11309,
+  "gardenFurnitureMstId": 208050,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11310,
+  "gardenFurnitureMstId": 208050,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11311,
+  "gardenFurnitureMstId": 208050,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11312,
+  "gardenFurnitureMstId": 208050,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11313,
+  "gardenFurnitureMstId": 208050,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11314,
+  "gardenFurnitureMstId": 208050,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11315,
+  "gardenFurnitureMstId": 208050,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11316,
+  "gardenFurnitureMstId": 208050,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11317,
+  "gardenFurnitureMstId": 208050,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11318,
+  "gardenFurnitureMstId": 208050,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11319,
+  "gardenFurnitureMstId": 208050,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11320,
+  "gardenFurnitureMstId": 208050,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11321,
+  "gardenFurnitureMstId": 208050,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11322,
+  "gardenFurnitureMstId": 208050,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11323,
+  "gardenFurnitureMstId": 208050,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11324,
+  "gardenFurnitureMstId": 208050,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11325,
+  "gardenFurnitureMstId": 208050,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11326,
+  "gardenFurnitureMstId": 208050,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11327,
+  "gardenFurnitureMstId": 208050,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11328,
+  "gardenFurnitureMstId": 208050,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11329,
+  "gardenFurnitureMstId": 208050,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11330,
+  "gardenFurnitureMstId": 208050,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11331,
+  "gardenFurnitureMstId": 208050,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11332,
+  "gardenFurnitureMstId": 208050,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11333,
+  "gardenFurnitureMstId": 208050,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11334,
+  "gardenFurnitureMstId": 208050,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11335,
+  "gardenFurnitureMstId": 208050,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11336,
+  "gardenFurnitureMstId": 208050,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11337,
+  "gardenFurnitureMstId": 208050,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11338,
+  "gardenFurnitureMstId": 208050,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11339,
+  "gardenFurnitureMstId": 208050,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11340,
+  "gardenFurnitureMstId": 208050,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11341,
+  "gardenFurnitureMstId": 208050,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11342,
+  "gardenFurnitureMstId": 208050,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11343,
+  "gardenFurnitureMstId": 208050,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11344,
+  "gardenFurnitureMstId": 208050,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11345,
+  "gardenFurnitureMstId": 208050,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11346,
+  "gardenFurnitureMstId": 208050,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11347,
+  "gardenFurnitureMstId": 208050,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11348,
+  "gardenFurnitureMstId": 208050,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11349,
+  "gardenFurnitureMstId": 208050,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11350,
+  "gardenFurnitureMstId": 208050,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11351,
+  "gardenFurnitureMstId": 206019,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11352,
+  "gardenFurnitureMstId": 206019,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11353,
+  "gardenFurnitureMstId": 206019,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11354,
+  "gardenFurnitureMstId": 206019,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11355,
+  "gardenFurnitureMstId": 206019,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11356,
+  "gardenFurnitureMstId": 206019,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11357,
+  "gardenFurnitureMstId": 206019,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11358,
+  "gardenFurnitureMstId": 206019,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11359,
+  "gardenFurnitureMstId": 206019,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11360,
+  "gardenFurnitureMstId": 206019,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11361,
+  "gardenFurnitureMstId": 206019,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11362,
+  "gardenFurnitureMstId": 206019,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11363,
+  "gardenFurnitureMstId": 206019,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11364,
+  "gardenFurnitureMstId": 206019,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11365,
+  "gardenFurnitureMstId": 206019,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11366,
+  "gardenFurnitureMstId": 206019,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11367,
+  "gardenFurnitureMstId": 206019,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11368,
+  "gardenFurnitureMstId": 206019,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11369,
+  "gardenFurnitureMstId": 206019,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11370,
+  "gardenFurnitureMstId": 206019,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11371,
+  "gardenFurnitureMstId": 206019,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11372,
+  "gardenFurnitureMstId": 206019,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11373,
+  "gardenFurnitureMstId": 206019,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11374,
+  "gardenFurnitureMstId": 206019,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11375,
+  "gardenFurnitureMstId": 206019,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11376,
+  "gardenFurnitureMstId": 206019,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11377,
+  "gardenFurnitureMstId": 206019,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11378,
+  "gardenFurnitureMstId": 206019,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11379,
+  "gardenFurnitureMstId": 206019,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11380,
+  "gardenFurnitureMstId": 206019,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11381,
+  "gardenFurnitureMstId": 206019,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11382,
+  "gardenFurnitureMstId": 206019,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11383,
+  "gardenFurnitureMstId": 206019,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11384,
+  "gardenFurnitureMstId": 206019,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11385,
+  "gardenFurnitureMstId": 206019,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11386,
+  "gardenFurnitureMstId": 206019,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11387,
+  "gardenFurnitureMstId": 206019,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11388,
+  "gardenFurnitureMstId": 206019,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11389,
+  "gardenFurnitureMstId": 206019,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11390,
+  "gardenFurnitureMstId": 206019,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11391,
+  "gardenFurnitureMstId": 206019,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11392,
+  "gardenFurnitureMstId": 206019,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11393,
+  "gardenFurnitureMstId": 206019,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11394,
+  "gardenFurnitureMstId": 206019,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11395,
+  "gardenFurnitureMstId": 206019,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11396,
+  "gardenFurnitureMstId": 206019,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11397,
+  "gardenFurnitureMstId": 206019,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11398,
+  "gardenFurnitureMstId": 206019,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11399,
+  "gardenFurnitureMstId": 206019,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11400,
+  "gardenFurnitureMstId": 206019,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11401,
+  "gardenFurnitureMstId": 208051,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11402,
+  "gardenFurnitureMstId": 208051,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11403,
+  "gardenFurnitureMstId": 208051,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11404,
+  "gardenFurnitureMstId": 208051,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11405,
+  "gardenFurnitureMstId": 208051,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11406,
+  "gardenFurnitureMstId": 208051,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11407,
+  "gardenFurnitureMstId": 208051,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11408,
+  "gardenFurnitureMstId": 208051,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11409,
+  "gardenFurnitureMstId": 208051,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11410,
+  "gardenFurnitureMstId": 208051,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11411,
+  "gardenFurnitureMstId": 208051,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11412,
+  "gardenFurnitureMstId": 208051,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11413,
+  "gardenFurnitureMstId": 208051,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11414,
+  "gardenFurnitureMstId": 208051,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11415,
+  "gardenFurnitureMstId": 208051,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11416,
+  "gardenFurnitureMstId": 208051,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11417,
+  "gardenFurnitureMstId": 208051,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11418,
+  "gardenFurnitureMstId": 208051,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11419,
+  "gardenFurnitureMstId": 208051,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11420,
+  "gardenFurnitureMstId": 208051,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11421,
+  "gardenFurnitureMstId": 208051,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11422,
+  "gardenFurnitureMstId": 208051,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11423,
+  "gardenFurnitureMstId": 208051,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11424,
+  "gardenFurnitureMstId": 208051,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11425,
+  "gardenFurnitureMstId": 208051,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11426,
+  "gardenFurnitureMstId": 208051,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11427,
+  "gardenFurnitureMstId": 208051,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11428,
+  "gardenFurnitureMstId": 208051,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11429,
+  "gardenFurnitureMstId": 208051,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11430,
+  "gardenFurnitureMstId": 208051,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11431,
+  "gardenFurnitureMstId": 208051,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11432,
+  "gardenFurnitureMstId": 208051,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11433,
+  "gardenFurnitureMstId": 208051,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11434,
+  "gardenFurnitureMstId": 208051,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11435,
+  "gardenFurnitureMstId": 208051,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11436,
+  "gardenFurnitureMstId": 208051,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11437,
+  "gardenFurnitureMstId": 208051,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11438,
+  "gardenFurnitureMstId": 208051,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11439,
+  "gardenFurnitureMstId": 208051,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11440,
+  "gardenFurnitureMstId": 208051,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11441,
+  "gardenFurnitureMstId": 208051,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11442,
+  "gardenFurnitureMstId": 208051,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11443,
+  "gardenFurnitureMstId": 208051,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11444,
+  "gardenFurnitureMstId": 208051,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11445,
+  "gardenFurnitureMstId": 208051,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11446,
+  "gardenFurnitureMstId": 208051,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11447,
+  "gardenFurnitureMstId": 208051,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11448,
+  "gardenFurnitureMstId": 208051,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11449,
+  "gardenFurnitureMstId": 208051,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11450,
+  "gardenFurnitureMstId": 208051,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11451,
+  "gardenFurnitureMstId": 208052,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11452,
+  "gardenFurnitureMstId": 208052,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11453,
+  "gardenFurnitureMstId": 208052,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11454,
+  "gardenFurnitureMstId": 208052,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11455,
+  "gardenFurnitureMstId": 208052,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11456,
+  "gardenFurnitureMstId": 208052,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11457,
+  "gardenFurnitureMstId": 208052,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11458,
+  "gardenFurnitureMstId": 208052,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11459,
+  "gardenFurnitureMstId": 208052,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11460,
+  "gardenFurnitureMstId": 208052,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11461,
+  "gardenFurnitureMstId": 208052,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11462,
+  "gardenFurnitureMstId": 208052,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11463,
+  "gardenFurnitureMstId": 208052,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11464,
+  "gardenFurnitureMstId": 208052,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11465,
+  "gardenFurnitureMstId": 208052,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11466,
+  "gardenFurnitureMstId": 208052,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11467,
+  "gardenFurnitureMstId": 208052,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11468,
+  "gardenFurnitureMstId": 208052,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11469,
+  "gardenFurnitureMstId": 208052,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11470,
+  "gardenFurnitureMstId": 208052,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11471,
+  "gardenFurnitureMstId": 208052,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11472,
+  "gardenFurnitureMstId": 208052,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11473,
+  "gardenFurnitureMstId": 208052,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11474,
+  "gardenFurnitureMstId": 208052,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11475,
+  "gardenFurnitureMstId": 208052,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11476,
+  "gardenFurnitureMstId": 208052,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11477,
+  "gardenFurnitureMstId": 208052,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11478,
+  "gardenFurnitureMstId": 208052,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11479,
+  "gardenFurnitureMstId": 208052,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11480,
+  "gardenFurnitureMstId": 208052,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11481,
+  "gardenFurnitureMstId": 208052,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11482,
+  "gardenFurnitureMstId": 208052,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11483,
+  "gardenFurnitureMstId": 208052,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11484,
+  "gardenFurnitureMstId": 208052,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11485,
+  "gardenFurnitureMstId": 208052,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11486,
+  "gardenFurnitureMstId": 208052,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11487,
+  "gardenFurnitureMstId": 208052,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11488,
+  "gardenFurnitureMstId": 208052,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11489,
+  "gardenFurnitureMstId": 208052,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11490,
+  "gardenFurnitureMstId": 208052,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11491,
+  "gardenFurnitureMstId": 208052,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11492,
+  "gardenFurnitureMstId": 208052,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11493,
+  "gardenFurnitureMstId": 208052,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11494,
+  "gardenFurnitureMstId": 208052,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11495,
+  "gardenFurnitureMstId": 208052,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11496,
+  "gardenFurnitureMstId": 208052,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11497,
+  "gardenFurnitureMstId": 208052,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11498,
+  "gardenFurnitureMstId": 208052,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11499,
+  "gardenFurnitureMstId": 208052,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11500,
+  "gardenFurnitureMstId": 208052,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11501,
+  "gardenFurnitureMstId": 208053,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11502,
+  "gardenFurnitureMstId": 208053,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11503,
+  "gardenFurnitureMstId": 208053,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11504,
+  "gardenFurnitureMstId": 208053,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11505,
+  "gardenFurnitureMstId": 208053,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11506,
+  "gardenFurnitureMstId": 208053,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11507,
+  "gardenFurnitureMstId": 208053,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11508,
+  "gardenFurnitureMstId": 208053,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11509,
+  "gardenFurnitureMstId": 208053,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11510,
+  "gardenFurnitureMstId": 208053,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11511,
+  "gardenFurnitureMstId": 208053,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11512,
+  "gardenFurnitureMstId": 208053,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11513,
+  "gardenFurnitureMstId": 208053,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11514,
+  "gardenFurnitureMstId": 208053,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11515,
+  "gardenFurnitureMstId": 208053,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11516,
+  "gardenFurnitureMstId": 208053,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11517,
+  "gardenFurnitureMstId": 208053,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11518,
+  "gardenFurnitureMstId": 208053,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11519,
+  "gardenFurnitureMstId": 208053,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11520,
+  "gardenFurnitureMstId": 208053,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11521,
+  "gardenFurnitureMstId": 208053,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11522,
+  "gardenFurnitureMstId": 208053,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11523,
+  "gardenFurnitureMstId": 208053,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11524,
+  "gardenFurnitureMstId": 208053,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11525,
+  "gardenFurnitureMstId": 208053,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11526,
+  "gardenFurnitureMstId": 208053,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11527,
+  "gardenFurnitureMstId": 208053,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11528,
+  "gardenFurnitureMstId": 208053,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11529,
+  "gardenFurnitureMstId": 208053,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11530,
+  "gardenFurnitureMstId": 208053,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11531,
+  "gardenFurnitureMstId": 208053,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11532,
+  "gardenFurnitureMstId": 208053,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11533,
+  "gardenFurnitureMstId": 208053,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11534,
+  "gardenFurnitureMstId": 208053,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11535,
+  "gardenFurnitureMstId": 208053,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11536,
+  "gardenFurnitureMstId": 208053,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11537,
+  "gardenFurnitureMstId": 208053,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11538,
+  "gardenFurnitureMstId": 208053,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11539,
+  "gardenFurnitureMstId": 208053,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11540,
+  "gardenFurnitureMstId": 208053,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11541,
+  "gardenFurnitureMstId": 208053,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11542,
+  "gardenFurnitureMstId": 208053,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11543,
+  "gardenFurnitureMstId": 208053,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11544,
+  "gardenFurnitureMstId": 208053,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11545,
+  "gardenFurnitureMstId": 208053,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11546,
+  "gardenFurnitureMstId": 208053,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11547,
+  "gardenFurnitureMstId": 208053,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11548,
+  "gardenFurnitureMstId": 208053,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11549,
+  "gardenFurnitureMstId": 208053,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11550,
+  "gardenFurnitureMstId": 208053,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11551,
+  "gardenFurnitureMstId": 208054,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11552,
+  "gardenFurnitureMstId": 208054,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11553,
+  "gardenFurnitureMstId": 208054,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11554,
+  "gardenFurnitureMstId": 208054,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11555,
+  "gardenFurnitureMstId": 208054,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11556,
+  "gardenFurnitureMstId": 208054,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11557,
+  "gardenFurnitureMstId": 208054,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11558,
+  "gardenFurnitureMstId": 208054,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11559,
+  "gardenFurnitureMstId": 208054,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11560,
+  "gardenFurnitureMstId": 208054,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11561,
+  "gardenFurnitureMstId": 208054,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11562,
+  "gardenFurnitureMstId": 208054,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11563,
+  "gardenFurnitureMstId": 208054,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11564,
+  "gardenFurnitureMstId": 208054,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11565,
+  "gardenFurnitureMstId": 208054,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11566,
+  "gardenFurnitureMstId": 208054,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11567,
+  "gardenFurnitureMstId": 208054,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11568,
+  "gardenFurnitureMstId": 208054,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11569,
+  "gardenFurnitureMstId": 208054,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11570,
+  "gardenFurnitureMstId": 208054,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11571,
+  "gardenFurnitureMstId": 208054,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11572,
+  "gardenFurnitureMstId": 208054,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11573,
+  "gardenFurnitureMstId": 208054,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11574,
+  "gardenFurnitureMstId": 208054,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11575,
+  "gardenFurnitureMstId": 208054,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11576,
+  "gardenFurnitureMstId": 208054,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11577,
+  "gardenFurnitureMstId": 208054,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11578,
+  "gardenFurnitureMstId": 208054,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11579,
+  "gardenFurnitureMstId": 208054,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11580,
+  "gardenFurnitureMstId": 208054,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11581,
+  "gardenFurnitureMstId": 208054,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11582,
+  "gardenFurnitureMstId": 208054,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11583,
+  "gardenFurnitureMstId": 208054,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11584,
+  "gardenFurnitureMstId": 208054,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11585,
+  "gardenFurnitureMstId": 208054,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11586,
+  "gardenFurnitureMstId": 208054,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11587,
+  "gardenFurnitureMstId": 208054,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11588,
+  "gardenFurnitureMstId": 208054,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11589,
+  "gardenFurnitureMstId": 208054,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11590,
+  "gardenFurnitureMstId": 208054,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11591,
+  "gardenFurnitureMstId": 208054,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11592,
+  "gardenFurnitureMstId": 208054,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11593,
+  "gardenFurnitureMstId": 208054,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11594,
+  "gardenFurnitureMstId": 208054,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11595,
+  "gardenFurnitureMstId": 208054,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11596,
+  "gardenFurnitureMstId": 208054,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11597,
+  "gardenFurnitureMstId": 208054,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11598,
+  "gardenFurnitureMstId": 208054,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11599,
+  "gardenFurnitureMstId": 208054,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11600,
+  "gardenFurnitureMstId": 208054,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11601,
+  "gardenFurnitureMstId": 208055,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11602,
+  "gardenFurnitureMstId": 208055,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11603,
+  "gardenFurnitureMstId": 208055,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11604,
+  "gardenFurnitureMstId": 208055,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11605,
+  "gardenFurnitureMstId": 208055,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11606,
+  "gardenFurnitureMstId": 208055,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11607,
+  "gardenFurnitureMstId": 208055,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11608,
+  "gardenFurnitureMstId": 208055,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11609,
+  "gardenFurnitureMstId": 208055,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11610,
+  "gardenFurnitureMstId": 208055,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11611,
+  "gardenFurnitureMstId": 208055,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11612,
+  "gardenFurnitureMstId": 208055,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11613,
+  "gardenFurnitureMstId": 208055,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11614,
+  "gardenFurnitureMstId": 208055,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11615,
+  "gardenFurnitureMstId": 208055,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11616,
+  "gardenFurnitureMstId": 208055,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11617,
+  "gardenFurnitureMstId": 208055,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11618,
+  "gardenFurnitureMstId": 208055,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11619,
+  "gardenFurnitureMstId": 208055,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11620,
+  "gardenFurnitureMstId": 208055,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11621,
+  "gardenFurnitureMstId": 208055,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11622,
+  "gardenFurnitureMstId": 208055,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11623,
+  "gardenFurnitureMstId": 208055,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11624,
+  "gardenFurnitureMstId": 208055,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11625,
+  "gardenFurnitureMstId": 208055,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11626,
+  "gardenFurnitureMstId": 208055,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11627,
+  "gardenFurnitureMstId": 208055,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11628,
+  "gardenFurnitureMstId": 208055,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11629,
+  "gardenFurnitureMstId": 208055,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11630,
+  "gardenFurnitureMstId": 208055,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11631,
+  "gardenFurnitureMstId": 208055,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11632,
+  "gardenFurnitureMstId": 208055,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11633,
+  "gardenFurnitureMstId": 208055,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11634,
+  "gardenFurnitureMstId": 208055,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11635,
+  "gardenFurnitureMstId": 208055,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11636,
+  "gardenFurnitureMstId": 208055,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11637,
+  "gardenFurnitureMstId": 208055,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11638,
+  "gardenFurnitureMstId": 208055,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11639,
+  "gardenFurnitureMstId": 208055,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11640,
+  "gardenFurnitureMstId": 208055,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11641,
+  "gardenFurnitureMstId": 208055,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11642,
+  "gardenFurnitureMstId": 208055,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11643,
+  "gardenFurnitureMstId": 208055,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11644,
+  "gardenFurnitureMstId": 208055,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11645,
+  "gardenFurnitureMstId": 208055,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11646,
+  "gardenFurnitureMstId": 208055,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11647,
+  "gardenFurnitureMstId": 208055,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11648,
+  "gardenFurnitureMstId": 208055,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11649,
+  "gardenFurnitureMstId": 208055,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11650,
+  "gardenFurnitureMstId": 208055,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11651,
+  "gardenFurnitureMstId": 209013,
+  "level": 1,
+  "foodFixed": 5,
+  "drinkFixed": 5,
+  "sweetsFixed": 5,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11652,
+  "gardenFurnitureMstId": 209013,
+  "level": 2,
+  "foodFixed": 7,
+  "drinkFixed": 7,
+  "sweetsFixed": 7,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11653,
+  "gardenFurnitureMstId": 209013,
+  "level": 3,
+  "foodFixed": 10,
+  "drinkFixed": 10,
+  "sweetsFixed": 10,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11654,
+  "gardenFurnitureMstId": 209013,
+  "level": 4,
+  "foodFixed": 12,
+  "drinkFixed": 12,
+  "sweetsFixed": 12,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11655,
+  "gardenFurnitureMstId": 209013,
+  "level": 5,
+  "foodFixed": 15,
+  "drinkFixed": 15,
+  "sweetsFixed": 15,
+  "serveFixed": 1
+ },
+ {
+  "gardenFurnitureLevelMstId": 11656,
+  "gardenFurnitureMstId": 209013,
+  "level": 6,
+  "foodFixed": 17,
+  "drinkFixed": 17,
+  "sweetsFixed": 17,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11657,
+  "gardenFurnitureMstId": 209013,
+  "level": 7,
+  "foodFixed": 20,
+  "drinkFixed": 20,
+  "sweetsFixed": 20,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11658,
+  "gardenFurnitureMstId": 209013,
+  "level": 8,
+  "foodFixed": 22,
+  "drinkFixed": 22,
+  "sweetsFixed": 22,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11659,
+  "gardenFurnitureMstId": 209013,
+  "level": 9,
+  "foodFixed": 25,
+  "drinkFixed": 25,
+  "sweetsFixed": 25,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11660,
+  "gardenFurnitureMstId": 209013,
+  "level": 10,
+  "foodFixed": 27,
+  "drinkFixed": 27,
+  "sweetsFixed": 27,
+  "serveFixed": 2
+ },
+ {
+  "gardenFurnitureLevelMstId": 11661,
+  "gardenFurnitureMstId": 209013,
+  "level": 11,
+  "foodFixed": 30,
+  "drinkFixed": 30,
+  "sweetsFixed": 30,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11662,
+  "gardenFurnitureMstId": 209013,
+  "level": 12,
+  "foodFixed": 32,
+  "drinkFixed": 32,
+  "sweetsFixed": 32,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11663,
+  "gardenFurnitureMstId": 209013,
+  "level": 13,
+  "foodFixed": 35,
+  "drinkFixed": 35,
+  "sweetsFixed": 35,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11664,
+  "gardenFurnitureMstId": 209013,
+  "level": 14,
+  "foodFixed": 37,
+  "drinkFixed": 37,
+  "sweetsFixed": 37,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11665,
+  "gardenFurnitureMstId": 209013,
+  "level": 15,
+  "foodFixed": 40,
+  "drinkFixed": 40,
+  "sweetsFixed": 40,
+  "serveFixed": 3
+ },
+ {
+  "gardenFurnitureLevelMstId": 11666,
+  "gardenFurnitureMstId": 209013,
+  "level": 16,
+  "foodFixed": 42,
+  "drinkFixed": 42,
+  "sweetsFixed": 42,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11667,
+  "gardenFurnitureMstId": 209013,
+  "level": 17,
+  "foodFixed": 45,
+  "drinkFixed": 45,
+  "sweetsFixed": 45,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11668,
+  "gardenFurnitureMstId": 209013,
+  "level": 18,
+  "foodFixed": 47,
+  "drinkFixed": 47,
+  "sweetsFixed": 47,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11669,
+  "gardenFurnitureMstId": 209013,
+  "level": 19,
+  "foodFixed": 50,
+  "drinkFixed": 50,
+  "sweetsFixed": 50,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11670,
+  "gardenFurnitureMstId": 209013,
+  "level": 20,
+  "foodFixed": 52,
+  "drinkFixed": 52,
+  "sweetsFixed": 52,
+  "serveFixed": 4
+ },
+ {
+  "gardenFurnitureLevelMstId": 11671,
+  "gardenFurnitureMstId": 209013,
+  "level": 21,
+  "foodFixed": 55,
+  "drinkFixed": 55,
+  "sweetsFixed": 55,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11672,
+  "gardenFurnitureMstId": 209013,
+  "level": 22,
+  "foodFixed": 57,
+  "drinkFixed": 57,
+  "sweetsFixed": 57,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11673,
+  "gardenFurnitureMstId": 209013,
+  "level": 23,
+  "foodFixed": 60,
+  "drinkFixed": 60,
+  "sweetsFixed": 60,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11674,
+  "gardenFurnitureMstId": 209013,
+  "level": 24,
+  "foodFixed": 62,
+  "drinkFixed": 62,
+  "sweetsFixed": 62,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11675,
+  "gardenFurnitureMstId": 209013,
+  "level": 25,
+  "foodFixed": 65,
+  "drinkFixed": 65,
+  "sweetsFixed": 65,
+  "serveFixed": 5
+ },
+ {
+  "gardenFurnitureLevelMstId": 11676,
+  "gardenFurnitureMstId": 209013,
+  "level": 26,
+  "foodFixed": 67,
+  "drinkFixed": 67,
+  "sweetsFixed": 67,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11677,
+  "gardenFurnitureMstId": 209013,
+  "level": 27,
+  "foodFixed": 70,
+  "drinkFixed": 70,
+  "sweetsFixed": 70,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11678,
+  "gardenFurnitureMstId": 209013,
+  "level": 28,
+  "foodFixed": 72,
+  "drinkFixed": 72,
+  "sweetsFixed": 72,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11679,
+  "gardenFurnitureMstId": 209013,
+  "level": 29,
+  "foodFixed": 75,
+  "drinkFixed": 75,
+  "sweetsFixed": 75,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11680,
+  "gardenFurnitureMstId": 209013,
+  "level": 30,
+  "foodFixed": 77,
+  "drinkFixed": 77,
+  "sweetsFixed": 77,
+  "serveFixed": 6
+ },
+ {
+  "gardenFurnitureLevelMstId": 11681,
+  "gardenFurnitureMstId": 209013,
+  "level": 31,
+  "foodFixed": 80,
+  "drinkFixed": 80,
+  "sweetsFixed": 80,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11682,
+  "gardenFurnitureMstId": 209013,
+  "level": 32,
+  "foodFixed": 82,
+  "drinkFixed": 82,
+  "sweetsFixed": 82,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11683,
+  "gardenFurnitureMstId": 209013,
+  "level": 33,
+  "foodFixed": 85,
+  "drinkFixed": 85,
+  "sweetsFixed": 85,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11684,
+  "gardenFurnitureMstId": 209013,
+  "level": 34,
+  "foodFixed": 87,
+  "drinkFixed": 87,
+  "sweetsFixed": 87,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11685,
+  "gardenFurnitureMstId": 209013,
+  "level": 35,
+  "foodFixed": 90,
+  "drinkFixed": 90,
+  "sweetsFixed": 90,
+  "serveFixed": 7
+ },
+ {
+  "gardenFurnitureLevelMstId": 11686,
+  "gardenFurnitureMstId": 209013,
+  "level": 36,
+  "foodFixed": 92,
+  "drinkFixed": 92,
+  "sweetsFixed": 92,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11687,
+  "gardenFurnitureMstId": 209013,
+  "level": 37,
+  "foodFixed": 95,
+  "drinkFixed": 95,
+  "sweetsFixed": 95,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11688,
+  "gardenFurnitureMstId": 209013,
+  "level": 38,
+  "foodFixed": 97,
+  "drinkFixed": 97,
+  "sweetsFixed": 97,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11689,
+  "gardenFurnitureMstId": 209013,
+  "level": 39,
+  "foodFixed": 100,
+  "drinkFixed": 100,
+  "sweetsFixed": 100,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11690,
+  "gardenFurnitureMstId": 209013,
+  "level": 40,
+  "foodFixed": 102,
+  "drinkFixed": 102,
+  "sweetsFixed": 102,
+  "serveFixed": 8
+ },
+ {
+  "gardenFurnitureLevelMstId": 11691,
+  "gardenFurnitureMstId": 209013,
+  "level": 41,
+  "foodFixed": 105,
+  "drinkFixed": 105,
+  "sweetsFixed": 105,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11692,
+  "gardenFurnitureMstId": 209013,
+  "level": 42,
+  "foodFixed": 107,
+  "drinkFixed": 107,
+  "sweetsFixed": 107,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11693,
+  "gardenFurnitureMstId": 209013,
+  "level": 43,
+  "foodFixed": 110,
+  "drinkFixed": 110,
+  "sweetsFixed": 110,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11694,
+  "gardenFurnitureMstId": 209013,
+  "level": 44,
+  "foodFixed": 112,
+  "drinkFixed": 112,
+  "sweetsFixed": 112,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11695,
+  "gardenFurnitureMstId": 209013,
+  "level": 45,
+  "foodFixed": 115,
+  "drinkFixed": 115,
+  "sweetsFixed": 115,
+  "serveFixed": 9
+ },
+ {
+  "gardenFurnitureLevelMstId": 11696,
+  "gardenFurnitureMstId": 209013,
+  "level": 46,
+  "foodFixed": 117,
+  "drinkFixed": 117,
+  "sweetsFixed": 117,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11697,
+  "gardenFurnitureMstId": 209013,
+  "level": 47,
+  "foodFixed": 120,
+  "drinkFixed": 120,
+  "sweetsFixed": 120,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11698,
+  "gardenFurnitureMstId": 209013,
+  "level": 48,
+  "foodFixed": 122,
+  "drinkFixed": 122,
+  "sweetsFixed": 122,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11699,
+  "gardenFurnitureMstId": 209013,
+  "level": 49,
+  "foodFixed": 125,
+  "drinkFixed": 125,
+  "sweetsFixed": 125,
+  "serveFixed": 10
+ },
+ {
+  "gardenFurnitureLevelMstId": 11700,
+  "gardenFurnitureMstId": 209013,
+  "level": 50,
+  "foodFixed": 150,
+  "drinkFixed": 150,
+  "sweetsFixed": 150,
+  "serveFixed": 10
  }
 ]

@@ -508,5 +508,41 @@
   "live2dFileName": "10602_50_S01",
   "characterMstId": 0,
   "characterSkinMstId": 106020110
+ },
+ {
+  "live2dIllustMstId": 89,
+  "live2dFileName": "10507_01_S01",
+  "characterMstId": 1050701,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 90,
+  "live2dFileName": "10502_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 105020110
+ },
+ {
+  "live2dIllustMstId": 91,
+  "live2dFileName": "10504_50_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 105040110
+ },
+ {
+  "live2dIllustMstId": 92,
+  "live2dFileName": "10507_51_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 105070120
+ },
+ {
+  "live2dIllustMstId": 95,
+  "live2dFileName": "10101_51_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 101010140
+ },
+ {
+  "live2dIllustMstId": 96,
+  "live2dFileName": "10102_51_S01",
+  "characterMstId": 0,
+  "characterSkinMstId": 101020140
  }
 ]

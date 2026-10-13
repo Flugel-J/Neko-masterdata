@@ -1,0 +1,119 @@
+[
+ {
+  "steamAchievementMstId": 1,
+  "apiName": "STEAM_ACHIEVEMENT_01",
+  "conditionType": 1,
+  "conditionId1": 1,
+  "achievementValueType1": 1,
+  "conditionId2": 110101100,
+  "achievementValueType2": 2
+ },
+ {
+  "steamAchievementMstId": 2,
+  "apiName": "STEAM_ACHIEVEMENT_02",
+  "conditionType": 1,
+  "conditionId1": 1,
+  "achievementValueType1": 1,
+  "conditionId2": 110101300,
+  "achievementValueType2": 2
+ },
+ {
+  "steamAchievementMstId": 3,
+  "apiName": "STEAM_ACHIEVEMENT_03",
+  "conditionType": 1,
+  "conditionId1": 1,
+  "achievementValueType1": 1,
+  "conditionId2": 110102100,
+  "achievementValueType2": 2
+ },
+ {
+  "steamAchievementMstId": 4,
+  "apiName": "STEAM_ACHIEVEMENT_04",
+  "conditionType": 3,
+  "conditionId1": 30,
+  "achievementValueType1": 2,
+  "conditionId2": 0,
+  "achievementValueType2": 0
+ },
+ {
+  "steamAchievementMstId": 5,
+  "apiName": "STEAM_ACHIEVEMENT_05",
+  "conditionType": 4,
+  "conditionId1": 100,
+  "achievementValueType1": 2,
+  "conditionId2": 0,
+  "achievementValueType2": 0
+ },
+ {
+  "steamAchievementMstId": 6,
+  "apiName": "STEAM_ACHIEVEMENT_06",
+  "conditionType": 4,
+  "conditionId1": 200,
+  "achievementValueType1": 2,
+  "conditionId2": 0,
+  "achievementValueType2": 0
+ },
+ {
+  "steamAchievementMstId": 7,
+  "apiName": "STEAM_ACHIEVEMENT_07",
+  "conditionType": 4,
+  "conditionId1": 300,
+  "achievementValueType1": 2,
+  "conditionId2": 0,
+  "achievementValueType2": 0
+ },
+ {
+  "steamAchievementMstId": 8,
+  "apiName": "STEAM_ACHIEVEMENT_08",
+  "conditionType": 2,
+  "conditionId1": 1,
+  "achievementValueType1": 1,
+  "conditionId2": 100013,
+  "achievementValueType2": 2
+ },
+ {
+  "steamAchievementMstId": 9,
+  "apiName": "STEAM_ACHIEVEMENT_09",
+  "conditionType": 1,
+  "conditionId1": 1,
+  "achievementValueType1": 1,
+  "conditionId2": 70010100,
+  "achievementValueType2": 2
+ },
+ {
+  "steamAchievementMstId": 10,
+  "apiName": "STEAM_ACHIEVEMENT_10",
+  "conditionType": 1,
+  "conditionId1": 1,
+  "achievementValueType1": 1,
+  "conditionId2": 70010200,
+  "achievementValueType2": 2
+ },
+ {
+  "steamAchievementMstId": 11,
+  "apiName": "STEAM_ACHIEVEMENT_11",
+  "conditionType": 5,
+  "conditionId1": 1,
+  "achievementValueType1": 2,
+  "conditionId2": 150,
+  "achievementValueType2": 2
+ },
+ {
+  "steamAchievementMstId": 12,
+  "apiName": "STEAM_ACHIEVEMENT_12",
+  "conditionType": 6,
+  "conditionId1": 1,
+  "achievementValueType1": 2,
+  "conditionId2": 50,
+  "achievementValueType2": 2
+ },
+ {
+  "steamAchievementMstId": 13,
+  "apiName": "STEAM_ACHIEVEMENT_13",
+  "conditionType": 7,
+  "conditionId1": 100,
+  "achievementValueType1": 2,
+  "conditionId2": 0,
+  "achievementValueType2": 0
+ }
+]

@@ -2385,5 +2385,362 @@
   "objectReceiveType": 6,
   "objectId": 4010001,
   "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 442,
+  "rewardGroupId": 100001099,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 3000
+ },
+ {
+  "worldRankingRewardMstId": 443,
+  "rewardGroupId": 100001099,
+  "objectReceiveType": 17,
+  "objectId": 16080025,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 444,
+  "rewardGroupId": 100001099,
+  "objectReceiveType": 6,
+  "objectId": 3020004,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 445,
+  "rewardGroupId": 100001099,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 10000
+ },
+ {
+  "worldRankingRewardMstId": 446,
+  "rewardGroupId": 100001099,
+  "objectReceiveType": 6,
+  "objectId": 4010003,
+  "num": 30
+ },
+ {
+  "worldRankingRewardMstId": 447,
+  "rewardGroupId": 100001100,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 3000
+ },
+ {
+  "worldRankingRewardMstId": 448,
+  "rewardGroupId": 100001100,
+  "objectReceiveType": 17,
+  "objectId": 16080025,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 449,
+  "rewardGroupId": 100001100,
+  "objectReceiveType": 6,
+  "objectId": 3020004,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 450,
+  "rewardGroupId": 100001100,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 7000
+ },
+ {
+  "worldRankingRewardMstId": 451,
+  "rewardGroupId": 100001100,
+  "objectReceiveType": 6,
+  "objectId": 4010003,
+  "num": 20
+ },
+ {
+  "worldRankingRewardMstId": 452,
+  "rewardGroupId": 100001101,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 3000
+ },
+ {
+  "worldRankingRewardMstId": 453,
+  "rewardGroupId": 100001101,
+  "objectReceiveType": 17,
+  "objectId": 16080025,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 454,
+  "rewardGroupId": 100001101,
+  "objectReceiveType": 6,
+  "objectId": 3020004,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 455,
+  "rewardGroupId": 100001101,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 5000
+ },
+ {
+  "worldRankingRewardMstId": 456,
+  "rewardGroupId": 100001101,
+  "objectReceiveType": 6,
+  "objectId": 4010003,
+  "num": 10
+ },
+ {
+  "worldRankingRewardMstId": 457,
+  "rewardGroupId": 100001102,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 3000
+ },
+ {
+  "worldRankingRewardMstId": 458,
+  "rewardGroupId": 100001102,
+  "objectReceiveType": 17,
+  "objectId": 16080024,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 459,
+  "rewardGroupId": 100001102,
+  "objectReceiveType": 6,
+  "objectId": 3020004,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 460,
+  "rewardGroupId": 100001102,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 5000
+ },
+ {
+  "worldRankingRewardMstId": 461,
+  "rewardGroupId": 100001102,
+  "objectReceiveType": 6,
+  "objectId": 4010003,
+  "num": 10
+ },
+ {
+  "worldRankingRewardMstId": 462,
+  "rewardGroupId": 100001103,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 2000
+ },
+ {
+  "worldRankingRewardMstId": 463,
+  "rewardGroupId": 100001103,
+  "objectReceiveType": 17,
+  "objectId": 16080024,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 464,
+  "rewardGroupId": 100001103,
+  "objectReceiveType": 6,
+  "objectId": 3020004,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 465,
+  "rewardGroupId": 100001103,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 5000
+ },
+ {
+  "worldRankingRewardMstId": 466,
+  "rewardGroupId": 100001103,
+  "objectReceiveType": 6,
+  "objectId": 4010003,
+  "num": 10
+ },
+ {
+  "worldRankingRewardMstId": 467,
+  "rewardGroupId": 100001104,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 2000
+ },
+ {
+  "worldRankingRewardMstId": 468,
+  "rewardGroupId": 100001104,
+  "objectReceiveType": 17,
+  "objectId": 16080024,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 469,
+  "rewardGroupId": 100001104,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 5000
+ },
+ {
+  "worldRankingRewardMstId": 470,
+  "rewardGroupId": 100001104,
+  "objectReceiveType": 6,
+  "objectId": 4010003,
+  "num": 10
+ },
+ {
+  "worldRankingRewardMstId": 471,
+  "rewardGroupId": 100001105,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 1000
+ },
+ {
+  "worldRankingRewardMstId": 472,
+  "rewardGroupId": 100001105,
+  "objectReceiveType": 17,
+  "objectId": 16080023,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 473,
+  "rewardGroupId": 100001105,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 3000
+ },
+ {
+  "worldRankingRewardMstId": 474,
+  "rewardGroupId": 100001105,
+  "objectReceiveType": 6,
+  "objectId": 4010003,
+  "num": 5
+ },
+ {
+  "worldRankingRewardMstId": 475,
+  "rewardGroupId": 100001106,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 500
+ },
+ {
+  "worldRankingRewardMstId": 476,
+  "rewardGroupId": 100001106,
+  "objectReceiveType": 17,
+  "objectId": 16080023,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 477,
+  "rewardGroupId": 100001106,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 1000
+ },
+ {
+  "worldRankingRewardMstId": 478,
+  "rewardGroupId": 100001106,
+  "objectReceiveType": 6,
+  "objectId": 4010003,
+  "num": 5
+ },
+ {
+  "worldRankingRewardMstId": 479,
+  "rewardGroupId": 100001107,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 500
+ },
+ {
+  "worldRankingRewardMstId": 480,
+  "rewardGroupId": 100001107,
+  "objectReceiveType": 17,
+  "objectId": 16080023,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 481,
+  "rewardGroupId": 100001107,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 1000
+ },
+ {
+  "worldRankingRewardMstId": 482,
+  "rewardGroupId": 100001107,
+  "objectReceiveType": 6,
+  "objectId": 4010003,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 483,
+  "rewardGroupId": 100001108,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 300
+ },
+ {
+  "worldRankingRewardMstId": 484,
+  "rewardGroupId": 100001108,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 500
+ },
+ {
+  "worldRankingRewardMstId": 485,
+  "rewardGroupId": 100001108,
+  "objectReceiveType": 6,
+  "objectId": 4010002,
+  "num": 2
+ },
+ {
+  "worldRankingRewardMstId": 486,
+  "rewardGroupId": 100001109,
+  "objectReceiveType": 2,
+  "objectId": 0,
+  "num": 100
+ },
+ {
+  "worldRankingRewardMstId": 487,
+  "rewardGroupId": 100001109,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 300
+ },
+ {
+  "worldRankingRewardMstId": 488,
+  "rewardGroupId": 100001109,
+  "objectReceiveType": 6,
+  "objectId": 4010002,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 489,
+  "rewardGroupId": 100001110,
+  "objectReceiveType": 6,
+  "objectId": 3080001,
+  "num": 300
+ },
+ {
+  "worldRankingRewardMstId": 490,
+  "rewardGroupId": 100001110,
+  "objectReceiveType": 6,
+  "objectId": 4010002,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 491,
+  "rewardGroupId": 100001111,
+  "objectReceiveType": 6,
+  "objectId": 4010002,
+  "num": 1
+ },
+ {
+  "worldRankingRewardMstId": 492,
+  "rewardGroupId": 100001112,
+  "objectReceiveType": 6,
+  "objectId": 4010001,
+  "num": 1
  }
 ]

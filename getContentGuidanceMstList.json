@@ -1,0 +1,281 @@
+[
+ {
+  "contentGuidanceMstId": 1101,
+  "contentGuidanceGroupId": 11,
+  "characterMstId": 1010301,
+  "facialExpression": "mtn_ex_000",
+  "line": "Clubshas been unlocked. Let's check it out!",
+  "step": 1,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 1102,
+  "contentGuidanceGroupId": 11,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 2,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 1201,
+  "contentGuidanceGroupId": 12,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "Clubshas been unlocked. Let's check it out!",
+  "step": 1,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 1202,
+  "contentGuidanceGroupId": 12,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 2,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 1203,
+  "contentGuidanceGroupId": 12,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 3,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 1204,
+  "contentGuidanceGroupId": 12,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 4,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 3101,
+  "contentGuidanceGroupId": 31,
+  "characterMstId": 1010301,
+  "facialExpression": "mtn_ex_000",
+  "line": "Mystery Househas been unlocked. Let's check it out!",
+  "step": 2,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 3102,
+  "contentGuidanceGroupId": 31,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 3,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 3103,
+  "contentGuidanceGroupId": 31,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 5,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 3201,
+  "contentGuidanceGroupId": 32,
+  "characterMstId": 1010301,
+  "facialExpression": "mtn_ex_000",
+  "line": "Mystery Househas been unlocked. Let's check it out!",
+  "step": 2,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 3202,
+  "contentGuidanceGroupId": 32,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 5,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 4101,
+  "contentGuidanceGroupId": 41,
+  "characterMstId": 1010301,
+  "facialExpression": "mtn_ex_000",
+  "line": "Gift Questshas been unlocked. Let's check it out!",
+  "step": 1,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 4102,
+  "contentGuidanceGroupId": 41,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 2,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 4103,
+  "contentGuidanceGroupId": 41,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 4,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 4201,
+  "contentGuidanceGroupId": 42,
+  "characterMstId": 1010301,
+  "facialExpression": "mtn_ex_000",
+  "line": "Gift Questshas been unlocked. Let's check it out!",
+  "step": 1,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 4202,
+  "contentGuidanceGroupId": 42,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 4,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 6101,
+  "contentGuidanceGroupId": 61,
+  "characterMstId": 1010301,
+  "facialExpression": "mtn_ex_000",
+  "line": "Contesthas been unlocked. Let's check it out!",
+  "step": 2,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 6102,
+  "contentGuidanceGroupId": 61,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 3,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 6103,
+  "contentGuidanceGroupId": 61,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 5,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 6201,
+  "contentGuidanceGroupId": 62,
+  "characterMstId": 1010301,
+  "facialExpression": "mtn_ex_000",
+  "line": "Contesthas been unlocked. Let's check it out!",
+  "step": 2,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 6202,
+  "contentGuidanceGroupId": 62,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 5,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 7101,
+  "contentGuidanceGroupId": 71,
+  "characterMstId": 1010301,
+  "facialExpression": "mtn_ex_000",
+  "line": "VR Cat Towerhas been unlocked. Let's check it out!",
+  "step": 1,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 7102,
+  "contentGuidanceGroupId": 71,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 2,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 7103,
+  "contentGuidanceGroupId": 71,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 4,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 7201,
+  "contentGuidanceGroupId": 72,
+  "characterMstId": 1010301,
+  "facialExpression": "mtn_ex_000",
+  "line": "VR Cat Towerhas been unlocked. Let's check it out!",
+  "step": 1,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 7202,
+  "contentGuidanceGroupId": 72,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 4,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 8101,
+  "contentGuidanceGroupId": 81,
+  "characterMstId": 1010301,
+  "facialExpression": "mtn_ex_000",
+  "line": "Mystery Househas been unlocked. Let's check it out!",
+  "step": 2,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 8102,
+  "contentGuidanceGroupId": 81,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 3,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 8103,
+  "contentGuidanceGroupId": 81,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 5,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 8201,
+  "contentGuidanceGroupId": 82,
+  "characterMstId": 1010301,
+  "facialExpression": "mtn_ex_000",
+  "line": "Mystery Househas been unlocked. Let's check it out!",
+  "step": 2,
+  "sortOrder": 1
+ },
+ {
+  "contentGuidanceMstId": 8202,
+  "contentGuidanceGroupId": 82,
+  "characterMstId": 1010301,
+  "facialExpression": "",
+  "line": "FocusSD",
+  "step": 5,
+  "sortOrder": 1
+ }
+]

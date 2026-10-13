@@ -17748,5 +17748,495 @@
   "drinkRate": 0,
   "sweetsRate": 0,
   "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1776,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507005,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1777,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507006,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1778,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507002,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1779,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507012,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1780,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507016,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1781,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507001,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1782,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507007,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1783,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507013,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1784,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507045,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1785,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507004,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "communicationMissionMstId": 1786,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507018,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "communicationMissionMstId": 1787,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507019,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "communicationMissionMstId": 1788,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507020,
+  "unlockHeartLevel": 10,
+  "foodRate": 10,
+  "drinkRate": 10,
+  "sweetsRate": 10,
+  "serveRate": 10
+ },
+ {
+  "communicationMissionMstId": 1789,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507021,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "communicationMissionMstId": 1790,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507022,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 10
+ },
+ {
+  "communicationMissionMstId": 1791,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507023,
+  "unlockHeartLevel": 10,
+  "foodRate": 10,
+  "drinkRate": 10,
+  "sweetsRate": 10,
+  "serveRate": 10
+ },
+ {
+  "communicationMissionMstId": 1792,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507009,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1793,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507014,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1794,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507015,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1795,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507003,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1796,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507026,
+  "unlockHeartLevel": 10,
+  "foodRate": 10,
+  "drinkRate": 10,
+  "sweetsRate": 10,
+  "serveRate": 10
+ },
+ {
+  "communicationMissionMstId": 1797,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507027,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1798,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507028,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1799,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507029,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1800,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507030,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1801,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507031,
+  "unlockHeartLevel": 10,
+  "foodRate": 10,
+  "drinkRate": 10,
+  "sweetsRate": 10,
+  "serveRate": 10
+ },
+ {
+  "communicationMissionMstId": 1802,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507034,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1803,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507035,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1804,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507036,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1805,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507037,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1806,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507038,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1807,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507039,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1808,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507040,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1809,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507041,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1810,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507042,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1811,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507008,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1812,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507046,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1813,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507047,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1814,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507048,
+  "unlockHeartLevel": 10,
+  "foodRate": 10,
+  "drinkRate": 10,
+  "sweetsRate": 10,
+  "serveRate": 10
+ },
+ {
+  "communicationMissionMstId": 1815,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507049,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1816,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507050,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1817,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507051,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1818,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507052,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1819,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507024,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1820,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507025,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 0,
+  "sweetsRate": 10,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1821,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507032,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1822,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507033,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1823,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507043,
+  "unlockHeartLevel": 1,
+  "foodRate": 10,
+  "drinkRate": 0,
+  "sweetsRate": 0,
+  "serveRate": 0
+ },
+ {
+  "communicationMissionMstId": 1824,
+  "characterUniqueMstId": 10507,
+  "characterVoiceMstId": 910507044,
+  "unlockHeartLevel": 1,
+  "foodRate": 0,
+  "drinkRate": 10,
+  "sweetsRate": 0,
+  "serveRate": 0
  }
 ]

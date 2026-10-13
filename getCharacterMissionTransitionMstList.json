@@ -17344,5 +17344,359 @@
   "characterMissionMstId": 10608059,
   "transitionSceneName": "SceneMiniature_Soleil",
   "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3069,
+  "characterMissionMstId": 10507001,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3070,
+  "characterMissionMstId": 10507002,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3071,
+  "characterMissionMstId": 10507003,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3072,
+  "characterMissionMstId": 10507004,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3073,
+  "characterMissionMstId": 10507005,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3074,
+  "characterMissionMstId": 10507006,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3075,
+  "characterMissionMstId": 10507007,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3076,
+  "characterMissionMstId": 10507008,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3077,
+  "characterMissionMstId": 10507009,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3078,
+  "characterMissionMstId": 10507010,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3079,
+  "characterMissionMstId": 10507011,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3080,
+  "characterMissionMstId": 10507012,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3081,
+  "characterMissionMstId": 10507013,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3082,
+  "characterMissionMstId": 10507014,
+  "transitionSceneName": "SceneQuestTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3083,
+  "characterMissionMstId": 10507015,
+  "transitionSceneName": "SceneStory_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3084,
+  "characterMissionMstId": 10507016,
+  "transitionSceneName": "SceneStory_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3085,
+  "characterMissionMstId": 10507017,
+  "transitionSceneName": "SceneStory_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3086,
+  "characterMissionMstId": 10507018,
+  "transitionSceneName": "SceneStory_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3087,
+  "characterMissionMstId": 10507019,
+  "transitionSceneName": "SceneStory_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3088,
+  "characterMissionMstId": 10507020,
+  "transitionSceneName": "SceneStory_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3089,
+  "characterMissionMstId": 10507021,
+  "transitionSceneName": "SceneStory_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3090,
+  "characterMissionMstId": 10507022,
+  "transitionSceneName": "SceneStory_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3091,
+  "characterMissionMstId": 10507023,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3092,
+  "characterMissionMstId": 10507024,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3093,
+  "characterMissionMstId": 10507025,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3094,
+  "characterMissionMstId": 10507026,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3095,
+  "characterMissionMstId": 10507027,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3096,
+  "characterMissionMstId": 10507028,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3097,
+  "characterMissionMstId": 10507029,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3098,
+  "characterMissionMstId": 10507030,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3099,
+  "characterMissionMstId": 10507031,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3100,
+  "characterMissionMstId": 10507032,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3101,
+  "characterMissionMstId": 10507033,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3102,
+  "characterMissionMstId": 10507034,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3103,
+  "characterMissionMstId": 10507035,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3104,
+  "characterMissionMstId": 10507036,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3105,
+  "characterMissionMstId": 10507037,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3106,
+  "characterMissionMstId": 10507038,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3107,
+  "characterMissionMstId": 10507039,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3108,
+  "characterMissionMstId": 10507040,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3109,
+  "characterMissionMstId": 10507041,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3110,
+  "characterMissionMstId": 10507042,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3111,
+  "characterMissionMstId": 10507043,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3112,
+  "characterMissionMstId": 10507044,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3113,
+  "characterMissionMstId": 10507045,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3114,
+  "characterMissionMstId": 10507046,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3115,
+  "characterMissionMstId": 10507047,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3116,
+  "characterMissionMstId": 10507048,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3117,
+  "characterMissionMstId": 10507049,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3118,
+  "characterMissionMstId": 10507050,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3119,
+  "characterMissionMstId": 10507051,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3120,
+  "characterMissionMstId": 10507052,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3121,
+  "characterMissionMstId": 10507053,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3122,
+  "characterMissionMstId": 10507054,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3123,
+  "characterMissionMstId": 10507055,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3124,
+  "characterMissionMstId": 10507056,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3125,
+  "characterMissionMstId": 10507057,
+  "transitionSceneName": "SceneTraining_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3126,
+  "characterMissionMstId": 10507058,
+  "transitionSceneName": "SceneMiniature_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "characterMissionTransitionMstId": 3127,
+  "characterMissionMstId": 10507059,
+  "transitionSceneName": "SceneMiniature_Soleil",
+  "transitionSceneParam": 0
  }
 ]
