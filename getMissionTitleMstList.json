@@ -70,6 +70,16 @@
   "endTime": "2026-10-31T23:59:59+09:00"
  },
  {
+  "missionTitleMstId": 10008,
+  "resourceId": 0,
+  "title": "Daily Missions",
+  "priority": 1,
+  "buyMissionPointGem": 0,
+  "buyMissionPointAddNum": 0,
+  "startTime": "2026-11-01T00:00:00+09:00",
+  "endTime": "2026-11-30T23:59:59+09:00"
+ },
+ {
   "missionTitleMstId": 20001,
   "resourceId": 0,
   "title": "coming soon...",
@@ -258,6 +268,16 @@
   "buyMissionPointAddNum": 10,
   "startTime": "2026-10-01T00:00:00+09:00",
   "endTime": "2026-10-31T23:59:59+09:00"
+ },
+ {
+  "missionTitleMstId": 80008,
+  "resourceId": 100101,
+  "title": "Pass Mission",
+  "priority": 5,
+  "buyMissionPointGem": 10,
+  "buyMissionPointAddNum": 10,
+  "startTime": "2026-11-01T00:00:00+09:00",
+  "endTime": "2026-11-30T23:59:59+09:00"
  },
  {
   "missionTitleMstId": 90001,

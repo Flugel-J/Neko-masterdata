@@ -280,6 +280,26 @@
   "isRareDrop": false
  },
  {
+  "questDropItemMstId": 10003011,
+  "dropItemGroupId": 10003011,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 95000,
+  "dropRate": 10000,
+  "campaignDropRate": 10000,
+  "isRareDrop": false
+ },
+ {
+  "questDropItemMstId": 10003021,
+  "dropItemGroupId": 10003021,
+  "objectReceiveType": 8,
+  "objectId": 0,
+  "num": 140000,
+  "dropRate": 10000,
+  "campaignDropRate": 10000,
+  "isRareDrop": false
+ },
+ {
   "questDropItemMstId": 20010101,
   "dropItemGroupId": 200101,
   "objectReceiveType": 6,

@@ -5527,17 +5527,17 @@
  {
   "sceneTextMstId": 1106,
   "key": "exchange_inventory_label_daily",
-  "text": "Daily Stock"
+  "text": "Daily"
  },
  {
   "sceneTextMstId": 1107,
   "key": "exchange_inventory_label_weekly",
-  "text": "Weekly Stock"
+  "text": "Weekly"
  },
  {
   "sceneTextMstId": 1108,
   "key": "exchange_inventory_label_monthly",
-  "text": "Monthly Stock"
+  "text": "Monthly"
  },
  {
   "sceneTextMstId": 1109,
@@ -8747,12 +8747,12 @@
  {
   "sceneTextMstId": 1750,
   "key": "story_main_story_part_synopsis_2",
-  "text": "Japan Academy Summary"
+  "text": "La Soleil has won the NekoFes preliminaries, but a misunderstanding occurs between Yuzuha and Mikan due to their abilities, disrupting their sisterly relationship.\nThis leads to Yuzuha disappearing when she goes back to the academy.\nThe pâtissier and the others open a new branch at Sakura Hills Nekos College, and as they work to create a place for Yuzuha to come home to, they take part in the next competition with some new friends."
  },
  {
   "sceneTextMstId": 1751,
   "key": "story_main_story_part_synopsis_3",
-  "text": "Asia Academy Summary"
+  "text": "The next stop for NekoFes is Jinhua Department Of Nekos College!\nThe pâtissier and his staff are planning on opening a new branch there, but the principal, Yueji-san, presents them with a difficult challenge.\nTo make matters worse, Marmelo, whom they were counting on to bankroll their endeavors, suddenly goes bankrupt! Amidst these unexpected setbacks, the nekos of La Soleil have their sights firmly set on winning NekoFes.\nAnd then, they discover a clue to finding the family Marmelo has been secretly searching for...!"
  },
  {
   "sceneTextMstId": 1752,
@@ -13117,17 +13117,17 @@
  {
   "sceneTextMstId": 2624,
   "key": "shop_content_daily_stock_item_label",
-  "text": "Daily Stock"
+  "text": "Daily"
  },
  {
   "sceneTextMstId": 2625,
   "key": "shop_content_weekly_stock_item_label",
-  "text": "Weekly Stock"
+  "text": "Weekly"
  },
  {
   "sceneTextMstId": 2626,
   "key": "shop_content_monthly_stock_item_label",
-  "text": "Monthly Stock"
+  "text": "Monthly"
  },
  {
   "sceneTextMstId": 2627,
@@ -14797,7 +14797,7 @@
  {
   "sceneTextMstId": 2960,
   "key": "push_notification_bathing_message",
-  "text": "You have bathing attempts remaining!"
+  "text": "You still have Baths remaining!"
  },
  {
   "sceneTextMstId": 2961,
@@ -15028,5 +15028,45 @@
   "sceneTextMstId": 3006,
   "key": "character_detail_communication_available_limited_time_text",
   "text": "Limited-Time Unlock"
+ },
+ {
+  "sceneTextMstId": 3007,
+  "key": "filter_category_CharacterMissionQuestClear",
+  "text": "Battle Count Requirement Not Met"
+ },
+ {
+  "sceneTextMstId": 3008,
+  "key": "filter_category_CharacterMissionUseSpecialSkill",
+  "text": "Special Skill Activation Requirement Not Met"
+ },
+ {
+  "sceneTextMstId": 3009,
+  "key": "sort_character_mission_quest_clear",
+  "text": "Battle Count Requirement Not Met"
+ },
+ {
+  "sceneTextMstId": 3010,
+  "key": "sort_character_mission_use_special_skill",
+  "text": "Special Skill Activation Requirement Not Met"
+ },
+ {
+  "sceneTextMstId": 3011,
+  "key": "filter_category_character_mission",
+  "text": "Neko Mission"
+ },
+ {
+  "sceneTextMstId": 3012,
+  "key": "sort_category_character_mission",
+  "text": "Neko Mission"
+ },
+ {
+  "sceneTextMstId": 3013,
+  "key": "sort_button_character_mission_quest_clear",
+  "text": "Battle Count"
+ },
+ {
+  "sceneTextMstId": 3014,
+  "key": "sort_button_character_mission_use_special_skill",
+  "text": "SP Skill Activations"
  }
 ]

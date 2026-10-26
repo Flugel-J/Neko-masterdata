@@ -4266,6 +4266,42 @@
   "transitionSceneParam": 0
  },
  {
+  "missionTransitionMstId": 756,
+  "missionMstId": 10075,
+  "transitionSceneName": "SceneMiniature_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 757,
+  "missionMstId": 10076,
+  "transitionSceneName": "SceneQuestEnhance_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 758,
+  "missionMstId": 10077,
+  "transitionSceneName": "SceneTowerTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 759,
+  "missionMstId": 10078,
+  "transitionSceneName": "SceneExchange_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 760,
+  "missionMstId": 10079,
+  "transitionSceneName": "ScenePvpTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 761,
+  "missionMstId": 10080,
+  "transitionSceneName": "SceneGachaTop_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
   "missionTransitionMstId": 762,
   "missionMstId": 40137,
   "transitionSceneName": "SceneDungeonTop_Soleil",
@@ -4288,5 +4324,191 @@
   "missionMstId": 110037,
   "transitionSceneName": "SceneEventExchange_Soleil",
   "transitionSceneParam": 200001
+ },
+ {
+  "missionTransitionMstId": 766,
+  "missionMstId": 30317,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 767,
+  "missionMstId": 30318,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 768,
+  "missionMstId": 30319,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 769,
+  "missionMstId": 30320,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 770,
+  "missionMstId": 30321,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 771,
+  "missionMstId": 30322,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 772,
+  "missionMstId": 30323,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 773,
+  "missionMstId": 30324,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 774,
+  "missionMstId": 30325,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 775,
+  "missionMstId": 30326,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 776,
+  "missionMstId": 30327,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 777,
+  "missionMstId": 30328,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 778,
+  "missionMstId": 30329,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 779,
+  "missionMstId": 30330,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 780,
+  "missionMstId": 30331,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 781,
+  "missionMstId": 30332,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 782,
+  "missionMstId": 40138,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 783,
+  "missionMstId": 40139,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 784,
+  "missionMstId": 40140,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 785,
+  "missionMstId": 40141,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 786,
+  "missionMstId": 40142,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 787,
+  "missionMstId": 40143,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 788,
+  "missionMstId": 40144,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 789,
+  "missionMstId": 40145,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 790,
+  "missionMstId": 40146,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 791,
+  "missionMstId": 40147,
+  "transitionSceneName": "SceneQuestMain_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 792,
+  "missionMstId": 40148,
+  "transitionSceneName": "SceneStory_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 793,
+  "missionMstId": 40149,
+  "transitionSceneName": "SceneStory_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 794,
+  "missionMstId": 40150,
+  "transitionSceneName": "SceneStory_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 795,
+  "missionMstId": 40151,
+  "transitionSceneName": "SceneStory_Soleil",
+  "transitionSceneParam": 0
+ },
+ {
+  "missionTransitionMstId": 796,
+  "missionMstId": 40152,
+  "transitionSceneName": "SceneStory_Soleil",
+  "transitionSceneParam": 0
  }
 ]

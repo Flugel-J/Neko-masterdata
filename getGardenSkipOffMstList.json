@@ -516,6 +516,42 @@
   "shortStoryMstId": 89
  },
  {
+  "gardenSkipOffMstId": 87,
+  "characterUniqueMstId": 10306,
+  "relationType": 0,
+  "shortStoryMstId": 90
+ },
+ {
+  "gardenSkipOffMstId": 88,
+  "characterUniqueMstId": 10306,
+  "relationType": 1,
+  "shortStoryMstId": 91
+ },
+ {
+  "gardenSkipOffMstId": 89,
+  "characterUniqueMstId": 19916,
+  "relationType": 0,
+  "shortStoryMstId": 92
+ },
+ {
+  "gardenSkipOffMstId": 90,
+  "characterUniqueMstId": 19916,
+  "relationType": 1,
+  "shortStoryMstId": 93
+ },
+ {
+  "gardenSkipOffMstId": 91,
+  "characterUniqueMstId": 19917,
+  "relationType": 0,
+  "shortStoryMstId": 94
+ },
+ {
+  "gardenSkipOffMstId": 92,
+  "characterUniqueMstId": 19917,
+  "relationType": 1,
+  "shortStoryMstId": 95
+ },
+ {
   "gardenSkipOffMstId": 93,
   "characterUniqueMstId": 10507,
   "relationType": 0,

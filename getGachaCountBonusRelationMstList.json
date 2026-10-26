@@ -140,6 +140,11 @@
   "gachaCountBonusGroupId": 2010034
  },
  {
+  "gachaCountBonusRelationMstId": 2010035,
+  "gachaSeriesMstId": 2010035,
+  "gachaCountBonusGroupId": 2010035
+ },
+ {
   "gachaCountBonusRelationMstId": 2010036,
   "gachaSeriesMstId": 2010036,
   "gachaCountBonusGroupId": 2010036
@@ -193,5 +198,30 @@
   "gachaCountBonusRelationMstId": 2010047,
   "gachaSeriesMstId": 2010047,
   "gachaCountBonusGroupId": 2010047
+ },
+ {
+  "gachaCountBonusRelationMstId": 2010051,
+  "gachaSeriesMstId": 2010051,
+  "gachaCountBonusGroupId": 2010051
+ },
+ {
+  "gachaCountBonusRelationMstId": 2010052,
+  "gachaSeriesMstId": 2010052,
+  "gachaCountBonusGroupId": 2010052
+ },
+ {
+  "gachaCountBonusRelationMstId": 2010053,
+  "gachaSeriesMstId": 2010053,
+  "gachaCountBonusGroupId": 2010053
+ },
+ {
+  "gachaCountBonusRelationMstId": 2010054,
+  "gachaSeriesMstId": 2010054,
+  "gachaCountBonusGroupId": 2010054
+ },
+ {
+  "gachaCountBonusRelationMstId": 2010055,
+  "gachaSeriesMstId": 2010055,
+  "gachaCountBonusGroupId": 2010055
  }
 ]

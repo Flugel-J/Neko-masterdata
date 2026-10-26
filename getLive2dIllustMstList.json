@@ -510,6 +510,24 @@
   "characterSkinMstId": 106020110
  },
  {
+  "live2dIllustMstId": 86,
+  "live2dFileName": "10306_01_S01",
+  "characterMstId": 1030601,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 87,
+  "live2dFileName": "19916_01_S01",
+  "characterMstId": 1991601,
+  "characterSkinMstId": 0
+ },
+ {
+  "live2dIllustMstId": 88,
+  "live2dFileName": "19917_01_S01",
+  "characterMstId": 1991701,
+  "characterSkinMstId": 0
+ },
+ {
   "live2dIllustMstId": 89,
   "live2dFileName": "10507_01_S01",
   "characterMstId": 1050701,

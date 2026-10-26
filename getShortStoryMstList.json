@@ -792,6 +792,60 @@
   "playerRank": -1
  },
  {
+  "shortStoryMstId": 90,
+  "scriptId": 601030601,
+  "backGroundImageId": 4,
+  "bgmCueSheetName": "voice_battle_1001",
+  "bgmCueName": "battleResult_win",
+  "characterUniqueMstId": 10306,
+  "playerRank": -1
+ },
+ {
+  "shortStoryMstId": 91,
+  "scriptId": 601030602,
+  "backGroundImageId": 4,
+  "bgmCueSheetName": "voice_battle_1001",
+  "bgmCueName": "battleResult_win",
+  "characterUniqueMstId": 10306,
+  "playerRank": -1
+ },
+ {
+  "shortStoryMstId": 92,
+  "scriptId": 601991601,
+  "backGroundImageId": 3,
+  "bgmCueSheetName": "voice_battle_1001",
+  "bgmCueName": "battleResult_win",
+  "characterUniqueMstId": 19916,
+  "playerRank": -1
+ },
+ {
+  "shortStoryMstId": 93,
+  "scriptId": 601991602,
+  "backGroundImageId": 4,
+  "bgmCueSheetName": "voice_battle_1001",
+  "bgmCueName": "battleResult_win",
+  "characterUniqueMstId": 19916,
+  "playerRank": -1
+ },
+ {
+  "shortStoryMstId": 94,
+  "scriptId": 601991701,
+  "backGroundImageId": 4,
+  "bgmCueSheetName": "voice_battle_1001",
+  "bgmCueName": "battleResult_win",
+  "characterUniqueMstId": 19917,
+  "playerRank": -1
+ },
+ {
+  "shortStoryMstId": 95,
+  "scriptId": 601991702,
+  "backGroundImageId": 3,
+  "bgmCueSheetName": "voice_battle_1001",
+  "bgmCueName": "battleResult_win",
+  "characterUniqueMstId": 19917,
+  "playerRank": -1
+ },
+ {
   "shortStoryMstId": 96,
   "scriptId": 601050701,
   "backGroundImageId": 3,

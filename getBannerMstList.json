@@ -540,6 +540,18 @@
   "osType": 1
  },
  {
+  "bannerMstId": 49,
+  "imageId": 1040039,
+  "type": 1,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "endTime": "2026-11-09T15:00:00+09:00",
+  "priority": 50,
+  "transitionSceneName": "SceneGachaTop_Soleil",
+  "transitionSceneParam": "2010035",
+  "announceMstId": 0,
+  "osType": 1
+ },
+ {
   "bannerMstId": 50,
   "imageId": 1010035,
   "type": 1,
@@ -693,6 +705,66 @@
   "transitionSceneName": "SceneGachaTop_Soleil",
   "transitionSceneParam": "2010047",
   "announceMstId": 0,
-  "osType": 0
+  "osType": 1
+ },
+ {
+  "bannerMstId": 1003,
+  "imageId": 1040051,
+  "type": 1,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "endTime": "2026-11-01T23:59:59+09:00",
+  "priority": 60,
+  "transitionSceneName": "SceneGachaTop_Soleil",
+  "transitionSceneParam": "2010051",
+  "announceMstId": 0,
+  "osType": 1
+ },
+ {
+  "bannerMstId": 1004,
+  "imageId": 1040052,
+  "type": 1,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "endTime": "2026-11-01T23:59:59+09:00",
+  "priority": 61,
+  "transitionSceneName": "SceneGachaTop_Soleil",
+  "transitionSceneParam": "2010052",
+  "announceMstId": 0,
+  "osType": 1
+ },
+ {
+  "bannerMstId": 1005,
+  "imageId": 1040053,
+  "type": 1,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "endTime": "2026-11-01T23:59:59+09:00",
+  "priority": 62,
+  "transitionSceneName": "SceneGachaTop_Soleil",
+  "transitionSceneParam": "2010053",
+  "announceMstId": 0,
+  "osType": 1
+ },
+ {
+  "bannerMstId": 1006,
+  "imageId": 1040054,
+  "type": 1,
+  "startTime": "2026-11-04T00:00:00+09:00",
+  "endTime": "2026-11-06T23:59:59+09:00",
+  "priority": 70,
+  "transitionSceneName": "SceneGachaTop_Soleil",
+  "transitionSceneParam": "2010054",
+  "announceMstId": 0,
+  "osType": 1
+ },
+ {
+  "bannerMstId": 1007,
+  "imageId": 1040055,
+  "type": 1,
+  "startTime": "2026-11-29T00:00:00+09:00",
+  "endTime": "2026-12-01T23:59:59+09:00",
+  "priority": 70,
+  "transitionSceneName": "SceneGachaTop_Soleil",
+  "transitionSceneParam": "2010055",
+  "announceMstId": 0,
+  "osType": 1
  }
 ]

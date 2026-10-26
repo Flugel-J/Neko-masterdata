@@ -600,6 +600,21 @@
   "endTime": "2026-09-17T16:59:59+09:00"
  },
  {
+  "popupNotificationMstId": 41,
+  "title": "Featured Trip",
+  "linkText": "",
+  "backgroundId": 3040039,
+  "effectId": 0,
+  "mainType": 0,
+  "mainTargetId": 0,
+  "categoryType": 1,
+  "categoryTargetId": 2010035,
+  "priority": 55,
+  "type": 1,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "endTime": "2026-11-09T15:00:00+09:00"
+ },
+ {
   "popupNotificationMstId": 42,
   "title": "Selectable Trip",
   "linkText": "",
@@ -733,5 +748,50 @@
   "type": 1,
   "startTime": "2026-10-14T00:00:00+09:00",
   "endTime": "2026-10-23T23:59:59+09:00"
+ },
+ {
+  "popupNotificationMstId": 1003,
+  "title": "Selectable Trip",
+  "linkText": "",
+  "backgroundId": 3040051,
+  "effectId": 0,
+  "mainType": 0,
+  "mainTargetId": 0,
+  "categoryType": 1,
+  "categoryTargetId": 2010051,
+  "priority": 60,
+  "type": 1,
+  "startTime": "2026-10-26T15:00:00+09:00",
+  "endTime": "2026-11-01T23:59:59+09:00"
+ },
+ {
+  "popupNotificationMstId": 1004,
+  "title": "Featured Trip",
+  "linkText": "",
+  "backgroundId": 3040054,
+  "effectId": 0,
+  "mainType": 0,
+  "mainTargetId": 0,
+  "categoryType": 1,
+  "categoryTargetId": 2010054,
+  "priority": 70,
+  "type": 1,
+  "startTime": "2026-11-04T00:00:00+09:00",
+  "endTime": "2026-11-06T23:59:59+09:00"
+ },
+ {
+  "popupNotificationMstId": 1005,
+  "title": "Featured Trip",
+  "linkText": "",
+  "backgroundId": 3040055,
+  "effectId": 0,
+  "mainType": 0,
+  "mainTargetId": 0,
+  "categoryType": 1,
+  "categoryTargetId": 2010055,
+  "priority": 70,
+  "type": 1,
+  "startTime": "2026-11-29T00:00:00+09:00",
+  "endTime": "2026-12-01T23:59:59+09:00"
  }
 ]

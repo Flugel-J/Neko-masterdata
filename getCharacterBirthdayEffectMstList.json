@@ -18,6 +18,12 @@
   "num": 25
  },
  {
+  "characterUniqueMstId": 10205,
+  "objectReceiveType": 15,
+  "objectId": 1020501,
+  "num": 25
+ },
+ {
   "characterUniqueMstId": 10208,
   "objectReceiveType": 15,
   "objectId": 1020801,
@@ -27,6 +33,12 @@
   "characterUniqueMstId": 10209,
   "objectReceiveType": 15,
   "objectId": 1020901,
+  "num": 25
+ },
+ {
+  "characterUniqueMstId": 10210,
+  "objectReceiveType": 15,
+  "objectId": 1021001,
   "num": 25
  },
  {

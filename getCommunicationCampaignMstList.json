@@ -10,5 +10,11 @@
   "addCount": 1,
   "startTime": "2026-09-28T00:00:00+09:00",
   "endTime": "2026-10-05T00:00:00+09:00"
+ },
+ {
+  "communicationCampaignMstId": 3,
+  "addCount": 1,
+  "startTime": "2026-10-26T00:00:00+09:00",
+  "endTime": "2026-11-02T00:00:00+09:00"
  }
 ]

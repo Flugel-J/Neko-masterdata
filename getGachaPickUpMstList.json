@@ -950,6 +950,16 @@
   "isHighlight": true
  },
  {
+  "gachaPickUpMstId": 20100351,
+  "gachaPickUpId": 2010035,
+  "objectReceiveType": 7,
+  "objectId": 1030601,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
   "gachaPickUpMstId": 20100361,
   "gachaPickUpId": 2010036,
   "objectReceiveType": 7,
@@ -1347,6 +1357,206 @@
   "num": 1,
   "rate": 1000000,
   "priority": 2,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100511,
+  "gachaPickUpId": 2010051,
+  "objectReceiveType": 7,
+  "objectId": 1010101,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100512,
+  "gachaPickUpId": 2010051,
+  "objectReceiveType": 7,
+  "objectId": 1020401,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100513,
+  "gachaPickUpId": 2010051,
+  "objectReceiveType": 7,
+  "objectId": 1030201,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100514,
+  "gachaPickUpId": 2010051,
+  "objectReceiveType": 7,
+  "objectId": 1040301,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100515,
+  "gachaPickUpId": 2010051,
+  "objectReceiveType": 7,
+  "objectId": 1050301,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100516,
+  "gachaPickUpId": 2010051,
+  "objectReceiveType": 7,
+  "objectId": 1060201,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100521,
+  "gachaPickUpId": 2010052,
+  "objectReceiveType": 7,
+  "objectId": 1010201,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100522,
+  "gachaPickUpId": 2010052,
+  "objectReceiveType": 7,
+  "objectId": 1020301,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100523,
+  "gachaPickUpId": 2010052,
+  "objectReceiveType": 7,
+  "objectId": 1030401,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100524,
+  "gachaPickUpId": 2010052,
+  "objectReceiveType": 7,
+  "objectId": 1040401,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100525,
+  "gachaPickUpId": 2010052,
+  "objectReceiveType": 7,
+  "objectId": 1050401,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100526,
+  "gachaPickUpId": 2010052,
+  "objectReceiveType": 7,
+  "objectId": 1060401,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100531,
+  "gachaPickUpId": 2010053,
+  "objectReceiveType": 7,
+  "objectId": 1020501,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100532,
+  "gachaPickUpId": 2010053,
+  "objectReceiveType": 7,
+  "objectId": 1020601,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100533,
+  "gachaPickUpId": 2010053,
+  "objectReceiveType": 7,
+  "objectId": 1020701,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100534,
+  "gachaPickUpId": 2010053,
+  "objectReceiveType": 7,
+  "objectId": 1020901,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100535,
+  "gachaPickUpId": 2010053,
+  "objectReceiveType": 7,
+  "objectId": 1020801,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100536,
+  "gachaPickUpId": 2010053,
+  "objectReceiveType": 7,
+  "objectId": 1010301,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100541,
+  "gachaPickUpId": 2010054,
+  "objectReceiveType": 7,
+  "objectId": 1021001,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
+  "isHighlight": true
+ },
+ {
+  "gachaPickUpMstId": 20100551,
+  "gachaPickUpId": 2010055,
+  "objectReceiveType": 7,
+  "objectId": 1020501,
+  "num": 1,
+  "rate": 200000,
+  "priority": 1,
   "isHighlight": true
  }
 ]

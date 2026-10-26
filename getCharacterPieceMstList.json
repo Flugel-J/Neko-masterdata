@@ -242,6 +242,17 @@
   "memoryExchangeRate": 1
  },
  {
+  "characterPieceMstId": 1030601,
+  "characterMstId": 1030601,
+  "name": "Carambola Piece",
+  "description": "A crystal formed from each Neko’s feelings. Used to Limit Break and Awaken Carambola.",
+  "resourceId": 1030601,
+  "rarity": 5,
+  "maxNum": 2175,
+  "pieceExchangeRate": 50,
+  "memoryExchangeRate": 1
+ },
+ {
   "characterPieceMstId": 1040101,
   "characterMstId": 1040101,
   "name": "Cannelé Piece",
@@ -544,6 +555,28 @@
   "name": "Kiku Piece",
   "description": "A crystal formed from each Neko’s feelings.\nUsed to Limit Break and Awaken Kiku.",
   "resourceId": 1991201,
+  "rarity": 3,
+  "maxNum": 2175,
+  "pieceExchangeRate": 50,
+  "memoryExchangeRate": 1
+ },
+ {
+  "characterPieceMstId": 1991601,
+  "characterMstId": 1991601,
+  "name": "Ame Piece",
+  "description": "A crystal formed from each Neko’s feelings. Used to Limit Break and Awaken Ame.",
+  "resourceId": 1991601,
+  "rarity": 3,
+  "maxNum": 2175,
+  "pieceExchangeRate": 50,
+  "memoryExchangeRate": 1
+ },
+ {
+  "characterPieceMstId": 1991701,
+  "characterMstId": 1991701,
+  "name": "Yuri Piece",
+  "description": "A crystal formed from each Neko’s feelings. Used to Limit Break and Awaken Yuri.",
+  "resourceId": 1991701,
   "rarity": 3,
   "maxNum": 2175,
   "pieceExchangeRate": 50,

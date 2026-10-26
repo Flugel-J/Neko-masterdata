@@ -12186,6 +12186,816 @@
   "thirdStepParameter": ""
  },
  {
+  "shortStoryStepMstId": 1355,
+  "scriptId": 601030601,
+  "index": 1,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1356,
+  "scriptId": 601030601,
+  "index": 2,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1357,
+  "scriptId": 601030601,
+  "index": 3,
+  "commandType": 201,
+  "mainStepParameter": "motion_100",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1358,
+  "scriptId": 601030601,
+  "index": 4,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10306",
+  "subStepParameter": "slack_discovery_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1359,
+  "scriptId": 601030601,
+  "index": 5,
+  "commandType": 100,
+  "mainStepParameter": "Seems lyike fun\nto play here♪",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1360,
+  "scriptId": 601030601,
+  "index": 6,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_040",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1361,
+  "scriptId": 601030601,
+  "index": 7,
+  "commandType": 201,
+  "mainStepParameter": "motion_400",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1362,
+  "scriptId": 601030601,
+  "index": 8,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10306",
+  "subStepParameter": "slack_item_earned_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1363,
+  "scriptId": 601030601,
+  "index": 9,
+  "commandType": 100,
+  "mainStepParameter": "Wow, what's this?",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1364,
+  "scriptId": 601030601,
+  "index": 10,
+  "commandType": 910,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1365,
+  "scriptId": 601030601,
+  "index": 11,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1366,
+  "scriptId": 601030601,
+  "index": 12,
+  "commandType": 201,
+  "mainStepParameter": "motion_300",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1367,
+  "scriptId": 601030601,
+  "index": 13,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10306",
+  "subStepParameter": "slack_homing_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1368,
+  "scriptId": 601030601,
+  "index": 14,
+  "commandType": 100,
+  "mainStepParameter": "Oh, let's head back to\nthe shop. I'm sure\neveryone's waiting!",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1369,
+  "scriptId": 601030601,
+  "index": 15,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1370,
+  "scriptId": 601030602,
+  "index": 1,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1371,
+  "scriptId": 601030602,
+  "index": 2,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1372,
+  "scriptId": 601030602,
+  "index": 3,
+  "commandType": 201,
+  "mainStepParameter": "motion_100",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1373,
+  "scriptId": 601030602,
+  "index": 4,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10306",
+  "subStepParameter": "slack_discovery_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1374,
+  "scriptId": 601030602,
+  "index": 5,
+  "commandType": 100,
+  "mainStepParameter": "Over here! The sun's so\nwarm and cozy. Fwaah...",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1375,
+  "scriptId": 601030602,
+  "index": 6,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1376,
+  "scriptId": 601030602,
+  "index": 7,
+  "commandType": 201,
+  "mainStepParameter": "motion_200",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1377,
+  "scriptId": 601030602,
+  "index": 8,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10306",
+  "subStepParameter": "slack_item_earned_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1378,
+  "scriptId": 601030602,
+  "index": 9,
+  "commandType": 100,
+  "mainStepParameter": "Hey, I found a treasure!\nEhehe, let's bring it\nback home♪",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1379,
+  "scriptId": 601030602,
+  "index": 10,
+  "commandType": 910,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1380,
+  "scriptId": 601030602,
+  "index": 11,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_060",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1381,
+  "scriptId": 601030602,
+  "index": 12,
+  "commandType": 201,
+  "mainStepParameter": "motion_100",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1382,
+  "scriptId": 601030602,
+  "index": 13,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_10306",
+  "subStepParameter": "slack_homing_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1383,
+  "scriptId": 601030602,
+  "index": 14,
+  "commandType": 100,
+  "mainStepParameter": "I had so much fun\nplaying! I gotta wyork\nhard, too!",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1384,
+  "scriptId": 601030602,
+  "index": 15,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1385,
+  "scriptId": 601991601,
+  "index": 1,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1386,
+  "scriptId": 601991601,
+  "index": 2,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1387,
+  "scriptId": 601991601,
+  "index": 3,
+  "commandType": 201,
+  "mainStepParameter": "motion_100",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1388,
+  "scriptId": 601991601,
+  "index": 4,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_19916",
+  "subStepParameter": "slack_discovery_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1389,
+  "scriptId": 601991601,
+  "index": 5,
+  "commandType": 100,
+  "mainStepParameter": "This is a strategy\nmeeting, also known as a\nbreak. ...Kidding.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1390,
+  "scriptId": 601991601,
+  "index": 6,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_050",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1391,
+  "scriptId": 601991601,
+  "index": 7,
+  "commandType": 201,
+  "mainStepParameter": "motion_200",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1392,
+  "scriptId": 601991601,
+  "index": 8,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_19916",
+  "subStepParameter": "slack_item_earned_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1393,
+  "scriptId": 601991601,
+  "index": 9,
+  "commandType": 100,
+  "mainStepParameter": "Oh, is this the fruit of\nyour daily efforts?",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1394,
+  "scriptId": 601991601,
+  "index": 10,
+  "commandType": 910,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1395,
+  "scriptId": 601991601,
+  "index": 11,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1396,
+  "scriptId": 601991601,
+  "index": 12,
+  "commandType": 201,
+  "mainStepParameter": "motion_200",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1397,
+  "scriptId": 601991601,
+  "index": 13,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_19916",
+  "subStepParameter": "slack_homing_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1398,
+  "scriptId": 601991601,
+  "index": 14,
+  "commandType": 100,
+  "mainStepParameter": "Great job.\nShall we head back?",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1399,
+  "scriptId": 601991601,
+  "index": 15,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1400,
+  "scriptId": 601991602,
+  "index": 1,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1401,
+  "scriptId": 601991602,
+  "index": 2,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1402,
+  "scriptId": 601991602,
+  "index": 3,
+  "commandType": 201,
+  "mainStepParameter": "motion_000",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1403,
+  "scriptId": 601991602,
+  "index": 4,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_19916",
+  "subStepParameter": "slack_discovery_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1404,
+  "scriptId": 601991602,
+  "index": 5,
+  "commandType": 100,
+  "mainStepParameter": "Hey, I was just\nmusing to myself.\nI wasn't slacking off.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1405,
+  "scriptId": 601991602,
+  "index": 6,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_000",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1406,
+  "scriptId": 601991602,
+  "index": 7,
+  "commandType": 201,
+  "mainStepParameter": "motion_300",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1407,
+  "scriptId": 601991602,
+  "index": 8,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_19916",
+  "subStepParameter": "slack_item_earned_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1408,
+  "scriptId": 601991602,
+  "index": 9,
+  "commandType": 100,
+  "mainStepParameter": "You are truly\nworthy of this.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1409,
+  "scriptId": 601991602,
+  "index": 10,
+  "commandType": 910,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1410,
+  "scriptId": 601991602,
+  "index": 11,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1411,
+  "scriptId": 601991602,
+  "index": 12,
+  "commandType": 201,
+  "mainStepParameter": "motion_100",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1412,
+  "scriptId": 601991602,
+  "index": 13,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_19916",
+  "subStepParameter": "slack_homing_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1413,
+  "scriptId": 601991602,
+  "index": 14,
+  "commandType": 100,
+  "mainStepParameter": "Hm... I'll accompany you\nto the shop.",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1414,
+  "scriptId": 601991602,
+  "index": 15,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1415,
+  "scriptId": 601991701,
+  "index": 1,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1416,
+  "scriptId": 601991701,
+  "index": 2,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_070",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1417,
+  "scriptId": 601991701,
+  "index": 3,
+  "commandType": 201,
+  "mainStepParameter": "motion_400",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1418,
+  "scriptId": 601991701,
+  "index": 4,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_19917",
+  "subStepParameter": "slack_discovery_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1419,
+  "scriptId": 601991701,
+  "index": 5,
+  "commandType": 100,
+  "mainStepParameter": "Nghrarrarrr!\nI found something...!",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1420,
+  "scriptId": 601991701,
+  "index": 6,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1421,
+  "scriptId": 601991701,
+  "index": 7,
+  "commandType": 201,
+  "mainStepParameter": "motion_100",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1422,
+  "scriptId": 601991701,
+  "index": 8,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_19917",
+  "subStepParameter": "slack_item_earned_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1423,
+  "scriptId": 601991701,
+  "index": 9,
+  "commandType": 100,
+  "mainStepParameter": "I'll save this...\nfor laterrr...",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1424,
+  "scriptId": 601991701,
+  "index": 10,
+  "commandType": 910,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1425,
+  "scriptId": 601991701,
+  "index": 11,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_030",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1426,
+  "scriptId": 601991701,
+  "index": 12,
+  "commandType": 201,
+  "mainStepParameter": "motion_300",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1427,
+  "scriptId": 601991701,
+  "index": 13,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_19917",
+  "subStepParameter": "slack_homing_random01",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1428,
+  "scriptId": 601991701,
+  "index": 14,
+  "commandType": 100,
+  "mainStepParameter": "I'm hungry...\nTime to go...",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1429,
+  "scriptId": 601991701,
+  "index": 15,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1430,
+  "scriptId": 601991702,
+  "index": 1,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1431,
+  "scriptId": 601991702,
+  "index": 2,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_040",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1432,
+  "scriptId": 601991702,
+  "index": 3,
+  "commandType": 201,
+  "mainStepParameter": "motion_400",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1433,
+  "scriptId": 601991702,
+  "index": 4,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_19917",
+  "subStepParameter": "slack_discovery_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1434,
+  "scriptId": 601991702,
+  "index": 5,
+  "commandType": 100,
+  "mainStepParameter": "Mmm...? Nnghrarr?!",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1435,
+  "scriptId": 601991702,
+  "index": 6,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_010",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1436,
+  "scriptId": 601991702,
+  "index": 7,
+  "commandType": 201,
+  "mainStepParameter": "motion_100",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1437,
+  "scriptId": 601991702,
+  "index": 8,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_19917",
+  "subStepParameter": "slack_item_earned_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1438,
+  "scriptId": 601991702,
+  "index": 9,
+  "commandType": 100,
+  "mainStepParameter": "I'll bring this... back...\nwith meee...",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1439,
+  "scriptId": 601991702,
+  "index": 10,
+  "commandType": 910,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1440,
+  "scriptId": 601991702,
+  "index": 11,
+  "commandType": 202,
+  "mainStepParameter": "mtn_ex_050",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1441,
+  "scriptId": 601991702,
+  "index": 12,
+  "commandType": 201,
+  "mainStepParameter": "motion_100",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1442,
+  "scriptId": 601991702,
+  "index": 13,
+  "commandType": 402,
+  "mainStepParameter": "voice_garden_19917",
+  "subStepParameter": "slack_homing_random02",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1443,
+  "scriptId": 601991702,
+  "index": 14,
+  "commandType": 100,
+  "mainStepParameter": "Let's... go... back...",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
+  "shortStoryStepMstId": 1444,
+  "scriptId": 601991702,
+  "index": 15,
+  "commandType": 200,
+  "mainStepParameter": "",
+  "subStepParameter": "",
+  "thirdStepParameter": ""
+ },
+ {
   "shortStoryStepMstId": 1445,
   "scriptId": 601050701,
   "index": 1,

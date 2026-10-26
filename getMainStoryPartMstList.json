@@ -14,5 +14,13 @@
   "thumbnail": "bg_school_02",
   "characterMstId": 1020101,
   "startTime": "2025-01-01T00:00:00+09:00"
+ },
+ {
+  "mainStoryPartMstId": 1103,
+  "partNum": 3,
+  "partName": "Jinhua Department Of Nekos College Arc",
+  "thumbnail": "bg_school_03",
+  "characterMstId": 1030101,
+  "startTime": "2026-10-26T15:00:00+09:00"
  }
 ]

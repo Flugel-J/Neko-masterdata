@@ -414,6 +414,36 @@
   "resourceId": 7066001
  },
  {
+  "stillMstId": 7067001,
+  "storyType": 1,
+  "storyId": 11030101,
+  "resourceId": 7067001
+ },
+ {
+  "stillMstId": 7068001,
+  "storyType": 1,
+  "storyId": 11030103,
+  "resourceId": 7068001
+ },
+ {
+  "stillMstId": 7069001,
+  "storyType": 1,
+  "storyId": 11030105,
+  "resourceId": 7069001
+ },
+ {
+  "stillMstId": 7069002,
+  "storyType": 1,
+  "storyId": 11030105,
+  "resourceId": 7069002
+ },
+ {
+  "stillMstId": 7070001,
+  "storyType": 1,
+  "storyId": 11030105,
+  "resourceId": 7070001
+ },
+ {
   "stillMstId": 7501001,
   "storyType": 3,
   "storyId": 10000109,

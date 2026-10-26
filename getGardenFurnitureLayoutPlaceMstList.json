@@ -881,22 +881,22 @@
  },
  {
   "gardenFurnitureLayoutPlaceMstId": 94,
-  "gardenFurnitureLayoutMstId": 8,
-  "description": "Bathroom Floor",
-  "positionX": 0,
-  "positionY": 0,
-  "furnitureDirection": 0,
-  "layoutPlaceType": 2,
-  "areaType": 8
- },
- {
-  "gardenFurnitureLayoutPlaceMstId": 95,
   "gardenFurnitureLayoutMstId": 9,
-  "description": "Bathroom Wall",
+  "description": "壁(お風呂)",
   "positionX": 0,
   "positionY": 0,
   "furnitureDirection": 0,
   "layoutPlaceType": 3,
+  "areaType": 8
+ },
+ {
+  "gardenFurnitureLayoutPlaceMstId": 95,
+  "gardenFurnitureLayoutMstId": 8,
+  "description": "床(お風呂)",
+  "positionX": 0,
+  "positionY": 0,
+  "furnitureDirection": 0,
+  "layoutPlaceType": 2,
   "areaType": 8
  },
  {
@@ -952,7 +952,7 @@
  {
   "gardenFurnitureLayoutPlaceMstId": 101,
   "gardenFurnitureLayoutMstId": 63,
-  "description": "Bathroom Potted Plant",
+  "description": "coming soon...",
   "positionX": 2,
   "positionY": 5,
   "furnitureDirection": 0,

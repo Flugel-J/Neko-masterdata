@@ -515,7 +515,7 @@
   "worldRankingAchievementMstId": 100501,
   "worldRankingMstId": 1005,
   "sortOrder": 1,
-  "name": "Reach Soleil Arc: Stage 50 first.",
+  "name": "Clear Soleil Arc: Stage 50 first.",
   "threshold": 50,
   "worldRankingRewardGroupId": 100001014
  },
@@ -523,7 +523,7 @@
   "worldRankingAchievementMstId": 100502,
   "worldRankingMstId": 1005,
   "sortOrder": 2,
-  "name": "Reach Soleil Arc: Stage 100 first.",
+  "name": "Clear Soleil Arc: Stage 100 first.",
   "threshold": 100,
   "worldRankingRewardGroupId": 100001014
  },
@@ -531,7 +531,7 @@
   "worldRankingAchievementMstId": 100503,
   "worldRankingMstId": 1005,
   "sortOrder": 3,
-  "name": "Reach Soleil Arc: Stage 150 first.",
+  "name": "Clear Soleil Arc: Stage 150 first.",
   "threshold": 150,
   "worldRankingRewardGroupId": 100001014
  },
@@ -539,7 +539,7 @@
   "worldRankingAchievementMstId": 100504,
   "worldRankingMstId": 1005,
   "sortOrder": 4,
-  "name": "Reach Soleil Arc: Stage 200 first.",
+  "name": "Clear Soleil Arc: Stage 200 first.",
   "threshold": 200,
   "worldRankingRewardGroupId": 100001014
  },
@@ -547,7 +547,7 @@
   "worldRankingAchievementMstId": 100505,
   "worldRankingMstId": 1005,
   "sortOrder": 5,
-  "name": "Reach Soleil Arc: Stage 250 first.",
+  "name": "Clear Soleil Arc: Stage 250 first.",
   "threshold": 250,
   "worldRankingRewardGroupId": 100001014
  },
@@ -555,7 +555,7 @@
   "worldRankingAchievementMstId": 100506,
   "worldRankingMstId": 1005,
   "sortOrder": 6,
-  "name": "Reach Soleil Arc: Stage 300 first.",
+  "name": "Clear Soleil Arc: Stage 300 first.",
   "threshold": 300,
   "worldRankingRewardGroupId": 100001014
  },
@@ -563,7 +563,7 @@
   "worldRankingAchievementMstId": 100507,
   "worldRankingMstId": 1005,
   "sortOrder": 7,
-  "name": "Reach Floor 50 of the Main Tower first.",
+  "name": "Clear Floor 50 of the Main Tower first.",
   "threshold": 50,
   "worldRankingRewardGroupId": 100001014
  },
@@ -571,7 +571,7 @@
   "worldRankingAchievementMstId": 100601,
   "worldRankingMstId": 1006,
   "sortOrder": 1,
-  "name": "Reach Floor 10 of the Main Tower first.",
+  "name": "Clear Floor 10 of the Main Tower first.",
   "threshold": 10,
   "worldRankingRewardGroupId": 100001014
  },
@@ -579,7 +579,7 @@
   "worldRankingAchievementMstId": 100602,
   "worldRankingMstId": 1006,
   "sortOrder": 2,
-  "name": "Reach Floor 20 of the Main Tower first.",
+  "name": "Clear Floor 20 of the Main Tower first.",
   "threshold": 20,
   "worldRankingRewardGroupId": 100001014
  },
@@ -587,7 +587,7 @@
   "worldRankingAchievementMstId": 100603,
   "worldRankingMstId": 1006,
   "sortOrder": 3,
-  "name": "Reach Floor 30 of the Main Tower first.",
+  "name": "Clear Floor 30 of the Main Tower first.",
   "threshold": 30,
   "worldRankingRewardGroupId": 100001014
  },
@@ -595,7 +595,7 @@
   "worldRankingAchievementMstId": 100604,
   "worldRankingMstId": 1006,
   "sortOrder": 4,
-  "name": "Reach Floor 40 of the Main Tower first.",
+  "name": "Clear Floor 40 of the Main Tower first.",
   "threshold": 40,
   "worldRankingRewardGroupId": 100001014
  },
@@ -603,7 +603,7 @@
   "worldRankingAchievementMstId": 100605,
   "worldRankingMstId": 1006,
   "sortOrder": 5,
-  "name": "Reach Floor 50 of the Main Tower first.",
+  "name": "Clear Floor 50 of the Main Tower first.",
   "threshold": 50,
   "worldRankingRewardGroupId": 100001014
  },
@@ -611,7 +611,7 @@
   "worldRankingAchievementMstId": 100606,
   "worldRankingMstId": 1006,
   "sortOrder": 6,
-  "name": "Reach Floor 60 of the Main Tower first.",
+  "name": "Clear Floor 60 of the Main Tower first.",
   "threshold": 60,
   "worldRankingRewardGroupId": 100001014
  },
@@ -619,7 +619,7 @@
   "worldRankingAchievementMstId": 100607,
   "worldRankingMstId": 1006,
   "sortOrder": 7,
-  "name": "Reach Floor 70 of the Main Tower first.",
+  "name": "Clear Floor 70 of the Main Tower first.",
   "threshold": 70,
   "worldRankingRewardGroupId": 100001014
  },
@@ -627,7 +627,7 @@
   "worldRankingAchievementMstId": 100608,
   "worldRankingMstId": 1006,
   "sortOrder": 8,
-  "name": "Reach Floor 80 of the Main Tower first.",
+  "name": "Clear Floor 80 of the Main Tower first.",
   "threshold": 80,
   "worldRankingRewardGroupId": 100001014
  },
@@ -635,7 +635,7 @@
   "worldRankingAchievementMstId": 100609,
   "worldRankingMstId": 1006,
   "sortOrder": 9,
-  "name": "Reach Floor 90 of the Main Tower first.",
+  "name": "Clear Floor 90 of the Main Tower first.",
   "threshold": 90,
   "worldRankingRewardGroupId": 100001014
  },
@@ -643,7 +643,7 @@
   "worldRankingAchievementMstId": 100610,
   "worldRankingMstId": 1006,
   "sortOrder": 10,
-  "name": "Reach Floor 100 of the Main Tower first.",
+  "name": "Clear Floor 100 of the Main Tower first.",
   "threshold": 100,
   "worldRankingRewardGroupId": 100001014
  },
@@ -651,7 +651,7 @@
   "worldRankingAchievementMstId": 100611,
   "worldRankingMstId": 1006,
   "sortOrder": 11,
-  "name": "Reach Floor 110 of the Main Tower first.",
+  "name": "Clear Floor 110 of the Main Tower first.",
   "threshold": 110,
   "worldRankingRewardGroupId": 100001014
  },
@@ -659,7 +659,7 @@
   "worldRankingAchievementMstId": 100612,
   "worldRankingMstId": 1006,
   "sortOrder": 12,
-  "name": "Reach Floor 120 of the Main Tower first.",
+  "name": "Clear Floor 120 of the Main Tower first.",
   "threshold": 120,
   "worldRankingRewardGroupId": 100001014
  },
@@ -667,7 +667,7 @@
   "worldRankingAchievementMstId": 100613,
   "worldRankingMstId": 1006,
   "sortOrder": 13,
-  "name": "Reach Floor 130 of the Main Tower first.",
+  "name": "Clear Floor 130 of the Main Tower first.",
   "threshold": 130,
   "worldRankingRewardGroupId": 100001014
  },
@@ -675,7 +675,7 @@
   "worldRankingAchievementMstId": 100614,
   "worldRankingMstId": 1006,
   "sortOrder": 14,
-  "name": "Reach Floor 140 of the Main Tower first.",
+  "name": "Clear Floor 140 of the Main Tower first.",
   "threshold": 140,
   "worldRankingRewardGroupId": 100001014
  },
@@ -683,7 +683,7 @@
   "worldRankingAchievementMstId": 100615,
   "worldRankingMstId": 1006,
   "sortOrder": 15,
-  "name": "Reach Floor 150 of the Main Tower first.",
+  "name": "Clear Floor 150 of the Main Tower first.",
   "threshold": 150,
   "worldRankingRewardGroupId": 100001014
  },
@@ -691,7 +691,7 @@
   "worldRankingAchievementMstId": 100616,
   "worldRankingMstId": 1006,
   "sortOrder": 16,
-  "name": "Reach Floor 160 of the Main Tower first.",
+  "name": "Clear Floor 160 of the Main Tower first.",
   "threshold": 160,
   "worldRankingRewardGroupId": 100001014
  },
@@ -699,7 +699,7 @@
   "worldRankingAchievementMstId": 100617,
   "worldRankingMstId": 1006,
   "sortOrder": 17,
-  "name": "Reach Floor 170 of the Main Tower first.",
+  "name": "Clear Floor 170 of the Main Tower first.",
   "threshold": 170,
   "worldRankingRewardGroupId": 100001014
  },
@@ -707,7 +707,7 @@
   "worldRankingAchievementMstId": 100618,
   "worldRankingMstId": 1006,
   "sortOrder": 18,
-  "name": "Reach Floor 180 of the Main Tower first.",
+  "name": "Clear Floor 180 of the Main Tower first.",
   "threshold": 180,
   "worldRankingRewardGroupId": 100001014
  },
@@ -715,7 +715,7 @@
   "worldRankingAchievementMstId": 100619,
   "worldRankingMstId": 1006,
   "sortOrder": 19,
-  "name": "Reach Floor 190 of the Main Tower first.",
+  "name": "Clear Floor 190 of the Main Tower first.",
   "threshold": 190,
   "worldRankingRewardGroupId": 100001014
  },
@@ -723,7 +723,7 @@
   "worldRankingAchievementMstId": 100620,
   "worldRankingMstId": 1006,
   "sortOrder": 20,
-  "name": "Reach Floor 200 of the Main Tower first.",
+  "name": "Clear Floor 200 of the Main Tower first.",
   "threshold": 200,
   "worldRankingRewardGroupId": 100001014
  },
@@ -731,7 +731,7 @@
   "worldRankingAchievementMstId": 100621,
   "worldRankingMstId": 1006,
   "sortOrder": 21,
-  "name": "Reach Floor 210 of the Main Tower first.",
+  "name": "Clear Floor 210 of the Main Tower first.",
   "threshold": 210,
   "worldRankingRewardGroupId": 100001014
  },
@@ -739,7 +739,7 @@
   "worldRankingAchievementMstId": 100622,
   "worldRankingMstId": 1006,
   "sortOrder": 22,
-  "name": "Reach Floor 220 of the Main Tower first.",
+  "name": "Clear Floor 220 of the Main Tower first.",
   "threshold": 220,
   "worldRankingRewardGroupId": 100001014
  },
@@ -747,7 +747,7 @@
   "worldRankingAchievementMstId": 100623,
   "worldRankingMstId": 1006,
   "sortOrder": 23,
-  "name": "Reach Floor 230 of the Main Tower first.",
+  "name": "Clear Floor 230 of the Main Tower first.",
   "threshold": 230,
   "worldRankingRewardGroupId": 100001014
  },
@@ -755,7 +755,7 @@
   "worldRankingAchievementMstId": 100624,
   "worldRankingMstId": 1006,
   "sortOrder": 24,
-  "name": "Reach Floor 240 of the Main Tower first.",
+  "name": "Clear Floor 240 of the Main Tower first.",
   "threshold": 240,
   "worldRankingRewardGroupId": 100001014
  },
@@ -763,7 +763,7 @@
   "worldRankingAchievementMstId": 100625,
   "worldRankingMstId": 1006,
   "sortOrder": 25,
-  "name": "Reach Floor 250 of the Main Tower first.",
+  "name": "Clear Floor 250 of the Main Tower first.",
   "threshold": 250,
   "worldRankingRewardGroupId": 100001014
  },
@@ -771,7 +771,7 @@
   "worldRankingAchievementMstId": 100626,
   "worldRankingMstId": 1006,
   "sortOrder": 26,
-  "name": "Reach Floor 260 of the Main Tower first.",
+  "name": "Clear Floor 260 of the Main Tower first.",
   "threshold": 260,
   "worldRankingRewardGroupId": 100001014
  },
@@ -779,7 +779,7 @@
   "worldRankingAchievementMstId": 100627,
   "worldRankingMstId": 1006,
   "sortOrder": 27,
-  "name": "Reach Floor 270 of the Main Tower first.",
+  "name": "Clear Floor 270 of the Main Tower first.",
   "threshold": 270,
   "worldRankingRewardGroupId": 100001014
  },
@@ -787,7 +787,7 @@
   "worldRankingAchievementMstId": 100628,
   "worldRankingMstId": 1006,
   "sortOrder": 28,
-  "name": "Reach Floor 280 of the Main Tower first.",
+  "name": "Clear Floor 280 of the Main Tower first.",
   "threshold": 280,
   "worldRankingRewardGroupId": 100001014
  },
@@ -795,7 +795,7 @@
   "worldRankingAchievementMstId": 100629,
   "worldRankingMstId": 1006,
   "sortOrder": 29,
-  "name": "Reach Floor 290 of the Main Tower first.",
+  "name": "Clear Floor 290 of the Main Tower first.",
   "threshold": 290,
   "worldRankingRewardGroupId": 100001014
  },
@@ -803,7 +803,7 @@
   "worldRankingAchievementMstId": 100630,
   "worldRankingMstId": 1006,
   "sortOrder": 30,
-  "name": "Reach Floor 300 of the Main Tower first.",
+  "name": "Clear Floor 300 of the Main Tower first.",
   "threshold": 300,
   "worldRankingRewardGroupId": 100001014
  },
@@ -811,7 +811,7 @@
   "worldRankingAchievementMstId": 100701,
   "worldRankingMstId": 1007,
   "sortOrder": 1,
-  "name": "Reach Floor 10 of the Sweet Tower first.",
+  "name": "Clear Floor 10 of the Sweet Tower first.",
   "threshold": 10,
   "worldRankingRewardGroupId": 100001014
  },
@@ -819,7 +819,7 @@
   "worldRankingAchievementMstId": 100702,
   "worldRankingMstId": 1007,
   "sortOrder": 2,
-  "name": "Reach Floor 20 of the Sweet Tower first.",
+  "name": "Clear Floor 20 of the Sweet Tower first.",
   "threshold": 20,
   "worldRankingRewardGroupId": 100001014
  },
@@ -827,7 +827,7 @@
   "worldRankingAchievementMstId": 100703,
   "worldRankingMstId": 1007,
   "sortOrder": 3,
-  "name": "Reach Floor 30 of the Sweet Tower first.",
+  "name": "Clear Floor 30 of the Sweet Tower first.",
   "threshold": 30,
   "worldRankingRewardGroupId": 100001014
  },
@@ -835,7 +835,7 @@
   "worldRankingAchievementMstId": 100704,
   "worldRankingMstId": 1007,
   "sortOrder": 4,
-  "name": "Reach Floor 40 of the Sweet Tower first.",
+  "name": "Clear Floor 40 of the Sweet Tower first.",
   "threshold": 40,
   "worldRankingRewardGroupId": 100001014
  },
@@ -843,7 +843,7 @@
   "worldRankingAchievementMstId": 100705,
   "worldRankingMstId": 1007,
   "sortOrder": 5,
-  "name": "Reach Floor 50 of the Sweet Tower first.",
+  "name": "Clear Floor 50 of the Sweet Tower first.",
   "threshold": 50,
   "worldRankingRewardGroupId": 100001014
  },
@@ -851,7 +851,7 @@
   "worldRankingAchievementMstId": 100706,
   "worldRankingMstId": 1007,
   "sortOrder": 6,
-  "name": "Reach Floor 60 of the Sweet Tower first.",
+  "name": "Clear Floor 60 of the Sweet Tower first.",
   "threshold": 60,
   "worldRankingRewardGroupId": 100001014
  },
@@ -859,7 +859,7 @@
   "worldRankingAchievementMstId": 100707,
   "worldRankingMstId": 1007,
   "sortOrder": 7,
-  "name": "Reach Floor 70 of the Sweet Tower first.",
+  "name": "Clear Floor 70 of the Sweet Tower first.",
   "threshold": 70,
   "worldRankingRewardGroupId": 100001014
  },
@@ -867,7 +867,7 @@
   "worldRankingAchievementMstId": 100708,
   "worldRankingMstId": 1007,
   "sortOrder": 8,
-  "name": "Reach Floor 80 of the Sweet Tower first.",
+  "name": "Clear Floor 80 of the Sweet Tower first.",
   "threshold": 80,
   "worldRankingRewardGroupId": 100001014
  },
@@ -875,7 +875,7 @@
   "worldRankingAchievementMstId": 100709,
   "worldRankingMstId": 1007,
   "sortOrder": 9,
-  "name": "Reach Floor 90 of the Sweet Tower first.",
+  "name": "Clear Floor 90 of the Sweet Tower first.",
   "threshold": 90,
   "worldRankingRewardGroupId": 100001014
  },
@@ -883,7 +883,7 @@
   "worldRankingAchievementMstId": 100710,
   "worldRankingMstId": 1007,
   "sortOrder": 10,
-  "name": "Reach Floor 100 of the Sweet Tower first.",
+  "name": "Clear Floor 100 of the Sweet Tower first.",
   "threshold": 100,
   "worldRankingRewardGroupId": 100001014
  },
@@ -891,7 +891,7 @@
   "worldRankingAchievementMstId": 100711,
   "worldRankingMstId": 1007,
   "sortOrder": 11,
-  "name": "Reach Floor 110 of the Sweet Tower first.",
+  "name": "Clear Floor 110 of the Sweet Tower first.",
   "threshold": 110,
   "worldRankingRewardGroupId": 100001014
  },
@@ -899,7 +899,7 @@
   "worldRankingAchievementMstId": 100712,
   "worldRankingMstId": 1007,
   "sortOrder": 12,
-  "name": "Reach Floor 120 of the Sweet Tower first.",
+  "name": "Clear Floor 120 of the Sweet Tower first.",
   "threshold": 120,
   "worldRankingRewardGroupId": 100001014
  },
@@ -907,7 +907,7 @@
   "worldRankingAchievementMstId": 100713,
   "worldRankingMstId": 1007,
   "sortOrder": 13,
-  "name": "Reach Floor 130 of the Sweet Tower first.",
+  "name": "Clear Floor 130 of the Sweet Tower first.",
   "threshold": 130,
   "worldRankingRewardGroupId": 100001014
  },
@@ -915,7 +915,7 @@
   "worldRankingAchievementMstId": 100714,
   "worldRankingMstId": 1007,
   "sortOrder": 14,
-  "name": "Reach Floor 140 of the Sweet Tower first.",
+  "name": "Clear Floor 140 of the Sweet Tower first.",
   "threshold": 140,
   "worldRankingRewardGroupId": 100001014
  },
@@ -923,7 +923,7 @@
   "worldRankingAchievementMstId": 100715,
   "worldRankingMstId": 1007,
   "sortOrder": 15,
-  "name": "Reach Floor 150 of the Sweet Tower first.",
+  "name": "Clear Floor 150 of the Sweet Tower first.",
   "threshold": 150,
   "worldRankingRewardGroupId": 100001014
  },
@@ -931,7 +931,7 @@
   "worldRankingAchievementMstId": 100716,
   "worldRankingMstId": 1007,
   "sortOrder": 16,
-  "name": "Reach Floor 160 of the Sweet Tower first.",
+  "name": "Clear Floor 160 of the Sweet Tower first.",
   "threshold": 160,
   "worldRankingRewardGroupId": 100001014
  },
@@ -939,7 +939,7 @@
   "worldRankingAchievementMstId": 100717,
   "worldRankingMstId": 1007,
   "sortOrder": 17,
-  "name": "Reach Floor 170 of the Sweet Tower first.",
+  "name": "Clear Floor 170 of the Sweet Tower first.",
   "threshold": 170,
   "worldRankingRewardGroupId": 100001014
  },
@@ -947,7 +947,7 @@
   "worldRankingAchievementMstId": 100718,
   "worldRankingMstId": 1007,
   "sortOrder": 18,
-  "name": "Reach Floor 180 of the Sweet Tower first.",
+  "name": "Clear Floor 180 of the Sweet Tower first.",
   "threshold": 180,
   "worldRankingRewardGroupId": 100001014
  },
@@ -955,7 +955,7 @@
   "worldRankingAchievementMstId": 100719,
   "worldRankingMstId": 1007,
   "sortOrder": 19,
-  "name": "Reach Floor 190 of the Sweet Tower first.",
+  "name": "Clear Floor 190 of the Sweet Tower first.",
   "threshold": 190,
   "worldRankingRewardGroupId": 100001014
  },
@@ -963,7 +963,7 @@
   "worldRankingAchievementMstId": 100720,
   "worldRankingMstId": 1007,
   "sortOrder": 20,
-  "name": "Reach Floor 200 of the Sweet Tower first.",
+  "name": "Clear Floor 200 of the Sweet Tower first.",
   "threshold": 200,
   "worldRankingRewardGroupId": 100001014
  },
@@ -971,7 +971,7 @@
   "worldRankingAchievementMstId": 100721,
   "worldRankingMstId": 1007,
   "sortOrder": 21,
-  "name": "Reach Floor 210 of the Sweet Tower first.",
+  "name": "Clear Floor 210 of the Sweet Tower first.",
   "threshold": 210,
   "worldRankingRewardGroupId": 100001014
  },
@@ -979,7 +979,7 @@
   "worldRankingAchievementMstId": 100722,
   "worldRankingMstId": 1007,
   "sortOrder": 22,
-  "name": "Reach Floor 220 of the Sweet Tower first.",
+  "name": "Clear Floor 220 of the Sweet Tower first.",
   "threshold": 220,
   "worldRankingRewardGroupId": 100001014
  },
@@ -987,7 +987,7 @@
   "worldRankingAchievementMstId": 100723,
   "worldRankingMstId": 1007,
   "sortOrder": 23,
-  "name": "Reach Floor 230 of the Sweet Tower first.",
+  "name": "Clear Floor 230 of the Sweet Tower first.",
   "threshold": 230,
   "worldRankingRewardGroupId": 100001014
  },
@@ -995,7 +995,7 @@
   "worldRankingAchievementMstId": 100724,
   "worldRankingMstId": 1007,
   "sortOrder": 24,
-  "name": "Reach Floor 240 of the Sweet Tower first.",
+  "name": "Clear Floor 240 of the Sweet Tower first.",
   "threshold": 240,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1003,7 +1003,7 @@
   "worldRankingAchievementMstId": 100725,
   "worldRankingMstId": 1007,
   "sortOrder": 25,
-  "name": "Reach Floor 250 of the Sweet Tower first.",
+  "name": "Clear Floor 250 of the Sweet Tower first.",
   "threshold": 250,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1011,7 +1011,7 @@
   "worldRankingAchievementMstId": 100726,
   "worldRankingMstId": 1007,
   "sortOrder": 26,
-  "name": "Reach Floor 260 of the Sweet Tower first.",
+  "name": "Clear Floor 260 of the Sweet Tower first.",
   "threshold": 260,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1019,7 +1019,7 @@
   "worldRankingAchievementMstId": 100727,
   "worldRankingMstId": 1007,
   "sortOrder": 27,
-  "name": "Reach Floor 270 of the Sweet Tower first.",
+  "name": "Clear Floor 270 of the Sweet Tower first.",
   "threshold": 270,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1027,7 +1027,7 @@
   "worldRankingAchievementMstId": 100728,
   "worldRankingMstId": 1007,
   "sortOrder": 28,
-  "name": "Reach Floor 280 of the Sweet Tower first.",
+  "name": "Clear Floor 280 of the Sweet Tower first.",
   "threshold": 280,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1035,7 +1035,7 @@
   "worldRankingAchievementMstId": 100729,
   "worldRankingMstId": 1007,
   "sortOrder": 29,
-  "name": "Reach Floor 290 of the Sweet Tower first.",
+  "name": "Clear Floor 290 of the Sweet Tower first.",
   "threshold": 290,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1043,7 +1043,7 @@
   "worldRankingAchievementMstId": 100730,
   "worldRankingMstId": 1007,
   "sortOrder": 30,
-  "name": "Reach Floor 300 of the Sweet Tower first.",
+  "name": "Clear Floor 300 of the Sweet Tower first.",
   "threshold": 300,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1051,7 +1051,7 @@
   "worldRankingAchievementMstId": 100801,
   "worldRankingMstId": 1008,
   "sortOrder": 1,
-  "name": "Reach Floor 10 of the Pop Tower first.",
+  "name": "Clear Floor 10 of the Pop Tower first.",
   "threshold": 10,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1059,7 +1059,7 @@
   "worldRankingAchievementMstId": 100802,
   "worldRankingMstId": 1008,
   "sortOrder": 2,
-  "name": "Reach Floor 20 of the Pop Tower first.",
+  "name": "Clear Floor 20 of the Pop Tower first.",
   "threshold": 20,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1067,7 +1067,7 @@
   "worldRankingAchievementMstId": 100803,
   "worldRankingMstId": 1008,
   "sortOrder": 3,
-  "name": "Reach Floor 30 of the Pop Tower first.",
+  "name": "Clear Floor 30 of the Pop Tower first.",
   "threshold": 30,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1075,7 +1075,7 @@
   "worldRankingAchievementMstId": 100804,
   "worldRankingMstId": 1008,
   "sortOrder": 4,
-  "name": "Reach Floor 40 of the Pop Tower first.",
+  "name": "Clear Floor 40 of the Pop Tower first.",
   "threshold": 40,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1083,7 +1083,7 @@
   "worldRankingAchievementMstId": 100805,
   "worldRankingMstId": 1008,
   "sortOrder": 5,
-  "name": "Reach Floor 50 of the Pop Tower first.",
+  "name": "Clear Floor 50 of the Pop Tower first.",
   "threshold": 50,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1091,7 +1091,7 @@
   "worldRankingAchievementMstId": 100806,
   "worldRankingMstId": 1008,
   "sortOrder": 6,
-  "name": "Reach Floor 60 of the Pop Tower first.",
+  "name": "Clear Floor 60 of the Pop Tower first.",
   "threshold": 60,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1099,7 +1099,7 @@
   "worldRankingAchievementMstId": 100807,
   "worldRankingMstId": 1008,
   "sortOrder": 7,
-  "name": "Reach Floor 70 of the Pop Tower first.",
+  "name": "Clear Floor 70 of the Pop Tower first.",
   "threshold": 70,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1107,7 +1107,7 @@
   "worldRankingAchievementMstId": 100808,
   "worldRankingMstId": 1008,
   "sortOrder": 8,
-  "name": "Reach Floor 80 of the Pop Tower first.",
+  "name": "Clear Floor 80 of the Pop Tower first.",
   "threshold": 80,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1115,7 +1115,7 @@
   "worldRankingAchievementMstId": 100809,
   "worldRankingMstId": 1008,
   "sortOrder": 9,
-  "name": "Reach Floor 90 of the Pop Tower first.",
+  "name": "Clear Floor 90 of the Pop Tower first.",
   "threshold": 90,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1123,7 +1123,7 @@
   "worldRankingAchievementMstId": 100810,
   "worldRankingMstId": 1008,
   "sortOrder": 10,
-  "name": "Reach Floor 100 of the Pop Tower first.",
+  "name": "Clear Floor 100 of the Pop Tower first.",
   "threshold": 100,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1131,7 +1131,7 @@
   "worldRankingAchievementMstId": 100811,
   "worldRankingMstId": 1008,
   "sortOrder": 11,
-  "name": "Reach Floor 110 of the Pop Tower first.",
+  "name": "Clear Floor 110 of the Pop Tower first.",
   "threshold": 110,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1139,7 +1139,7 @@
   "worldRankingAchievementMstId": 100812,
   "worldRankingMstId": 1008,
   "sortOrder": 12,
-  "name": "Reach Floor 120 of the Pop Tower first.",
+  "name": "Clear Floor 120 of the Pop Tower first.",
   "threshold": 120,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1147,7 +1147,7 @@
   "worldRankingAchievementMstId": 100813,
   "worldRankingMstId": 1008,
   "sortOrder": 13,
-  "name": "Reach Floor 130 of the Pop Tower first.",
+  "name": "Clear Floor 130 of the Pop Tower first.",
   "threshold": 130,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1155,7 +1155,7 @@
   "worldRankingAchievementMstId": 100814,
   "worldRankingMstId": 1008,
   "sortOrder": 14,
-  "name": "Reach Floor 140 of the Pop Tower first.",
+  "name": "Clear Floor 140 of the Pop Tower first.",
   "threshold": 140,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1163,7 +1163,7 @@
   "worldRankingAchievementMstId": 100815,
   "worldRankingMstId": 1008,
   "sortOrder": 15,
-  "name": "Reach Floor 150 of the Pop Tower first.",
+  "name": "Clear Floor 150 of the Pop Tower first.",
   "threshold": 150,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1171,7 +1171,7 @@
   "worldRankingAchievementMstId": 100816,
   "worldRankingMstId": 1008,
   "sortOrder": 16,
-  "name": "Reach Floor 160 of the Pop Tower first.",
+  "name": "Clear Floor 160 of the Pop Tower first.",
   "threshold": 160,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1179,7 +1179,7 @@
   "worldRankingAchievementMstId": 100817,
   "worldRankingMstId": 1008,
   "sortOrder": 17,
-  "name": "Reach Floor 170 of the Pop Tower first.",
+  "name": "Clear Floor 170 of the Pop Tower first.",
   "threshold": 170,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1187,7 +1187,7 @@
   "worldRankingAchievementMstId": 100818,
   "worldRankingMstId": 1008,
   "sortOrder": 18,
-  "name": "Reach Floor 180 of the Pop Tower first.",
+  "name": "Clear Floor 180 of the Pop Tower first.",
   "threshold": 180,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1195,7 +1195,7 @@
   "worldRankingAchievementMstId": 100819,
   "worldRankingMstId": 1008,
   "sortOrder": 19,
-  "name": "Reach Floor 190 of the Pop Tower first.",
+  "name": "Clear Floor 190 of the Pop Tower first.",
   "threshold": 190,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1203,7 +1203,7 @@
   "worldRankingAchievementMstId": 100820,
   "worldRankingMstId": 1008,
   "sortOrder": 20,
-  "name": "Reach Floor 200 of the Pop Tower first.",
+  "name": "Clear Floor 200 of the Pop Tower first.",
   "threshold": 200,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1211,7 +1211,7 @@
   "worldRankingAchievementMstId": 100821,
   "worldRankingMstId": 1008,
   "sortOrder": 21,
-  "name": "Reach Floor 210 of the Pop Tower first.",
+  "name": "Clear Floor 210 of the Pop Tower first.",
   "threshold": 210,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1219,7 +1219,7 @@
   "worldRankingAchievementMstId": 100822,
   "worldRankingMstId": 1008,
   "sortOrder": 22,
-  "name": "Reach Floor 220 of the Pop Tower first.",
+  "name": "Clear Floor 220 of the Pop Tower first.",
   "threshold": 220,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1227,7 +1227,7 @@
   "worldRankingAchievementMstId": 100823,
   "worldRankingMstId": 1008,
   "sortOrder": 23,
-  "name": "Reach Floor 230 of the Pop Tower first.",
+  "name": "Clear Floor 230 of the Pop Tower first.",
   "threshold": 230,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1235,7 +1235,7 @@
   "worldRankingAchievementMstId": 100824,
   "worldRankingMstId": 1008,
   "sortOrder": 24,
-  "name": "Reach Floor 240 of the Pop Tower first.",
+  "name": "Clear Floor 240 of the Pop Tower first.",
   "threshold": 240,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1243,7 +1243,7 @@
   "worldRankingAchievementMstId": 100825,
   "worldRankingMstId": 1008,
   "sortOrder": 25,
-  "name": "Reach Floor 250 of the Pop Tower first.",
+  "name": "Clear Floor 250 of the Pop Tower first.",
   "threshold": 250,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1251,7 +1251,7 @@
   "worldRankingAchievementMstId": 100826,
   "worldRankingMstId": 1008,
   "sortOrder": 26,
-  "name": "Reach Floor 260 of the Pop Tower first.",
+  "name": "Clear Floor 260 of the Pop Tower first.",
   "threshold": 260,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1259,7 +1259,7 @@
   "worldRankingAchievementMstId": 100827,
   "worldRankingMstId": 1008,
   "sortOrder": 27,
-  "name": "Reach Floor 270 of the Pop Tower first.",
+  "name": "Clear Floor 270 of the Pop Tower first.",
   "threshold": 270,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1267,7 +1267,7 @@
   "worldRankingAchievementMstId": 100828,
   "worldRankingMstId": 1008,
   "sortOrder": 28,
-  "name": "Reach Floor 280 of the Pop Tower first.",
+  "name": "Clear Floor 280 of the Pop Tower first.",
   "threshold": 280,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1275,7 +1275,7 @@
   "worldRankingAchievementMstId": 100829,
   "worldRankingMstId": 1008,
   "sortOrder": 29,
-  "name": "Reach Floor 290 of the Pop Tower first.",
+  "name": "Clear Floor 290 of the Pop Tower first.",
   "threshold": 290,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1283,7 +1283,7 @@
   "worldRankingAchievementMstId": 100830,
   "worldRankingMstId": 1008,
   "sortOrder": 30,
-  "name": "Reach Floor 300 of the Pop Tower first.",
+  "name": "Clear Floor 300 of the Pop Tower first.",
   "threshold": 300,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1291,7 +1291,7 @@
   "worldRankingAchievementMstId": 100901,
   "worldRankingMstId": 1009,
   "sortOrder": 1,
-  "name": "Reach Floor 10 of the Passion Tower first.",
+  "name": "Clear Floor 10 of the Passion Tower first.",
   "threshold": 10,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1299,7 +1299,7 @@
   "worldRankingAchievementMstId": 100902,
   "worldRankingMstId": 1009,
   "sortOrder": 2,
-  "name": "Reach Floor 20 of the Passion Tower first.",
+  "name": "Clear Floor 20 of the Passion Tower first.",
   "threshold": 20,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1307,7 +1307,7 @@
   "worldRankingAchievementMstId": 100903,
   "worldRankingMstId": 1009,
   "sortOrder": 3,
-  "name": "Reach Floor 30 of the Passion Tower first.",
+  "name": "Clear Floor 30 of the Passion Tower first.",
   "threshold": 30,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1315,7 +1315,7 @@
   "worldRankingAchievementMstId": 100904,
   "worldRankingMstId": 1009,
   "sortOrder": 4,
-  "name": "Reach Floor 40 of the Passion Tower first.",
+  "name": "Clear Floor 40 of the Passion Tower first.",
   "threshold": 40,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1323,7 +1323,7 @@
   "worldRankingAchievementMstId": 100905,
   "worldRankingMstId": 1009,
   "sortOrder": 5,
-  "name": "Reach Floor 50 of the Passion Tower first.",
+  "name": "Clear Floor 50 of the Passion Tower first.",
   "threshold": 50,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1331,7 +1331,7 @@
   "worldRankingAchievementMstId": 100906,
   "worldRankingMstId": 1009,
   "sortOrder": 6,
-  "name": "Reach Floor 60 of the Passion Tower first.",
+  "name": "Clear Floor 60 of the Passion Tower first.",
   "threshold": 60,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1339,7 +1339,7 @@
   "worldRankingAchievementMstId": 100907,
   "worldRankingMstId": 1009,
   "sortOrder": 7,
-  "name": "Reach Floor 70 of the Passion Tower first.",
+  "name": "Clear Floor 70 of the Passion Tower first.",
   "threshold": 70,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1347,7 +1347,7 @@
   "worldRankingAchievementMstId": 100908,
   "worldRankingMstId": 1009,
   "sortOrder": 8,
-  "name": "Reach Floor 80 of the Passion Tower first.",
+  "name": "Clear Floor 80 of the Passion Tower first.",
   "threshold": 80,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1355,7 +1355,7 @@
   "worldRankingAchievementMstId": 100909,
   "worldRankingMstId": 1009,
   "sortOrder": 9,
-  "name": "Reach Floor 90 of the Passion Tower first.",
+  "name": "Clear Floor 90 of the Passion Tower first.",
   "threshold": 90,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1363,7 +1363,7 @@
   "worldRankingAchievementMstId": 100910,
   "worldRankingMstId": 1009,
   "sortOrder": 10,
-  "name": "Reach Floor 100 of the Passion Tower first.",
+  "name": "Clear Floor 100 of the Passion Tower first.",
   "threshold": 100,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1371,7 +1371,7 @@
   "worldRankingAchievementMstId": 100911,
   "worldRankingMstId": 1009,
   "sortOrder": 11,
-  "name": "Reach Floor 110 of the Passion Tower first.",
+  "name": "Clear Floor 110 of the Passion Tower first.",
   "threshold": 110,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1379,7 +1379,7 @@
   "worldRankingAchievementMstId": 100912,
   "worldRankingMstId": 1009,
   "sortOrder": 12,
-  "name": "Reach Floor 120 of the Passion Tower first.",
+  "name": "Clear Floor 120 of the Passion Tower first.",
   "threshold": 120,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1387,7 +1387,7 @@
   "worldRankingAchievementMstId": 100913,
   "worldRankingMstId": 1009,
   "sortOrder": 13,
-  "name": "Reach Floor 130 of the Passion Tower first.",
+  "name": "Clear Floor 130 of the Passion Tower first.",
   "threshold": 130,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1395,7 +1395,7 @@
   "worldRankingAchievementMstId": 100914,
   "worldRankingMstId": 1009,
   "sortOrder": 14,
-  "name": "Reach Floor 140 of the Passion Tower first.",
+  "name": "Clear Floor 140 of the Passion Tower first.",
   "threshold": 140,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1403,7 +1403,7 @@
   "worldRankingAchievementMstId": 100915,
   "worldRankingMstId": 1009,
   "sortOrder": 15,
-  "name": "Reach Floor 150 of the Passion Tower first.",
+  "name": "Clear Floor 150 of the Passion Tower first.",
   "threshold": 150,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1411,7 +1411,7 @@
   "worldRankingAchievementMstId": 100916,
   "worldRankingMstId": 1009,
   "sortOrder": 16,
-  "name": "Reach Floor 160 of the Passion Tower first.",
+  "name": "Clear Floor 160 of the Passion Tower first.",
   "threshold": 160,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1419,7 +1419,7 @@
   "worldRankingAchievementMstId": 100917,
   "worldRankingMstId": 1009,
   "sortOrder": 17,
-  "name": "Reach Floor 170 of the Passion Tower first.",
+  "name": "Clear Floor 170 of the Passion Tower first.",
   "threshold": 170,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1427,7 +1427,7 @@
   "worldRankingAchievementMstId": 100918,
   "worldRankingMstId": 1009,
   "sortOrder": 18,
-  "name": "Reach Floor 180 of the Passion Tower first.",
+  "name": "Clear Floor 180 of the Passion Tower first.",
   "threshold": 180,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1435,7 +1435,7 @@
   "worldRankingAchievementMstId": 100919,
   "worldRankingMstId": 1009,
   "sortOrder": 19,
-  "name": "Reach Floor 190 of the Passion Tower first.",
+  "name": "Clear Floor 190 of the Passion Tower first.",
   "threshold": 190,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1443,7 +1443,7 @@
   "worldRankingAchievementMstId": 100920,
   "worldRankingMstId": 1009,
   "sortOrder": 20,
-  "name": "Reach Floor 200 of the Passion Tower first.",
+  "name": "Clear Floor 200 of the Passion Tower first.",
   "threshold": 200,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1451,7 +1451,7 @@
   "worldRankingAchievementMstId": 100921,
   "worldRankingMstId": 1009,
   "sortOrder": 21,
-  "name": "Reach Floor 210 of the Passion Tower first.",
+  "name": "Clear Floor 210 of the Passion Tower first.",
   "threshold": 210,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1459,7 +1459,7 @@
   "worldRankingAchievementMstId": 100922,
   "worldRankingMstId": 1009,
   "sortOrder": 22,
-  "name": "Reach Floor 220 of the Passion Tower first.",
+  "name": "Clear Floor 220 of the Passion Tower first.",
   "threshold": 220,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1467,7 +1467,7 @@
   "worldRankingAchievementMstId": 100923,
   "worldRankingMstId": 1009,
   "sortOrder": 23,
-  "name": "Reach Floor 230 of the Passion Tower first.",
+  "name": "Clear Floor 230 of the Passion Tower first.",
   "threshold": 230,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1475,7 +1475,7 @@
   "worldRankingAchievementMstId": 100924,
   "worldRankingMstId": 1009,
   "sortOrder": 24,
-  "name": "Reach Floor 240 of the Passion Tower first.",
+  "name": "Clear Floor 240 of the Passion Tower first.",
   "threshold": 240,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1483,7 +1483,7 @@
   "worldRankingAchievementMstId": 100925,
   "worldRankingMstId": 1009,
   "sortOrder": 25,
-  "name": "Reach Floor 250 of the Passion Tower first.",
+  "name": "Clear Floor 250 of the Passion Tower first.",
   "threshold": 250,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1491,7 +1491,7 @@
   "worldRankingAchievementMstId": 100926,
   "worldRankingMstId": 1009,
   "sortOrder": 26,
-  "name": "Reach Floor 260 of the Passion Tower first.",
+  "name": "Clear Floor 260 of the Passion Tower first.",
   "threshold": 260,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1499,7 +1499,7 @@
   "worldRankingAchievementMstId": 100927,
   "worldRankingMstId": 1009,
   "sortOrder": 27,
-  "name": "Reach Floor 270 of the Passion Tower first.",
+  "name": "Clear Floor 270 of the Passion Tower first.",
   "threshold": 270,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1507,7 +1507,7 @@
   "worldRankingAchievementMstId": 100928,
   "worldRankingMstId": 1009,
   "sortOrder": 28,
-  "name": "Reach Floor 280 of the Passion Tower first.",
+  "name": "Clear Floor 280 of the Passion Tower first.",
   "threshold": 280,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1515,7 +1515,7 @@
   "worldRankingAchievementMstId": 100929,
   "worldRankingMstId": 1009,
   "sortOrder": 29,
-  "name": "Reach Floor 290 of the Passion Tower first.",
+  "name": "Clear Floor 290 of the Passion Tower first.",
   "threshold": 290,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1523,7 +1523,7 @@
   "worldRankingAchievementMstId": 100930,
   "worldRankingMstId": 1009,
   "sortOrder": 30,
-  "name": "Reach Floor 300 of the Passion Tower first.",
+  "name": "Clear Floor 300 of the Passion Tower first.",
   "threshold": 300,
   "worldRankingRewardGroupId": 100001014
  },
@@ -1531,96 +1531,104 @@
   "worldRankingAchievementMstId": 101001,
   "worldRankingMstId": 1010,
   "sortOrder": 1,
-  "name": "Reach Area 2 first.",
-  "threshold": 2,
+  "name": "Clear all of Area 1 first.",
+  "threshold": 3,
   "worldRankingRewardGroupId": 100001014
  },
  {
   "worldRankingAchievementMstId": 101002,
   "worldRankingMstId": 1010,
   "sortOrder": 1,
-  "name": "Reach Area 3 first.",
-  "threshold": 3,
+  "name": "Clear all of Area 2 first.",
+  "threshold": 6,
   "worldRankingRewardGroupId": 100001014
  },
  {
   "worldRankingAchievementMstId": 101003,
   "worldRankingMstId": 1010,
   "sortOrder": 1,
-  "name": "Reach Area 4 first.",
-  "threshold": 4,
+  "name": "Clear all of Area 3 first.",
+  "threshold": 9,
   "worldRankingRewardGroupId": 100001014
  },
  {
   "worldRankingAchievementMstId": 101004,
   "worldRankingMstId": 1010,
   "sortOrder": 1,
-  "name": "Reach Area 5 first.",
-  "threshold": 5,
+  "name": "Clear all of Area 4 first.",
+  "threshold": 12,
   "worldRankingRewardGroupId": 100001014
  },
  {
   "worldRankingAchievementMstId": 101005,
   "worldRankingMstId": 1010,
   "sortOrder": 1,
-  "name": "Reach Area 6 first.",
-  "threshold": 6,
+  "name": "Clear all of Area 5 first.",
+  "threshold": 15,
   "worldRankingRewardGroupId": 100001014
  },
  {
   "worldRankingAchievementMstId": 101006,
   "worldRankingMstId": 1010,
   "sortOrder": 1,
-  "name": "Reach Area 7 first.",
-  "threshold": 7,
+  "name": "Clear all of Area 6 first.",
+  "threshold": 18,
   "worldRankingRewardGroupId": 100001014
  },
  {
   "worldRankingAchievementMstId": 101007,
   "worldRankingMstId": 1010,
   "sortOrder": 1,
-  "name": "Reach Area 8 first.",
-  "threshold": 8,
+  "name": "Clear all of Area 7 first.",
+  "threshold": 21,
   "worldRankingRewardGroupId": 100001014
  },
  {
   "worldRankingAchievementMstId": 101008,
   "worldRankingMstId": 1010,
   "sortOrder": 1,
-  "name": "Reach Area 9 first.",
-  "threshold": 9,
+  "name": "Clear all of Area 8 first.",
+  "threshold": 24,
   "worldRankingRewardGroupId": 100001014
  },
  {
   "worldRankingAchievementMstId": 101009,
   "worldRankingMstId": 1010,
   "sortOrder": 1,
-  "name": "Reach Area 10 first.",
-  "threshold": 10,
+  "name": "Clear all of Area 9 first.",
+  "threshold": 27,
   "worldRankingRewardGroupId": 100001014
  },
  {
   "worldRankingAchievementMstId": 101010,
   "worldRankingMstId": 1010,
   "sortOrder": 1,
-  "name": "Reach Area 11 first.",
-  "threshold": 11,
+  "name": "Clear all of Area 10 first.",
+  "threshold": 30,
   "worldRankingRewardGroupId": 100001014
  },
  {
   "worldRankingAchievementMstId": 101011,
   "worldRankingMstId": 1010,
   "sortOrder": 1,
-  "name": "Reach Area 12 first.",
-  "threshold": 12,
+  "name": "Clear all of Area 11 first.",
+  "threshold": 33,
   "worldRankingRewardGroupId": 100001014
  },
  {
   "worldRankingAchievementMstId": 101012,
   "worldRankingMstId": 1010,
   "sortOrder": 1,
-  "name": "Reach Area 13 first.",
-  "threshold": 13,
+  "name": "Clear all of Area 12 first.",
+  "threshold": 36,
+  "worldRankingRewardGroupId": 100001014
+ },
+ {
+  "worldRankingAchievementMstId": 101013,
+  "worldRankingMstId": 1010,
+  "sortOrder": 1,
+  "name": "Clear all of Area 13 first.",
+  "threshold": 39,
   "worldRankingRewardGroupId": 100001014
  },
  {
